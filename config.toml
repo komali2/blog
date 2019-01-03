@@ -58,8 +58,14 @@ sidebar = ["about","sidebar_menu","taxonomy_cloud"]
 footer = ["social_menu"]
 
 [[menu.main]]
+name = "Home"
+weight = 0
+identifier = "main_site"
+url = "/"
+
+[[menu.main]]
 name = "Calebjay.com"
-weight = -10
+weight = 1
 identifier = "main_site"
 url = "http://www.calebjay.com"
 
