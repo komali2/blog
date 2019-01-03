@@ -1,6 +1,16 @@
 body {
     font-family: helvetica neue,helvetica,sans-serif !important;
+    
 }
+
+body, 
+.sidebar.toggled,
+.sidebar-overlay,
+.sidebar,
+.sidebar.toggled .sidebar-overlay:after  {
+    background-color: #f4f4f4 !important;
+}
+
 
 main {
     font-family: helvetica neue,helvetica,sans-serif !important;
