@@ -30,8 +30,6 @@ title404 = "File Not Found."
 [params.assets]
 
 favicon = "favicon.ico"
-customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
@@ -59,11 +57,6 @@ homepage = ["recent_posts"]
 sidebar = ["about","sidebar_menu","taxonomy_cloud"]
 footer = ["social_menu"]
 
-[params.opengraph.facebook]
-admins = [] # array of Facebook IDs
-appID = ""
-pageID = ""
-
 [params.opengraph.twitter]
 page = "komali_2" # Twitter page username
 
@@ -78,25 +71,6 @@ linkedin = "calebjrogers"
 
 [params.comments]
 enable = false
-
-[params.comments.staticman]
-enable = false
-apiEndpoint = "https://api.staticman.net/v2/entry"
-maxDepth = 2
-
-[params.comments.staticman.github]
-username = "achary"
-repository = "engimo"
-branch = "master"
-
-# Utterances: https://utteranc.es
-[params.comments.utterances]
-enable = false
-issueTerm = "pathname" # pathname / url / title
-
-[params.comments.utterances.github]
-username = "achary"
-repository = "engimo"
 
 
 [taxonomies]
