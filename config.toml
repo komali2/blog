@@ -28,7 +28,7 @@ description = "A blog by Caleb Jay on programming, writing, traveling, and philo
 title404 = "File Not Found."
 
 [params.assets]
-
+customCSS = ["css/custom.css"]
 favicon = "favicon.ico"
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
