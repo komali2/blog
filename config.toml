@@ -49,7 +49,7 @@ hideEntryNavigation = ["page"] # boolean / array of sections
 showReadingTime = false
 taxonomyCloudShuffle = false
 accentColor = "#44ccff"
-hideMainMenu = true
+hideMainMenu = false
 
 [params.sidebar]
 enable = true
@@ -106,11 +106,6 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/achary/engimo"
 
 [blackfriday]
 hrefTargetBlank = true
