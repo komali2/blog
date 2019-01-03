@@ -25,3 +25,11 @@ h5,
 h6 {
     font-family: helvetica neue,helvetica,sans-serif !important;
 }
+
+a, 
+.menu a,
+.widget-social_menu a, 
+ul li a {
+    color: #0000EE !important;
+    text-decoration: underline !important;
+}
