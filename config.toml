@@ -57,6 +57,13 @@ homepage = ["recent_posts"]
 sidebar = ["about","sidebar_menu","taxonomy_cloud"]
 footer = ["social_menu"]
 
+[[menu.main]]
+name = "Calebjay.com"
+weight = -10
+identifier = "main_site"
+url = "http://www.calebjay.com"
+
+
 [params.opengraph.twitter]
 page = "komali_2" # Twitter page username
 
