@@ -20,6 +20,18 @@
     </li>
     {{ end }}
   </ul>
+
+  also this; 
+
+  also this:
+  {{ $taxo := "tags" }}
+  <ul class="{{ $taxo }}">
+    {{ with ($.Site.GetPage (printf "/%s" $taxo)) }}
+      {{ range .Pages }}
+        <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
 </nav>
 <h1>
   Recent Posts:
@@ -34,4 +46,6 @@
     {{ end }}
   </ul>
 </section>
+
+
 {{ end }}

@@ -1,0 +1,17 @@
+{{ define "content" }}
+<h1>
+    Recent Posts:
+</h1>
+<section>
+    <ul>
+        {{ range .Data.Pages }}
+            <li 
+                hugo-nav="{{ .RelPermalink}}">
+                <a href="{{ .Permalink}}">
+                    {{ .LinkTitle }}
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+</section>
+{{ end }}
