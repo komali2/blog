@@ -1,22 +1,29 @@
 {{ define "content" }}
-<section>
+<nav>
+  <h1>
+    Categories:
+  </h1>
   <ul class="posts_list">
     {{ range $.Site.Taxonomies.categories.ByCount }}
     <li>
-      <a href="/categories/{{ .Name }}">{{ .Name }}</a>, {{ .Count }}
+      <a href="/categories/{{ .Name }}">{{ .Name }}</a>: {{ .Count }} posts
     </li>
     {{ end }}
   </ul>
-</section>
-<section>
+  <h1>
+    Tags:
+  </h1>
   <ul class="posts_list">
     {{ range $.Site.Taxonomies.tags.ByCount }}
     <li>
-      <a href="/tags/{{ .Name }}">{{ .Name }}</a>, {{ .Count }}
+      <a href="/tags/{{ .Name }}">{{ .Name }}</a>: {{ .Count }} posts
     </li>
     {{ end }}
   </ul>
-</section>
+</nav>
+<h1>
+  Recent Posts:
+</h1>
 <section>
   <ul class="posts_list">
     {{ range .Pages }}
