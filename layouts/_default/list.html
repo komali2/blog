@@ -1,16 +1,28 @@
 {{ define "content" }}
 <section>
-  <ul class="posts_listing">
+  <ul class="posts_list">
+    {{ range $.Site.Taxonomies.categories.ByCount }}
+    <li>
+      <a href="/categories/{{ .Name }}">{{ .Name }}</a>, {{ .Count }}
+    </li>
+    {{ end }}
+  </ul>
+</section>
+<section>
+  <ul class="posts_list">
+    {{ range $.Site.Taxonomies.tags.ByCount }}
+    <li>
+      <a href="/tags/{{ .Name }}">{{ .Name }}</a>, {{ .Count }}
+    </li>
+    {{ end }}
+  </ul>
+</section>
+<section>
+  <ul class="posts_list">
     {{ range .Pages }}
     <li>
-      <div class="row" id="posts">
-        <div class="d-none d-sm-block col-sm-3 date-time-title">
-          <time>{{ .Date.Format "02 Jan 2006" }}</time>
-        </div>
-        <div class="col-sm date-time-title post">
+          <time>{{ .Date.Format "Jan 2006" }}</time>
           <a href="{{ .URL }}">{{ .Title }}</a>
-        </div>
-      </div>
     </li>
     {{ end }}
   </ul>
