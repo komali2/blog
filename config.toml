@@ -1,90 +1,24 @@
 baseURL = "http://blog.calebjay.com/"
 languageCode = "en-us"
 title = "Caleb Jay's Blog"
-theme = "engimo"
 
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
+[params]
+author = "Caleb Jay"
 
-disqusShortname = ""
-googleAnalytics = ""
 
-Paginate = 5
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
 
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
-pygmentsCodefences = true
-
-enableEmoji = true
-
-# Missing translations will default to this content language
-defaultContentLanguage = "en"
+# pygmentsCodefences = true
 
 [params.info]
 description = "A blog by Caleb Jay on programming, writing, traveling, and philosophy."
 title404 = "File Not Found."
-
-[params.assets]
-customCSS = ["css/custom.css"]
-favicon = "favicon.ico"
-gopher = "" # used in 404 template ( Generator: https://gopherize.me )
-
-[params.copyright]
-prefix = ""
-holder = "Caleb Rogers"
-startYear = "2019"
-suffix = ""
-
-[params.settings]
-# date & time format: https://golang.org/pkg/time/
-dateFormat = "2006, Jan 02"
-listDateFormat = "2006, Jan 02"
-archiveDateFormat = "Jan 02"
-hideEntryNavigation = ["page"] # boolean / array of sections
-showReadingTime = false
-taxonomyCloudShuffle = false
-accentColor = "#44ccff"
-hideMainMenu = false
-
-[params.sidebar]
-enable = true
-
-[params.widgets]
-homepage = ["recent_posts"]
-sidebar = ["about","sidebar_menu","taxonomy_cloud"]
-footer = ["social_menu"]
-
-[[menu.main]]
-name = "Home"
-weight = 0
-identifier = "main_site"
-url = "/"
-
-[[menu.main]]
-name = "Calebjay.com"
-weight = 1
-identifier = "main_site"
-url = "http://www.calebjay.com"
-
-
-[params.opengraph.twitter]
-page = "komali_2" # Twitter page username
-
-[params.seo]
-# Title Separator: - – — · • * ⋆ | ~ « » < >
-titleSeparator = "•"
-
-[params.social]
-email = "rogersjcaleb@gmail.com"
-github = "komali2"
-linkedin = "calebjrogers"
-
-[params.comments]
-enable = false
-
 
 [taxonomies]
 category = "categories"
@@ -92,14 +26,3 @@ tag = "tags"
 
 [permalinks]
 page = "/:slug/"
-
-
-[blackfriday]
-hrefTargetBlank = true
-
-[languages]
-# edit this block for your own language
-[languages.en]
-lang = "en"
-languageName = "English"
-weight = 1

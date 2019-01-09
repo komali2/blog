@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Caleb Jay Rogers">
+  <meta name="description" content="The personal blog of Caleb Jay Rogers, Frontend Engineer">
+  <meta name="keywords" content="Caleb Rogers, Caleb Jay, komali_2, frontend, programming, writing">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="/css/stylesheet.css">
+  <title>{{.Title}}</title>
+</head>
+
+<body>
+  <main>
+    <header>
+      <h1>{{ .Title }}</h1>
+      <h3>
+        <small>
+          Updated: <time datetime="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
+        </small>
+      </h3>
+      <nav>
+        <ul>
+          <li>
+            <a href="/">Home</a>
+          </li>
+          <li>
+            <a href="http://www.calebjay.com">Calebjay.com</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <article>
+      <h1>{{ .Title }}</h1>
+      <section class="main-content">
+        {{ .Content }}
+      </section>
+    </article>
+  </main>
+</body>

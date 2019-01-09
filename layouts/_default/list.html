@@ -1,0 +1,44 @@
+{{ define "content" }}
+<nav>
+  <ul>
+    <li>
+      <a href="http://www.calebjay.com">Calebjay.com</a>
+    </li>
+  </ul>
+  <h1>
+    Categories:
+  </h1>
+  <ul>
+    {{ range $.Site.Taxonomies.categories.ByCount }}
+    <li>
+      <a href="/categories/{{ .Name }}">{{ .Name }}</a>: {{ .Count }} posts
+    </li>
+    {{ end }}
+  </ul>
+  <h1>
+    Tags:
+  </h1>
+  <ul>
+    {{ range $.Site.Taxonomies.tags.ByCount }}
+    <li>
+      <a href="/tags/{{ .Name }}">{{ .Name }}</a>: {{ .Count }} posts
+    </li>
+    {{ end }}
+  </ul>
+</nav>
+<h1>
+  Recent Posts:
+</h1>
+<section>
+  <ul>
+    {{ range .Pages }}
+    <li>
+          <time datetime="{{ .Date }}">{{ .Date.Format "Jan 2006" }}</time>
+          <a href="{{ .URL }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+
+
+{{ end }}

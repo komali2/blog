@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Caleb Jay Rogers">
+    <meta name="description" content="Caleb's articles regarding {{ .Title }}">
+    <meta name="keywords" content="Caleb Rogers, Caleb Jay, komali_2, frontend, programming, writing, {{ .Title }}">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="/css/stylesheet.css">
+    <title>Category: {{.Title}}</title>
+</head>
+<body>
+    <main>
+        <header>
+            <h1>Category: {{ .Title }}</h1>
+            <h3>
+                <small>
+                    Updated: <time datetime="2019-01-01">Jan, 2019</time>
+                </small>
+            </h3>
+        </header>
+<nav>
+
+    <h1>
+        Posts in Category:
+    </h1>
+    <ul>
+    {{ range .Data.Pages }}
+        <li hugo-nav="{{ .RelPermalink}}">
+            <time datetime="{{ .Date }}">{{ .Date.Format "Jan 2006" }}</time>
+            <a href="{{ .Permalink}}">
+                {{ .LinkTitle }}
+            </a>
+        </li>
+    {{ end }}
+    </ul>
+</nav>
+</main>
+</body>
