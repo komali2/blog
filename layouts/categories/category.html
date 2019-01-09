@@ -28,6 +28,7 @@
     <ul>
     {{ range .Data.Pages }}
         <li hugo-nav="{{ .RelPermalink}}">
+            <time datetime="{{ .Date }}">{{ .Date.Format "Jan 2006" }}</time>
             <a href="{{ .Permalink}}">
                 {{ .LinkTitle }}
             </a>

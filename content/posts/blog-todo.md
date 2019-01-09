@@ -15,3 +15,5 @@ It did take me a good couple days to sort though and I'm still not entirely sure
 * Figure out how to get _partials to work for categories, tags, and posts pages
 * Find a way to combine category.html and tag.html
 * Auto-deploy on git push
+* Limit tags list to top tags
+* Create page to view all tags (after doing above)
