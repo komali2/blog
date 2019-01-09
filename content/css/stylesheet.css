@@ -19,17 +19,17 @@ h3 small {
   font-weight: normal;
 }
 
-section {
+main>section {
   border: 1px solid black;
   padding: 10px;
   margin-bottom: 10px;
 }
 
-section small {
+main>section small {
   font-weight: normal
 }
 
-section ul{
+main>section ul{
   display: grid;
   grid-template-columns: 30px 30px 30px;
   align-items: start;
@@ -41,7 +41,7 @@ section ul{
 }
 
 @media only screen {
-  section ul {
+  main>section ul {
     display: grid;
     grid-template-columns: 90%;
     align-items: start;
@@ -57,7 +57,7 @@ section ul{
 @media only screen and (max-width: 40em) { } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
 @media only screen and (min-width: 40.063em) {
-    section ul {
+    main>section ul {
     display: grid;
     grid-template-columns: 45% 45%;
     align-items: start;
@@ -72,7 +72,7 @@ section ul{
 @media only screen and (min-width: 40.063em) and (max-width: 64em) { } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
 
 @media only screen and (min-width: 64.063em) {
-  section ul{
+  main>section ul{
   display: grid;
   grid-template-columns: 30% 30% 30%;
   align-items: start;

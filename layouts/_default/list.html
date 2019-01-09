@@ -3,7 +3,7 @@
   <h1>
     Categories:
   </h1>
-  <ul class="posts_list">
+  <ul>
     {{ range $.Site.Taxonomies.categories.ByCount }}
     <li>
       <a href="/categories/{{ .Name }}">{{ .Name }}</a>: {{ .Count }} posts
@@ -13,23 +13,11 @@
   <h1>
     Tags:
   </h1>
-  <ul class="posts_list">
+  <ul>
     {{ range $.Site.Taxonomies.tags.ByCount }}
     <li>
       <a href="/tags/{{ .Name }}">{{ .Name }}</a>: {{ .Count }} posts
     </li>
-    {{ end }}
-  </ul>
-
-  also this; 
-
-  also this:
-  {{ $taxo := "tags" }}
-  <ul class="{{ $taxo }}">
-    {{ with ($.Site.GetPage (printf "/%s" $taxo)) }}
-      {{ range .Pages }}
-        <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
-      {{ end }}
     {{ end }}
   </ul>
 </nav>
@@ -37,10 +25,10 @@
   Recent Posts:
 </h1>
 <section>
-  <ul class="posts_list">
+  <ul>
     {{ range .Pages }}
     <li>
-          <time>{{ .Date.Format "Jan 2006" }}</time>
+          <time datetime="{{ .Date }}">{{ .Date.Format "Jan 2006" }}</time>
           <a href="{{ .URL }}">{{ .Title }}</a>
     </li>
     {{ end }}
