@@ -26,16 +26,14 @@
         Recent Posts:
     </h1>
     <ul>
-        {{ range .Data.Pages }}
-        <li 
-        hugo-nav="{{ .RelPermalink}}">
-        <a href="{{ .Permalink}}">
-            {{ .LinkTitle }}
-        </a>
-    </li>
+    {{ range .Data.Pages }}
+        <li hugo-nav="{{ .RelPermalink}}">
+            <a href="{{ .Permalink}}">
+                {{ .LinkTitle }}
+            </a>
+        </li>
     {{ end }}
-</ul>
+    </ul>
 </nav>
 </main>
-
 </body>
