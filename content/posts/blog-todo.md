@@ -17,3 +17,4 @@ It did take me a good couple days to sort though and I'm still not entirely sure
 * Auto-deploy on git push
 * Limit tags list to top tags
 * Create page to view all tags (after doing above)
+* Find good way to display tags and category on a blog post
