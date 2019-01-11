@@ -3,7 +3,7 @@ title: "Blog Todo"
 date: 2019-01-08T18:16:47-08:00
 draft: false
 categories: ['Programming']
-tags: ['hugo', 'blog', 'personal projects']
+tags: ['hugo', 'blog', 'personal-project']
 ---
 
 After messing around with all sorts of blog solutions, from my early college days playing around with Blogger (see [Ablate](http://www.ablate.blogspot.com), [Taipei Tips](http://taipeitips.blogspot.com/), and [Taiwan Hikes](http://taiwanhikes.blogspot.com/)), Wordpress (see [Komali Stories](https://komalistories.wordpress.com/), free cringe!) and a botched attempt to roll my own in Vue with some sort of node convert-.md-to-html libraries, Hugo seems a happy bet. 

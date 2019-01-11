@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackathon on Caleb Jay&#39;s Blog</title>
+    <link>http://blog.calebjay.com/tags/hackathon/</link>
+    <description>Recent content in Hackathon on Caleb Jay&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2017 21:16:47 -0800</lastBuildDate>
+    
+	<atom:link href="http://blog.calebjay.com/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scripted Hackathon: Kids&#39; First Hackathon</title>
+      <link>http://blog.calebjay.com/posts/scripted-hackathon-kids-first-hackathon/</link>
+      <pubDate>Sat, 27 May 2017 21:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/scripted-hackathon-kids-first-hackathon/</guid>
+      <description>Several weeks ago I was invited to be a technical leader at Scripted Hackathon. At the time, I hadn&amp;rsquo;t fully realized what I was getting into, or why I was even being invited - I had almost forgotten that I had met Emily and Rebecca from Scripted SF months ago at a pair programming meetup. I had jived with their organization&amp;rsquo;s objective - getting kids involved early in their lives in programming, through classes, tutoring, and events such as this hackathon.</description>
+    </item>
+    
+    <item>
+      <title>We Won a Hackathon!</title>
+      <link>http://blog.calebjay.com/posts/we-won-a-hackathon/</link>
+      <pubDate>Tue, 21 Feb 2017 02:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/we-won-a-hackathon/</guid>
+      <description>Well, to be fair, we won the Sensel challenge at the Developer Week Hackathon. Some other jabronis won the whole hackathon. But, still, something to put on the resume :)
+We entered the Hackathon with a team of 4: Me, Riley, Rico, and Carolin. During the hackathon we picked up Swen, a fresh transplant from Europe here for a few weeks to experience the coding environment in San Francisco before starting a totally different career in London.</description>
+    </item>
+    
+    <item>
+      <title>Developer Week Hackathon</title>
+      <link>http://blog.calebjay.com/posts/developer-week-hackathon/</link>
+      <pubDate>Thu, 09 Feb 2017 18:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/developer-week-hackathon/</guid>
+      <description>I really should have posted this sooner, but I&amp;rsquo;m headed to the Developer Week Hackathon this weekend. After thoroughly enjoying last year&amp;rsquo;s API World Hackathon, I&amp;rsquo;m really looking forward to this, especially as I&amp;rsquo;m more prepared and know what to expect.
+Typically these Hackathons have a list of partner-sponsored &amp;ldquo;challenges,&amp;rdquo; which involve using some company&amp;rsquo;s API or tool or whatever in your program. Prizes for winning a &amp;ldquo;challenge&amp;rdquo; are usually decided by the given company&amp;rsquo;s judges, with some sort of grand prize decided by the hackathon itself.</description>
+    </item>
+    
+    <item>
+      <title>API World Hackathon</title>
+      <link>http://blog.calebjay.com/posts/api-world-hackathon/</link>
+      <pubDate>Fri, 16 Sep 2016 20:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/api-world-hackathon/</guid>
+      <description>This weekend I attended the API World Hackathon with Alex, Ben, and Matt. Other than Ben, this was all of our&amp;rsquo;s first Hackathon. We&amp;rsquo;re all Hack Reactor / Makersquare graduates as well, so it was a sort of return to a very familiar environment - fluorescent lights, harried group, and 11pm pull requests.
+Got to work with a ton of cool APIs. There was some stuff out of my range of understanding - for example, Netapp was featuring some sort of distributed cloud VM service that I simply could not grock.</description>
+    </item>
+    
+  </channel>
+</rss>

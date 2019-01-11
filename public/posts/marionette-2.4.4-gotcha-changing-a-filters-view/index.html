@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Caleb Jay Rogers">
+  <meta name="description" content="The personal blog of Caleb Jay Rogers, Frontend Engineer">
+  <meta name="keywords" content="Caleb Rogers, Caleb Jay, komali_2, frontend, programming, writing">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="/css/stylesheet.css">
+  <title>Marionette 2.4.4 Gotcha: Changing a Filter&#39;s View</title>
+</head>
+
+<body>
+  <main>
+    <header>
+      <h1>Marionette 2.4.4 Gotcha: Changing a Filter&#39;s View</h1>
+      <h3>
+        <small>
+          Updated: <time datetime="2017-04-11 00:16:47 -0800 -0800">11 Apr 2017</time>
+        </small>
+      </h3>
+      <nav>
+        <ul>
+          <li>
+            <a href="/">Home</a>
+          </li>
+          <li>
+            <a href="http://www.calebjay.com">Calebjay.com</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <article>
+      <h1>Marionette 2.4.4 Gotcha: Changing a Filter&#39;s View</h1>
+      <section class="main-content">
+        <p>I was banging my head against the desk trying to figure out why the following code, <em>straight from the Marionette.js docs</em>, wasn&rsquo;t working:</p>
+
+<p>&nbsp;
+<pre>var cv = new Marionette.CollectionView({
+ childView: SomeChildView,
+ emptyView: SomeEmptyView,
+ collection: new Backbone.Collection([
+   { value: 1 },
+   { value: 2 },
+   { value: 3 },
+   { value: 4 }
+ ]),</p>
+
+<p>// Only show views with even values
+ filter: function (child, index, collection) {
+     return child.get(&lsquo;value&rsquo;) % 2 === 0;
+   }
+ });</p>
+
+<p>// renders the views with values &lsquo;2&rsquo; and &lsquo;4&rsquo;
+ cv.render();</p>
+
+<p>// change the filter
+ cv.filter = function (child, index, collection) {
+   return child.get(&lsquo;value&rsquo;) % 2 !== 0;
+ };</p>
+
+<p>// renders the views with values &lsquo;1&rsquo; and &lsquo;3&rsquo;
+ cv.render();</pre>
+In short, you instantiate a view, and in that instantiation, define a filter function. Then later on, you just change the view.filter, rerender, and boom! New filtered view. Right? No.</p>
+
+<p>No matter what, my view simply didn&rsquo;t reflect my new filter. At one point I set it to a function that simply returned false, and still stuff showed up! So then I entered a frustrated console.log to print &ldquo;WTF!!&rdquo; to the console whenever my original filter function was invoked. Weirdly, I noticed that it was always invoked, on every render, even if I &ldquo;changed&rdquo; my filter function.</p>
+
+<p>So, I stepped into the debugger, and saw that where I was changing the filter, the view.filter didn&rsquo;t even exist! It was undefined! What black magic madness is that?!</p>
+
+<p>So, onwards to the Marionette source code. I stepped through, clicking idly, and noticed that view.render invokes Marionette.getOption. Looking at that:
+<pre></p>
+
+<p>// Marionette.getOption
+// &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;</p>
+
+<p>// Retrieve an object, function or other value from a target
+// object or its <code>options</code>, with <code>options</code> taking precedence.
+Marionette.getOption = function(target, optionName) {
+ if (!target || !optionName) { return; }
+ if (target.options &amp;&amp; (target.options[optionName] !== undefined)) {
+   return target.options[optionName];
+ } else {
+   return target[optionName];
+ }
+};</pre>
+So basically, the render function first checks for a filter in the view.options, which is where filters that are added during instantiation get stuck. If there&rsquo;s no filter there, <em>only then </em>does it invoke whatever filter is attached directly on the view.</p>
+
+<p>So, the example in the docs should actually be:
+<pre>// change the filter
+ cv.options.filter = function (child, index, collection) {
+   return child.get(&lsquo;value&rsquo;) % 2 !== 0;
+ };</pre>
+Luckily for those that aren&rsquo;t stuck in the stone age, newer Marionette versions have  a setFilter() function available on views, so the above is irrelevant. We&rsquo;ll upgrade some day&hellip;. some day&hellip;.</p>
+
+      </section>
+    </article>
+  </main>
+</body>

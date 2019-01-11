@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Caleb Jay&#39;s Blog</title>
+    <link>http://blog.calebjay.com/categories/programming/</link>
+    <description>Recent content in Programming on Caleb Jay&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jan 2019 18:16:47 -0800</lastBuildDate>
+    
+	<atom:link href="http://blog.calebjay.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Todo</title>
+      <link>http://blog.calebjay.com/posts/blog-todo/</link>
+      <pubDate>Tue, 08 Jan 2019 18:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/blog-todo/</guid>
+      <description>After messing around with all sorts of blog solutions, from my early college days playing around with Blogger (see Ablate, Taipei Tips, and Taiwan Hikes), Wordpress (see Komali Stories, free cringe!) and a botched attempt to roll my own in Vue with some sort of node convert-.md-to-html libraries, Hugo seems a happy bet.
+It did take me a good couple days to sort though and I&amp;rsquo;m still not entirely sure what I&amp;rsquo;m doing when I mess around with it (I need Stack Overflow to help me parse Hugo documentation), so I&amp;rsquo;m running a little to-do list at this page to track what&amp;rsquo;s next for this currently MVP blog.</description>
+    </item>
+    
+    <item>
+      <title>Scripted Hackathon: Kids&#39; First Hackathon</title>
+      <link>http://blog.calebjay.com/posts/scripted-hackathon-kids-first-hackathon/</link>
+      <pubDate>Sat, 27 May 2017 21:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/scripted-hackathon-kids-first-hackathon/</guid>
+      <description>Several weeks ago I was invited to be a technical leader at Scripted Hackathon. At the time, I hadn&amp;rsquo;t fully realized what I was getting into, or why I was even being invited - I had almost forgotten that I had met Emily and Rebecca from Scripted SF months ago at a pair programming meetup. I had jived with their organization&amp;rsquo;s objective - getting kids involved early in their lives in programming, through classes, tutoring, and events such as this hackathon.</description>
+    </item>
+    
+    <item>
+      <title>Marionette 2.4.4 Gotcha: Changing a Filter&#39;s View</title>
+      <link>http://blog.calebjay.com/posts/marionette-2.4.4-gotcha-changing-a-filters-view/</link>
+      <pubDate>Tue, 11 Apr 2017 00:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/marionette-2.4.4-gotcha-changing-a-filters-view/</guid>
+      <description>I was banging my head against the desk trying to figure out why the following code, straight from the Marionette.js docs, wasn&amp;rsquo;t working:
+&amp;nbsp; var cv = new Marionette.CollectionView({ childView: SomeChildView, emptyView: SomeEmptyView, collection: new Backbone.Collection([ { value: 1 }, { value: 2 }, { value: 3 }, { value: 4 } ]),
+// Only show views with even values filter: function (child, index, collection) { return child.get(&amp;lsquo;value&amp;rsquo;) % 2 === 0; } });</description>
+    </item>
+    
+    <item>
+      <title>We Won a Hackathon!</title>
+      <link>http://blog.calebjay.com/posts/we-won-a-hackathon/</link>
+      <pubDate>Tue, 21 Feb 2017 02:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/we-won-a-hackathon/</guid>
+      <description>Well, to be fair, we won the Sensel challenge at the Developer Week Hackathon. Some other jabronis won the whole hackathon. But, still, something to put on the resume :)
+We entered the Hackathon with a team of 4: Me, Riley, Rico, and Carolin. During the hackathon we picked up Swen, a fresh transplant from Europe here for a few weeks to experience the coding environment in San Francisco before starting a totally different career in London.</description>
+    </item>
+    
+    <item>
+      <title>Developer Week Hackathon</title>
+      <link>http://blog.calebjay.com/posts/developer-week-hackathon/</link>
+      <pubDate>Thu, 09 Feb 2017 18:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/developer-week-hackathon/</guid>
+      <description>I really should have posted this sooner, but I&amp;rsquo;m headed to the Developer Week Hackathon this weekend. After thoroughly enjoying last year&amp;rsquo;s API World Hackathon, I&amp;rsquo;m really looking forward to this, especially as I&amp;rsquo;m more prepared and know what to expect.
+Typically these Hackathons have a list of partner-sponsored &amp;ldquo;challenges,&amp;rdquo; which involve using some company&amp;rsquo;s API or tool or whatever in your program. Prizes for winning a &amp;ldquo;challenge&amp;rdquo; are usually decided by the given company&amp;rsquo;s judges, with some sort of grand prize decided by the hackathon itself.</description>
+    </item>
+    
+    <item>
+      <title>New Programmers Should Read Hacker News</title>
+      <link>http://blog.calebjay.com/posts/new-programmers-should-read-hacker-news/</link>
+      <pubDate>Wed, 23 Nov 2016 01:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/new-programmers-should-read-hacker-news/</guid>
+      <description>I went through a coding bootcamp, and coming out, one of my greatest weaknesses was a lack of breadth of general technical knowledge. I was an active redditor and nerd in general so I wasn&amp;rsquo;t totally lost, but I noticed during meetups there were a lot of conversations I simply couldn&amp;rsquo;t participate in in a meaningful way because of my noobiness. When I went to a Hackathon, I watched people talk about technologies and solutions I wasn&amp;rsquo;t even aware existed - the classic &amp;ldquo;what I don&amp;rsquo;t know I don&amp;rsquo;t know&amp;rdquo; problem.</description>
+    </item>
+    
+    <item>
+      <title>How to Use LinkedIn as a Coding Bootcamp Grad</title>
+      <link>http://blog.calebjay.com/posts/how-to-use-linkedin-as-a-coding-bootcamp-grad/</link>
+      <pubDate>Wed, 16 Nov 2016 00:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/how-to-use-linkedin-as-a-coding-bootcamp-grad/</guid>
+      <description>LinkedIn is the ubiquitous job-search tool recommended by everyone, ever, for a reason - it&amp;rsquo;s useful. I&amp;rsquo;ll tell you how I used it, and I got a job out of Hack Reactor pretty quick, so trust me on this stuff. Out of everything that goes into a job search as a coding bootcamp grad, using LinkedIn is what I&amp;rsquo;m most confident in.
+Imagine an A-10 Warthog:
+https://www.youtube.com/embed/lCCty8DpUwk
+It&amp;rsquo;s a gun that the U.</description>
+    </item>
+    
+    <item>
+      <title>How this Coding Bootcamp Grad Found a Job</title>
+      <link>http://blog.calebjay.com/posts/how-this-coding-bootcamp-grad-found-a-job/</link>
+      <pubDate>Tue, 18 Oct 2016 02:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/how-this-coding-bootcamp-grad-found-a-job/</guid>
+      <description>I went to a coding bootcamp, and then I got hired. I want others to be able to do the same thing, so I will illustrate in as much detail as I am comfortable the things I did that I think led to me getting a job in ~1 month after graduating from a coding bootcamp. This will be one part of a many part series going over how I transformed from a Liberal Arts degree holder making 40k/year as a recruiter into a Software Engineer making ~120k/year.</description>
+    </item>
+    
+    <item>
+      <title>Good Breakdown of Backbone</title>
+      <link>http://blog.calebjay.com/posts/good-breakdown-of-backbone/</link>
+      <pubDate>Thu, 13 Oct 2016 18:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/good-breakdown-of-backbone/</guid>
+      <description>At Electric Imp we use a Backbone / Marionette stack, so when I&amp;rsquo;m not churning through bugs I do what I can to learn the frameworks. I found this great tutorial that demonstrates not only how to use Backbone, but also the best way to use it - The Backbone Primer. Slowly but surely I&amp;rsquo;ll try to implement a simple app mirroring our stack at this simple Backbone project repo.</description>
+    </item>
+    
+    <item>
+      <title>A Texas Bootcamp Grad&#39;s First Days at a Silicon Valley Startup</title>
+      <link>http://blog.calebjay.com/posts/a-texas-bootcamp-grads-first-days-at-a-silicon-valley-startup/</link>
+      <pubDate>Sun, 02 Oct 2016 16:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/a-texas-bootcamp-grads-first-days-at-a-silicon-valley-startup/</guid>
+      <description>A month ago, I finished out at Hack Reactor / Makersquare. Two days ago, I started working at Electric Imp.
+This city is different, these companies are different. In Houston, I was a recruiter in Oil and Gas - visualize an open work space with meetings about KPIs, people constantly on the phone. Headsets. A prominently displayed whiteboard with sales targets. British people in suits. Coming into work at 7:15, leaving at 5.</description>
+    </item>
+    
+    <item>
+      <title>New Place, New Job</title>
+      <link>http://blog.calebjay.com/posts/new-place-new-job/</link>
+      <pubDate>Wed, 28 Sep 2016 01:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/new-place-new-job/</guid>
+      <description>I start working at Electric Imp tomorrow. Their business model is essentially selling IoT hardware (think Nest, lights you can turn on and off with your smartphone, etc) and enabling connectivity between that hardware and their cloud service, which allows programming of that hardware. It was a hard decision. I was fortunate in that I had several other promising offers - the most first world problem I ever had, really. In the end my decision boiled down to do I want to be a small gear in a big machine, or a big gear in a small machine?</description>
+    </item>
+    
+    <item>
+      <title>API World Hackathon</title>
+      <link>http://blog.calebjay.com/posts/api-world-hackathon/</link>
+      <pubDate>Fri, 16 Sep 2016 20:16:47 -0800</pubDate>
+      
+      <guid>http://blog.calebjay.com/posts/api-world-hackathon/</guid>
+      <description>This weekend I attended the API World Hackathon with Alex, Ben, and Matt. Other than Ben, this was all of our&amp;rsquo;s first Hackathon. We&amp;rsquo;re all Hack Reactor / Makersquare graduates as well, so it was a sort of return to a very familiar environment - fluorescent lights, harried group, and 11pm pull requests.
+Got to work with a ton of cool APIs. There was some stuff out of my range of understanding - for example, Netapp was featuring some sort of distributed cloud VM service that I simply could not grock.</description>
+    </item>
+    
+  </channel>
+</rss>
