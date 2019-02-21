@@ -24,7 +24,7 @@ Aaaand that's it. Pretty simple, straightforward. We had been talking around the
 we should take the time to explore California before we potentially leave it (forever?), and, why over complicate things? Anyway,
 just two things turned out to be plenty, as Cannery row and walking around town more than filled space.
 
-## Monterey Aquarium
+### Monterey Aquarium
 I've got opinions on aquariums. Used to volunteer at one when I was a kid in South Carolina. The aquarium we had there was
 one of the best in the world, at the time anyway. Supposedly the largest tank in America. Since then, I've failed to be
 impressed by anywhere else. That's changed - Monterey Aquarium is a masterpiece.
@@ -60,3 +60,21 @@ unremarkable but for the fact that they had stacked bookshelves of Steinbeck boo
 The evening was our typical - hide in the hotel with piles of snacks, abuse our TV until we can get the HDMI plugged in, and
 play videogames. Incidentally, our hotel was the cheapest in the area available on short notice, and was perfectly adequate.
 It was the [Stargazer Inn and Suites](https://goo.gl/maps/jNdcqY4KzNr).
+
+### Kayak Tour
+Day 2's primary activity was a kayak tour. We went with [Monterey Bay Kayak Tours](https://www.montereybaykayaks.com/) and
+got their 2.5 hour guided tour Monterey Tour at 60$ a person. It turned out to be the perfect option, as right at the end of
+2.5 hours we were frozen and exhausted, but well entertained. It involved a small group of three, with two tour guides, paddling
+around the docks. There was a surprising amount of sea life to see, including Sea Lions (we saw one with a gnarly shark bite),
+Seals, Sea Otters (we saw a mother floating around with her pup on her tummy!), and various underwater critters like sea stars.
+Unfortunately, the waves were too powerful to get out to Cannery row, but the guides kept us well entertained with their knowledge
+of the various critters.
+
+We got dunked at the end of the kayaking ride, so after regrouping at the hotel, it was dinner at [Old Fisherman's Grotto](https://goo.gl/maps/fJBMxkUTXMS2).
+The place has a strict "no kids" policy, which was refreshing after the aquarium. Food was good, views were fantastic - large
+windows overlooking the bay. Dessert was surprisingly ghastly for how good the dinner was.
+
+One more night in the hotel and a drive home Monday morning. The perfect 3 day weekend - though it probably could have been done in 2,
+an objective was to relax and recuperate anyway. There's a quite more we could have done there - excellent restaurants and bakeries
+in hour-drive-away Big Sur were recommended to us, and we missed all of the hikes the area is relatively famous for. I feel Tammy and
+I will probably be heading down south again soon to further our goal of enjoying as much as the region as possible before moving on.
