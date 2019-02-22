@@ -32,6 +32,14 @@
             <a href="{{ .Permalink}}">
                 {{ .LinkTitle }}
             </a>
+            {{ $taxo := "tags" }}
+            <!-- Use the plural form here -->
+              {{ range .Param $taxo }}
+              {{ $name := . }}
+              {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize)) }}
+             ({{ $name }})
+              {{ end }}
+              {{ end }}
         </li>
     {{ end }}
     </ul>
