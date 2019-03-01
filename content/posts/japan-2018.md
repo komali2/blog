@@ -18,7 +18,7 @@ Itinerary:
   * [Japan Rail Pass](#japan-rail-pass)
 * [Osaka](#osaka)
   * [Check into the #TODO hotel](#osaka-hotel-one)
-  * [Explore Dotonbouri](#dotonbouri-one)
+  * Explore Dotonbouri [Start of Trip](#dotonbouri-one) [End of Trip](#dotonbouri-two)
 * [Nara](#nara)
 * [Kyoto](#kyoto)
 * [Tokyo](#tokyo)
