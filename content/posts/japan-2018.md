@@ -29,6 +29,29 @@ Itinerary:
 ### Aquiring an International Driver's License <a id="international-dl">
 
 ### The Japan Rail Pass <a id="japan-rail-pass">
+Something I had recalled from previous Japan trips was the convenience of the
+[Japan Rail Pass](https://en.wikipedia.org/wiki/Japan_Rail_Pass). In short, it
+allows unlimited riding of JR Group transportation services, *including the
+Shinkansen!* The fact alone that it gets you on the Shinkansen, tickets for
+which run about $140USD ($280USD roundtrip), make it worth it, as it costs about
+$300USD for 7 days. Tammy and I had to fenangle the dates a bit as we were in
+Japan for about 9 days, but because you can "activate" your Pass at your leisure,
+it was no issue to plan our trip around this (they also have 14 and 21 day pass
+options).
+
+Getting the Pass can be a headache to figure out, because in typical Japan
+beaurucracy fashion, it can't just Be Easy. You've got to buy an Exchange Order
+from any number of the approved travel agencies, *before* your arrive in Japan.
+There's some sort of trial period that allows you to buy in Japan, but at time
+of writing that's in "extension" to March 31, 2019, so don't gamble on it.
+
+The Japan Rail Pass let us not only ride the Shink
+
+To make a long story short, we simply bought ours from [JRRailPass](https://www.jrailpass.com/),
+traded the Exchange Order for our tickets (do not lose these!!) in Kyoto, and all
+was kosher. If you're reading this many years after the original posting date of
+early 2019, you may want to do a bit more research, the system may have been
+overhauled.
 
 ## Osaka <a id="osaka"></a>
 Osaka is a gastronomical paradise, something I don't think I'd appreciated until
