@@ -83,5 +83,15 @@ TODO: Travel Details to the city
 TODO: Hotel info
 ### Exploring Dotonbouri <a id="dotonbouri-one">
 ## Nara <a id="nara"></a>
+En route to Kyoto from Osaka, stopping at [Nara](https://en.wikipedia.org/wiki/Nara)
+was a natural choice, especially as we hadn't activated our JR Passes yet and were
+still using local trains. It's famous for its (weirdly aggressive) deer, but far
+more impressive are its temples and old architecture. One of the coolest things
+we stumbled across in our half day there was the [Okumura Commemorative Museum](https://goo.gl/maps/gdiJmLU3mJQ2),
+a sort of earthquake technology showpiece with a gorgeous mix of modern and
+ancient Japanese architecture. The whole building is supported on an engineering
+firm's apparently patented earthquake-resistant support pillars, which you can see
+for yourself if you head beneath the building.
+
 ## Kyoto <a id="kyoto"></a>
 ## Tokyo <a id="tokyo"></a>
