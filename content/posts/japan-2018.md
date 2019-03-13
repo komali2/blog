@@ -15,6 +15,7 @@ Itinerary:
 
 * [Pre-Trip Preparation](#preparation)
   * [International Driver's License](#international-dl)
+  * [Booking a Motorcycle](#motorcycle-booking)
   * [Japan Rail Pass](#japan-rail-pass)
 * [Osaka](#osaka)
   * [Check into the #TODO hotel](#osaka-hotel-one)
@@ -35,6 +36,12 @@ that it wasn't good enough to have it stamped in just one, the shop wanted it st
 of them. So, when you go to AAA, have them stamp each and every "A" in that little book.
 
 ### Booking a motorcycle <a id="motorcycle-booking">
+The agency we went with was [Rental819](https://www.rental819.com/english/).
+We chose their Kanto: Odaiba location because it was one of their largest English
+speaking shops in the Tokyo area. It worked out well because we could get off the
+Shinkansen one stop earlier than the main Tokyo station. They rented us a
+motorcycle, two helmets, two pairs of gloves, and two jackets. Pants and boots we had to
+bring ourselves. They also included a toll card. The total came to about $310USD.
 
 ### The Japan Rail Pass <a id="japan-rail-pass">
 Something I had recalled from previous Japan trips was the convenience of the
