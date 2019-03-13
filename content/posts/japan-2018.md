@@ -27,6 +27,14 @@ Itinerary:
 ## Pre-Trip Preparation <a id="preparation">
 
 ### Aquiring an International Driver's License <a id="international-dl">
+Renting a motorcycle in Japan, at least from the agency we went with, requires an international
+driver's license. [AAA](https://www.aaa.com/vacation/idpf.html) provides this. The important
+thing for motorcyclists is getting the license stamped as a "motorcycle license," which when
+we did it meant having a stamp on the "A" portions of all the various languages. Note though
+that it wasn't good enough to have it stamped in just one, the shop wanted it stamped in *all*
+of them. So, when you go to AAA, have them stamp each and every "A" in that little book.
+
+### Booking a motorcycle <a id="motorcycle-booking">
 
 ### The Japan Rail Pass <a id="japan-rail-pass">
 Something I had recalled from previous Japan trips was the convenience of the
