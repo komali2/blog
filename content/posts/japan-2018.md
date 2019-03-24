@@ -69,10 +69,14 @@ early 2019, you may want to do a bit more research, the system may have been
 overhauled.
 
 ## Osaka <a id="osaka"></a>
-Osaka is a gastronomical paradise, something I don't think I'd appreciated until
-I had Tammy with me to enable "showing off" what Japan had to offer. Perhaps being
-older and less embarassesd at humiliating myself with my terrible Japanese
-in a restaurant allowed me to experience more.
+We landed at Osaka Kansai Airport and as our first task had to find a way to get
+to whatever station was nearest our hotel. Tammy got to experience the measured
+insanity that is the Japanese train system, and we managed to get a ticket for
+a train that would take us straight to [Osaka-Namba Station](https://goo.gl/maps/DseKrxLodBB2).
+
+Somehow I had no concept of Doutonbori before this trip and so as we skimmed the
+edges of it on our walk I thought "oh, looks like a nice little alley of
+restaurants for us to try later. So, we dropped our shit off and went for a walk.
 
 ### Arrival and Getting to the Hotel <a id="osaka-hotel-one">
 In any case, we landed in the early afternoon at Osaka Kansai Airport and fairly
