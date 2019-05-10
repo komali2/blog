@@ -48,3 +48,24 @@ a Ninja 350. All we had to do was message them on Facebook, choose a bike from t
 #TODO LINK TO IMAGES, and let them know the dates we wanted it. They requested we give them a
 Taiwan address in case we get any tickets, but were cool with the address being a hotel.
 Unfortunately, they didn't offer insurance.
+
+Cost was cheap as hell. There was about a $1,600USD deposit on each bike, and then for four days
+of rental each bike was about $200USD.
+
+### Taipei, Near Tonghua <a id="tonghua">
+We landed at about 5:00am local time, and after and hour bus ride ended up in a very, very empty
+Taipei. Couldn't even find a place to get breakfast, so we fastracked to our hotel. Within the first
+hour, though, we got to experience some quintessential Taiwan, with a *very* weird movie on display
+for us during our bus ride:
+#TODO: Insert weird movie
+
+Our first hotel was in my old haunt, near Tonghua nightmarket. Hilariously, it was next door to
+Carnegies, by far and away the saddest foreigner bar in the entire country. We dropped our crap off,
+changed into some shorts, and rolled out. At this point, it's only about 8:30am.
+
+Luckily we found a breakfast place I was mildly familiar with, it being a go-to before an early
+morning hike when I lived in Taiwan. We got our first taste of Taiwan food! Struggled a bit through
+the menu and thoroughly confused the wait staff, but ended up with a couple decent enough plates:
+#TODO: Insert food pics
+
+From there, it was off to the Tonghua daymarket.
