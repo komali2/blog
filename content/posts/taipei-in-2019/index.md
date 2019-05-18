@@ -68,4 +68,6 @@ morning hike when I lived in Taiwan. We got our first taste of Taiwan food! Stru
 the menu and thoroughly confused the wait staff, but ended up with a couple decent enough plates:
 #TODO: Insert food pics
 
+{{< img src="first_meal_1.jpg" alt="My first plate of food in Taipei" >}}
+
 From there, it was off to the Tonghua daymarket.
