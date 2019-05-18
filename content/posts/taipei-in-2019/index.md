@@ -26,7 +26,7 @@ Asian bakeries was insatiable.
 ## Pre-Trip Preparation <a id="preparation">
 
 ### Aquiring an International Driver's License <a id="international-dl">
-Renting a motorcycle in Japan, at least from the agency we went with, requires an international
+Renting a motorcycle in Taiwan, at least from the agency we went with, requires an international
 driver's license. [AAA](https://www.aaa.com/vacation/idpf.html) provides this. The important
 thing for motorcyclists is getting the license stamped as a "motorcycle license," which when
 we did it meant having a stamp on the "A" portions of all the various languages. Note though
@@ -66,8 +66,8 @@ changed into some shorts, and rolled out. At this point, it's only about 8:30am.
 Luckily we found a breakfast place I was mildly familiar with, it being a go-to before an early
 morning hike when I lived in Taiwan. We got our first taste of Taiwan food! Struggled a bit through
 the menu and thoroughly confused the wait staff, but ended up with a couple decent enough plates:
-#TODO: Insert food pics
 
 {{< img src="first_meal_1.jpg" alt="My first plate of food in Taipei" >}}
+{{< img src="first_meal_2.jpg" alt="Tammy's first plate of food in Taipei" >}}
 
 From there, it was off to the Tonghua daymarket.

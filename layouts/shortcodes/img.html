@@ -5,7 +5,7 @@
 
 {{ $tinyw := default "500x" }}
 {{ $smallw := default "800x" }}
-{{ $mediumw := default "1200x" }}
+{{ $mediumw := default "800x" }}
 {{ $largew := default "1500x" }}
 
 {{/* resize the src image to the given sizes */}}
@@ -26,7 +26,7 @@
 {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
 <img
-  {{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 1200px, 100vw"{{ end }}
+  {{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 800px, 100vw"{{ end }}
   srcset='
   {{ if ge $src.Width "500" }}
     {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
@@ -34,8 +34,8 @@
   {{ if ge $src.Width "800" }}
     {{ with $small.RelPermalink }}, {{.}} 800w{{ end }}
   {{ end }}
-  {{ if ge $src.Width "1200" }}
-    {{ with $medium.RelPermalink }}, {{.}} 1200w{{ end }}
+  {{ if ge $src.Width "800" }}
+    {{ with $medium.RelPermalink }}, {{.}} 800w{{ end }}
   {{ end }}
   {{ if ge $src.Width "1500" }}
     {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
