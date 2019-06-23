@@ -71,3 +71,53 @@ the menu and thoroughly confused the wait staff, but ended up with a couple dece
 {{< img src="first_meal_2.jpg" alt="Tammy's first plate of food in Taipei" >}}
 
 From there, it was off to the Tonghua daymarket.
+
+{{< img src="tonghua_daymarket.jpg" alt="A view down the alleyway of Tonghua Market" >}}
+
+At this point it's about 9am. We're flagging, and the market is overwhelming. You must push your way
+through massive crowds of people while hawkers shout at you about fish, vegetables, mushrooms, eggs.
+Occasionally, a scooter will squeeze its way through the crowds, miraculously avoiding people's feet.
+
+We pushed through. I was on a mission. I hadn't had a meaningful amount of carbohydrates in months,
+part of a keto diet I had been on to allow me to do whatever I wanted when it came to food on this
+trip. We needed to find carbs. Specifically, tapioca milk tea, a drink Taiwan had invented that
+has taken the world, and my heart, by storm.
+
+So we endured the crowds, hunting for a good enough milk tea place. Nothing is open, though. Still
+too early for the shops that cater to Taiwanese of our age.
+
+We staved off death by keto via a little bun from a woman I used to buy breakfast from every morning.
+
+{{< img src="little_bun.jpg" alt="Fried bun filled with meat being eaten by Tammy" >}}
+
+It's deep fried and filled with molten-temperature meat or chives. Next to the lady had been my favorite
+custard-pastry guy, but he wasn't in, the cart pushed to the side. I remember he always had worked
+whatever hours he felt like.
+
+Finally we came upon a motherlode: a Taiwanese bakery.
+
+{{< img src="bakery_1.jpg" alt="The pastries available at a Taiwanese bakery" >}}
+
+Tammy and I loved these things in Japan and always lament that they aren't nearly as popular in the US.
+Even if you can find one here, it pales in comparison to the freshness, variety, and obviously cost
+that you can get in Asia. Taiwan steps these bakeries up, easily equaling or even surpassing their
+Japanese counterparts.
+
+Predictably, we bought out nearly the whole shop, and continued our hunt for boba. We find a 50C near
+Tonghua Night Market, dutifully stand in line, my hands sweating at this point, but they're out of
+boba! The lady was completely unsympathetic. She had an attitude of "I care not for your suffering,
+you're not the first to seek boba from me and fail, begone." Heartbreaking. Tammy got a tea and I
+got grumpy. 10am at this point, no boba, I settled in to a sort of bobaless fugue state.
+
+We killed time by wandering towards and around Taipei 101, stopping in parks along the way to snack
+on our backpack full of goodies. Particular highlights included seeing the Monkey King wandering
+around:
+
+{{< img src="monkey_king.jpg" alt="Monkey King wandering around Taipei 101" >}}
+
+Saw a couple strange things as we wandered around Taipei 101 (with the general goal of finding
+the Coldstone Creamery that Tim and I had had spiritual experiences at when I had lived in
+Taiwan). First, the Krispy Kreme didn't have a line, which is an absurd blasphemy, considering
+that I had never seen it not have a line around the block when they installed it 2014. Also,
+outside a closed Nike dealer, an *extremely* long line of the most various ages I'd ever seen.
+Half the line was the expected millennial in street clothes, the other was octogenarian or older.
