@@ -21,7 +21,7 @@ Asian bakeries was insatiable.
   * [International Driver's License](#international-dl)
   * [Booking a Motorcycle](#motorcycle-booking)
 * [Taipei, Near Tonghua](#tonghua)
-* [Taipei, Near Daan](#daan)
+* [Taipei, Near Taipei101](#taipei101)
 
 ## Pre-Trip Preparation <a id="preparation">
 
@@ -42,10 +42,12 @@ are happy to put you on the back of a yellow (>120, <500cc) or red (>500cc) bike
 it's completely illegal.
 
 So, you've got to go to the enthusiasts, and convince them you know wtf you're doing. Luckily I
-had an old acquaintance that set us up with #TODO MOTO SHOP on the East side of Taipei. These
+had an old acquaintance that set us up with this motorcycle rental shop
+([google maps link](https://goo.gl/maps/1p5KX3Ao8eRLcW5F9)) on the East side of Taipei. These
 guys were legit, and had a HUGE selection of bikes. I went with a Duke 390 and Tammy picked
-a Ninja 350. All we had to do was message them on Facebook, choose a bike from their images page
-#TODO LINK TO IMAGES, and let them know the dates we wanted it. They requested we give them a
+a Ninja 350. All we had to do was message them on Facebook, choose a bike from their
+[images page](https://www.facebook.com/TownTire/photos/a.2449955768404050/2449961908403436/?type=3&theater)
+and let them know the dates we wanted it. They requested we give them a
 Taiwan address in case we get any tickets, but were cool with the address being a hotel.
 Unfortunately, they didn't offer insurance.
 
@@ -57,7 +59,8 @@ We landed at about 5:00am local time, and after and hour bus ride ended up in a 
 Taipei. Couldn't even find a place to get breakfast, so we fastracked to our hotel. Within the first
 hour, though, we got to experience some quintessential Taiwan, with a *very* weird movie on display
 for us during our bus ride:
-#TODO: Insert weird movie
+
+https://youtu.be/dR65sMnNBBA
 
 Our first hotel was in my old haunt, near Tonghua nightmarket. Hilariously, it was next door to
 Carnegies, by far and away the saddest foreigner bar in the entire country. We dropped our crap off,
@@ -109,6 +112,8 @@ boba! The lady was completely unsympathetic. She had an attitude of "I care not 
 you're not the first to seek boba from me and fail, begone." Heartbreaking. Tammy got a tea and I
 got grumpy. 10am at this point, no boba, I settled in to a sort of bobaless fugue state.
 
+### Taipei, Near Taipei 101 <a id="taipei101">
+
 We killed time by wandering towards and around Taipei 101, stopping in parks along the way to snack
 on our backpack full of goodies. Particular highlights included seeing the Monkey King wandering
 around:
@@ -121,3 +126,41 @@ Taiwan). First, the Krispy Kreme didn't have a line, which is an absurd blasphem
 that I had never seen it not have a line around the block when they installed it 2014. Also,
 outside a closed Nike dealer, an *extremely* long line of the most various ages I'd ever seen.
 Half the line was the expected millennial in street clothes, the other was octogenarian or older.
+Later, we found this was because people would hire the old folks to stand in line for them, so they
+could get a shot and buying fresh sneaker drops.
+
+We also saw this butt guy:
+
+{{< img src="butt_guy.jpg" alt="Butt guy statue with me in front" >}}
+
+For the first time in my life I actually went to the top of Taipei 101. I had never done it when
+I lived in Taiwan, probably because it seemed too touristy, and a waste of money. Had pretty
+fantastic views, though, so I guess I missed out. There's also a great informational section
+surrounding the massive ball at the top of Taipei 101 that helps stabilize it during strong winds
+(such as during a typhoon) or during earthquakes.
+
+
+{{< img src="taipei101_view.jpg" alt="View of Taipei from Taipei 101" >}}
+
+They also had an exhibit on indigenous Taiwanese culture, with this dope ass dress featured from
+an indigenous artist. (hugo has rotated the image for some reason and I am too lazy to fix it
+for now.)
+
+{{< img src="cooldress.jpg" alt="Mannequin wearing dope indigenous dress." >}}
+
+While at the top of Taipei 101, we met a really cool older couple that took our picture for us,
+Bruce and Donna. They were working a job in Osaka, their first time every living out of the country,
+and they had taken the job right on the edge of retirement. They had really cool perspectives on life,
+having already gone through pretty much all there is to do (kids, jobs, travel) except for retirement.
+We spent the night getting dinner and drinks with them, having a really good time.
+
+At the end of the night, we wandered back to the hotel, as always on the hunt for late night snacks.
+This night we found a vending machine for these amazing little circle cake things that Tammy and I
+love:
+
+{{< img src="cakevending.jpg" alt="Cake vending machine in MRT Station." >}}
+
+The cake even came out cold :D
+
+This post is getting longer than I realized, so I'm going to split the trip up into bite sized pieces.
+When the next one is up, I'll drop a link to it below.
