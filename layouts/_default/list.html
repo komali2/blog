@@ -31,7 +31,7 @@
 </h1>
 <section>
   <ul>
-    {{ range .Pages }}
+    {{ range .Site.RegularPages }}
     <li>
           <time datetime="{{ .Date }}">{{ .Date.Format "Jan 2006" }}</time>
           <a href="{{ .URL }}">{{ .Title }}</a>
