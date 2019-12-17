@@ -1,6 +1,6 @@
 ---
 title: "Taipei, 2019"
-date: 2019-05-04T02:16:47-08:00
+date: 2019-11-06T02:16:47-08:00
 draft: false
 categories: ['travel']
 tags: ['taiwan', 'motorcycle']
@@ -20,8 +20,10 @@ Asian bakeries was insatiable.
 * [Pre-Trip Preparation](#preparation)
   * [International Driver's License](#international-dl)
   * [Booking a Motorcycle](#motorcycle-booking)
-* [Taipei, Near Tonghua](#tonghua)
+* [Taipei, Near Tonghua, Day](#tonghua-day)
 * [Taipei, Near Taipei101](#taipei101)
+* [Taipei, Taipei101](#topoftaipei101)
+* [Taipei, Near Tonghua, Morning](#tonghua-morning)
 
 ## Pre-Trip Preparation <a id="preparation">
 
@@ -46,7 +48,7 @@ had an old acquaintance that set us up with this motorcycle rental shop
 ([google maps link](https://goo.gl/maps/1p5KX3Ao8eRLcW5F9)) on the East side of Taipei. These
 guys were legit, and had a HUGE selection of bikes. I went with a Duke 390 and Tammy picked
 a Ninja 350. All we had to do was message them on Facebook, choose a bike from their
-[images page](https://www.facebook.com/TownTire/photos/a.2449955768404050/2449961908403436/?type=3&theater)
+[images page](https://www.facebook.com/TownTire/photos/a.2449955768404050/2449961908403436/?type=3&theater**
 and let them know the dates we wanted it. They requested we give them a
 Taiwan address in case we get any tickets, but were cool with the address being a hotel.
 Unfortunately, they didn't offer insurance.
@@ -54,7 +56,8 @@ Unfortunately, they didn't offer insurance.
 Cost was cheap as hell. There was about a $1,600USD deposit on each bike, and then for four days
 of rental each bike was about $200USD.
 
-### Taipei, Near Tonghua <a id="tonghua">
+## Day One
+### Taipei, Near Tonghua <a id="tonghua-day">
 We landed at about 5:00am local time, and after and hour bus ride ended up in a very, very empty
 Taipei. Couldn't even find a place to get breakfast, so we fastracked to our hotel. Within the first
 hour, though, we got to experience some quintessential Taiwan, with a *very* weird movie on display
@@ -133,6 +136,28 @@ We also saw this butt guy:
 
 {{< img src="butt_guy.jpg" alt="Butt guy statue with me in front" >}}
 
+Finally, we found some milk tea in the basement of one of the Taipei 101 malls. I start making short
+work of it, but am pulled out of my reverie by a very dolled up young Taiwanese woman speaking quickly
+to me in Mandarin. Around mouthfuls of boba I try to answer her questions - something about a camera,
+taking pictures, ok, this is a situation I'm familiar with, she wants a picture of the white guy, but
+wait, this is Taipei, Taiwanese people don't give a shit if you're white, at least not enough to take
+a picture. As I'm trying to figure out what's going on while still pulling myself out of a boba induced
+carb high, I shoot a boba from my mouth straight into my hand. She definitely saw this, but didn't bat
+an eye, continuing to blabber on to, I realize, ask to take a picture of me drinking boba, for some
+reason. But she is definitely concerned, because a boba has been fired from my mouth and there's no way
+she knew where it ended up. She didn't know I was holding it in my now sweaty hand because I couldn't
+figure out where the fuck to put it, and how I was going to handle a phone if my other hand was holding
+boba. I shoot glances at Tammy, trying to telepathically beg for her help, but she is busy doing the same
+to me, only she is trying to tell me that I have a boba in my hand by not-entirely-subtly making eyes
+at that hand. As if I didn't know. The Taiwanese girl has her phone out and is taking a picture of me,
+so I smile and try to keep the mouth of tea I just drank from spilling down my chin like cold drool (
+why did I take another sip in the middle of this drama?! because I am Caleb Rogers and I am addicted
+to Boba Milk Tea). I panic, and stuff the boba casually into my pocket. The woman thanks us, and sits
+down to order her own. We get the hell out of dodge. Tammy asks me where the boba went, and I pull it
+out of my pocket. Shame.
+
+### Taipei 101 <a id="topoftaipei101">
+
 For the first time in my life I actually went to the top of Taipei 101. I had never done it when
 I lived in Taiwan, probably because it seemed too touristy, and a waste of money. Had pretty
 fantastic views, though, so I guess I missed out. There's also a great informational section
@@ -162,5 +187,16 @@ love:
 
 The cake even came out cold :D
 
-This post is getting longer than I realized, so I'm going to split the trip up into bite sized pieces.
-When the next one is up, I'll drop a link to it below.
+## Day Two
+
+### Tonghua Morning <a id="tonghua-morning">
+
+We started our day two out strong by hitting an [excellent beef noodle restaurant](https://goo.gl/maps/kSzveR1ahADwiNdE9) next to my old house.
+
+{{< img src="beefnoodlesoup.jpg" alt="Our first beef noodle soup in Taiwan" >}}
+
+Very warm, very fragrant, excellent beef, perfectly cooked noodles. Don't know why I didn't go there more
+when I lived there. Foolish. We also got these delicious and fairly traditional Taiwanese savory breakfast
+pancake thing:
+
+{{< img src="breakfast-pancake.jpg" alt="Traditional Taiwanese savory breakfast pancake" >}}
