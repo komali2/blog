@@ -16,6 +16,7 @@ motorcycle? Almost assuredly. Here's why:
 * [Community](#community)
 * [Cool](#cool)
 * [Spiritual](#spiritual)
+* [Cost](#cost)
 
 ## It's the Best Mode of Transportation 80% of the Time <a id="efficient">
 
@@ -170,3 +171,23 @@ kinds of feelings, and that control follows me in every aspect of life now.
 So if you're looking to develop confidence, develop inner control and peace,
 develop inner strength, develop emotional control, motorcycling is one of the
 many methods available to you.
+
+## It's Cheap
+
+This surprises people - you can get a good, *really* good motorcycle, for under
+3,000USD. Even less in some areas. A similar quality car will start at
+6,0000USD, which is just under what you'd pay for a brand new, current year,
+Kawasaki Ninja for example.
+
+Also, gas is cheap. Tammy's getting something absurd like fifty, sixty miles to
+the gallon.
+A fillup, in California mind you, of *premium*, costs us something like ten
+bucks.
+
+Of course, this is after your investment in gear, which is about $1,000, but
+will last you practically forever.
+
+And city folk, don't forget this saves you from paying hundreds a month on
+various forms of parking. Motorcycles generally park for free or pennies. When
+I park downtown it's about 3 bucks for the day if I'm doing so in a designated
+paid motorcycle parking spot.
