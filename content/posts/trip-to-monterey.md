@@ -4,7 +4,7 @@ title: "Trip to Monterey"
 date: 2019-02-18T18:16:47-08:00
 draft: false
 categories: ['Travel']
-tags: ['california', 'travel']
+tags: ['california']
 ---
 
 

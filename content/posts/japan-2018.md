@@ -3,7 +3,7 @@ title: "Sakura Season in Japan"
 date: 2019-02-25T16:16:47-08:00
 draft: false
 categories: ['Travel']
-tags: ['international','asia', 'travel']
+tags: ['international','asia']
 ---
 
 I've always wanted to see sakura, or cherry blossom trees, in Japan. Despite my
