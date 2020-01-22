@@ -15,7 +15,7 @@
           <h1>{{ .Site.Title }}</h1>
           <h3>
             <small>
-              Updated: <time datetime="2019-01-01">Jan, 2019</time>
+              Updated: <time datetime="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
             </small>
           </h3>
         </header>
