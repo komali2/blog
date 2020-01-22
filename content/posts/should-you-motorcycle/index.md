@@ -11,15 +11,15 @@ motorcycle? Almost assuredly. Here's why:
 
 **Reasons**
 
-* [Efficient](#efficient)
-* [Fun](#fun)
-* [Community](#community)
-* [Cool](#cool)
-* [Spiritual](#spiritual)
-* [Cost](#cost)
-* [Travel](#travel)
+* [Efficient]({{< relref "#its-the-best-mode-of-transportation-80-of-the-time" >}})
+* [Fun]({{< relref "#its-fun" >}})
+* [Community]({{< relref "#theres-a-community" >}})
+* [Cool]({{< relref "#pretty-much-every-aspect-of-it-is-cool" >}})
+* [Spiritual]({{< relref "#spiritual-or-whatever-reasons" >}})
+* [Cost]({{< relref "#its-cheap" >}})
+* [Travel]({{< relref "#travel" >}})
 
-## It's the Best Mode of Transportation 80% of the Time <a id="efficient">
+## It's the Best Mode of Transportation 80% of the Time
 
 The other day, Tammy and I went to Berkeley for food and the Botanical Gardens.
 This involves getting out of the city,
@@ -70,7 +70,7 @@ up on a bike. If your passenger is a date, congratulations, you've just
 established yourself as cooler than almost the entire city's worth of singles.
 
 
-## It's Fun <a id="fun">
+## It's Fun
 
 I didn't mention this previously, but going to Berkeley the other day wasn't
 just a drive to Berkeley.
@@ -97,7 +97,7 @@ Up into some mountains if you're geographically blessed.
 That's fun enough of an activity that people rent for the sole purpose of doing
 so, and if you've got your own bike you can just do it whenever you want.
 
-## There's a Community <a id="community">
+## There's a Community
 
 To enjoy community is to be human. Whenever I pass another biker and get the two
 fingers down, it's an inescapable burst of dopamine. No way around it, and that's
@@ -114,14 +114,14 @@ interview rides and you get a leg up, maybe you meet a potential partner at a
 group ride, maybe you buy a nice used watch off someone on the Bay Area Rider's
 Forum, maybe you find a rent controlled apartment, you never know.
 
-## Pretty Much Every Aspect of it is Cool <a id="cool">
+## Pretty Much Every Aspect of it is Cool
 
 You can try to argue otherwise if you want but I won't hear it, it's cool
 to ride a motorcycle. You look cool on it, you look cool in your gear, you look
 cool on your back fuckin with the bike in your driveway, it's a cool thing to
 do.
 
-## Spiritual or Whatever Reasons <a id="spiritual">
+## Spiritual or Whatever Reasons
 
 Motorcycling can be scary.
 I've yet to meet someone that didn't feel fear their first ride, and hasn't felt
@@ -176,7 +176,7 @@ So if you're looking to develop confidence, develop inner control and peace,
 develop inner strength, develop emotional control, motorcycling is one of the
 many methods available to you.
 
-## It's Cheap <a id="cost">
+## It's Cheap
 
 This surprised me when I first got into biking: you can get a good,
 *really* good motorcycle, for under
@@ -197,7 +197,7 @@ various forms of parking. Motorcycles generally park for free or pennies. When
 I park downtown it's about 3 bucks for the day if I'm doing so in a designated
 paid motorcycle parking spot. Otherwise, it's free.
 
-## Travel <a id="travel">
+## Travel
 
 Oft unthought of, but heading to a country and renting a bike while you're
 there is basically the most badass way to turn a trip up to 11. So
