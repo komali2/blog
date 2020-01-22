@@ -17,17 +17,19 @@ Asian bakeries was insatiable.
 
 **Itinerary**
 
-* [Pre-Trip Preparation](#preparation)
-  * [International Driver's License](#international-dl)
-  * [Booking a Motorcycle](#motorcycle-booking)
-* [Taipei, Near Tonghua, Day](#tonghua-day)
-* [Taipei, Near Taipei101](#taipei101)
-* [Taipei, Taipei101](#topoftaipei101)
-* [Taipei, Near Tonghua, Morning](#tonghua-morning)
+* [Pre-Trip Preparation]({{< relref "#pre-trip-preparation" >}})
+  * [International Driver's License]({{< relref "#aquiring-an-international-drivers-license" >}})
+  * [Booking a Motorcycle]({{< relref "#booking-a-motorcycle" >}})
+* [Day One]({{< relref "#day-one" >}})
+  * [Taipei, Near Tonghua]({{< relref "#taipei-near-tonghua" >}})
+  * [Taipei, Near Taipei101]({{< relref "#taipei-near-taipei-101" >}})
+  * [Taipei, Taipei101]({{< relref "#taipei-101" >}})
+* [Day Two]({{< relref "#day-two" >}})
+  * [Taipei, Near Tonghua (2)]({{< relref "#tonghua-morning">}})
 
-## Pre-Trip Preparation <a id="preparation">
+## Pre-Trip Preparation
 
-### Aquiring an International Driver's License <a id="international-dl">
+### Aquiring an International Driver's License
 Renting a motorcycle in Taiwan, at least from the agency we went with, requires an international
 driver's license. [AAA](https://www.aaa.com/vacation/idpf.html) provides this. The important
 thing for motorcyclists is getting the license stamped as a "motorcycle license," which when
@@ -35,7 +37,7 @@ we did it meant having a stamp on the "A" portions of all the various languages.
 that it wasn't good enough to have it stamped in just one, the shop wanted it stamped in *all*
 of them. So, when you go to AAA, have them stamp each and every "A" in that little book.
 
-### Booking a motorcycle <a id="motorcycle-booking">
+### Booking a Motorcycle
 Taiwan is tricky when it comes to foreigners on motorcycles. First off, everyone assumes you
 want a white plate (under 120cc) scooter, because they're used to young English teachers that
 don't have foreign motorcycle licenses. Then, the law itself is very vague (or maybe it isn't,
@@ -57,7 +59,7 @@ Cost was cheap as hell. There was about a $1,600USD deposit on each bike, and th
 of rental each bike was about $200USD.
 
 ## Day One
-### Taipei, Near Tonghua <a id="tonghua-day">
+### Taipei, Near Tonghua
 We landed at about 5:00am local time, and after and hour bus ride ended up in a very, very empty
 Taipei. Couldn't even find a place to get breakfast, so we fastracked to our hotel. Within the first
 hour, though, we got to experience some quintessential Taiwan, with a *very* weird movie on display
@@ -115,7 +117,7 @@ boba! The lady was completely unsympathetic. She had an attitude of "I care not 
 you're not the first to seek boba from me and fail, begone." Heartbreaking. Tammy got a tea and I
 got grumpy. 10am at this point, no boba, I settled in to a sort of bobaless fugue state.
 
-### Taipei, Near Taipei 101 <a id="taipei101">
+### Taipei, Near Taipei 101
 
 We killed time by wandering towards and around Taipei 101, stopping in parks along the way to snack
 on our backpack full of goodies. Particular highlights included seeing the Monkey King wandering
@@ -156,7 +158,7 @@ to Boba Milk Tea). I panic, and stuff the boba casually into my pocket. The woma
 down to order her own. We get the hell out of dodge. Tammy asks me where the boba went, and I pull it
 out of my pocket. Shame.
 
-### Taipei 101 <a id="topoftaipei101">
+### Taipei 101
 
 For the first time in my life I actually went to the top of Taipei 101. I had never done it when
 I lived in Taiwan, probably because it seemed too touristy, and a waste of money. Had pretty
@@ -189,7 +191,7 @@ The cake even came out cold :D
 
 ## Day Two
 
-### Tonghua Morning <a id="tonghua-morning">
+### Tonghua Morning
 
 We started our day two out strong by hitting an [excellent beef noodle restaurant](https://goo.gl/maps/kSzveR1ahADwiNdE9) next to my old house.
 
