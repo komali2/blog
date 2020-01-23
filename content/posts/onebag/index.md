@@ -81,3 +81,34 @@ you head to the hotel. Imagine simply walking with a backpack on to a taxi, or
 through the transit system, into the hotel. Imagine being able to do your entire
 trip with all the things you brought on your back with very little discomfort.
 That's onebagging.
+
+### Organization
+
+People bring so much shit traveling and then they can't find what they need.
+I remember wasting time in the hotel trying to pick an outfit from all the crap
+I bought. Who cares? You're there to experience the destination, that'll be the
+same experience no matter what you're wearing! Digging through a bunch of crap
+on the plane to find my water bottle or whatever. No thanks.
+
+Onebagging keeps you organized. You can only bring what you can fit in one
+bag, and really not even, because if you overstuff it, you're going to have a
+miserable time getting anything out of it, and you'll have no room to bring back
+little snacks or whatever. It's a delightful minimalism. The format forces you
+to pare down and thus be more organized. You'll start thinking a lot more about
+what you bring and why. You'll start thinking more about where stuff goes in
+your bag. You'll become more mindful of the functionality of your whole setup.
+It'll take a couple goes to get a good system, I for instance am still
+developing mine to this day. But, you will be more organized, each and every
+trip.
+
+
+You don't need all the crap you bring traveling. Really, a different shirt for
+every day? A different pair of pants, shorts, skirt? Nah. You're traveling.
+Beyond your traveling partners, you'll never see anybody you meet again. You
+don't need a different outfit for every day, and if you really want one, you can
+pull it off by mix and matching. Bring one pair of pants,
+one pair of shorts, and three t-shirts to
+split across a 7 day trip, there, that's six outfits. Easy. Or better yet just
+wear the same outfit again and again. I've done weekend trips where I literally
+didn't pack clothes - just overnight wash a shirt in the sink if it needs it.
+Fuck it, who's gonna judge me, some random dude I'll literally never see again?
