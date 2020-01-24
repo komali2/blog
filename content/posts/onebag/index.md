@@ -12,7 +12,11 @@ years now, so I got tips and tricks as well.
 
 Onebagging is a sort of minimalist tie-in movement of our generation. The basic
 idea is when you travel, you take One Bag. No checked bags, no carryon +
-personal item, and ABSOLUTELY no rolly luggage.
+personal item, and ABSOLUTELY no rolly luggage. One bag, usually a decent sized
+backpack, something that can fit under the seat in front of you on a plane.
+Typically the size is between 20 and 30 liters, though this is an
+arbitrary and unregulated measurement system. I'll recommend bags later
+in the article to give you a better idea.
 
 If you're traveling for vacation with more than one backpack, you're probably
 packing way more than you need. One "Onebag** trip is all it will ever take to
@@ -22,6 +26,8 @@ hook you permanently. I'll illustrate why.
   * [Airtime]({{< relref "#airtime" >}})
   * [Carry Comfort]({{< relref "#carry-comfort" >}})
   * [Organization]({{< relref "#organization" >}})
+* [How Onebag]({{< relref "#how-onebag" >}})
+  * [Clothes]({{< relref "#clothes" >}})
 
 ## Why Onebag
 So, why should you give up your rolly case? Why shouldn't you come "prepared
@@ -101,6 +107,65 @@ It'll take a couple goes to get a good system, I for instance am still
 developing mine to this day. But, you will be more organized, each and every
 trip.
 
+
+
+## How Onebag
+
+### Clothes
+
+The biggest obstacle to reducing down to one bag while traveling is probably
+clothing. When we travel we tend to bring an outfit for every conceivable
+occasion, not to mention we want to have a different outfit for every day. But
+why? You'll never see the people out in about in the foreign country you're in
+ever again. Who's gonna know if you wear the same tshirt twice in a week? Or
+even two days in a row?
+
+So, first, mindset. You don't need a different outfit every day. You really only
+need a few items of clothing, depending on climate. You can get very creative
+with layers if you want to look a little different every day. When you choose
+clothing, you want each item to
+
+* Wash and dry easily (dry overnight in your hotel room, ideally)
+* Work for multiple functions, i.e., walking around all day, a night out, hiking
+* Pack small
+
+For all clothing, you'll prevent stinkiness by washing in your sink at night and
+hanging to dry overnight or during a day out. I actually find my clothes get
+cleaner this way than they do coming out of the drier, so hold your objections
+over cleanliness.
+
+Typically, I only pack one kind of pants that looks with with many different
+outfits and scenarios, so a khaki-ish colored sturdy pair of chinos. These are
+comfortable for all day city walking, work fine on a trail (especially if I roll
+the legs up), and will get me into most any club. Unlike jeans, they can wash
+and dry in a reasonable amount of time, if needed.
+
+I usually also pack one pair of stylish netless bathing shorts. I can swim in them,
+hike in them, go to the gym in them, wear them around on a hot day, and wear
+them at night in a hostel as pajamas. They wash and dry extremely quickly, and
+roll very small.
+
+Tops you can get very creative with. My typical is one or two light cotton
+white t-shirts that can be worn alone, under an open button down, or under a
+buttoned-up button down. That, alongside a stylish button-down, are all I need.
+I'll wear one in the gym
+in the morning and then get back to the hotel, wash it, and wear the other one
+while the gym shirt dries. Depending on the country, sometimes I don't really
+need the button down to get into clubs and bars.
+
+Jackets are tricky. If you can go without, do. Packability might be less
+important if you will literally be wearing it all day every day, but if there's
+a chance you will get too hot and need to carry it around in your bag, you'll
+be glad you went with a down jacket over a wool one that takes up 50% of your bag
+space.
+
+Socks and underwear can get controversial. I usually pack three pairs of
+underwear and go through washing cycles. I get really quick cleaning and drying
+Airism boxers from Uniqlo. To some people, the thought of washing their undies
+in the sink is disgusting. To those people I say, wash your ass in the shower
+better. As for socks, I bring one or at most two pairs. Darn Tough is an oft
+recommended brand, though I find they don't breath and make my feet too sweaty,
+so I just wear Uniqlo heattech.
 
 You don't need all the crap you bring traveling. Really, a different shirt for
 every day? A different pair of pants, shorts, skirt? Nah. You're traveling.
