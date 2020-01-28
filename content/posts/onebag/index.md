@@ -14,20 +14,22 @@ Onebagging is a sort of minimalist tie-in movement of our generation. The basic
 idea is when you travel, you take One Bag. No checked bags, no carryon +
 personal item, and ABSOLUTELY no rolly luggage. One bag, usually a decent sized
 backpack, something that can fit under the seat in front of you on a plane.
-Typically the size is between 20 and 30 liters, though this is an
-arbitrary and unregulated measurement system. I'll recommend bags later
-in the article to give you a better idea.
 
 If you're traveling for vacation with more than one backpack, you're probably
-packing way more than you need. One "Onebag** trip is all it will ever take to
+packing way more than you need. One "Onebag" trip is all it will ever take to
 hook you permanently. I'll illustrate why.
 
 * [Why Onebag]({{< relref "#why-onebag" >}})
   * [Airtime]({{< relref "#airtime" >}})
   * [Carry Comfort]({{< relref "#carry-comfort" >}})
   * [Organization]({{< relref "#organization" >}})
+  * [Zen]({{< relref "#zen" >}})
 * [How Onebag]({{< relref "#how-onebag" >}})
+  * [Principles]({{< relref "#principles" >}})
   * [Clothes]({{< relref "#clothes" >}})
+  * [Bag]({{< relref "#bag" >}})
+  * [Gear]({{< relref "#gear" >}})
+* [Tell Me About It]({{< relref "#tell-me" >}})
 
 ## Why Onebag
 So, why should you give up your rolly case? Why shouldn't you come "prepared
@@ -42,20 +44,21 @@ it's the longest line, because the airlines have decided that one underpaid
 staff is enough to handle rush hour on a 500 person flight.
 
 If you have just one bag and nothing to check, you walk right past the check-in
-bullshit and to security. Maybe you hit a kiosk or something to print your
+bullshit and straight to security.
+Maybe you hit a kiosk or something to print your
 boarding pass, though these days I'm finding I can just use my phone.
 Out the cab or off the train with nothing more than a backpack, straight to
 security. Lovely.
 
 Next bit is really nice: nowadays airlines have turned overhead space into a
-bloodbath they can charge us for the pleasure of participating in. I'm assuming
+bloodsport they can charge us for the pleasure of participating in. I'm assuming
 it's to convince more people to pay for early boarding or something. Get on too
 late and they'll make you check your carryon luggage. Not so for a person
 traveling with one bag - the true enthusiast doesn't just have one bag, they
 have *one bag of personal item size*, i.e., something that will fit under the
 seat in front of them. A 25L backpack, say. Not only will it always find a spot
 among the rolly suitcases in overhead if you so desire, it will always fit under
-the seat in front of you, with the added bonus of all your stuff easily
+the seat in front of you, with the added bonus that all of your stuff is easily
 accessible at all times during the flight. No more fighting your way from the
 window seat to open up the overhead because you forgot your water bottle!
 
@@ -76,8 +79,8 @@ light poles and shit while they hunch under thirty pound oversized backpacks,
 and I have a lot of things I feel superior about so that's saying something.
 
 Do you *enjoy* having your first experience in a new and wondrous country be
-dragging a massive cart around its hard to navigate streets? Is it *fun* missing
-out on your first hour or two of experiences because you've got to base the
+dragging a massive cart around alien streets? Is it *fun* missing
+out on your first three hours in a new country because you've got to spend the
 first half of your first day getting all your bullshit to the hotel? Do you like
 stuffing all your crap into the corners of restaurants while pissed off foreign
 waiters barely tolerate your presence?
@@ -93,23 +96,59 @@ That's onebagging.
 People bring so much shit traveling and then they can't find what they need.
 I remember wasting time in the hotel trying to pick an outfit from all the crap
 I bought. Who cares? You're there to experience the destination, that'll be the
-same experience no matter what you're wearing! Digging through a bunch of crap
+same experience no matter what you're wearing! Digging through a wardrobe
 on the plane to find my water bottle or whatever. No thanks.
 
 Onebagging keeps you organized. You can only bring what you can fit in one
 bag, and really not even, because if you overstuff it, you're going to have a
 miserable time getting anything out of it, and you'll have no room to bring back
-little snacks or whatever. It's a delightful minimalism. The format forces you
+little snacks. It's a delightful minimalism. The format forces you
 to pare down and thus be more organized. You'll start thinking a lot more about
 what you bring and why. You'll start thinking more about where stuff goes in
 your bag. You'll become more mindful of the functionality of your whole setup.
-It'll take a couple goes to get a good system, I for instance am still
+It'll take a couple trips to get a good system, I for instance am still
 developing mine to this day. But, you will be more organized, each and every
 trip.
 
+### Zen
+
+Having only one bag on you is zen as fuck. It's freeing. It lets you focus on
+the trip rather than all your possessions.
+Leave your stuff at home, enjoy the new
+place you find yourself in.
 
 
 ## How Onebag
+
+### Principles
+
+Leave room in your bag. There's a tendency to fill space. That's the same
+instinct that had you bringing checked bags "just because." Resist this.
+I guarantee on your first one bag trip you'll overpack and there's nothing I can
+do to prevent you from doing that, but at the very least just remember: Leave
+Space. If your bag is full to bursting, you've brought too much. Let go.
+
+Be mindful of every single item. Build a packing list in a notetaking app. Put
+EVERYTHING you bring on the app. After the trip, go item to item and ask
+yourself how much you used each item, if at all. Then ask yourself whether it
+was worth bringing the item. Great candidates to remove from the list are
+obviously things that didn't get used once.
+
+Plan on washing clothes while on the trip. See below for details.
+
+Focus on the trip. Why are you traveling to Italy? To smack away on your laptop?
+Play angry birds on your ipad? Walk around blasting music on your portable
+bluetooth speaker like an asshole?
+You gonna try to show up Italian fashion with just
+what you can fit in your bag? Focus on the destination, the experience. You
+really don't need much at all to enjoy a trip.
+
+Remember you have a credit card. Tim Ferris wrote that if it can be bought at
+the destination, don't bring it all, including things like toothbrush,
+toothpaste, etc. I think that's overkill, but when you're considering whether
+or not to bring a certain item, just remind yourself, if you absolutely need
+something during your trip, you can always just pull out the credit card and
+buy that item.
 
 ### Clothes
 
@@ -131,7 +170,7 @@ clothing, you want each item to
 
 For all clothing, you'll prevent stinkiness by washing in your sink at night and
 hanging to dry overnight or during a day out. I actually find my clothes get
-cleaner this way than they do coming out of the drier, so hold your objections
+cleaner this way than they do coming out of the washer, so hold your objections
 over cleanliness.
 
 Typically, I only pack one kind of pants that looks with with many different
@@ -167,13 +206,60 @@ better. As for socks, I bring one or at most two pairs. Darn Tough is an oft
 recommended brand, though I find they don't breath and make my feet too sweaty,
 so I just wear Uniqlo heattech.
 
-You don't need all the crap you bring traveling. Really, a different shirt for
-every day? A different pair of pants, shorts, skirt? Nah. You're traveling.
-Beyond your traveling partners, you'll never see anybody you meet again. You
-don't need a different outfit for every day, and if you really want one, you can
-pull it off by mix and matching. Bring one pair of pants,
-one pair of shorts, and three t-shirts to
-split across a 7 day trip, there, that's six outfits. Easy. Or better yet just
-wear the same outfit again and again. I've done weekend trips where I literally
-didn't pack clothes - just overnight wash a shirt in the sink if it needs it.
-Fuck it, who's gonna judge me, some random dude I'll literally never see again?
+Shoes: Never bring. Only wear. At MOST pack a pair of flip flops or sandals.
+
+### Bag
+
+Of course, if you're going to carry only one bag with you all over the world, it
+should be a good one. There's lots of recommendation articles out there, I say
+for starters head over to the onebag subreddit for a couple suggestions. Brands
+I particularly like are:
+
+* [Tom Binh](https://www.tombihn.com/) My bag of choice is a Tom Binh, and I'll
+be putting a review up at some point.
+* [Timbuk2](https://www.timbuk2.com/) An oft recommended similarly premium brand
+to Tom Binh. I've yet to own one but from what I've handled at the store, it's
+a good choice.
+* [Patagonia](https://www.patagonia.com/home/) Harsh weather focused premium
+brand.
+* [Osprey](https://www.osprey.com/us/en/) A good budget brand, bags easily
+gotten on Amazon.
+
+Size: You want the 25-35 liter range. Note that this isn't an official
+measurement by any means, but generally speaking bags labeled with this size
+will be about the same size. A lot of people argue for bags will full-open
+zippers so you can pack them lain flat, but in my opinion that's unnecessary.
+
+### Gear
+
+Laptop AND a tablet. Big chunky water bottle. Heavy books. Gear doesn't
+typically take up as much space as clothes, but there's lots of ways to save
+space and weight here.
+
+When it comes to electronics, ask yourself what you REALLY need to enjoy your
+trip. Often on vacation I've realized there's simply no need at all for a
+laptop. I regret bringing one at all to Vietnam. Everything I needed to do I
+did on my phone, even if I had to get creative, like by popping my micro SD
+card out of the SD converter that was in my DSLR, putting it in my phone,
+uploading my photos, clearing space, and popping it back in. Phones can do a
+hell of a lot nowadays. Get a
+[USB-C to HDMI converter](https://smile.amazon.com/gp/product/B07PWK6Q4V) and
+you can plug your phone into the TV as a little entertainment center. Or, bring
+along a Roku stick or Chromecast for casting.
+
+Stop carrying water bottles, start carrying
+[water bags.](https://smile.amazon.com/Platypus-DuoLock-SoftBottle-Collapsible-1-0-Liter/dp/B01N0O7SDE)
+They weigh far less and only take up as much space as they have water in them.
+
+Don't bring paper books. Get a kindle. They're like 80 bucks now, or grab one
+off ebay for even cheaper.
+Let go of the Smells or whatever reason you're stilling
+dragging around books that weigh kilos when you could just carry ten thousand
+books in a device that weighs 300 grams.
+
+Later, I'll publish a full packing list.
+
+## Tell Me
+
+If you start onebagging and want to share, tell me about it. I love looking at
+packlists and gear pics. My email is rogersjcaleb, on the Google email service.
