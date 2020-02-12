@@ -52,17 +52,17 @@ a bootcamp grad, I wrote an article back then about it:
   * [What to Build]({{< relref "#what-to-build" >}})
   * [How to Show Off What You've Built]({{< relref "#how-to-show-off-what-youve-built" >}})
 * [The Coding Challenge]({{< relref "#the-coding-challenge" >}})
-  *[How to Do a Coding Challenge]({{< relref "#how-to-do-a-coding-challenge" >}})
+  * [How to Do a Coding Challenge]({{< relref "#how-to-do-a-coding-challenge" >}})
 * [The Resume Send]({{< relref "#the-resume-send" >}})
   * [When to Start Sending Resumes]({{< relref "#when-to-start-sending-resumes" >}})
-  * [Crafting a Good Resume]({{< relref "#crafting.a.good.resume" >}})
+  * [Crafting a Good Resume]({{< relref "#crafting-a-good-resume" >}})
   * [How Many Resumes to Send]({{< relref "#how-many-resumes-to-send" >}})
   * [Should You Write Cover Letters]({{< relref "#should-you-write-cover-letters" >}})
   * [Warm Leads]({{< relref "#warm-leads" >}})
   * [Finding People to Send Resumes To]({{< relref "#finding-people-to-send-resumes-to" >}})
   * [General Networking]({{< relref "#general-networking" >}})
 * [Studying]({{< relref "#studying" >}})
-* [Further Questions]({{< relref "#questions" >}})
+* [Further Questions]({{< relref "#further-questions" >}})
 
 ## The Tasks
 
