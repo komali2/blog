@@ -27,12 +27,12 @@ from my mentees, people in the audience at alumni panels, and from emails I get
 from random students that find my email. And at the very end, I'm going to
 invite you to email me questions about anything that didn't seem clear to you.
 
-
 The goal of this post is to give you a very broad overview of what, in general,
 a recent coding bootcamp grad should be doing to get a good job quickly.
 
+Handling offers and other late-stage-job-search topics won't be covered.
 
-This process is not guaranteed, universal, applicable to all people, applicable
+This process is not guaranteed, universal, applicable to all people, or applicable
 to all cities, states, or countries. Use it to help guide yourself in deciding
 what you should be doing day to day from now until you get a job. Good luck.
 
@@ -42,7 +42,7 @@ a bootcamp grad, I wrote an article back then about it:
 
 **Index**
 
-* [The Tasks]({{< relref "#tasks" >}})
+* [The Tasks]({{< relref "#the-tasks" >}})
 * [The Schedule]({{< relref "#the-schedule" >}})
 * [The Personal Project]({{< relref "#the-personal-project" >}})
   * [Projects Show That You Can Make Someone Money]({{< relref "#projects-show-that-you-can-make-someone-money" >}})
@@ -52,7 +52,7 @@ a bootcamp grad, I wrote an article back then about it:
   * [What to Build]({{< relref "#what-to-build" >}})
   * [How to Show Off What You've Built]({{< relref "#how-to-show-off-what-youve-built" >}})
 * [The Coding Challenge]({{< relref "#the-coding-challenge" >}})
-* [How to Do a Coding Challenge]({{< relref "#how-to-do-a-coding-challenge" >}})
+  *[How to Do a Coding Challenge]({{< relref "#how-to-do-a-coding-challenge" >}})
 * [The Resume Send]({{< relref "#the-resume-send" >}})
   * [When to Start Sending Resumes]({{< relref "#when-to-start-sending-resumes" >}})
   * [Crafting a Good Resume]({{< relref "#crafting.a.good.resume" >}})
@@ -62,15 +62,12 @@ a bootcamp grad, I wrote an article back then about it:
   * [Finding People to Send Resumes To]({{< relref "#finding-people-to-send-resumes-to" >}})
   * [General Networking]({{< relref "#general-networking" >}})
 * [Studying]({{< relref "#studying" >}})
-* []({{< relref "" >}})
-* []({{< relref "" >}})
-* []({{< relref "" >}})
-* []({{< relref "" >}})
+* [Further Questions]({{< relref "#questions" >}})
 
 ## The Tasks
 
 I believe the coding bootcamp graduate's job search can be broken down into
-three core tasks they should be balancing. Below I will list them, with the
+four core tasks they should be balancing. Below I will list them, with the
 percent of your "core working hours" time I think they should be taking.
 
 1. [Working on projects]({{< relref "#the-personal-project" >}}): 30%
@@ -101,7 +98,8 @@ periods of your life, and you can leverage this momentum to get you a job
 more quickly.
 
 Momentum is important to keep up because it will be damaged by the excruciating
-process of the job search, so the more you have at the start, the more resistant
+process of the job search, so the more momentum
+you have at the start, the more resistant
 to motivational damage you are.
 
 I have seen many coding bootcamp grads "take a week off" or "take it easy"
@@ -109,7 +107,7 @@ immediately after the programming bootcamp. Invariably these students take the
 longest of their cohort to find a job.
 
 If you have the means, I recommend avoiding get a part time job, even if it
-means going into debt. I've seen many students turn a post-bootcamp partime
+means going into debt. I've seen many students turn a post-bootcamp part time
 job into a permanent job because of how hard it is to maintain a job search
 while working.
 
@@ -121,17 +119,16 @@ programming environment.
 
 If you absolutely must maintain a part time job to fend for yourself, I advise
 still sticking to the above mentioned percentage breakdowns of tasks, and fill
-all available time with jobsearch activities. This will be monumentally difficult
+all available time with job search activities. This will be monumentally difficult
 and you'll probably have a harder time than anybody in your cohort in finding a
 job.
-
 
 
 ## The Personal Project
 Working on projects should take 30% of your job searching time.
 
 Your job, when you do get one, will be to make applications for a company
-that either directly makes money for that company, or adds value somehow. Thus,
+that either directly makes money for that company or somehow adds value. Thus,
 one of the most important things you can demonstrate to prospective employers
 is that you are capable *today* of developing applications that make money
 or add value.
@@ -185,13 +182,13 @@ working almost daily to solidify everything you've learned.
 I can tell when a candidate in an interview is just namedropping technologies
 they skimmed at a bootcamp. If I try to delve into nitty gritty details, they'll
 flounder. If you regularly use the skills you learned, you'll hone them, picking
-up subtleties you can't possibly learn without just using these tools.
+up subtleties you can't possibly learn without regularly using these tools.
 
 Projects also represent an opportunity to learn new skills. Typically I
 recommend bootcamp grads pick a framework and stick with it for the entirety of
 their job search, but projects allow you to pick up smaller technologies such as
 a new database technology, some new cloud tool or platform, a new testing
-framework, or just some API.
+framework, or an API. In
 [What to Build]({{< relref "#what-to-build" >}}),
 I'll give some examples.
 
@@ -216,7 +213,8 @@ you want to do with the app in the future.
 Below are some personal project tips and how-tos.
 
 ### What to Build
-Classic question I get at literally every alumni panel I've gone to. What should
+A classic question I get at literally every alumni panel I've gone to: what
+should
 you build?
 
 Consider that the purpose of personal projects (for now) are to hone your
@@ -242,13 +240,13 @@ It's important to acknowledge that an above example would take months to do
 properly. That doesn't mean you shouldn't deploy until it's "done." A work in
 progress is also great to talk about.
 
-Beyond a massive copy-cat project like the above, you could also build something
+Beyond a massive copy-cat project like the above, you could also build some
 small one-off projects as a study in a given technology. For example, I built
 [Soft But What Word Count](https://bigquery-test-243517.appspot.com/) to learn
 how to talk to Google BigQuery for a project at work. Now if somebody wanted
 to know if used BigQuery before, I can just point to that link. You could do
 this to learn a framework, an API, a testing suite, a build process (i.e. using
-Make instead of Gulp**, or whatever you can think of.
+Make instead of Gulp), or whatever you can think of.
 
 ### How to Show Off What You've Built
 If you go through the effort of building a project, you should ensure this work
@@ -261,16 +259,19 @@ via a URL. That URL should be easily tapped out in a phone.
 
 I typically host my projects on AWS or Google App Engine. That gives them
 some fucky long URL like https://bigquery-test-243517.appspot.com/ . So,
-in Bluehost (which manages my domain calebjay.com**, I set up domain forwarding
-for a url like calebjay.com/softbutwhatwordcount, so it looks good on my resume
+in Bluehost (which manages my domain calebjay.com), I set up domain forwarding
+for a url like www.calebjay.com/softbutwhatwordcount, so it looks good on my resume
 or when I pop it into the URL on a hiring manager's computer. I haven't yet
 figured out how to actually get that URL to display in the address bar when
 on that app, which is embarrassing, but at least I have a redirect set up.
 
+Make sure that the URL is typed out directly on your resume. You can't click
+hyperlinks on printed paper.
+
 **Your projects should have publicly accessible code.** Generally this means
 they should be hosted on your Github. If it's a group project hosted on a
 different organization, fork it onto your own account so you can display it on
-your portfolio. Also, take advantage of Github's "pinning** feature to select
+your portfolio. Also, take advantage of Github's "pinning" feature to select
 a few of your best projects to show off.
 
 **Your projects should have writeups.** Be it a blog post or a dedicated page,
@@ -279,9 +280,10 @@ what technologies you used, and what your future plans are for the project. This
 is essentially a precursor to talking about the project in an interview and
 gives you further control over the narrative surrounding your project. It gives
 you opportunity to explain yourself and talk about why the project is important.
-[Here's an example of a writeup](https://bigquery-test-243517.appspot.com/) for
+[Here's an example of a writeup](https://www.calebjay.com/soft-but-what-word-count.html)
+for
 one of my projects, and
-[here's an example of a blogpost](https://blog.calebjay.com/posts/i-made-an-emacs-theme/**
+[here's an example of a blogpost](https://blog.calebjay.com/posts/i-made-an-emacs-theme)
 for another.
 
 By the way, if you get a take-home challenge, it's a very good idea to submit
@@ -298,11 +300,11 @@ these coming out of the programming bootcamp, it's imperative you get one out
 soon. It's so strange getting resumes from self-proclaimed Web Developers that
 don't have their own website. It comes off as amateurish. The website need't be
 complicated:
-[mine is plain HTML, CSS, and contains no Javascript](https://www.calebjay.com).
+[mine is plain HTML, CSS, and contains no Javascript](https://github.com/komali2/personalWebsite).
 In fact, I advise against making a personal website very complicated. It looks
 a bit silly when I hit yourname.com and spend the first ten seconds loading
 fifteen libraries to show static content. It could be a Github Pages. It could
-be a Wordpress. It doesn't matter, so much as you have a slice of internet
+be a Wordpress. It doesn't matter, so long as you have a slice of internet
 that's yours. It's a honeypot of everything that represents your skills: links
 to your projects, links to your Github, photos you took, art you drew, whatever.
 
@@ -315,6 +317,8 @@ expect a Web Developer (a catch-all phrase that includes frontend, backend, and
 fullstack engineers) to have.
 
 ## The Coding Challenge
+Working on coding challenges should take 20% of your time.
+
 By coding challenges, I mean things like Leetcode, Project Euler, and working
 through Cracking the Coding Interview. I also include live practice interviews
 on a whiteboard under this umbrella.
@@ -332,7 +336,7 @@ company has figured this out yet.
 In any case, you will still get arbitrary bullshit programming problems like
 n-queens or Roman Numerals or whatever random crap pops into an uncertified
 interviewer's head between the door to the meeting room and the chair at the
-desk, so you do need to be prepared for these. Plus, these kinds of problems
+table, so you do need to be prepared for these. Plus, these kinds of problems
 do tend to help grow your engineering and problem solving mindset.
 
 ### How to Do a Coding Challenge
@@ -341,14 +345,16 @@ Cracking the Coding Interview, which I highly recommend over any other form
 of programming challenges such as Leetcode, Hackerrank, or Project Euler.
 
 The first step to a coding challenge is to close your laptop and pull out a
-notebook and pencil. This emulates the environment you'll be doing a programming
+notebook and pencil. This emulates the environment in which
+you'll be doing a programming
 challenge: the whiteboard. I'm pulling this advice straight out of Cracking the
 Coding Interview. This will massively improve your psuedocode ability. Focus
 on writing quickly but with neat handwriting, and write enough detail that your
 code can easily be transferred to a computer and run, as this is what companies
 like Google do immediately after your interview.
 
-Use the pencil and paper to solve problem, writing out your entire programming
+Use the pencil and paper to solve the
+problem, writing out your entire programming
 solution. When you have a solution, point out the potential downsides of your
 solution. Write what the time complexity is and justify this with math. Then,
 if you can, write a second solution, ideally a better one, or at the very least
@@ -363,18 +369,20 @@ future.
 Instead of arbitrary algorithm implementation, consider implementing domain
 knowledge. If you're trying to become employed as a web developer, see if you
 can implement Promises in vanilla Javascript. See if you can implement
-setInterval using only setTimeout. See how much of the [lodash](https://lodash.com/)
+`setInterval` using only `setTimeout`. See how much of the [lodash](https://lodash.com/)
 library you can implement from scratch in vanilla Javascript. See how much
 of jquery you can implement from scratch.
 
 If you are going to do arbitrary algorithm implementation, focus on actually
 useful ones like sorts and data structures, rather than doing, I dunno,
-Convert Number To Roman Numeral.
+"Convert Number To Roman Numeral."
 
 Finally, again, before doing anything else, I recommend just working through the
 entire Cracking the Coding Interview book.
 
 ## The Resume Send
+Submitting resumes should take 40% of your time.
+
 The job search is best aided by increasing your surface area. By surface area,
 I mean the amount of people and companies that are aware that you're available
 for a job. If they don't know, they won't hire you. This is why I consider
@@ -439,10 +447,11 @@ throughout the resume or at the very least in the Skills section.
 or work experience, list out clearly what you used on that project. I.e. "Built
 a Frontend in Vue for displaying children's books. The data was pulled from
 Firebase, which we used because we needed to quickly get a deployment
-up.**
+up."
 
 **Link directly to your projects.** If you have a project on your resume,
-put a link to the Github page for it as well as the deployment.
+put a link to the Github page for it as well as the deployment. The link
+should be typed out entirely, not just a hyperlink.
 
 ### How Many Resumes to Send
 You should send fifteen to twenty resumes a day and adopt the mindset that
@@ -465,7 +474,7 @@ That being said, a cover letter shouldn't take more than 2 minutes of your time
 per submission. At first this will be impossible because you'll be writing
 cover letters from scratch. But as you write more and more cover letters,
 you can copy and paste sentences between them. If one company wants React,
-you can copy a line talking about you React experience. If one company is in
+you can copy a line talking about your React experience. If one company is in
 an industry you've worked in, you can copy a line from a submission to a similar
 company.
 
@@ -507,13 +516,21 @@ Francisco for Hack Reactor. Apparently it's working for some people.
 So, common question: Should I send my resume to my warm leads right after
 graduation, or wait until I've had more interview experience? Send them right
 away. If the company actually wants to interview you, you'll almost assuredly
-be able to push back the interview date if you need be. I went through the
+be able to push back the interview date if you need to. I went through the
 interview process at Google and had a traumatic emergency first aid experience
 halfway through, leading me to request pushing back the interview nearly 3 months.
 They accepted without hesitation.
 
 Probably it'll take nearly a month for the company to even call you back. So,
 get the resume out as soon as possible.
+
+Also, try to grab coffee with one random person off LinkedIn once every two
+weeks. Explicitly don't try to get a job with this person, it's annoying and
+probably won't work anyway. If they want to recommend you for a job they'll
+probably tell you. Treat it as an opportunity to learn more about Talking
+the Talk. You likely have never done the Engineering Day To Day. This will
+be obvious to your interviewers. Getting firsthand conversations about what the
+job is like from other engineers will make you come off as more seasoned.
 
 
 ### Finding People to Send Resumes To
@@ -557,7 +574,7 @@ how often, and also which ones.
 I never had success with job leads through meetups. I had one job lead through
 a conference, once. A man had a phone case that looked like a giant rubber duck
 in his back pocket, so I asked if I could take a picture of his ass for my
-girlfriend at the time who loved ducks, he thought this was funny and a
+girlfriend at the time who loved ducks. He thought this was funny and a
 conversation led to him asking me to send him my resume for a developer
 evangelist position. Nothing ever came of that. I imagine this is because every
 single meetup's membership in the Bay Area is comprised of 75% job seekers, 50%
@@ -566,7 +583,7 @@ efficient a way to increase your surface area as simply blitzing resume sends
 to open job recs.
 
 Still, it's important to get out of your house and actually talk to people, so
-as to prevent turning into some kind of weird LinkedIn cave cave troll.
+as to prevent turning into some kind of weird LinkedIn cave troll.
 Therefore, I do recommend attending at least one meetup every two weeks during
 your job search. Ideally it's related to programming in some way, but it could
 be anything really.
@@ -577,6 +594,8 @@ Good keywords to search for include html, javascript, node, react, vue,
 web, and programming.
 
 ## Studying
+Studying should take 10% of your time.
+
 A broad and neglected topic for bootcamp grads. Studying in this context
 generally
 means just reading documentation, or maybe doing a tutorial.
@@ -590,8 +609,7 @@ fruitful little brain things that exploded awake during the bootcamp, and lets
 you take advantage of them throughout your job search.
 
 Finally, Hack Reactor, App Academy, Galvanize, or whoever, didn't teach you
-enough to get your first job with much ease. You must augment your education
-there.
+enough to get your first job with much ease. You must augment your education.
 
 Studying can be as simple as reading documentation. You can have it open on
 a tab on your phone and read it while pooping, or sitting on the train, or
@@ -618,3 +636,11 @@ specialize in
 * Read the [MDN DOM documentation](https://developer.mozilla.org/en-US/docs/Glossary/DOM)
 * Read a whole shitload more random MDN pages
 * Find and read articles on CSS flexbox, grid system, and box model
+
+Take a look at my [list of helpful links](https://calebjay.com/links-list.html)
+for more random stuff to page through.
+
+## Further Questions
+This post will probably be updated quite frequently over the next few months.
+If you found something confusing or have something you think is important to
+add, please email me at rogersjcaleb at google's email service.
