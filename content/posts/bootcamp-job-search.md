@@ -636,6 +636,9 @@ specialize in
 * Read the [MDN DOM documentation](https://developer.mozilla.org/en-US/docs/Glossary/DOM)
 * Read a whole shitload more random MDN pages
 * Find and read articles on CSS flexbox, grid system, and box model
+* Read the [MDN event type list](https://developer.mozilla.org/en-US/docs/Web/Events)
+and [event listener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+article
 
 Take a look at my [list of helpful links](https://calebjay.com/links-list.html)
 for more random stuff to page through.
