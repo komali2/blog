@@ -75,7 +75,7 @@ percent of your "core working hours" time I think they should be taking.
 3. [Submitting resumes]({{< relref "#the-resume-send" >}}) 40%
 4. [Studying]({{< relref "#studying" >}}) 10%
 
-Each of the above items is a link into a detailed brekadown of what each task
+Each of the above items is a link into a detailed breakdown of what each task
 is and why it should take the above given percentage of your time.
 
 
