@@ -36,6 +36,10 @@ This process is not guaranteed, universal, applicable to all people, applicable
 to all cities, states, or countries. Use it to help guide yourself in deciding
 what you should be doing day to day from now until you get a job. Good luck.
 
+If you want to know my first job hunting experience as
+a bootcamp grad, I wrote an article back then about it:
+[How This Coding Bootcamp Grad Found a Job ]({{< relref "how-this-coding-bootcamp-grad-found-a-job" >}})
+
 **Index**
 
 * [The Tasks]({{< relref "#tasks" >}})
@@ -54,9 +58,9 @@ what you should be doing day to day from now until you get a job. Good luck.
   * [Crafting a Good Resume]({{< relref "#crafting.a.good.resume" >}})
   * [How Many Resumes to Send]({{< relref "#how-many-resumes-to-send" >}})
   * [Should You Write Cover Letters]({{< relref "#should-you-write-cover-letters" >}})
+  * [Warm Leads]({{< relref "#warm-leads" >}})
   * [Finding People to Send Resumes To]({{< relref "#finding-people-to-send-resumes-to" >}})
   * [General Networking]({{< relref "#general-networking" >}})
-* []({{< relref "" >}})
 * [Studying]({{< relref "#studying" >}})
 * []({{< relref "" >}})
 * []({{< relref "" >}})
@@ -376,12 +380,241 @@ I mean the amount of people and companies that are aware that you're available
 for a job. If they don't know, they won't hire you. This is why I consider
 the resume send to be the highest priority job search activity.
 
+This is also why I advise the "resume blitz" strategy of job search. Often
+in an alumni panel I'll come up in a head to head with another alumni advising
+a "slower" or more "considered" approach, or one that advises entirely focusing
+on warm leads. I don't reject these methods outright. I believe they're an
+important part of any job searching strategy. However, I still believe
+getting as many resumes out as possible is the best strategy.
+
+One of the most difficult parts of the job search is dealing with rejection.
+You'll spend weeks invested in the process of falling in love with a company,
+only to have them crush your dreams in a single email if you're lucky
+or, if you're *really* lucky,
+an actual phone call. Many times they will simply ghost you. If you've sent out
+50 applications, that pain is quite focused. Each rejection represents a
+tremendous amount of effort "wasted." However, if you devise a strategy of
+resume sending that expects at the very least 200 resume sends before
+employment, rejection becomes just a matter of course. It hurts less.
+
+
+Other reasons for choosing a blitz strategy will be detailed below.
+
+
 ### When to Start Sending Resumes
+You should begin sending resumes the day after you graduate from your bootcamp,
+and you shouldn't stop sending resumes at the volume indicated below until
+you and an employer have both signed an employment agreement.
+
+The entire recruitment process, from resume send to offer, can take a month
+or more. If you get to the interview stage at 4 weeks in and then get rejected,
+and haven't been sending resumes in the meantime, you essentially have to "start
+over" your entire job search. This is a crippling setback from the already
+emotionally draining rejection. Don't do this to yourself. Send resumes
+immediately, and continue to send them every single day, even when you're at
+offer stage.
+
+In recruitment, we called this "spinning plates." You want work happening
+in the background for you, while you do other things. When you send a resume,
+it slowly makes its way up the stack on a recruiter's desk. While you wait
+for a phone call, your other resumes are being passed around various managers,
+who are deciding to schedule an interview. While you sit in an interview,
+other companies are looking at your resume and deciding if they want to call
+you. The more of this work happening at once, the better.
 
 ### Crafting a Good Resume
+Your bootcamp should have prepped you for this, and I don't want to get into
+this too much here because there's way better articles on the subject, but
+in general, your resume should:
+
+**Be easily found by search tools.** This means having your skills listen en
+masse somewhere on it, such as a skills section. Apply other SEO concepts such
+as rewording various skills in many places across your resume. Notice how I
+have been switching between "coding bootcamp," "programming bootcamp," and
+namedropping bootcamps directly? That's because I'm covering my SEO keyword
+ground. Do that for CSS, Javascript, SQL etc. Use ES5, ES6, Ecmascript, etc,
+throughout the resume or at the very least in the Skills section.
+
+**Clearly demonstrate what technology you've used.** If you list a project
+or work experience, list out clearly what you used on that project. I.e. "Built
+a Frontend in Vue for displaying children's books. The data was pulled from
+Firebase, which we used because we needed to quickly get a deployment
+up.**
+
+**Link directly to your projects.** If you have a project on your resume,
+put a link to the Github page for it as well as the deployment.
+
 ### How Many Resumes to Send
+You should send fifteen to twenty resumes a day and adopt the mindset that
+it will probably take 200 resume sends at minimum to get a job.
+
+The basic math is as follow:
+
+* Ten resumes gets you a phone call
+* Five phone calls gets you an onsite interview
+* Five onsite interviews gets you an offer
+* One in three offers will be an acceptable package
+
+
 ### Should You Write Cover Letters
+Yes, you should. It can only help, therefore it's required. If it's 50/50
+whether it's any good, and you don't send a cover letter on every submission,
+that instantly invalidates 50% of your work.
+
+That being said, a cover letter shouldn't take more than 2 minutes of your time
+per submission. At first this will be impossible because you'll be writing
+cover letters from scratch. But as you write more and more cover letters,
+you can copy and paste sentences between them. If one company wants React,
+you can copy a line talking about you React experience. If one company is in
+an industry you've worked in, you can copy a line from a submission to a similar
+company.
+
+While you should get your cover letters out quickly. they **must** be
+tailored for each company. I get annoyed by obvious form cover letters.
+Cut all of the crap out and get just a single paragraph in about why you think
+you can make the given company money and why you're excited for the opportunity
+to do so. Just chop out that intro "dear hiring manager, I'm excited blah blah"
+portion, and nix the "in conclusion, I look forward waaah" bit off the end. Hit
+the company website, look it up on [crunchbase](https://www.crunchbase.com/),
+drop a few sentences, and move on.
+
+
+Below is the verbatim cover letter that got me my first job at Electric Imp.
+
+>Hiring team of Electric Imp,
+
+>I read that Electric Imp has recently reached over 20 million in series C funding, which is awesome news! I would guess that things are getting more exciting every day in the offices, and I’d be  interested in speaking directly and learning more about your needs. In particular,  I found your job posting on Linkedin, and I believe that I am a good fit for the position of Front-end UI Developer.
+
+>I’m currently a Software Engineer and Fellow at Makersquare/Hack Reactor. Day to day, I teach  advanced Javascript and web technologies such as Node, Angular, React, and etc to junior Software Engineers. I have excellent command of Javascript, HTML5, and CSS, and am confident Electric Imp would find me an asset in that regard. I also have a great deal of experience in Bootstrap, Node, and UX development. I’m very familiar with event-driven applications, an example of which can be found at https://langbattle.herokuapp.com/#/home.
+
+>For further examples of my work, I invite you to visit my github at github.com/komali2 or check out my linkedin page at linkedin.com/in/calebjrogers. My portfolio is available at calebjay.com/portfolio.html.
+
+>I look forward to discussing the Front-end UI Developer position further with your team.
+
+>Warm Regards,
+
+>Caleb Jay Rogers
+
+Notice that I name drop directly technologies I saw in the job description (which
+sadly I no longer have).
+
+### Warm Leads
+A lot of people have this boomer mindset of "nothing better than a strong
+handshake from a friend to get your foot in the door" or whatever. Maybe I'm
+so skeptical of this because I knew literally nobody when I first came to San
+Francisco for Hack Reactor. Apparently it's working for some people.
+
+So, common question: Should I send my resume to my warm leads right after
+graduation, or wait until I've had more interview experience? Send them right
+away. If the company actually wants to interview you, you'll almost assuredly
+be able to push back the interview date if you need be. I went through the
+interview process at Google and had a traumatic emergency first aid experience
+halfway through, leading me to request pushing back the interview nearly 3 months.
+They accepted without hesitation.
+
+Probably it'll take nearly a month for the company to even call you back. So,
+get the resume out as soon as possible.
+
+
 ### Finding People to Send Resumes To
+I sent the majority of my resumes over:
+
+* [Linkedin](https://www.linkedin.com)
+* [Angelist](https://angel.co/today) (how I got my Electric Imp position)
+* [Hired](https://hired.com) (how I got my Potato position)
+
+I've heard good things about Stackoverflow jobs, especially for remote work,
+but it seems in general they're looking for more experienced engineers.
+
+As for services like Triplebyte, go for it, but don't expect much. They
+included a bunch of embedded system, C programming type questions in my
+interview, despite me explicitly telling them I have no interest or experience
+in such things.
+
+To help your LinkedIn application process, send out requests to the maximum
+number of people LinkedIn will allow you to, and accept every request that comes
+to you. I detail the why and how of this further in my article specifically
+about
+[LinkedIn Strategies for Bootcamp Grads]({{< relref "how-to-use-linkedin-as-a-coding-bootcamp-grad" >}})
+
+Also, upload a resume that doesn't have your phone number, but does have your
+email, onto Monster. You'll get tons of irrelevant and crappy job recommendations
+from recruiters, but submit through them anyway. It's a free resume send you don't
+have to do the legwork on, and you might get free interview practice from it.
+
+Finally, grab a local paper, because shockingly, people are putting web dev
+roles in there, and I think it's boomers that don't know how to use the internet,
+so you might get lucky and be the only candidate sending a resume in to a
+position nobody else knows about.
+
 ### General Networking
+Networking can help, but I disagree that it should be the primary method of job
+hunting, as some other alumni claim.
+
+I often get asked if as a new bootcamp grad, one should attend meetups, and if so
+how often, and also which ones.
+
+I never had success with job leads through meetups. I had one job lead through
+a conference, once. A man had a phone case that looked like a giant rubber duck
+in his back pocket, so I asked if I could take a picture of his ass for my
+girlfriend at the time who loved ducks, he thought this was funny and a
+conversation led to him asking me to send him my resume for a developer
+evangelist position. Nothing ever came of that. I imagine this is because every
+single meetup's membership in the Bay Area is comprised of 75% job seekers, 50%
+of whom are recent bootcamp grads. Market's flooded and it's not nearly as
+efficient a way to increase your surface area as simply blitzing resume sends
+to open job recs.
+
+Still, it's important to get out of your house and actually talk to people, so
+as to prevent turning into some kind of weird LinkedIn cave cave troll.
+Therefore, I do recommend attending at least one meetup every two weeks during
+your job search. Ideally it's related to programming in some way, but it could
+be anything really.
+
+Use Meetup.com to find meetups. Facebook might be good too, I don't know.
+
+Good keywords to search for include html, javascript, node, react, vue,
+web, and programming.
 
 ## Studying
+A broad and neglected topic for bootcamp grads. Studying in this context
+generally
+means just reading documentation, or maybe doing a tutorial.
+
+This is important because it can generate inspiration for new projects. It can
+also slowly add to your growing skillset. Having a broad range of technology
+skills is important to make yourself more "T" shaped.
+
+Learning also keeps you sharp and on your toes. It helps keep alive all the
+fruitful little brain things that exploded awake during the bootcamp, and lets
+you take advantage of them throughout your job search.
+
+Finally, Hack Reactor, App Academy, Galvanize, or whoever, didn't teach you
+enough to get your first job with much ease. You must augment your education
+there.
+
+Studying can be as simple as reading documentation. You can have it open on
+a tab on your phone and read it while pooping, or sitting on the train, or
+in lieu of browsing Instagram or Reddit.
+
+You won't memorize everything you read, and that's ok. You'll have a brief
+enough knowledge on the subject to be able to say during an interview, "oh,
+I remember reading about that in the Node documentation, isn't it called something
+like x or y? Mind if I look it up real quick?" It will decrease what you don't
+know you don't know, and increase what you know you don't know.
+
+Once during an interview I was asked to list all the ways you can control when
+a line of code will run in Node. Luckily I had read the Node documentation
+top to bottom on the toilet that day, and thus was aware of things like
+`process.nextTick`.
+
+Here are some things you should study:
+
+* Read the entire [Node Documentation](https://nodejs.org/en/docs/)
+* Read the [MDN XMLHttpRequest documentation](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+* Read the entire [Webpack documentation](https://webpack.js.org/concepts/)
+* Read the entire documentation for whatever framework you've chosen to
+specialize in
+* Read the [MDN DOM documentation](https://developer.mozilla.org/en-US/docs/Glossary/DOM)
+* Read a whole shitload more random MDN pages
+* Find and read articles on CSS flexbox, grid system, and box model
