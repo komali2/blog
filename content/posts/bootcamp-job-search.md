@@ -646,4 +646,4 @@ for more random stuff to page through.
 ## Further Questions
 This post will probably be updated quite frequently over the next few months.
 If you found something confusing or have something you think is important to
-add, please email me at rogersjcaleb at google's email service.
+add, please email me at caleb at calebjay.

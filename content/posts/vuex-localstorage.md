@@ -136,5 +136,5 @@ export default {
 
 It's my goal to write READMEs and other instructive articles as clearly as
 possible. If there's anything above that you didn't understand or didn't work
-for you, please email me at rogersjcaleb on the Google email service so that I
+for you, please email me at caleb at calebjay so that I
 can help you and then improve my post for others.
