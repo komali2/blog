@@ -1,6 +1,6 @@
 ---
 title: "I Wrote an Emacs Color Theme"
-date: 2019-05-03T02:16:47-08:00
+date: 2020-05-17T02:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['personal-project', 'open-source', 'emacs']
@@ -33,6 +33,12 @@ arcade games like [Tempest](https://en.wikipedia.org/wiki/Tempest_(video_game)).
 
 So, to create an Emacs Color theme... but not just an Emacs one, a Spacemacs one. Pretty much the same thing, but there
 are some command "gotchas."
+
+# Steal a theme
+
+If you want to grab your favorite theme off of VScode, in VScode press `CTRL` + `SHIFT` + `P` and search for
+`Developer: Generate Color Theme From Current Settings`. An example of the output of which you can
+see at this [link](https://pastebin.com/j6addd1Z).
 
 # Creating the Theme
 First off, don't treat this like a tutorial, because I am obviously garbage at this, as will be seen from my stupid
