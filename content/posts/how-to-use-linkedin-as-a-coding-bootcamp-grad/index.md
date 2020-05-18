@@ -1,6 +1,6 @@
 ---
 title: "How to Use LinkedIn as a Coding Bootcamp Grad"
-date: 2016-11-16T00:16:47-08:00 
+date: 2016-11-16T00:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['job-hunt', 'bootcamp']
@@ -14,23 +14,23 @@ https://www.youtube.com/embed/lCCty8DpUwk
 
 It's a gun that the U.S. military built a plane around. The gun is the <a href="https://en.wikipedia.org/wiki/GAU-8_Avenger">GAU-8 Avenger</a>. It's an autocannon with 7 barrels and fires three-thousand-nine-hundred 30mm rounds per minute.
 
-<img 
-    src="/30mm.jpg" 
-    alt="A 30mm round held by a pilot. " 
-    width="232" 
-    height="217" />
-    
+{{< img
+    src="30mm.jpg"
+    alt="A 30mm round held by a pilot. "
+    width="232"
+    height="217" >}}
+
 Three thousand of these per minute.
 
 When the A-10 shows up, everything it points at disintegrates into fine powder in seconds. To maximize LinkedIn's potential during your job hunt, that's what you need to become.
 <h3><strong>Who You Are to LinkedIn</strong></h3>
 LinkedIn is social media, I guess. That means it's an aspect of your brand. You presumably put a lot of work into making your resume and cover letter pop out and sell your story well, so you should do the same for LinkedIn. I assume you already have an account, so head to LinkedIn and click "profile &gt; edit profile."
 
-<img 
-    src="profile1.png" 
-    alt="A bootcamp grad's linkedin profile summary. " 
-    width="656" 
-    height="329" />
+{{< img
+    src="profile1.png"
+    alt="A bootcamp grad's linkedin profile summary. "
+    width="656"
+    height="329" >}}
 
 The first, possibly most important, part is the "summary" here. It's what people see when they first hit your profile, and the information here is reflected elsewhere in searches. Each of those fields can be edited by just hovering over them and clicking the little pencil or whatever icon LinkedIn chooses on a given week.
 
@@ -48,11 +48,11 @@ The first, possibly most important, part is the "summary" here. It's what people
 
 &nbsp;
 
-<img 
-    src="/Screenshot-2016-11-04-at-4.33.40-PM.png" 
-    alt="A screenshot of a filled out previous position field on linkedin. " 
-    width="591" 
-    height="537" />
+{{< img
+    src="Screenshot-2016-11-04-at-4.33.40-PM.png"
+    alt="A screenshot of a filled out previous position field on linkedin. "
+    width="591"
+    height="537" >}}
 
 <strong>Previous Jobs</strong> should have nice big fat paragraphs describing how you were super awesome at that job. Bonus if you can sneak in anything software-engineering related that you did. Attach pictures, it makes your LinkedIn stand out. If you're strapped for time, just paste in the description whatever you've got on your resume.
 
@@ -60,11 +60,11 @@ The first, possibly most important, part is the "summary" here. It's what people
 
 <strong>Skills and Endorsements</strong> is <em>important.</em> If you've got Microsoft office on there, get rid of it. If you've got "being sarcastic," get that shit out of here. This is your chance to get hit on searches for technologies. Paste your whole "skills" section of your resume in here. Coordinate with your cohort to upvote eachother in ALL of your skills. Whenever you get a new contact, click the little + next to every one of their skills and they may do the same for you.
 
-<img 
-    src="/Screenshot-2016-11-04-at-4.39.26-PM.png" 
-    alt="Screenshot of a Linkedin Page's skills and endorsements section" 
-    width="627" 
-    height="575" />
+{{< img
+    src="Screenshot-2016-11-04-at-4.39.26-PM.png"
+    alt="Screenshot of a Linkedin Page's skills and endorsements section"
+    width="627"
+    height="575" >}}
 
 Do all the above before you touch anything else on LinkedIn. If you start sending out connect requests and get rejected because your LinkedIn profile makes you look like a bot because of how empty it is, you'll close yourself out of a lot of potential opportunities.
 <h3><strong>Spray n Pray</strong></h3>
@@ -72,29 +72,29 @@ Now comes the good stuff. I'm bringing the A-10 metaphor back in to play.
 
 LinkedIn is a way for you to contact people in the industry. Those people might be recruiters, engineering managers, decision makers, alumni, whatever. Every opportunity to contact these people is a potential opportunity to get interviewed. You want as many interviews as possible, so it follows that you want to contact as many people as possible. Without appearing like a spambot, of course.
 
-<img 
-    src="/Screenshot-2016-11-04-at-4.43.06-PM.png" 
-    alt="Screenshot of the top right of linkedin's website" 
-    width="252" 
-    height="50" />
+{{< img
+    src="Screenshot-2016-11-04-at-4.43.06-PM.png"
+    alt="Screenshot of the top right of linkedin's website"
+    width="252"
+    height="50" >}}
 
 Top right of the page on LinkedIn has a little picture of a person with a + next to it. Click it. You'll be brought to a screen that looks like:
 
-<img 
-    src="/using-linkedin-1.png" 
-    alt="screenshot of linkedin contact management page" 
-    width="834" 
-    height="501" />
+{{< img
+    src="using-linkedin-1.png"
+    alt="screenshot of linkedin contact management page"
+    width="834"
+    height="501" >}}
 
 You'll have pending invitations (maybe) and "people you may know." Pretend you are an A-10 Warthog, spin up your giant friggin cannon, and click "accept" and "connect" on every person on this page. Then refresh and do it again. Then refresh and do it again. Do this every day, multiple times per day. Now go to the search bar, type in "software engineer," do a "people" search (as opposed to job or company), filter by wherever you are. Connect with everyone on the first page that doesn't require LinkedIn Premium to connect with. If you get brought to a screen that says "enter their email," press back and keep connecting with other people until you get that screen every time. Then wait a day and do it again, but this time for "front end developer," or "back end developer," or "developer," or "software developer." Flak cannon.
 
 When people see me rapidly clicking through my connections and invitations, they are always surprised. "But, you don't know those people! You're connecting with them?" Yes, I am, what of it? What does a connection get you? If you haven't done a people search yet, do one now. Notice how some people have "send inmail" next to their name instead of "connect?" That's because they're a 3rd degree person instead of 2nd degree. Basically, you aren't connected with anybody that they're connected to. You can't connect with them and thus you'll never be able to message them unless you pay LinkedIn to let you. If you want to be able to message a metric shitton of people, you'll need to get as many 1st degree connections as possible. With 1st degree connections comes exponentially more 2nd degree people, who are only a click away from becoming 1st degree. Look, just do it, this isn't Facebook, the only thing LinkedIn is good for is getting you a job.
 
-<img 
-    src="/linkedin-2nd-1st-degree.png" 
-    alt="Screenshot of two linkedin connections, one a first degree, one a second degree. " 
-    width="1050" 
-    height="404" /> A 2nd degree connection can be added to become a 1st degree connection, who you can then message.
+{{< img
+    src="linkedin-2nd-1st-degree.png"
+    alt="Screenshot of two linkedin connections, one a first degree, one a second degree. "
+    width="1050"
+    height="404" >}} A 2nd degree connection can be added to become a 1st degree connection, who you can then message.
 
 <h3><strong>Getting Jobs</strong></h3>
 Now that you have a million connections, you can put them to use. Hit the <a href="https://www.linkedin.com/jobs/">Linkedin Jobs page</a> and find the search bar. I use the following string:
@@ -103,11 +103,11 @@ Make sure to filter it to your area. You should be brought to a results page wit
 
 Now you'll have a nice set of hundreds of jobs ripe for the picking:
 
-<img
-    src="/Screen-Shot-2016-11-13-at-7.34.28-PM.png" 
-    alt="Screenshot of the results page of a linkedin job search for a software engineer in the bay area. " 
-    width="780" 
-    height="772" />
+{{< img
+    src="Screen-Shot-2016-11-13-at-7.34.28-PM.png"
+    alt="Screenshot of the results page of a linkedin job search for a software engineer in the bay area. "
+    width="780"
+    height="772" >}}
 
 Each result has some basic information - the company name, job title, short job description. That's all helpful, but the best bits are what come after. In the above image, under the BMW job, note that it says "1 person from your school works at BMW." This is why you filled out your education section earlier. Now I can click that little link, see which of my alumni work there, and connect with or message them. If I see a lot of bootcamp grads there (instead of my university), I know that that company is probably friendly to the concept of bootcamps and should take priority for my applications.
 

@@ -14,12 +14,12 @@ My first day of work, we have a standup. Just me and two others on my team are i
 
 Day two I get invited to play "pool basketball." We roll into what is a forest - no, there's houses here actually, tucked away. Park on the street - "won't I get a ticket?" "No this is where the rich folk live." "How big is this property?" "An acre? Maybe? Guy was employee number 17 at Amazon." He's got a massive place, covered in solar panels. Marketing director at Amazon or something, then some more people show up. Ex NY detective now doing some sort of gene sequencing for a local startup. Obscure other positions I don't really understand. We spend two hours beating the crap out of eachother in a pool, then move his giant pumpkin to the porch - "we're gonna blow this up next week. Family tradition."
 
-<img 
-    src="/20160929_201721-289x300.jpg" 
-    alt="My coworker posing with an enormous pumpkin. " width="289" height="300" /> This giant pumpkin's gonna explode.
+{{< img
+    src="20160929_201721-289x300.jpg"
+    alt="My coworker posing with an enormous pumpkin. " width="289" height="300" >}} This giant pumpkin's gonna explode.
 
 Quality of life through the roof. 5 minute bike ride to work in the morning - 5 to the gym as well. Still usually one of the first in the office, nice and peaceful in the morning. Free range to play around with the Imps. Given work straight off the bat - trusted to finish it with no micro-management. No manager huffing over my shoulder about brand, or KPIs, just a ticket and a "let me know if you get stuck." Simple stuff to start, of course. Actually labeled in the system as "low hanging fruit."
 
-<img src="/20160929_101916-300x169.jpg" alt="Hardware &quot;imps,&quot; small pre-built circuitboards with sensors and easy-to-use ports. " width="300" height="169" /> They give me tons of little "imps" to play with on my off time.
+{{< img src="20160929_101916-300x169.jpg" alt="Hardware &quot;imps,&quot; small pre-built circuitboards with sensors and easy-to-use ports. " width="300" height="169" >}} They give me tons of little "imps" to play with on my off time.
 
 Somewhat regretting choosing a mac. Might install ubuntu on this thing?

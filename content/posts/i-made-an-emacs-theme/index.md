@@ -27,11 +27,7 @@ ways, but for now, I want to focus on color theme.
 It seems silly, but a reason I wasn't as keen on leaving VSCode was how pretty it was to me. I had got a theme on it that reminded me of old vector
 arcade games like [Tempest](https://en.wikipedia.org/wiki/Tempest_(video_game)). I mean, look at it:
 
-<img
-    src="/vscode-theme.png"
-    alt="Screenshot of the Default High Contrast theme in VSCode."
-    width="794"
-    height="447" />
+{{< img src="vscode-theme.png" alt="Screenshot of the Default High Contrast theme in VSCode." >}}
 
     The Default High Contrast theme on VSCode.
 
@@ -49,11 +45,7 @@ give you all the information you need. It instructs one to open the Theme Custom
 `M-x customize-create-theme`. You get the choice of populating the theme with some sane defaults, which is a good idea
 because there's hundreds of "Faces" (more on that) to choose from. It looks like this 2:
 
-<img
-    src="/emacs-theme-editor.png"
-    alt="Screenshot of the Emacs Theme Editor"
-    width="371"
-    height="619" />
+{{< img src="emacs-theme-editor.png" alt="Screenshot of the Emacs Theme Editor" >}}
 
     The theme editor in Emacs.
 
@@ -92,11 +84,11 @@ straightforward to enter. Commands like that are typically entered via `M-x {{co
 for the `what-cursor-position` command, it just shows a single line of text instead of the big box of tons of information it
 should show.
 
-<img
-    src="/what-cursor-position.png"
+{{< img
+    src="what-cursor-position.png"
     alt="Screenshot of the output of M-x what-cursor-position"
     width="829"
-    height="585" />
+    height="585" >}}
 
     What the output of `M-x what-cursor-position` *should* look like.
 
