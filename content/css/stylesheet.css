@@ -1,6 +1,7 @@
 body {
   background-color: #f4f4f4;
   font-family: helvetica neue,helvetica,sans-serif;
+  line-height: 1.4;
 }
 main {
   margin-left: auto;
@@ -9,6 +10,7 @@ main {
 }
 header {
   font-size: 2em;
+  line-height: 1;
 }
 
 h1 small, h2 small, h3 small, h4 small {
