@@ -38,3 +38,14 @@ Deploying (updating the live website at http://www.blog.calebjay.com ) is
 done by Caleb only, mostly because he hasn't sat down to figure out
 an intelligent deploy process yet. Contact him at whatever contact
 details you can find at http://calebjay.com/ to request a deployment.
+
+## Auto-Rotate Images
+
+Hugo can't read exif data, which may result in images appearing in a rotation you
+aren't expecting. To fix this, in the folder containing your images, do
+
+```
+mogrify -auto-orient *.jpg*
+```
+
+This will rotate images to match their exif data.
