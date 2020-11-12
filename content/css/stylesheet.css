@@ -98,6 +98,9 @@ main>section ul{
 .highlight {
     width: max-content;
 }
+pre {
+    padding: 8px;
+}
 /* Background */ .chroma { color: #f8f8f2; background-color: #272822 }
 /* Other */ .chroma .x {  }
 /* Error */ .chroma .err { color: #960050; background-color: #1e0010 }
