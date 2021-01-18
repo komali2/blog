@@ -6,7 +6,7 @@ body {
 main {
   margin-left: auto;
   margin-right: auto;
-  max-width: 34em;
+  max-width: 61em;
 }
 header {
   font-size: 2em;
@@ -29,6 +29,7 @@ main>section {
 
 main>section small {
   font-weight: normal
+  margin-top: 6px;
 }
 
 main>section ul{
@@ -36,7 +37,7 @@ main>section ul{
   grid-template-columns: 30px 30px 30px;
   align-items: start;
   justify-items: start;
-  grid-gap: 10px 5px;
+  grid-gap: 10px 25px;
   padding: 0px;
   justify-content: space-around;
   list-style-type: circle;
