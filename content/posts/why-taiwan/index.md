@@ -12,9 +12,8 @@ In this post, I'm going to try to convince you to do the same.
 Perspective matters. I'm writing this as a white guy, an American, in my early 30s, no kids, and as a software engineer.
 Not that you need to be any combination of those things for this post to apply to you, but I want to
 acknowledge that some of my reasoning may not apply to you, that some aspect of your life
-may nullify my arguments, or perhaps make an even stronger case for why you should come here. There could be reasons
-I haven't considered to come here! (for example, a friend in Venezuela has a strong argument to view Taiwan as a place
-of political asylum)
+may nullify my arguments, or perhaps make an even stronger case for why you should come here. There could even be reasons
+I haven't considered to come here!
 
 
 * [The Economic Argument]({{< relref "#the-economic-argument" >}})
@@ -39,13 +38,13 @@ time I lived here, I did a [blog post](http://ablate.blogspot.com/2014/05/what-d
 on my financial breakdown. Of course, that was back in 2014, and I was living as a grungy 22 year old
 guy in a 3 bedroom with a bunch of roommates, but it was a pretty nice place and I had a great life.
 I was working 12 hours a week making something like $2,000 USD a month teaching English, and just $200 USD
-of that went to rent. Tammy and I are in the range of $1,7000 USD per month for a 2 bedroom, 2 bathroom
+of that went to rent. Tammy and I are in the range of $1,700 USD per month for a 2 bedroom, 2 bathroom
 luxury apartment located close to an MRT station, and that's *before* we negotiate rent down.
 
 A regular lunch is between $1 and $3 USD. Boba tea is usually around $1 to $2 USD. A ride on the train is usually around $1 USD. Meanwhile, the mean engineering salary for Taiwanese citizens is $42,000 USD per year.
 Sure it doesn't sound like much, but if your rent is $500 (easily doable) and your lunch is $3...
 
-Also worth considering, for us Americans - you will pay about 10% of your healthcare costs, for equivalent
+Also worth considering, for us Americans - you will pay about 10% of your healthcare costs, for better
 quality healthcare. Even less when you live here for 6 months and get on the nationalized health insurance,
 or, get a job for a Taiwanese company. It's a single payer state health insurance scheme that everyone
 pays into. Every doctor I've ever interacted with had some part of their education in the USA, and
@@ -57,7 +56,7 @@ But what about tax! 20% income tax rate on the first $86,419 USD that you make, 
 tax rate applied on the difference between each bracket (kinda similar to the USA). That's before you apply
 any discounts you get as a foreigner, depending on what visa you come in on. Given that your monthly health insurance
 bill is something like $8 USD, if you aren't putting more cash away in Taiwan than you are in the USA,
-you are might be actively trying not to.
+you might be actively trying not to.
 
 
 # It's Easier Than You Think
@@ -140,7 +139,7 @@ as to require a permit to hike.
 
 Many of the trails are extraordinarily well paved, seeing foot traffic in the thousands per day.
 
-{{< img src="outdoors.jpg" alt="The scenery from Jiufen" >}}]
+{{< img src="outdoors.jpg" alt="The scenery from Jiufen" >}}
 
 That being said, if you prefer something a little more wild, it can easily be had. One of my goals is to explore
 some of the more hidden, unmaintained hikes, as I did on my last stint in Taiwan.
@@ -268,7 +267,7 @@ efforts to overthrow a free and fair election, and the fact that that man (Brian
 is the straw that broke the back of my faith in my country and my patriotism.
 
 Throughout my life I've watched the US and state governments fail spectacularly to manage hurricanes, floods, and pandemics.
-The US government has no plan for mass automation, it has no ability to mange the next pandemic. It couldn't
+The US government has no plan for mass automation, it has no ability to manage the next pandemic. It couldn't
 even protect its capital from a violent insurrection. Healthcare costs are out of control. 11,000,000 children go hungry.
 And despite all this, soldiers remained stationed abroad, and we find the time to assassinate generals in other countries.
 My tax dollars, to that? My life spent giving thousands to United Healthcare in the hope that my deductible is paid off
