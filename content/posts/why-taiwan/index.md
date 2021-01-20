@@ -20,6 +20,11 @@ of political asylum)
 * [The Economic Argument]({{< relref "#the-economic-argument" >}})
 * [It's Easier Than You Think]({{< relref "#its-easier-than-you-think" >}})
 * [It's a Good Life]({{< relref "#its-a-good-life" >}})
+  * [Outdoors]({{< relref "#outdoors" >}})
+  * [Bicycling and Motorcycling]({{< relref "#bicycling-and-motorcycling" >}})
+  * [Nightlife]({{< relref "#nightlife" >}})
+  * [Public Transit]({{< relref "#public-transit" >}})
+  * [Food]({{< relref "#food" >}})
 * [The Political Argument]({{< relref "#the-political-argument" >}})
 * [What Did it Take to Survive a Coding Bootcamp]({{< relref "#what-did-it-take-to-survive-a-coding-bootcamp" >}})
 
@@ -50,9 +55,9 @@ In the USA, it's 78.5.
 
 But what about tax! 20% income tax rate on the first $86,419 USD that you make, after that it's a progressive
 tax rate applied on the difference between each bracket (kinda similar to the USA). That's before you apply
-any discounts you get as a foreigner, depending on what visa you come in on. Consider your health insurance
-bill monthly is something like $8 USD, if you aren't putting more cash away in Taiwan than you are in the USA,
-you are must be actively trying not to.
+any discounts you get as a foreigner, depending on what visa you come in on. Given that your monthly health insurance
+bill is something like $8 USD, if you aren't putting more cash away in Taiwan than you are in the USA,
+you are might be actively trying not to.
 
 
 # It's Easier Than You Think
@@ -90,12 +95,12 @@ USD depending on how many hours you work, which is more than enough to survive i
 
 That's merely a backup plan by the way. There's plenty of "normal" jobs here as well. Taiwan is a burgeoning tech hub,
 and as I write this I'm watching hordes of tech workers come in here and boost the science and technology scene. When
-I last lived here, I knew foreigners doing everything from marketing, to running a kitchen, engineering, military
-contracting, hell I even knew a guy that made a living selling greek yogurt that he made in his apartment. Because
+I last lived here, I knew foreigners doing jobs like marketing, running a kitchen, engineering, military
+contracting, or making and selling greek yogurt out of their apartment. Because
 the cost of living is so low, it's pretty easy to find your way here.
 
 Concerned about Mandarin? That's a fair fear, especially for English speakers that have never picked up another language.
-Now, I don't recommend this, but you can live a whole life in Taiwan without ever learning the most basic of Mandarin. I knew
+I don't recommend this, but you can live a whole life in Taiwan without ever learning the most basic of Mandarin. I knew
 a couple of guys like that when I last lived here. I only say this to demonstrate why you shouldn't worry. The idea is,
 these guys were able to work, eat, find friends and partners, without speaking any Mandarin, because Taiwan is highly
 internationalized and very welcoming. That being said, these guys also were very much looked down upon. As a white dude
@@ -110,23 +115,122 @@ it's a non-phonetic writing system. I'm no polyglot either, chances are you'll h
 Life in Taiwan is good.
 
 The weather is tropical. Ever been to Hawaii? The beaches and water here are cleaner, and we have oodles of them. Like
-the rivers in Colorado? Here they're as clean and cold as a spring, wherever you go. Mountains in the middle
+the rivers in Colorado? Here they're crystal, and cold as a spring, wherever you go. Mountains in the middle
 of cities, snaked with hiking trails. Clubs that for a $20 USD cover get you an experience equal to something that would
-cost you at least a hundred in Japan, or a thousand in New York or Vegas. Indie music scene. Indie art scene. Indie
+cost you at least a hundred in Japan, New York, or Vegas. Indie music scene. Indie art scene. Indie
 film scene hungry for foreign actors. Quite literally the best motorcycling I've ever had, and I've been over Japan,
-the French Riviera, end to end in Vietnam, and all over California.
+the French Riviera, end to end in Vietnam, and all over California. Incredible food.
 
-Friends are easily made. Expats itching for adventure and community combined with locals addicted to activity
-guarantee it.
+## Outdoors
 
-The transportation system leaves you no excuses for a day trip to the beach, hot spring, or river. For $1 USD and an hour and a half of your time you're on the East Coast with miles of beach to explore. For the same price and 30 minutes less
+The hiking here is hard to beat. There's a wide variety for skill level, and many hikes are easily accessible.
+If you live in Taipei, you have access to Elephant Mountain or Gold Mountain within 20 minutes, both of which have
+easy going or strenuous options, paved and otherwise. Add another 20 minutes and you can be at the enormous Yangmingshan
+national park and mountain, which is covered in both sulfur vents and perfect, clean, curving roads for bicycling
+and motorcycling
+
+[{{< img src="hike.jpg" alt="Suspension bridge at Taroko Gorge" >}}](/posts/why-taiwan/hike.jpg)
+
+Some of the trails, like above bridge at Taroko Gorge, are so well maintained despite the wildness of their environment
+as to require a permit to hike.
+
+[{{< img src="hikecaleb.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/hikecaleb.jpg)
+[{{< img src="hiketammy.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/hiketammy.jpg)
+[{{< img src="hiketammy2.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/hiketammy2.jpg)
+
+Many of the trails are extraordinarily well paved, seeing foot traffic in the thousands per day.
+
+[{{< img src="outdoors.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/outdoors.jpg)
+
+That being said, if you prefer something a little more wild, it can easily be had. One of my goals is to explore
+some of the more hidden, unmaintained hikes, as I did on my last stint in Taiwan.
+I [wrote about a secret entrance](http://taiwanhikes.blogspot.com/2014/03/secret-entrance-to-elephant-mountain.html)
+to elephant mountain back in 2014, for example.
+
+There's also a huge rock climbing scene here. Practice during the week in a state gym for $1 USD unlimited climbing time, and an extra
+$1 USD to rent shoes. On the weekend, head out to one of the untold *hundreds* of natural climbing walls. One of my goals
+during my time here is to start mapping these out.
+
+
+## Bicycling and Motorcycling
+
+Renting a bicycle is so easy as to literally be automated. Taiwan has a city bike rental program called "YouBike."
+With a swipe of your metro card, you can ride a decent quality cruiser bicycle around town. Since Taipei is
+integrated about as unobtrusively as possible for a metro area into the local wilderness, even a city
+ride can turn into something quiet and gorgeous.
+
+[{{< img src="tammywest.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/tammywest.jpg)
+
+Just outside of Gongguan, one of the more popular areas of Taipei, for example, is a riverside trail that rides
+south to the beautiful Bitan, picture above. That water is clear straight through to the bottom, by the way,
+if you feel like cooling off after your ride.
+
+Taiwan is a particularly exceptional motorcycling destination. As an American I'm still not sure how Taiwan maintains
+such perfect road infrastructure. In the States our GDP is apparently the highest in the world, yet the month
+before I moved out here, driving down Kirby Drive in Houston for 5 minutes resulted in my car's front panel falling off.
+In any case, this means you can ride in Taiwan without fear of a slip or slide, all while enjoying breathtaking views.
+
+[{{< img src="motorcyclecaleb.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcyclecaleb.jpg)
+[{{< img src="motorcycletammy.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcycletammy.jpg)
+[{{< img src="motorcycletammy1.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcycletammy1.jpg)
+[{{< img src="motorcycletammy2.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcycletammy2.jpg)
+
+Plus, renting is really easy, and fairly affordable.
+
+
+[{{< img src="motorcyclewulai.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcyclewulai.jpg)
+[{{< img src="photowulai.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/photowulai.jpg)
+
+The availability of destinations once you get your hands on a motorcycle is overwhelming. We'll see how many I can hit during
+my new life here. Pictured above is Wulai, about a 30 minute ride south from Taipei (also accessible by bus), where the
+attractions include river tracing (sometimes called mountaineering or canyoning) and natural hot springs.
+
+## Nightlife
+
+[{{< img src="night2.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/night2.jpg)
+
+Taiwanese nightlife is incredible. Whatever your scene is, they probably have it here. Recently, Taiwan made the news
+for being able to safely host an EDM festival while the rest of the world was ravaged by a pandemic. Festivals
+are not a rare occurrence here, so the US West Coast Snowglobe, Coachella, Snowglobe, Life is Beautiful crowd will
+find themselves right at home here. Back in 2014, we took an overnight bus from Taipei to Kaohsiung for, if I remember
+correctly, something like $20 USD, and then piled into an impromptu van taxi with a bunch of strangers also
+on their way to a back to back weekend EDM festival in Kenting. While there, us and hundreds others partied
+at night, then retreated to the beach to sleep. A buddy and I broke away from the main groups, finding a sort of beach
+cave roofed by a dense net of vines to sleep in. No sleeping bags or anything - the weather just allowed for this
+sort of thing.
+
+Jazz and swing are also popular here. Nearly every day in Taipei, some bar, club, or cafe is hosting a swing
+dancing night, which in swing fashion usually runs to the wee hours of the morning. There's a couple good
+jazz clubs here as well. If rock is more your fashion, there's a wonderfully old school, analog rock scene
+here, made up of young punks and old hat rockers. Last I lived here, there was a club where patrons would
+swap out instruments throughout the night and play whatever covers people knew. I've been to some pretty
+hardcore metal shows here as well, and Japanese rock artists often visit (if you haven't yet experienced
+Japanese rock, I highly recommend it. Next level stuff).
+
+Of course, there's also bars and nightclubs. Taiwan's laws around infusions aren't as strict as the USA,
+so mixologists can whip up some *crazy* good drinks. To date the best cocktail I've ever had was in
+Taipei. If you're looking for something cheaper, you can always pull the early twenties move of
+picking up $1 USD beers from 7/11 to pregame before sloshing your way into the clubs before 11pm to
+get in for free or a discount. On that note - low material and labor cost in Taiwan means that nightclubs
+can build out some absolutely phenomenal light and sound systems. The production level rivals anything
+I saw in Vegas.
+
+## Public Transit
+
+The transportation system leaves you no excuses for a day trip to the beach, hot spring, or river. For
+$1 USD and an hour and a half of your time you're on the East Coast with miles of beach to explore. For the same price and 30 minutes less
 you're in the middle of a jungle hiking towards a water fall, or, on a mountain with a bicycle you rented for $2 USD
 exploring unmarred road with a bike lane as fat as a king sized bed. Anywhere you want to go can be gotten to on a
 bus or train, quickly. Failing that, you can splurge $10 USD on a taxi to get you there directly, on a whim.
 
-Rock climbing, take your pick. Practice during the week in a state gym for $1 USD unlimited climbing time, and an extra
-$1 USD to rent shoes. On the weekend, head out to the, god, untold *hundreds* of natural climbing walls. One of my goals
-during my time here is to start mapping these out.
+For your daily commute, there's the subway, called the MRT, which for about $0.60 USD can get you pretty much
+anywhere on the line. During off time, trains come something like every 5 minutes. Rush hour, it's about every
+minute. It's as plain as day to navigate, no matter what language you speak, and highly staffed. It's also
+very clean.
+
+Of course, considering the size of Taipei, you could always just rent a citybike. Complete your ride in under
+30 minutes and it's free (this may have ended). Otherwise, it's about $1 USD every 30 minutes.
+
 
 If you like music, you'll fit in. An EDM scene that, in my opinion, rivals San Francisco and Tokyo for sheer diversity,
 if not production value. Music festivals for any genre. Underground rock clubs. Maybe the only thing they don't have out
