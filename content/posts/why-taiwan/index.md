@@ -26,7 +26,7 @@ of political asylum)
   * [Public Transit]({{< relref "#public-transit" >}})
   * [Food]({{< relref "#food" >}})
 * [The Political Argument]({{< relref "#the-political-argument" >}})
-* [What Did it Take to Survive a Coding Bootcamp]({{< relref "#what-did-it-take-to-survive-a-coding-bootcamp" >}})
+* [Conclusion]({{< relref "#conclusion" >}})
 
 ## The Economic Argument
 
@@ -129,18 +129,18 @@ easy going or strenuous options, paved and otherwise. Add another 20 minutes and
 national park and mountain, which is covered in both sulfur vents and perfect, clean, curving roads for bicycling
 and motorcycling
 
-[{{< img src="hike.jpg" alt="Suspension bridge at Taroko Gorge" >}}](/posts/why-taiwan/hike.jpg)
+{{< img src="hike.jpg" alt="Suspension bridge at Taroko Gorge" >}}
 
 Some of the trails, like above bridge at Taroko Gorge, are so well maintained despite the wildness of their environment
 as to require a permit to hike.
 
-[{{< img src="hikecaleb.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/hikecaleb.jpg)
-[{{< img src="hiketammy.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/hiketammy.jpg)
-[{{< img src="hiketammy2.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/hiketammy2.jpg)
+{{< img src="hikecaleb.jpg" alt="Me hiking at Yehliu geological park" >}}
+{{< img src="hiketammy.jpg" alt="Tammy hiking at Yehliu geological park" >}}
+{{< img src="hiketammy2.jpg" alt="Tammy hiking at Yehliu geological park" >}}
 
 Many of the trails are extraordinarily well paved, seeing foot traffic in the thousands per day.
 
-[{{< img src="outdoors.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/outdoors.jpg)
+{{< img src="outdoors.jpg" alt="The scenery from Jiufen" >}}]
 
 That being said, if you prefer something a little more wild, it can easily be had. One of my goals is to explore
 some of the more hidden, unmaintained hikes, as I did on my last stint in Taiwan.
@@ -159,7 +159,7 @@ With a swipe of your metro card, you can ride a decent quality cruiser bicycle a
 integrated about as unobtrusively as possible for a metro area into the local wilderness, even a city
 ride can turn into something quiet and gorgeous.
 
-[{{< img src="tammywest.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/tammywest.jpg)
+{{< img src="tammywest.jpg" alt="Tammy next to the river at Bitan" >}}
 
 Just outside of Gongguan, one of the more popular areas of Taipei, for example, is a riverside trail that rides
 south to the beautiful Bitan, picture above. That water is clear straight through to the bottom, by the way,
@@ -170,16 +170,15 @@ such perfect road infrastructure. In the States our GDP is apparently the highes
 before I moved out here, driving down Kirby Drive in Houston for 5 minutes resulted in my car's front panel falling off.
 In any case, this means you can ride in Taiwan without fear of a slip or slide, all while enjoying breathtaking views.
 
-[{{< img src="motorcyclecaleb.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcyclecaleb.jpg)
-[{{< img src="motorcycletammy.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcycletammy.jpg)
-[{{< img src="motorcycletammy1.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcycletammy1.jpg)
-[{{< img src="motorcycletammy2.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcycletammy2.jpg)
+{{< img src="motorcyclecaleb.jpg" alt="Me riding a motorcycle near Jiufen" >}}
+{{< img src="motorcycletammy1.jpg" alt="Tammy on her ninja at the rental shop in Taipei" >}}
+{{< img src="motorcycletammy2.jpg" alt="Tammy near her ninja on Yanmingshan" >}}
 
 Plus, renting is really easy, and fairly affordable.
 
 
-[{{< img src="motorcyclewulai.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/motorcyclewulai.jpg)
-[{{< img src="photowulai.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/photowulai.jpg)
+{{< img src="motorcyclewulai.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}
+{{< img src="photowulai.jpg" alt="Our motorcycles in Wulai" >}}
 
 The availability of destinations once you get your hands on a motorcycle is overwhelming. We'll see how many I can hit during
 my new life here. Pictured above is Wulai, about a 30 minute ride south from Taipei (also accessible by bus), where the
@@ -187,7 +186,7 @@ attractions include river tracing (sometimes called mountaineering or canyoning)
 
 ## Nightlife
 
-[{{< img src="night2.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/why-taiwan/night2.jpg)
+{{< img src="night2.jpg" alt="A dancer in an LED visor at a club in Taipei" >}}
 
 Taiwanese nightlife is incredible. Whatever your scene is, they probably have it here. Recently, Taiwan made the news
 for being able to safely host an EDM festival while the rest of the world was ravaged by a pandemic. Festivals
@@ -231,23 +230,37 @@ very clean.
 Of course, considering the size of Taipei, you could always just rent a citybike. Complete your ride in under
 30 minutes and it's free (this may have ended). Otherwise, it's about $1 USD every 30 minutes.
 
+Failing that, depending on where you're trying to go, you can probably get there on foot.
 
-If you like music, you'll fit in. An EDM scene that, in my opinion, rivals San Francisco and Tokyo for sheer diversity,
-if not production value. Music festivals for any genre. Underground rock clubs. Maybe the only thing they don't have out
-here is a Country scene, and who gives a shit? Head out to CKS Memorial Hall on a week night and watch the b-boy kids
-do their thing. Wednesday night, some jazz club somewhere will be having a swing dance night or jazz show.
+## Food
 
-All that text and I haven't even gotten to the night markets or boba tea yet ;) in case you didn't know, Taiwan's
-night markets are famous. Hundreds of food stalls serving the most diverse array of food that I think can be
-found anywhere in the world, nearly every single night, all throughout the country. Also, as the inventor of boba
-milk tea, obviously the best of the best can be found here, easily and on nearly every street corner.
+Best for last. Taiwan is home to some of the best food in the world. More than just delicious, it's
+also diverse and highly accessible. In the morning, there's morning markets that sell both general groceries
+such as vegetables, fish, meat, raw noodles, tofu, etc, but also people's breakfasts - scallion pancake,
+buns filled with meat and vegetable, these sort of breaded omelet things that I still don't know how to say. Or,
+you could go to one of the hundreds of "breakfast shops," where more complicated food can be had in abundance, along
+with coffee and tea.
+
+{{< img src="beefnoodlesoup.jpg" alt="Beef Noodle Soup" >}}
+
+Wait a little bit and the beef noodle soup (one of Taiwan's signature foods) shops open.
+
+For dinner,
+you're best off heading to a night market, which is a street lined with stalls selling fried chicken, steak on a stick,
+dumplings, custard dough fried in the shape of a penis, or ice cream.
+
+{{< img src="mangoice.jpg" alt="Mango Ice" >}}
+
+{{< img src="milktea.jpg" alt="Milk Tea" >}}
+
+Also, they invented boba milk tea here.
 
 # The Political Argument
 
-This is mostly me arguing to my fellow Americans here.
+This is mostly me making the case to my fellow Americans here.
 
-You should question your faith in the USA as a dependable, safe place to make a life for yourself. Two weeks
-before I wrote this blog post, several thousand people attempted a violent insurrection that arguable failed
+Two weeks
+before I wrote this blog post, several thousand people attempted a violent insurrection that arguably only failed
 only because of the quick thinking of a single police officer that led the mob away from a room full of
 congress-people, and a trigger-happy secret service agent that prevented the lynching of the Vice President. As a
 Texan, I had to grit my teeth as my bloodthirsty congressional representative got on the news and lauded these
@@ -258,8 +271,8 @@ Throughout my life I've watched the US and state governments fail spectacularly 
 The US government has no plan for mass automation, it has no ability to mange the next pandemic. It couldn't
 even protect its capital from a violent insurrection. Healthcare costs are out of control. 11,000,000 children go hungry.
 And despite all this, soldiers remained stationed abroad, and we find the time to assassinate generals in other countries.
-My tax dollars, to that? My life spent giving thousands to United Healthcare in the hope that my deductible is paid of
-when I get cancer from poorly regulated food? No thanks.
+My tax dollars, to that? My life spent giving thousands to United Healthcare in the hope that my deductible is paid off
+when I get cancer from poorly regulated food, water, air? No thanks.
 
 Taiwan handled Covid-19 better than any country on earth. It had a case fatality rate of 0.82%, to America's 1.68%. There
 have been 855 cases here, with a population of 23,780,000, to America's 24,000,000 cases to its population of 328,000,000.
@@ -273,19 +286,45 @@ all countries lol). Meanwhile I can take my pick of American politicians and fin
 conspiracy theories time and time again, with absolutely no consequence.
 
 When I went to Black Lives Matter protests, I was called homophobic slurs and a race traitor. I watched fellow
-protesters get the absolute shit beat out of them by the police for the crime of sitting in a park with a sign.
+protesters get the shit beat out of them by the police for the crime of sitting in a park with a sign.
 For the last two decades, I cared enough to fight to improve my country. I won't try to argue that America
-is a lost cause, but to me, I give the fuck up. Why try to glue together a broken mirror? The country doesn't
-want to heal.
+is a lost cause, but to me, I give the fuck up. Why try to glue together a broken mirror?
 
 If you're tired too, there's no shame in trying to contribute to the world from somewhere else. Here in Taiwan,
-every improvement is shared. When Taiwan had a surprlus of PPE, it tried to share it with the world. When it
+everything learned is shared. When Taiwan had a surprlus of PPE, it tried to share it with the world. When it
 developed methods of fighting fake news, it turned those efforts into open source software and again, tried to
-share it with the world.
+share it with the world. Broadband is considered a human right here. Healthcare is socialized. Infrastructure
+is maintained. Education is accessible.
 
 This is a peace-loving country that has never sent intelligence agents into foreign countries to overturn democracies,
 prop up dictators, or train guerillas. There is no NSA super-surveillance. There is no "no-constitution" zone. No
-criminalization of encryption algorithms. It doesn't have a perfect history, but today, it is far more ethical a government
-than the USA has, in my opinion, *ever* had.
+criminalization of encryption algorithms. It doesn't have a perfect history, but today, it's a far more ethical a government
+than most. The president is kind, accessible, and genuinely seems to care. The Minister of Digital Affairs,
+[Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang), is an international free software legend. Imagine
+being able to watch a politician from your government give a Ted talk without wanting to crawl out of your
+own skin! As an American, it's refreshing.
 
-All we gotta do is legalize weed here and we're good to go!
+But, what about China? Aren't they going to nuke us at any given second? Shit, maybe. Probably not. No Taiwanese
+people I talk to seem concerned. In any case, death comes in many forms, but it inevitably comes. A nuke from
+China seems a little less likely than, say, getting killed in a drunk driving accident back in Texas.
+
+# Conclusion
+
+Somewhat unexpectedly, I turned 30. Big surprise, apparently aging does happen, and I'm not immortal.
+
+When I sit and think about my limited time, and how and where I spend it, I feel a sense of urgency. Why wouldn't
+I try to make the most of life? More than anything, pandemic drove this home. Nearly a whole year "lost." Of course,
+we make the best out of any situation, but why not make that process a little easier, by putting ourselves in the
+best situation possible?
+
+I could fight for a good life in the USA, and I'm sure my life would be great. My obstacles would be long commutes,
+political frustration, high rent, high healthcare costs, but I'd overcome it, of course. But, why? It quite
+literally has never been easier to make a life for myself in Taiwan. Why settle for anything less than the best
+situation I can put myself in?
+
+Further articles will come out about how to get a Gold Card visa and tips for getting work out here. In the
+meantime, I recommend [this article](https://www.nomadnumbers.com/taiwan-employment-gold-card-application-guide/)
+by the nomadnumbers people. Fair warning, there's quite a bit of advertising on their site, and I can't account
+for the sort of tracking they might do. Their level of detail, however, is excellent.
+
+Feel free to contact me. My email is caleb@ this domain.
