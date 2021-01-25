@@ -3,7 +3,7 @@ title: "Why You Should Remote Work in Taiwan"
 date: 2021-01-16T02:16:47-08:00
 draft: false
 categories: ['life']
-tags: ['taiwan', 'work']
+tags: ['taiwan', 'work', 'digital nomad']
 ---
 
 I recently moved to Taiwan on the Gold Card visa, and I've lived and worked here before.
