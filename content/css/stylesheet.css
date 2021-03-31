@@ -54,11 +54,19 @@ article section p {
     margin-right: auto;
 }
 
+figcaption {
+    text-align: center;
+}
+
 article li {
     margin-bottom: 4px;
 }
 article h2 {
     font-size: 1.1em;
+}
+
+ul {
+    line-height: 1.7;
 }
 
 
