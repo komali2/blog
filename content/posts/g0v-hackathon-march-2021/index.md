@@ -1,6 +1,6 @@
 ---
 title: "g0v Hackathon in Taiwan"
-date: 2021-03-27T02:16:47-08:00
+date: 2021-04-01T02:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['taiwan', 'hackathon', 'open-source', 'g0v']
@@ -10,7 +10,8 @@ This March I attended a g0v hackathon. g0v holds these hackathons every 2 months
 g0v community a chance to regularly meet, as well as to allow newbies, such as me, an opportunity
 to get introduced to g0v and find ways to contribute.
 
-[g0v](https://g0v.tw/) is a civic community here in Taiwan, founded by Digital Minister Audrey Tang.
+[g0v](https://g0v.tw/) is a civic community here in Taiwan, founded by hackers and
+backed by Digital Minister Audrey Tang.
 The community is a mechanism to act on the value system Audrey Tang is implementing into the government.
 This value system is shared with many people here in Taiwan as well as internationally, and so there are
 a great many volunteers working to improve Taiwan through g0v. Concepts such as Open Source / Libre,
@@ -145,7 +146,7 @@ member audience, went to great lengths to describe how g0v wasn't "political" in
 to assure family members that the g0v contributor isn't sticking their necks out too far. From what I can tell, there is
 still a conservative bloc among the older generations that has been preaching a lifestyle of simplicity and safety. The
 "get a job, buy a house, have 2.5 kids" party, basically. This is at odds with what I've been seeing in meeting active
-civic participants, which kicked off during my first stay in Taiwan in 2013 when Taiwanese students
+civic participants, which kicked off during my first stay in Taiwan in 2014 when Taiwanese students
 [occupied their Legislative Yuan](https://en.wikipedia.org/wiki/Sunflower_Student_Movement),
 what we might think of as Congressional Chambers in the USA, to protest against a bill that would give China undue
 ability to economically pressure Taiwan. So even if g0v isn't inherently political, it seems to me that the young
@@ -159,5 +160,7 @@ much anything, and we learned a great deal about Taiwanese culture that night.
 I was really impressed by the entire experience, and it was a mightily positive experience at that. Now, I meet weekly with
 my disfactory team at a local NGO office, and they remain just as cool during the week as they were during the weekend. I'm
 really looking forward to getting even more involved with g0v. Whether you're in Taiwan or not, I recommend looking into
-g0v, and in particular I recommend forking projects such as [cofacts](https://cofacts.tw/) for your own country. If you are
+g0v, and in particular I recommend forking projects such as [cofacts](https://cofacts.tw/) for your own country. Furthermore,
+feel free to chat with g0v participants on their [slack](https://join.g0v.tw/)!
+If you are
 here, feel free to email me at caleb @ this domain dot com if you have any questions or want some help getting involved.
