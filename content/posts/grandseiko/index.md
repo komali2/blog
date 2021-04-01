@@ -36,7 +36,7 @@ interest in why I wanted this watch, and kept me updated.
 So, we planned a trip to L.A., ostensibly as a friends-out trip, but really so I could blow an entire paycheck on a watch.
 
 ## Visiting the Boutique
-[{{< img src="outsideshop.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}](/posts/grandseiko/outsideshop.jpg)
+{{< img src="outsideshop.jpg" alt="Tammy and I outside the Grand Seiko Boutique" >}}
 
 Visiting is what sold me on the Grand Seiko brand. I've gone to ADs and boutiques for various brands before, and generally
 they perfectly represent the "culture" of each brand. Rolex, especially, was fucked. Like any watch simp I had gone down that path before - I mean, come on, it's *Rolex*, right? Fuck that, though. Waitlists, arbitrary purchases needed to "unlock" the
@@ -49,37 +49,37 @@ are getting us waters, making us comfortable. Xavier pulls out the watch and say
 I haven't even got the credit card out yet! So we hang out for maybe a whole hour, sorting payment, pouring up excellent
 Hibiki whisky, talking watches, and patiently fitting the watch *exactly* as I want it.
 
-[{{< img src="counter1.jpg" alt="Grand Seiko SBGA413 on the counter at the Grand Seiko Boutique" >}}](/posts/grandseiko/counter1.jpg)
+{{< img src="counter1.jpg" alt="Grand Seiko SBGA413 on the counter at the Grand Seiko Boutique" >}}
 
  My first look at the watch! Excuse the poor lighting, my photography game was off.
 
-[{{< img src="inshop1.jpg" alt="Grand Seiko SBGA413 in hand at Grand Seiko Boutique" >}}](/posts/grandseiko/inshop1.jpg)
+{{< img src="inshop1.jpg" alt="Grand Seiko SBGA413 in hand at Grand Seiko Boutique" >}}
 
 Scoping the fantastic dial.
 
-[{{< img src="inshop2.jpg" alt="Grand Seiko SBGA413 in case at Grand Seiko Boutique" >}}](/posts/grandseiko/inshop2.jpg)
+{{< img src="inshop2.jpg" alt="Grand Seiko SBGA413 in case at Grand Seiko Boutique" >}}
 
 Closeup of the dial.
 
-[{{< img src="inshop3.jpg" alt="Grand Seiko SBGA413 profile view at Grand Seiko Boutique" >}}](/posts/grandseiko/inshop3.jpg)
+{{< img src="inshop3.jpg" alt="Grand Seiko SBGA413 profile view at Grand Seiko Boutique" >}}
 
 Check out that zaratsu polish! Allegedly performed by only 2 dudes in Japan.
 
-[{{< img src="fitting.jpg" alt="Grand Seiko SBGA413 fitting at the Grand Seiko Boutique" >}}](/posts/grandseiko/fitting.jpg)
+{{< img src="fitting.jpg" alt="Grand Seiko SBGA413 fitting at the Grand Seiko Boutique" >}}
 
 Xavier patiently added and removed links until the watch fit perfectly.
 
-[{{< img src="firstwear.jpg" alt="Caleb wearing the Grand Seiko SBGA413 for the first time." >}}](/posts/grandseiko/firstwear.jpg)
+{{< img src="firstwear.jpg" alt="Caleb wearing the Grand Seiko SBGA413 for the first time." >}}
 
 First time wearing the watch after fitting! Wearing a mask because this happened during COVID-19.
 
-[{{< img src="snowflake.jpg" alt="Grand Seiko Snowflake at the Grand Seiko Boutique" >}}](/posts/grandseiko/snowflake.jpg)
+{{< img src="snowflake.jpg" alt="Grand Seiko Snowflake at the Grand Seiko Boutique" >}}
 
 Of course we took a look at some of the other watches in the shop, but sadly I was distracted and not on my photo game so
 only a few came out.
 
 
-[{{< img src="whisky.jpg" alt="Dixie cups of whisky at the Grand Seiko Boutique" >}}](/posts/grandseiko/whisky.jpg)
+{{< img src="whisky.jpg" alt="Dixie cups of whisky at the Grand Seiko Boutique" >}}
 
 They gave us little dixie cups of Hibiki Whiskey to celebrate the payment going through.
 
@@ -98,32 +98,32 @@ Also, seeing as I'm in the area, I visited the Patek Philippe, Rolex, Hublot, an
 
 I wore the watch out of the shop, but I got all sorts of goodies with it, so I put together a little unboxing series of pics.
 
-[{{< img src="unboxing1.jpg" alt="Grand Seiko SBGA413 box set" >}}](/posts/grandseiko/unboxing1.jpg)
-[{{< img src="unboxing2.jpg" alt="Grand Seiko notebook box" >}}](/posts/grandseiko/unboxing2.jpg)
-[{{< img src="unboxing3.jpg" alt="Grand Seiko Notebook in box" >}}](/posts/grandseiko/unboxing3.jpg)
-[{{< img src="unboxing4.jpg" alt="Grand Seiko notebook profile view" >}}](/posts/grandseiko/unboxing4.jpg)
-[{{< img src="unboxing5.jpg" alt="Grand Seiko notebook open" >}}](/posts/grandseiko/unboxing5.jpg)
+{{< img src="unboxing1.jpg" alt="Grand Seiko SBGA413 box set" >}}
+{{< img src="unboxing2.jpg" alt="Grand Seiko notebook box" >}}
+{{< img src="unboxing3.jpg" alt="Grand Seiko Notebook in box" >}}
+{{< img src="unboxing4.jpg" alt="Grand Seiko notebook profile view" >}}
+{{< img src="unboxing5.jpg" alt="Grand Seiko notebook open" >}}
 
 Yup, apparently you get a Grand Seiko branded notebook.
 
-[{{< img src="unboxing6.jpg" alt="Grand Seiko pen box" >}}](/posts/grandseiko/unboxing6.jpg)
-[{{< img src="unboxing7.jpg" alt="Grand Seiko pen" >}}](/posts/grandseiko/unboxing7.jpg)
+{{< img src="unboxing6.jpg" alt="Grand Seiko pen box" >}}
+{{< img src="unboxing7.jpg" alt="Grand Seiko pen" >}}
 
 ...AND a pen lmao
 
-[{{< img src="unboxing8.jpg" alt="Grand Seiko open box set" >}}](/posts/grandseiko/unboxing8.jpg)
-[{{< img src="unboxing9.jpg" alt="Grand Seiko SBGA413 box" >}}](/posts/grandseiko/unboxing9.jpg)
-[{{< img src="unboxing91.jpg" alt="Grand Seiko manuals in box" >}}](/posts/grandseiko/unboxing91.jpg)
-[{{< img src="unboxing92.jpg" alt="Grand seiko SBGA413 spring drive Manual" >}}](/posts/grandseiko/unboxing92.jpg)
-[{{< img src="unboxing93.jpg" alt="Grand Seiko SBGA413 Warranty Card" >}}](/posts/grandseiko/unboxing93.jpg)
-[{{< img src="unboxing94.jpg" alt="Inside the Grand Seiko SBGA413 spring drive manual" >}}](/posts/grandseiko/unboxing94.jpg)
-[{{< img src="unboxing95.jpg" alt="Grand Seiko SBGA413 box open watch covered" >}}](/posts/grandseiko/unboxing95.jpg)
-[{{< img src="unboxing96.jpg" alt="Grand Seiko SBGA413 In Box" >}}](/posts/grandseiko/unboxing96.jpg)
-[{{< img src="unboxing97.jpg" alt="Grand Seiko brand watch oven mitt thing" >}}](/posts/grandseiko/unboxing97.jpg)
+{{< img src="unboxing8.jpg" alt="Grand Seiko open box set" >}}
+{{< img src="unboxing9.jpg" alt="Grand Seiko SBGA413 box" >}}
+{{< img src="unboxing91.jpg" alt="Grand Seiko manuals in box" >}}
+{{< img src="unboxing92.jpg" alt="Grand seiko SBGA413 spring drive Manual" >}}
+{{< img src="unboxing93.jpg" alt="Grand Seiko SBGA413 Warranty Card" >}}
+{{< img src="unboxing94.jpg" alt="Inside the Grand Seiko SBGA413 spring drive manual" >}}
+{{< img src="unboxing95.jpg" alt="Grand Seiko SBGA413 box open watch covered" >}}
+{{< img src="unboxing96.jpg" alt="Grand Seiko SBGA413 In Box" >}}
+{{< img src="unboxing97.jpg" alt="Grand Seiko brand watch oven mitt thing" >}}
 
 And this microfiber oven mitt thing.
 
-[{{< img src="loupe.jpg" alt="Grand Seiko loupe" >}}](/posts/grandseiko/loupe.jpg)
+{{< img src="loupe.jpg" alt="Grand Seiko loupe" >}}
 
 
 They even gave me a pretty nice little loupe! It's really fun to look at the dial through this thing.
@@ -133,9 +133,9 @@ They even gave me a pretty nice little loupe! It's really fun to look at the dia
 Having this watch has been fantastic. It's titanium so wears like I've got nothing on at all (nothing at all... nothing at all...). I've collected some more photos of it in its element:
 
 
-[{{< img src="onwristcar.jpg" alt="Grand Seiko SBGA413 on the wrist in my car" >}}](/posts/grandseiko/onwristcar.jpg)
-[{{< img src="onwristpark.jpg" alt="Grand Seiko SBGA413 on the wrist at the park" >}}](/posts/grandseiko/onwristpark.jpg)
-[{{< img src="pink1.jpg" alt="Grand Seiko SBGA413 subtle pink dial" >}}](/posts/grandseiko/pink1.jpg)
-[{{< img src="beach1.jpg" alt="Grand Seiko SBGA413 at the beach" >}}](/posts/grandseiko/beach1.jpg)
-[{{< img src="caseback1.jpg" alt="Grand Seiko SBGA413 caseback" >}}](/posts/grandseiko/caseback1.jpg)
-[{{< img src="caseback2.jpg" alt="Grand Seiko SBGA413 caseback 2" >}}](/posts/grandseiko/caseback2.jpg)
+{{< img src="onwristcar.jpg" alt="Grand Seiko SBGA413 on the wrist in my car" >}}
+{{< img src="onwristpark.jpg" alt="Grand Seiko SBGA413 on the wrist at the park" >}}
+{{< img src="pink1.jpg" alt="Grand Seiko SBGA413 subtle pink dial" >}}
+{{< img src="beach1.jpg" alt="Grand Seiko SBGA413 at the beach" >}}
+{{< img src="caseback1.jpg" alt="Grand Seiko SBGA413 caseback" >}}
+{{< img src="caseback2.jpg" alt="Grand Seiko SBGA413 caseback 2" >}}
