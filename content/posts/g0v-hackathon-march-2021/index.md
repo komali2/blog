@@ -1,6 +1,6 @@
 ---
 title: "g0v Hackathon in Taiwan"
-date: 2021-04-01T02:16:47-08:00
+date: 2021-03-30T02:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['taiwan', 'hackathon', 'open-source', 'g0v']
