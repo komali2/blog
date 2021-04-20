@@ -113,7 +113,7 @@ and one of my teammates told in and told us to hurry because they believed it wo
 
 {{< img src="food1.jpg" alt="People acquiring pizza." >}}
 
-{{< img src="calebfood.jpg" alt="Me being excited about pizza.">}}
+{{< mg src="calebfood.jpg" alt="Me being excited about pizza.">}}
 
 {{< figure src="dessert.jpg" alt="A table of desserts." caption="They also had dessert!" >}}
 
