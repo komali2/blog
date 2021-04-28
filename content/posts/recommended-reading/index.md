@@ -18,17 +18,18 @@ horrible and frustrating and have the energy to send me an email telling me so, 
 be enormously grateful. My email address is caleb at this domain.
 
 * [Must Reads]({{< relref "" >}})
-  * "How to Win Friends and Influence People", Dale Carnegie
-  * "Walkaway", Cory Doctorow
+  * "How to Win Friends and Influence People" by Dale Carnegie
+  * "Walkaway" by Cory Doctorow
 * [Genre]({{< relref "" >}} )
   * Scifi
-    * walkaway
-    * cryptonomicon
-    * snow crash
-    * revelation space
-    * consider phlebas
-    * anathem
-    * foundation
+    * "Walkaway" by Cory Doctorow
+    * "Cryptonomicon" by Neal Stephenson
+    * "Reamde" and "Fall, or, Dodge in Hell" by Neal Stephenson
+    * "Snow Crash" by Neal Stephenson
+    * "Anathem" by Neal Stephenson
+    * "Revelation Space" (first of the "Revelation Space" series) by Alistair Reynolds
+    * "Consider Phlebas" (first of the "Culture" series) by Iain M. Banks
+    * "Foundation" (first of the "Foundation" series) by Isaac Asimov
     * hitchhiker's guide to the galaxy
     * blindsight
     * Autonomous
@@ -42,7 +43,8 @@ be enormously grateful. My email address is caleb at this domain.
     * Abarat
     * Mistborn
   * Self Help / Life Advice
-    * How to win Friends and Influence People
+  * "How to Win Friends and Influence People", Dale Carnegie
+  * 7 hour workweek
   * Non Fiction
     * Paradise Built in Hell
     * True Believer
