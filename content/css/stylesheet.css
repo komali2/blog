@@ -8,6 +8,7 @@ main {
   margin-left: auto;
   margin-right: auto;
   max-width: 61em;
+  /* max-width: calc(100vw - 30em) */
 }
 header {
   font-size: 2em;
@@ -69,6 +70,35 @@ ul {
     line-height: 1.7;
 }
 
+table {
+    border-spacing: 16px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100vw;
+    margin-left: calc(-50vw + 52%);
+}
+
+thead {
+    border-bottom: 2px solid black;
+}
+
+th {
+    border-right: 1px solid grey;
+}
+
+tbody tr {
+    border: 1px dotted green;
+}
+
+tbody td {
+    border-right: 1px dashed purple;
+    padding: 8px;
+}
+
+td {
+    min-width: 300px;
+}
+
 
 @media only screen {
   main>section ul {
@@ -102,17 +132,17 @@ ul {
 @media only screen and (min-width: 40.063em) and (max-width: 64em) { } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
 
 @media only screen and (min-width: 64.063em) {
-  main>section ul{
-  display: grid;
-  grid-template-columns: 30% 30% 30%;
-  align-items: start;
-  justify-items: start;
-  grid-gap: 10px 5px;
-  padding: 0px;
-  justify-content: space-around;
-  list-style-type: circle;
-  padding: 0px 10px;
-}
+    main>section ul{
+        display: grid;
+        grid-template-columns: 30% 30% 30%;
+        align-items: start;
+        justify-items: start;
+        grid-gap: 10px 5px;
+        padding: 0px;
+        justify-content: space-around;
+        list-style-type: circle;
+        padding: 0px 10px;
+    }
  } /* min-width 1025px, large screens */
 
 @media only screen and (min-width: 64.063em) and (max-width: 90em) { } /* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
