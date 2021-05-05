@@ -19,12 +19,12 @@ be enormously grateful. My email address is caleb at this domain.
 
 * [Must Reads]({{< relref "" >}})
   * "How to Win Friends and Influence People" by Dale Carnegie
-  * "Walkaway" by Cory Doctorow
+  * ["Walkaway"]({{< relref "#walkaway" >}}) by Cory Doctorow
 * [Genre]({{< relref "" >}} )
   * Scifi
     * "Walkaway" by Cory Doctorow
-    * "Cryptonomicon" by Neal Stephenson
-    * "Reamde" and "Fall, or, Dodge in Hell" by Neal Stephenson
+    * ["Cryptonomicon"]({{< relref "#cryptonomicon" >}}) by Neal Stephenson
+    * "Reamde" and "Fall, or, Dodge in Hell" (books 2 and 3 of a sort-of series starting with "Cryptonomicon") by Neal Stephenson
     * "Snow Crash" by Neal Stephenson
     * "Anathem" by Neal Stephenson
     * "Revelation Space" (first of the "Revelation Space" series) by Alistair Reynolds
@@ -51,3 +51,45 @@ be enormously grateful. My email address is caleb at this domain.
     * Evicted
 * Topic
   * Society
+
+
+# Walkaway
+## Cory Doctorow
+
+Topics: open source / libre (code, designs, etc), copyright / copyleft, post-scarcity,
+3d printing, cryptography, energy and renewables, communism, anarchy, medicine, bio-hacking,
+post-humanism and transhumanism, futurism, transportation, philosophy of mind
+
+"Walkaway" is kind of like "what if Burning Man, but always?" The conflict is between
+the bourgeoisie and the prolet - er, sorry, between "Default," that is, normal,
+State-enforced, capitalist society, and the Walkaways, that is, the people who simply
+walked into the barren wasteland abandoned by Default as nonproductive.
+
+The topics list is so long because Cory Doctorow covers just about every topic imaginable,
+somehow managing to keep the narrative moving while answering all the "but what if" questions
+you can think of regarding an anarcho-communist society, such as, "what if guys with guns show
+up?" or "what if you break your arm?" or "what if capitalist society sees your movement as a threat
+to enforced scarcity and wages war on you?"
+
+I included it under my "must reads" because it's a very realistic, yet entertaining, portrayal
+of how close our society is to post-scarcity (if we're not already there), and what the possibilities
+are for us if we let go of profit motive.
+
+
+# How to Win Friends an Influence People
+## Dale Carnegie
+
+Topics:
+
+The self help book upon which most others are based. If you only ever read just one of those
+sorts of books, I suggest this one. Dale Carnegie was giving talks on the subject of
+effectively interacting with other people for years before sitting down and writing this
+book, which allegedly in the course of doing so had him reading hundreds of biographies,
+speeches, and other sources that recorded effective communicators. Basically, back in
+the 1920s when he wrote this, he put in all of the work so nobody else would
+ever really have to.
+
+The title smacks of snake oil self help, but the book itself focuses on empathy and good listening
+as ways to "win" people over. There's none of that weird salesman sociopathy. Carnegie's ethics
+appear sound. Anyway, I recommend it not only because it helped me learn best to communicate, but also
+helped me learn better to empathize with other people's position.
