@@ -27,6 +27,7 @@ creativity a chance to shine, the results of which you will probably see at the 
 when you walk away with a really good idea.
 
 * Structure of a Brainstorming Session
+* Tools of a Brainstorming Session
 * Define a topic or objective
 * The brainstorming session
 * Editing
@@ -42,6 +43,10 @@ of idea generation is a large list of ideas, which, depending on your objective,
 to step 3, wherein ideas are discussed, cleaned up, defined, combined, and otherwise modified
 to result in the result of step 3, which is a good list of ideas (or single idea) that can
 then be implemented.
+
+# Tools of a Brainstorming Session
+
+Sessions can come in many formats, be it they in person or remote.
 
 # Define a Topic or Objective
 
