@@ -1,6 +1,6 @@
 ---
 title: "Contributing to a Calibre Plugin: Adding 'Merge All Groups' Functionality to the Detect Duplicates Plugin"
-date: 2021-06-02T02:16:47-08:00
+date: 2021-06-22T02:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['open-source', 'personal-project', 'python']
