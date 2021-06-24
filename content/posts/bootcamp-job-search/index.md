@@ -3,7 +3,7 @@ title: "How to Job Search as a Bootcamp Grad"
 date: 2020-02-11T12:16:47-08:00
 draft: false
 categories: ['programming']
-tags: ['bootcamp', ]
+tags: ['bootcamp', 'job-hunt']
 ---
 
 

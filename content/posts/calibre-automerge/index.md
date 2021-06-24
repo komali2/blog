@@ -6,11 +6,17 @@ categories: ['programming']
 tags: ['open-source', 'personal-project', 'python']
 ---
 
-I'm about to talk a lot, so if you only care about the code, or details on how to edit a Calibre plugin, click [Jump To Technical Bits](#technical-bits)
+I'm about to talk a lot, so if you happened upon this blog post because you're looking for a way to merge all your duplicates in Calibre, [head down to the download and installation instructions](#the-end-result).
 
-I use Calibre to manage my ebook library. Calibre is a GPL-3 licensed ([sort of](https://github.com/kovidgoyal/calibre/blob/master/COPYRIGHT))
-program chock full of ebook management tasks, such as tagging, converting formats (e.g. Mobi -> Epub), or mass-editing metadata. It also
-has a relatively straightforward API for writing plugins.
+I get big bouts of what I suppose are a form of imposter syndrome. Bootcamp kid, no computer science degree, always struggled with math, lucky charisma roll means I get to "sneak" my way into companies with engineers orders of magnitude better than me thus leaving me always feeling like a neanderthal in comparison. Now that I'm living in Taiwan and ostensibly using half my time to back-fill my education (and learn Machine Learning), I'm always on the hunt for opportunities to "prove" that I can actually hack it.
+
+This blog post isn't going to go in any depth into the psychological and sociological issues of imposter syndrome existing, or being a self-imposed gate on an already gate-kept industry. No space. Some other time. What I've found as something that helps me overcome the syndrome is, as I said, "proving" to myself that I can "do it." A great way to "prove it" is by contributing to an open source library. Plus, it feels awesome to do so. Like look at me, I'm a "real engineer!"
+
+Even though I've got a couple years under my belt of messing around with civic hack organizations, spending time with g0v folks, winning minor hackathons, and squeezing in some merge requests to open source projects over the years, it's really daunting to wake up and say "ok, time to do something for an open source project." I've had this inkling since I was coming out of the bootcamp, but back then it seemed literally impossible. For the sake of anybody else that feels this way, I'm writing this post to go line by line through my thought process of how I found an issue that bothered me about an open source project, and then fixed that issue. I hope this can help other people that feel similarly to me, and want to find a way to contribute.
+
+# The Problem that Needed Solving
+
+I use Calibre to manage my ebook library. Calibre is a GPL-3 licensed ([sort of](https://github.com/kovidgoyal/calibre/blob/master/COPYRIGHT)) program chock full of ebook management tasks, such as tagging, converting formats (e.g. Mobi -> Epub), or mass-editing metadata. It also has a relatively straightforward API for writing plugins.
 
 My ebook library is huge, at nearly 5,000 titles (after de-duping). I'm a data hoarder, and love reading. Before I de-duped that was more like
 8,000 titles, and therein lay the problem: as far as I could tell, there was no straightforward way to automatically remove duplicates from
@@ -24,18 +30,13 @@ looks like this:
 
 Each of those groups can be acted upon, typically by merging. Annoyingly though, though it appears both books are selected, they aren't, so if I try to hit "M" to merge, I get an error about needing more than one book selected. So that means all that "find-duplicates" can really do is put my duplicates in alphabetical order for me. Not exactly useless, but not what I need for my specific usecase.
 
-I slowly was shift-clicking to highlight all books in a group and pressing "M" to merge. Would have taken a while. Perhaps more importantly, I've been stricken by a strong case of general engineer imposter syndrome, that's been growing ever since I left Potato and moved to Taiwan. Some combination of feeling like I snuck into the industry via my bootcamp route, alongside wondering whether I'm even smart enough to engineer at a pace high enough to make me competent. I've been on the hunt to prove myself outside just my frontend world. So as I slowly clicked through my library, I remembered something a CTO had told me in an interview once years ago: "To me, a good engineer is someone who automates anything they do more than twice." I mean I don't necessarily agree that that in particular is what makes a good engineer, but I do agree that if I want to prove to myself that I can hack it, automating a task like this would be a great opportunity to do so. It would involve working from scratch in an unfamiliar library (two, actually), on an open source project, filling a need that surely other people have had.
+I slowly was shift-clicking to highlight all books in a group and pressing "M" to merge. Would have taken a while. Needs automating. Engineers automate things.
 
-I decided I was determined to add functionality to merge duplicates, and I'll outline my process below.
+# Figuring Out What to Do
 
+I knew that the "find-duplicates" plugin had some concept of a "Duplicate Group," and because there were next/previous buttons for hopping between duplicate groups, I figured there was some way to get all book identifiers, whatever they may look like, and then somehow invoke on those IDs whatever function gets invoked when I hit "M" and try to merge books. First, I needed to find the code.
 
-# Technical Bits
-
-## Figuring Out What to Do
-
-I knew that the "find-duplicates" plugin had some concept of a "Duplicate Group," and because there were next/previous buttons for hopping between duplicate groups, I figured there was some way to get all book identifiers, whatever they may look like, and then somehow do to those IDs whatever function gets invoked when I hit "M" and try to merge books. First, I needed to find the code.
-
-Unfortunately, I've as of yet to find a public repository for the "find-duplicates" plugin. In fact, I installed it from the Calibre plugin browser directly. I got to googling, and found [this thread](https://www.mobileread.com/forums/showthread.php?t=131017) on the mobileread forums, which appears to be where the plugin was originally posted back in 2011. Luckily, it had the most up to date version of the plugin available as a ZIP, so I downloaded it just to see.
+Unfortunately, I've as of yet to find a public repository for the "find-duplicates" plugin. In fact, I installed it from the Calibre plugin browser directly. I got to googling, and found [this thread](https://www.mobileread.com/forums/showthread.php?t=131017) on the mobileread forums, which appears to be where the plugin was originally posted back in 2011. Luckily, it had the most up to date version of the plugin available as a ZIP, so I downloaded it.
 
 Even luckier: I guess Calibre plugins are just Python apps, and fairly straightforward ones at that. The ZIP had an `__init__.py` at the root, alongside a couple straightforward file names.
 
@@ -50,7 +51,7 @@ I poked around a bit just to get a better notion of what was going on, and then 
 
 Again pulling from my fronted experience, I guessed that I can probably ignore .po files, as they're usually translation files used to allow for language-picking, evidenced further by them being in a `translations/` directory. Two matches in `action.py` feels good. I pop in and take a look.
 
-`/action.py`
+`find-duplicates/action.py`
 {{< highlight python3 "linenos=table,hl_lines=8-11,linenostart=115" >}}
 self.previous_group_action = create_menu_action_unique(self, m, _('&Previous result'), image='images/previous_result.png',
     tooltip=_('Display the previous duplicate result group'),
@@ -67,6 +68,7 @@ self.mark_all_groups_exempt_action = create_menu_action_unique(self, m,
 
 Based on `create_menu_action`, I'm guessing that this function, and the ones around it (all nearly identical in structure), are responsible for populating the main menu. I don't know anything about `create_menu_action` or how it's invoked, but `triggered=` seems straightforward enough, insomuch as it probably means "invoke this function when clicked." The function in question being `self.mark_groups_as_duplicate_exemptions` . Full text search brings me to that function's definition:
 
+`find-duplicates/duplicates.py`
 {{< highlight python3 "linenos=table,linenostart=280" >}}
 def mark_groups_as_duplicate_exemptions(self, all_groups):
     can_exempt = self.duplicate_finder.check_can_mark_exemption(all_groups)
@@ -98,7 +100,7 @@ def mark_groups_as_duplicate_exemptions(self, all_groups):
 Out of here, the `duplicate_finder.get_current_duplicate_group_ids()` seems the most useful. I would *expect* that variable, `duplicate_ids`, to then be passed into a function that marks them, which looks to be `self.duplicate_finder.mark_groups_as_duplicate_exemptions` or `self.duplicate_finder.mark_current_group_as_duplicate_exemptions`, but nope, those function calls aren't taking any arguments. So begins a terrifying realization about how things happen in Calibre, when I do a quick search for where `duplicate_ids` is used (oh, it's right there on the next line...): the variable get passed into a `select_rows` function? And the `mark_groups...` functions don't take arguments? So they presumably are working on some form of state set in this function, and that state will likely be... the selection state of the UI?! The method in question is `self.gui.library_view.select_rows(duplicate_ids)`, so it looks like it's some property of the gui, specifically of the library view, and the action performed looks to be selecting rows. Which, I guess, is the same as what I do when I manually shift-click to select a couple "rows" of books. Well, I guess, follow the logic deeper, see what's going on inside of `mark_groups_as_duplicate_exemptions`. Full text search to find where its `def` is hiding. Oh, annoyingly, that's the same name as the function I'm in right now. Luckily, looks like there's another `def` for this function name inside of `duplicates.py`:
 
 
-`/duplicates.py`
+`find-duplicates/duplicates.py`
 
 {{< highlight python3 "linenos=table,linenostart=348" >}}
 def mark_groups_as_duplicate_exemptions(self):
@@ -131,7 +133,7 @@ And now guessing that there's a list of book IDs against each item in the `_book
 
 {{< highlight python3 "linenos=table,linenostart=1" >}}
 # Get the IDs of all duplicate book groups
-group_ids = self._books_for_group_map.keys()/home/caleb/Documents/personal/blog/content/posts/calibre-automerge/index.md
+group_ids = self._books_for_group_map.keys()
 for group_id in group_ids:
     # Get the IDs of each book in this duplicate book group
     book_ids = self._books_for_group_map.get(group_id, [])
@@ -139,13 +141,13 @@ for group_id in group_ids:
       call_some_function_that_takes_list_of_book_ids_on(book_ids)
 {{< / highlight >}}
 
-Totally shooting from the hip and have no idea if it's going to work. In fact, I think I made some syntactical errors in the above before getting it right, but I'll get to how I debugged that later.
+Totally blindly grasping, I had no idea if it was going to work. In fact, I think I made some syntactical errors in the above before getting it right, but I'll get to how I debugged that later.
 
 With a list of book IDs in hand, now I need to figure out how to actually merge said books. No way I'm doing that manually: it was time to rest on someone else's hard work.
 
 {{< figure src="mergebookscalibre.png" alt="Screenshot of the merge books option in Calibre." caption="Context menu option for merging books " >}}
 
-Frontend strategy that's never failed me: full project string search for something I find on the View of an app. In this case, I wanna know how Calibre merges books under the hood, so I simply do a full project text search for what Calibre displays as the menu option to trigger a book merge: "Merge into first selected book". That brings me to Calibre's `edit_metadata.py`:
+Back to the frontend strategy that's never failed me: full project string search for something I find on the View of an app. In this case, I wanna know how Calibre merges books under the hood, so I simply do a full project text search for what Calibre displays as the menu option to trigger a book merge: "Merge into first selected book". That brings me to Calibre's `edit_metadata.py`:
 
 `/gui2/actions/edit_metadata.py`
 
@@ -205,7 +207,7 @@ This has the same `triggered` paradigm that the duplicate finder plugin used for
         self.gui.library_view.horizontalScrollBar().setValue(hpos)
 {{< / highlight >}}
 
-Jumping to the if/elifs, I know I don't want to safe_merge, or merge_only_formats, I want a full merge where the duplicates are deleted after, so I look at the `else` block. The first line (after the template string I got rid of) is the first action I want to be taking with my merge: `add_formats`. That is, if I have multiple books selected, some with formats of MOBI and other in EPUB, the MOBI and EPUB will be stuck onto the merged, final book. So, looks like it takes at least one book ID, the `dest_id`, which by the naming conventions and menu paradigms I've been seeing I take to mean the "first selected book" mentioned in the context menu when trying to merge. But what about the other book IDs? They're taken as `self.formats_for_books(rows)`. Rows?! Here is where I confirmed that yup, looks like in Calibre-world, the way to get things done is accessing UI state from the code. The `rows` means whatever `rows` are in a selected state in the UI. Why that book data isn't stored as some sort of state cache is beyond me. Also weird, the next two actions, `merge_metadata` and `delete_books_after_merge` take `src_ids` directly, which, looking above, comes from `dest_id, src_ids = self.books_to_merge(rows)`. Not sure why `formats_for_books` can't take boo IDs directly, but oh well, it doesn't matter for now. I have what I need: I don't need to pass book IDs to `merge_books` after all, I instead need to select rows from the duplicate finder plugin, and then invoke calibre's `merge_books`. Seems SUPER weird to need to trigger UI state to pass around data, but whatever.
+Jumping to the `if/elifs` , I know I don't want to `safe_merge`, or `merge_only_formats`, I want a full merge where the duplicates are deleted after, so I look at the `else` block. The first line (after the template string I got rid of) is the first action I want to be taking with my merge: `add_formats`. That is, if I have multiple books selected, some with formats of MOBI and other in EPUB, the MOBI and EPUB will be stuck onto the merged, final book. So, looks like it takes at least one book ID, the `dest_id`, which by the naming conventions and menu paradigms I've been seeing I take to mean the "first selected book" mentioned in the context menu when trying to merge. But what about the other book IDs? They're taken as `self.formats_for_books(rows)`. Rows?! Here is where I confirmed that yup, looks like in Calibre-world, the way to get things done is accessing UI state from the code. The `rows` bit means whatever `rows` are in a selected state in the UI. Why that book data isn't stored as some sort of state cache is beyond me. Also weird, the next two actions, `merge_metadata` and `delete_books_after_merge` take `src_ids` directly, which, looking above, comes from `dest_id, src_ids = self.books_to_merge(rows)`. Not sure why `formats_for_books` can't take book IDs directly, but oh well, it doesn't matter for now. I have what I need: I don't need to pass book IDs to `merge_books` after all, I instead need to select rows from the duplicate finder plugin, and then invoke calibre's `merge_books`. Seems SUPER weird to need to trigger UI state to pass around data, but whatever.
 
 I need to select rows programmatically somehow, so that when I invoke the `merge_books` function, said books are merged. I have no idea how to do this, but I guess that it's done elsewhere in the Calibre code, and I hope that I can access said code from within the plugin somehow. At the end of the `merge_books` function is a bit of code that seems to trigger selection state in the UI:
 
@@ -397,3 +399,34 @@ Now to invoke Calibre's `merge_books` however it wants that function invoked. Th
 elif tweak == 'edit_metadata':
     gui.iactions['Edit Metadata'].edit_metadata(False)
 {{< / highlight >}}
+
+This is a totally new syntax I haven't seen before, this `iactions['Edit Metadata']` bit. Some way of accessing classes and methods? So I poke around the file system until I find the path that plausibly matches what I'm looking at in that structure: `/calibre/src/calibre/gui2/actions/edit_metadata.py`, within witch there's an `edit_metadata` function. Well, shit, right in this same file is the `merge_books` function I want to invoke anyway! So on a total wild guess, I give copying that syntax a shot, but from within the find-duplicates plugin. I already know I can access `library_view.select_rows` via `self.gui`, so I guess that `self.gui` just maps to whatever the "gui" in `gui.iactions` is from within Calibre. So my code now looks like:
+
+`find-duplicates/duplicates.py`
+{{< highlight python3 "linenos=table,linenostart=363" >}}
+    def merge_all_groups(self):
+        # Get the IDs of all duplicate book groups
+        group_ids = self._books_for_group_map.keys()
+        for group_id in group_ids:
+            # Get the IDs of each book in this duplicate book group
+            book_ids = self._books_for_group_map.get(group_id, [])
+            if book_ids:
+                # Select all books in this group.
+                self.gui.library_view.select_rows(book_ids)
+                # Invoke Calibre's native merge_books action, the same
+                # one invoked if a user selects multiple books and
+                # presses "g".
+                self.gui.iactions['Edit Metadata'].merge_books()
+{{< / highlight >}}
+
+I remove the `import` statements that were throwing errors earlier. Now, I'm accessing stuff, hopefully, just the same way as code elsewhere in the plugin is doing. So, I run Calibre in debug mode again, and lo, no crashing. Good first sign. I pop open a test library with a couple groups of duplicates. I hit my menu item. And, holy shit, they actually merge without issue. (not totally without issue - the book descriptions append onto eachother, even if they're duplicate ones. oh well)
+
+I was probably more hype for this fix than any other in my engineering career. I had done something entirely on my own, no outside input, no stackoverflow questions, no senior engineer to help out. Sure, I lifted 90% of the code, and pretty much just blindly guessed my way through syntax, but I undeniably went from "I don't like this aspect of this open source software" to "This open source software now works like I want it to" based on my action. If I remember correctly I marched around the apartment for about ten minutes chanting "I am a god." Gotta celebrate the victories.
+
+
+# The End Result
+
+So, the actual code is [on this Github](https://github.com/komali2/calibre-find-duplicates) page. I couldn't find a repo from the original creator against which to submit a PR, so for now I've just uploaded the code wholesale. The full diff of my changes [can be seen in this commit](https://github.com/komali2/calibre-find-duplicates/commit/28e6de8404cc25ae3f11bac5239881c368dbfd1d). If you want to use the plugin, just download this code straight up, and install it as per the Calibre instructions for installing a custom plugin:
+
+> That’s all. To add this code to calibre as a plugin, simply run the following in the folder in which you created `__init__.py`:
+> `calibre-customize -b .`
