@@ -3,7 +3,7 @@ title: "Wulai Motorcycle Ride Video"
 date: 2021-07-07T02:16:47-08:00
 draft: false
 categories: ['life']
-tags: ['taiwan', 'motorcycle']
+tags: ['taiwan', 'motorcycle', 'video']
 ---
 
 Now that we've been in level 3 lockdown for a couple months, I finally have time to get through my huge backlog of gopro footage from the motorcycle rides I've done here. On top of that, I've just bought a Yamaha MT-07, which means I'll probably have tons of more footage to get through, so it's time to crank out these kinds of videos.
