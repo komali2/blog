@@ -193,7 +193,31 @@ Another way to find text is to use `*`, which invokes `(spacemacs/enter-ahs-forw
 
 {{< img src="starsearch.png" alt="Screenshot of a asterik-style text search and replace in emacs.">}}
 
-You have lots of options. You can navigate results with `n` (next) and `p` (previous), you can trigger the same search across the entire projectile project with `/` (which is the same as doing `SPC /` and entering the same text manually), or you can edit the text across the entire file. To edit all instances in the file, press `e`, which invokes `iedit`. This tool I think is a lot more powerful than I realize, but the only way I know how to use it so far is to, after pressing `e` and having one item highlighted, pressing `S` to do some magic vim "change all" type command, then entering the desired text, then pressing `ESC ESC`. So to change all instances of `let` to `const`, I'd put my cursor on one instances of `let`
+You have lots of options. You can navigate results with `n` (next) and `p` (previous), you can trigger the same search across the entire projectile project with `/` (which is the same as doing `SPC /` and entering the same text manually), or you can edit the text across the entire file. To edit all instances in the file, press `e`, which invokes `iedit`. This tool I think is a lot more powerful than I realize, but the only way I know how to use it so far is to, after pressing `e` and having one item highlighted, pressing `S` to do some magic vim "change all" type command, then entering the desired text, then pressing `ESC ESC`. So to change all instances of `let` to `const`, I'd put my cursor on one instances of `let`, then do `* e S const ESC ESC`. Again, I think this tool is way more powerful than I realize, but it does what I need it to do as-is.
+
+Finally, to replace text across an entire project, put your cursor on an instance of the text you want to replace, and do `SPC p R`, which invokes `projectile-replace`. You're then presented with the text under your cursor in your minibuffer (at the bottom of the frame), which you can edit as needed. Then, upon pressing `RET`, you're asked which text you want to replace the selected text with. After entering that text and pressign `RET`, you're brought into a replace transient state, similar to when using the `c` flag on the vim `s%` command. From here, there's a lot of commands, so I'll just copy the full help text
+
+```
+ Query replacing regexp OLMap with butt.
+
+Type Space or ‘y’ to replace one match, Delete or ‘n’ to skip to next,
+RET or ‘q’ to exit, Period to replace one match and exit,
+Comma to replace but not move point immediately,
+C-r to enter recursive edit (C-M-c to get out again),
+C-w to delete match and recursive edit,
+C-l to clear the screen, redisplay, and offer same replacement again,
+! to replace all remaining matches in this buffer with no more questions,
+^ to move point back to previous match,
+u to undo previous replacement,
+U to undo all replacements,
+E to edit the replacement string.
+In multi-buffer replacements type ‘Y’ to replace all remaining
+matches in all remaining buffers with no more questions,
+‘N’ to skip to the next buffer without replacing remaining matches
+in the current buffer.
+```
+
+Again, tool is probably hella powerful, but I just use it for project-wide search and replace. This comes baked in with projectile, no changes needed to `.spacemacs`.
 
 ## Vanilla HTML, CSS, Javascript Project
 
