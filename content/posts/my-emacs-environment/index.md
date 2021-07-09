@@ -117,6 +117,84 @@ The buffer list I showed earlier was possible because of helm. Helm also makes i
 
 {{< img src="helmspc.png" alt="Screenshot of a helm buffer listing available commands in emacs.">}}
 
+From here I can explore each of those options deeper by pressing whatever given key. It's a great way to learn all that's possible for a given major mode. For example, if you want to see what you can do in a Javascript file, upon entering one, try pressing `,`, which is typically how major mode functions are accessed, and explore what's made possible.
+
+To enable helm, add it to your `dotspacemacs/layers`, as `helm`. I think it's there and enabled by default in spacemacs, or perhaps spacemacs asks you whether you want helm or ivy during first-time setup, I don't remember.
+
+### Finding Files and Text Within Projects
+
+A very typical workflow for me is to do full-text searches across an entire project. By "project" I usually mean the root of whatever you get when you `git clone` something. In fact, that's basically how `projectile`, the tool that enables great project workflows in emacs, determines what "project" is as well: a `.git` directory.
+
+For example, if I've been instructed to modify how a button works on a frontend app, I often just go look at whatever text is in the button, and then do a text search across the whole project for that text, using `SPC /`, which is bound to `(spacemacs/helm-project-smart-do-search &optional DEFAULT-INPUTP)`. Then I input the text, and choose viable candidates from a list to investigate. It looks like this:
+
+{{< img src="projecttextsearch.png" alt="Screenshot of a project-wide text search in emacs.">}}
+
+I can navigate up and down this list with `C-j` and `C-k` (vim conventions, I think), then open a given file by pressing `RET`. I'll be taken directly to the line where the given text was found.
+
+Sometimes I want to find files by filename, rather than by text within them. To do so, I do `SPC p f`, which invokes `projectile-find-file`. It brings up a list of literally every file in my project that isn't in my `.gitignore`, which I can narrow down by entering some text. It looks like this:
+
+{{< img src="projectilefindfile.png" alt="Screenshot of a project-wide file search in emacs.">}}
+
+I generally find the sorting to be quite sane by default.
+
+Finally, if I simply want to look at a file tree, similar to the left pane of vscode, I can do `SPC f t`, which invokes `treemacs`. It looks like this:
+
+{{< img src="treemacs.png" alt="Screenshot of the treemacs file browser in emacs.">}}
+
+From here I can open a file in many ways. The `RET` functionality is somewhat annoying, it'll simply open the file in window 1, taking over whatever was there previously. I can do `o h` to open the file in a new window, split horizontally from window 1, or `o v` to open the file in a new window, split vertically from window 1. I can navigate up/down with `j` and `k`, I can search within the entire file tree using `/` (discussed later under in-file text searches), and I can nest into directories using `TAB`. I can also open files and directories from here straight into `dired`, which is emacs' native file browser, but I never do that, because I'm a coward.
+
+It's worth pointing out that it's possible to do a ton of other wild stuff with projectile and `dired`, like project-wide filename changes, but I don't know how to do that, I just know it's possible.
+
+To do the above, you need projectile, which comes default with spacemacs. You need treemacs for the sidepanel file browsing, which can be had by adding `treemacs` to your `dotspacemacs/layers`. Spacemacs main branch used to (still does?) have some other side-panel file browser, but now treemacs is where it's at I guess.
+
+Very important: if you want your file searches to be any kind of fast, you should install [ripgrep](https://github.com/BurntSushi/ripgrep), which is, for some reason, way faster than ag, pt, ack, and grep. You can swap around which search tool is used for these kinds of fucntions with `dotspacemacs-search-tools` inside `dotspacemacs/init`. Mine looks like
+
+```emacs-lisp
+   dotspacemacs-search-tools '("rg" "ag" "pt" "ack" "grep")
+```
+
+There's some interesting integrations with between projectile and org-mode that I played with in the past, but I ended up abandoning. I mention it in case it draws your fancy. The package to investigate if this interests you is [org-projectile](https://github.com/IvanMalison/org-projectile).
+
+
+### Finding and Replacing Text
+
+There's lots of options here, because there's emacs and vim ways of doing this. Within a buffer, to quickly find text, I typically simply use `/`, which invokes `(evil-ex-search-forward &optional COUNT)`. Then, I type the text, hit `RET`, and use `n` (next result) and `p` (previous result) to browse the results. It looks like this, after I press `RET`:
+
+{{< img src="slashsearch.png" alt="Screenshot of the result of a vim-style text search in emacs.">}}
+
+The numbers wrapped in parentheses indicate how many results there were (the right number), and which result I'm on (the left number). In the editor, the orange-line highlighted bits of text are matching results. If I switch windows, my search is brought to that window as well, so I can hit `n` and `p` there as well to jump around.
+
+One trick to quickly replace text is to use this search feature, combined with vim's `.` paradigm (which repeats the previous command). This is good for short text changes, such as in:
+
+{{< highlight typescript "linenos=table,linenostart=1" >}}
+const view = map.getView()
+// eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+const zoom = view.getZoom()!
+
+// resolution in meter
+const resolution = view.getResolutionForZoom(zoom)
+const range = Math.ceil(resolution / 2)
+
+// eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+const [lng, lat] = transform(view.getCenter()!, 'EPSG:3857', 'EPSG:4326')
+{{</ highlight >}}
+
+To quickly change all `const` to `let`, I'd do `/ const RET` to initiate search for `const` and put my cursor at the first letter of one of the results. Then I'd do `c w let ESC` to change the word under cursor to let. Then I'd quickly press `n .` repeatedly until all `const` were changed to `let`. `c w` is a vim binding, so it comes from `evil-mode`. So does `.`.
+
+If I wanted to change ALL instances of `const` across an entire file, I have two options (that I know of). The first is the same way I'd do it in vim, with the `%s` command. I don't know what it's called, sorry, we're in vim land now. To start it, you do `: s % /` followed by the text you want to match for, then another `/`, followed by the text with which you want to replace the matched text. You can preview the results in the window, then press `RET` to trigger the change. So, if I wanted to change all instances of `const` to `let`, my full stroke order would be `: s % / const / let RET` (remember the spaces are there as part of the emacs key notation style, it doesn't mean press space). It looks like this:
+
+{{< img src="vimtextreplace.png" alt="Screenshot of a vim-style text search and replace in emacs.">}}
+
+You can also do the changes one item at a time, by doing `: s % / const / let / c`. You then navigate through results, pressing `y` or `n` to either replace, or skip, the highlighted result. It looks like this:
+
+{{< img src="vimtextreplaceconfirm.png" alt="Screenshot of a vim-style text search and replace, with confirm, in emacs.">}}
+
+Another way to find text is to use `*`, which invokes `(spacemacs/enter-ahs-forward)`. I think this just comes baked in with spacemacs by default. To use it, you put your cursor on a word that you want to find across an entire buffer, and press `*`. It looks like this:
+
+{{< img src="starsearch.png" alt="Screenshot of a asterik-style text search and replace in emacs.">}}
+
+You have lots of options. You can navigate results with `n` (next) and `p` (previous), you can trigger the same search across the entire projectile project with `/` (which is the same as doing `SPC /` and entering the same text manually), or you can edit the text across the entire file. To edit all instances in the file, press `e`, which invokes `iedit`. This tool I think is a lot more powerful than I realize, but the only way I know how to use it so far is to, after pressing `e` and having one item highlighted, pressing `S` to do some magic vim "change all" type command, then entering the desired text, then pressing `ESC ESC`. So to change all instances of `let` to `const`, I'd put my cursor on one instances of `let`
+
 ## Vanilla HTML, CSS, Javascript Project
 
 The rarest of rare. These tend to just be personal project type things, but the tooling that these projects use are extended by all the react and vue type plugins, so worth discussing.
