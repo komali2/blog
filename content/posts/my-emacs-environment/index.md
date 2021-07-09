@@ -75,6 +75,48 @@ So far, I've comfortably programmed Javascript, Typescript, Python, various kind
 
 Bearing in mind that I use Spacemacs as an emacs platform, I'll go project type by project type, discussing the plugins and bits of my `.spacemacs` file (the spacemacs version of `init.d`) that make me productive in those project types.
 
+## Basic IDE Needs
+
+There's some stuff that's universal regardless of project type. Like, project-wide text searches, search and replace, file browsing, that kind of thing.
+
+### Frame, Window, and Buffer management
+
+First off, the layout of my "workspace," by which I mean the full screen on which I edit code. I use gnome as my display manager, which allows me to have "workspaces," what other operating systems or display managers might call "desktops." I feel very strongly that I paid for all the pixels on the screen, so gosh darnit I'm gonna use all the pixels on this screen. Part of the reason I hate OSX is how it makes it so hard to do that, but, rant for another day. Here's what my workspace looks like right now:
+
+{{< img src="workspace.png" alt="Screenshot of fullscreened emacs.">}}
+
+It's fullscreened, which you can accomplish by hitting `f11`, or have emacs launch as such by setting, inside of `dotspacemacs/init`, `dotspacemacs-fullscreen-at-startup t`.
+
+In emacs, a "frame" is what other paradigms might call a "window." It's one "instance" of emacs, which contains multiple "windows." In the above screenshot, you're looking at one (fullscreened) frame, within which there are three windows, which other paradigms might call "frames" or "panes". Each window displays one "buffer," which kind of means "file being edited," but buffers represent things other than files, such as the output of a git command, or the output of a linter, or a list of emails. In the screenshot above, the large window on the left half of the screen is occupied by a buffer that's editing `index.md` of my this blog post, the top-right window has a buffer that is editing `map.ts` file, and the bottom-right window has a buffer in it that's editing my `.spacemacs` file. I'm going to stick to the emacs nomenclature from here on out, so bear the above definitions in mind, or [read up someone smarter than me](https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame) explain it.
+
+I usually am popping open and closing windows constantly. So for example, if I wanted to edit something at another location in this file real quick, and then quickly return back to this exact line, I'd open a new window horizontally, by doing `SPC w -`, which invokes `split-window-below`. Then, I'd jump to wherever else in the file I need to go, save, and close the window by doing `SPC w d`, which invokes `delete-window`. I'm then brought back to the previous state of my workspace, with my cursor exactly where it was when I opened a new window. Typically, if I want to open and work on a new file, I'd do `SPC w /`, which invokes `split-window-right`. Some combination of such usually results in the kinds of workspaces pictured above.
+
+Moving around windows is easy. `SPC 1` brings me to window 1, `SPC 2` to window 2, etc. The numbers maintain sequence based on location on the screen, not when they were opened. So in the above screenshot, if I did `SPC 2` to switch to window 2, then `split-window-right`, the new window would be window 3, and the previous window 3 would become window 4.
+
+Sometimes an action I do will cause a new buffer to entirely replace the buffer from which I performed the action. For example, if I do `, g g` in a python file, I'll be brought to the definition of the variable I'm on. If that variable is in a different file, a new buffer gets created that "visits" that file, and my window gets taken over by that buffer. When I'm done, I can do either `SPC b d`  to kill the buffer, or `SPC b p`  to go to the previous buffer. Both cases will bring me right back to where I originally triggered the action, killing the buffer simply removes it from the open buffer list.
+
+The open buffer list can be accessed with `SPC b b`. It looks like this:
+
+{{< img src="bufferlist.png" alt="Screenshot of a helm buffer list in emacs.">}}
+
+Those are all the files that "are being visited" by emacs. Even if a buffer isn't visible in a window, it can still be actively visiting a file. In fact, you can switch away from a buffer without saving a file, and when you switch back, the file will still be in its modified, unsaved state. If you try to kill a buffer like this with `SPC b d` or similar, you'll get a warning from emacs asking if you want to save the file first. Incidentally, you'll get a similar notification if the file is within a git project that just had `git status` triggered on it from within emacs, using `magit`, which I'll talk about later.
+
+This buffer list can be handy if you're working in a big project, on a somewhat large number of files. I'll talk later about how I search across projects, but while convenient, doing a project-wide file search is not a great way to quickly get back to a file you're working on. From within that list I can type the first part (or any part, really) of a file I've recently visited, hit `RET`, and I'll be taken to that buffer. This is also kind of convenient for doing things like, if in a big web project with .ts, .vue, .json, etc type files, you can do `SPC b b .json` to have the buffer list filtered to only show .json files that you've recently visited. That's more of a nice thing about helm, which I'll talk about below.
+
+In the screenshot above, what you can't see is that I have another frame open, on a separate workspace in my display manager. I have gnome set up with 5 workspaces, that I access with `C-M-{workspace number}`. I can use that keybind to access the other emacs frame, or, I can simply use the `SPC w {number}` bind, entering the number of some window in that other frame. Frames, unlike windows, maintain sequential order, so if I have 3 windows open, then open a new frame with `SPC F n`, it will open with a window numbered `4`. If I make a change to a window on the first frame, the other frame's windows numbers will also update. This can be useful if you like to have, for example, email permanently open on some other workspace. Make that the second frame you open, and it will always be identified with the largest window identifier number (if you have 3 windows open, your email will be window 4. If 5, it'll be window 6, etc.)
+
+### Helm, or, Magic Emacs Command Suggestion and Listing Mechanism
+
+Emacs has a lot of commands, but it also has a strong concept of discoverability. Basically one of the most oft-recommended add-ons to vanilla emacs is an autocomplete mechanism such as [helm](https://emacs-helm.github.io/helm/) or ivy. From helm's website:
+
+
+
+> Helm is an Emacs framework for incremental completions and narrowing selections. It helps to rapidly complete file names, buffer names, or any other Emacs interactions requiring selecting an item from a list of possible choices.
+
+The buffer list I showed earlier was possible because of helm. Helm also makes it a lot easier to learn how to use spacemacs over time. I can press any command-intiating key, or prefix combination, such as `SPC`, `C-c`, `C-x`, or `,` (or others but those are the ones I use most office), and be shown a list of possible commands. For example, if I press `SPC`:
+
+{{< img src="helmspc.png" alt="Screenshot of a helm buffer listing available commands in emacs.">}}
+
 ## Vanilla HTML, CSS, Javascript Project
 
 The rarest of rare. These tend to just be personal project type things, but the tooling that these projects use are extended by all the react and vue type plugins, so worth discussing.
@@ -144,3 +186,58 @@ Anyway, as you can see, basic syntax highlighting. However, there's this awesome
 From this state, I can quickly navigate through HTML DOM elements, using vim-style keys. `j` and `k` will move me up and down through any element, regardless of how nested. `J` and `K` will move me through sibling elements, or to a higher hierarchy if encountered, but never lower. `h` and `l` will pop me to the next deepest hierarchy, if there, or pop me out to the next parent hierarchy. I can edit stuff too: `c` will duplicate an element and all its children, `d` will delete an element but keep its children intact (and auto-indent as necessary), `D` will delete an element and all its children, `r` will rename an element to whatever type you input after pressing `r` (and its closing tag), i.e. from a `div` to a `span`, and `w` will wrap an element in whatever element type you input after pressing `w` .
 
 There's `impatient-mode`, triggered with `, I`, that will immediately launch a web server and serve the contents of the HTML file's directory. Good for quickly checking whether styling is working, for example. There's lots of `, g` "goto" type commands that make navigating through a huge nested HTML file very nice (for example, go to parent, child, or sibling). You can instantly check for DOM errors with `, E l`. . There's also some autocomplete goodies, such as if you type out an element, like a `<div>`, when you type the upcoming slash in `</div>`, the element will close for you.
+
+As for CSS, I mean, I dunno what vscode is doing for CSS these days, but I'm not entirely sure what there *is* to do for CSS. Here's a screenshot:
+
+{{< img src="cssfile.png" alt="Screenshot of a css file in emacs.">}}
+
+The mode is `css-mode` and comes bundled with `html` in spacemacs, I'm pretty sure. Syntax highlighting, hex color applied as a background color to the attribute, what else do you need? No seriously, if there's cool shit going on in the vscode world of css editing, someone tell me.
+
+## Vue, Typescript, SCSS Project
+
+
+### Vue Features
+
+Ok, now for an actual project. I'll be using as an example the open source [Disfactory](https://github.com/Disfactory/frontend) project I've been contributing a bit of time to. it's an app for reporting and tracking illegal factories here in Taiwan.
+
+Here's what it looks like, in three screenshots to demonstrate the template, script, and style areas of a vue file:
+
+
+{{< img src="vuefiletemplatearea.png" alt="Screenshot of the script and template portion of a vue file in emacs.">}}
+{{< img src="vuefilescriptarea.png" alt="Screenshot of the script area of a vue file in emacs.">}}
+{{< img src="vuestylearea.png" alt="Screenshot of the script and style portion of a vue file in emacs.">}}
+
+I shrink down inline images in my blog to save page size, but you can click them to see the full sized image.
+
+LOTS of goodies to go through.
+
+First of all, there's there "lsp lens" functionality, which will show information about whatever is under the cursor. If it's an html element, it will have some information about that element and its purpose and usage. Or, if I have it on something like a Class, it will show a brief overview of some of the properties and methods on that Class, and since we're in typescript, their types! If I set the cursor on a function invocation, it'll display the parameter and return types. One of my favorite uses is under the `style` portion of a vue file, if I set my cursor on some nested SCSS rule, it'll tell me what sort of elements will be matched by that rule, which I demonstrate in the third screenshot above.
+
+There's pretty robust "go to definition" type functionality, so for example, if I set my cursor on `MainMapControllerSymbol` in the first screenshot above, and press `, g g`, I'll be jumped straight to where that is defined, even if it's in a different file.
+
+Check out the top of the emacs client. The header bar will display "where" I am in the file. If the cursor is in the script area, it'll show the filepath -> filename -> component name (there could be multiple components in a file!) -> script/template/style -> then break down where I am in a function. In SCSS, it'll show similar, but also include any style nesting. Same for HTML DOM nodes. Very helpful when I'm buried deep in a template.
+
+Also, remember earlier I said that `web-mode` would still be relevant, down the line? Because of how vue mode is constructed in spacemacs, it technically has extended `web-mode`, so any functionality I mentioned above in `web-mode` is available! That means transient state for node jumping around, duplicating, wrapping, etc. The same is true for the `style` portion of a vue file!
+
+Also, there's built in linting with `eslint`, and it pulls the rules from my project root. If there's an error, it underlines it with a little msword style red zig-zag underline, and if you put your cursor on the error, it says what the issue is. Furthermore, at the bottom of a window, it shows how many errors total there are in a file. You can list all the errors in a separate buffer, and then go item to item fixing them, if you want.
+
+
+{{< img src="vuelinterror.png" alt="Screenshot of a linting error in a vue file in emacs.">}}
+
+It works in .ts files as well, with type errors:
+
+{{< img src="vuetserror.png" alt="Screenshot of a type error in a typescript file in emacs.">}}
+
+Unfortunately I haven't managed to get typechecking working in vue files yet.
+
+Typescript files also have the ability to jump not only to a given variable's definition, but its type definition as well.
+
+Also, within typescript file, you can use `lsp-ui-imenu` to get this overview of a file, its classes, functons, etc, but I never really use this. Looks kinda cool though:
+
+{{< img src="tssidebar.png" alt="Screenshot of the lsp ui imenu in a typescript file in emacs.">}}
+
+### Vue Setup
+
+Setting this up was a little convoluted.  First of all, I have `vue` in my `dotspacemacs-configuration-layers`. It's added as ``(vue :variables vue-backend 'lsp)`, because a lot of features require a language server. That means I also need to have `lsp` in my `dotspacemacs-configuration-layers`.
+
+LSP itself is a bit of a rats nest to get set up. I've found [the emacs-lsp](https://emacs-lsp.github.io/lsp-mode/page/installation/) instructions to be the best, as they, unlike spacemacs, indicate all the things you need to do to get LSP working. So first, add `lsp` to `dotspacemacs-configuration-layers`. Then, you need to install a "language server" for your language of choice. Generally that means doing `M-x lsp-install-server` and choosing from the list of servers. For vue, though, that means installing [Vue Language Server](https://github.com/vuejs/vetur/tree/master/server), via `npm install vls -g`. I also had to use `M-x lsp-install-server` to install `ts-ls`, and whatever other servers helm lists for things like html, css, etc. For getting eslint and typescript linting to pull rules from your project root, you need `vue` in your `dotspacemacs-configuration-layers`, with `node-add-modules-path t`, as in `(node :variables node-add-modules-path t)`.
