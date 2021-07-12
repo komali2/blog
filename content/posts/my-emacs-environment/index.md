@@ -10,17 +10,35 @@ I've been meaning to write one big fat post on my Emacs journey, and how I use E
 
 I guess what I'm getting at is that while probably Emacs isn't necessary to get done the kinds of things I like to get done, I really appreciate how Emacs has made all of those things very easy, all while protecting my wrists from [Repetitive Strain Injury (RSI)](https://www.nhs.uk/conditions/repetitive-strain-injury-rsi/), which was the original reason I started tinkering with Emacs back in 2016.
 
-The first section, "Why Did I Start Using Emacs," is me just sort of blogging, and can be skipped if you aren't interested in exploring in a narrative manner why someone might pick up emacs. The other three sections get into the nitty gritty.
+The first section, "Why Did I Start Using Emacs," is me just sort of blogging, and can be skipped if you aren't interested in exploring in a narrative manner why someone might pick up emacs. The other sections get into the nitty gritty.
 
 Also, if you're a newer developer wondering whether you should try using emacs as your primary IDE, I believe you shouldn't. You should use vscode, which is enormously popular, extremely easy to use, and integrated with all the hot-new-shit webdev technology, which is probably what you're being paid to program. Focus on getting the programming job done first, spending your spare time upskilling in the wide world of webdev technologies, before you start down this path.
 
 I'll be using [emacs style keystroke notations](https://www.gnu.org/software/emacs/manual/html_node/calc/Notations-Used-in-This-Manual.html) in this post.
 
 * [Why Did I Start Using Emacs?]({{< relref "#why-did-i-start-using-emacs" >}})
-* On Emacs and Spacemacs Versions
-* On Programming in Emacs
-* On Tracking Time and Tasks in Emacs
-* On Taking Notes in Emacs
+* [On Emacs and Spacemacs Versions]({{< relref "#on-emacs-and-spacemacs-versions" >}})
+* [On Programming in Emacs]({{< relref "#on-programming-in-emacs" >}})
+  * [Basic IDE Needs]({{< relref "#basic-ide-needs" >}})
+    * [Frame, Window, and Buffer Management]({{< relref "#frame-window-and-buffer-management" >}})
+    * [Helm, or, Magic Emacs Command Suggestion and Listing Mechanism]({{< relref "#helm-or-magic-emacs-command-suggestion-and-listing-mechanism" >}})
+    * [Finding Files and Text Within Projects]({{< relref "#finding-files-and-text-within-projects" >}})
+    * [Finding and Replacing Text]({{< relref "#finding-and-replacing-text" >}})
+    * [Managing Git]({{< relref "#managing-git" >}})
+  * [Programming a Vanilla HTML, CSS, Javascript Project]({{< relref "#programming-a-vanilla-html-css-javascript-project" >}})
+    * [Setting Up Javascript, HTML, CSS]({{< relref "#setting-up-javascript-html-css" >}})
+  * [Programming a Vue, Typescript, SCSS Project]({{< relref "#programing-a-vue-typescript-scss-project" >}})
+    * [Setting Up Vue, Typescript]({{< relref "#setting-up-vue-typescript" >}})
+  * [Programming a React, Typescript, Styled Components Project]({{< relref "#programming-a-react-typescript-styled-components-project" >}})
+    * [Setting Up React]({{< relref "#setting-up-react" >}})
+  * [Programming a Python Project]({{< relref "#programming-a-python-project" >}})
+    * [Setting Up Python]({{< relref "#setting-up-python" >}})
+* [On Productivity in Emacs]({{< relref "#on-productivity-in-emacs" >}})
+  * [Tracking Tasks and Time]({{< relref "#tracking-tasks-and-time" >}})
+  * [Taking Notes]({{< relref "#taking-notes" >}})
+  * [Journaling]({{< relref "#journaling" >}})
+  * [Checking Email]({{< relref "#checking-email" >}})
+
 
 # Why Did I Start Using Emacs?
 
@@ -63,7 +81,7 @@ So, why did I commit to the switch?
 
 Now for the actual environment, and part of the blog post other people might actually find useful.
 
-# On Emacs and Spacemacs Version
+# On Emacs and Spacemacs Versions
 
 The emacs version doesn't matter *too* much, so long as you're above like 26. I use 27.1. [You can download emacs on the website](https://www.gnu.org/software/emacs/). If possible, I highly recommend building from source, as it's probably easier than you expect, and for me that's always led to the most stable environment.
 
@@ -79,7 +97,7 @@ Bearing in mind that I use Spacemacs as an emacs platform, I'll go project type 
 
 There's some stuff that's universal regardless of project type. Like, project-wide text searches, search and replace, file browsing, that kind of thing.
 
-### Frame, Window, and Buffer management
+### Frame, Window, and Buffer Management
 
 First off, the layout of my "workspace," by which I mean the full screen on which I edit code. I use gnome as my display manager, which allows me to have "workspaces," what other operating systems or display managers might call "desktops." I feel very strongly that I paid for all the pixels on the screen, so gosh darnit I'm gonna use all the pixels on this screen. Part of the reason I hate OSX is how it makes it so hard to do that, but, rant for another day. Here's what my workspace looks like right now:
 
@@ -117,7 +135,7 @@ The buffer list I showed earlier was possible because of helm. Helm also makes i
 
 {{< img src="helmspc.png" alt="Screenshot of a helm buffer listing available commands in emacs.">}}
 
-From here I can explore each of those options deeper by pressing whatever given key. It's a great way to learn all that's possible for a given major mode. For example, if you want to see what you can do in a Javascript file, upon entering one, try pressing `,`, which is typically how major mode functions are accessed, and explore what's made possible.
+From here I can explore each of those options deeper by pressing whatever given key. It's a great way to learn all that's possible for a given major mode. For example, if you want to see what you can do in a Javascript file, upon entering one, try pressing `,` (comma) or `SPC-m`, which is typically how major mode functions are accessed, and explore what's made possible (it shows `major mode commands`).
 
 To enable helm, add it to your `dotspacemacs/layers`, as `helm`. I think it's there and enabled by default in spacemacs, or perhaps spacemacs asks you whether you want helm or ivy during first-time setup, I don't remember.
 
@@ -179,7 +197,7 @@ const range = Math.ceil(resolution / 2)
 const [lng, lat] = transform(view.getCenter()!, 'EPSG:3857', 'EPSG:4326')
 {{</ highlight >}}
 
-To quickly change all `const` to `let`, I'd do `/ const RET` to initiate search for `const` and put my cursor at the first letter of one of the results. Then I'd do `c w let ESC` to change the word under cursor to let. Then I'd quickly press `n .` repeatedly until all `const` were changed to `let`. `c w` is a vim binding, so it comes from `evil-mode`. So does `.`.
+To quickly change all `const` to `let`, I'd do `/ const RET` to initiate search for `const` and put my cursor at the first letter of one of the results. Then I'd do `c w let ESC` to change the word under cursor to let. Then I'd quickly press `n .` (n period) repeatedly until all `const` were changed to `let`. `c w` is a vim binding, so it comes from `evil-mode`. So does `.`.
 
 If I wanted to change ALL instances of `const` across an entire file, I have two options (that I know of). The first is the same way I'd do it in vim, with the `%s` command. I don't know what it's called, sorry, we're in vim land now. To start it, you do `: s % /` followed by the text you want to match for, then another `/`, followed by the text with which you want to replace the matched text. You can preview the results in the window, then press `RET` to trigger the change. So, if I wanted to change all instances of `const` to `let`, my full stroke order would be `: s % / const / let RET` (remember the spaces are there as part of the emacs key notation style, it doesn't mean press space). It looks like this:
 
@@ -219,7 +237,64 @@ in the current buffer.
 
 Again, tool is probably hella powerful, but I just use it for project-wide search and replace. This comes baked in with projectile, no changes needed to `.spacemacs`.
 
-## Vanilla HTML, CSS, Javascript Project
+
+### Managing Git
+
+Working with [git](https://git-scm.com/) is so feature-rich and ideal, due to [magit](https://magit.vc/), that I've encountered dozens of people that literally use emacs for nothing other than magit. This is one aspect of emacs usage I especially recommend reading up more on outside of this post, as I'm painfully ignorant of all that's possible in magit, or the best ways to use it. That being said, I'll describe how I use it.
+
+My most common command flow with magit is to view, stage, and commit my changes. I do so by pressing `SPC g s` which invokes `magit-status`. This is what the resultant status buffer looks like (it opens in a new split window):
+
+{{< img src="magitstatus.png" alt="Screenshot of a magit status window in emacs.">}}
+
+As you can see in the screenshot, the status window alone is kinda neat. You can see your HEAD branch name (`calebrogers/73-cluster-pins`), as well as the last commit title on that branch ("Zoom to cluster on click"). You can see the current Tag, if you use tags. Then, you can see untracked, unstaged, and staged files. From here, usually what I'm doing is going through my chunks and staging what I need to stage. All of this functionality is possible in git from the command line, but so much easier from `magit`. For example, if I have two changes in the same file, but I want those changes in separate commits (or I want to commit one change now and keep working on the other change before committing), I can do that! I move my cursor to the filename in question and press `TAB`, which opens up to show the changes:
+
+{{< img src="gitstage1.png" alt="Screenshot of a magit status window with a file tabbed open in emacs.">}}
+
+Changes are broken into chunks, which I can stage separately. I move my cursor to the header of the second chunk (`@@ -252,7`... etc) and press `s` to stage this chunk:
+
+{{< img src="gitstage1.png" alt="Screenshot of a magit status window with an unstaged and staged file tabbed open in emacs.">}}
+
+Now, that change is staged. From here, I can unstage it `u` or commit it by pressing `c` to open the commit options:
+
+
+{{< img src="gitcommitoptions.png" alt="Screenshot of the magit commit options in emacs.">}}
+
+I don't really do anything with these ever so usually I just immediately hit `c` again to causes two windows to split open. One has a buffer showing the staged changes, the other is a buffer where you input the commit message (the same that's opened if you do `git commit` from your terminal).
+
+
+{{< img src="gitcommitcommit.png" alt="Screenshot of a magit commit split window in emacs.">}}
+
+I type out the commit message, then hit `, ,` to run `git commit`, or `, k` to cancel the commit (leaving the files staged).
+
+This is an enormously helpful workflow for me to review everything before I commit it, which nearly 80% of the time has resulted in me finding something that I in fact don't want to commit (like perhaps an errant `console.log`) or just want to change slightly before doing so.
+
+Wait, that's not all! I also use magit to browse git history. First, I do `SPC g m` to invoke `magit-dispatch`, which shows a list of available magit commands:
+
+{{< img src="magitcommands.png" alt="Screenshot of magit dispatch options in emacs.">}}
+
+To view history, I press `l` from within this menu, which brings up `git log` options:
+
+{{< img src="magitlogoptions.png" alt="Screenshot of magit git log options in emacs.">}}
+
+which obviously has TONS of options. This time, I want to figure out which of my commits broke something, so I add the `author` flag by pressing `- A`, which then lists all authors that have contributed to this repository:
+
+{{< img src="magitlogauthors.png" alt="Screenshot of magit git log showing an author list in emacs.">}}
+
+I select myself with `RET`, then am brought back to the `git log` options, where I press `l` to log on the current branch (I think that's what I mean). I'm shown a list of all commits that match my flags:
+
+{{< img src="magitlogcommits.png" alt="Screenshot of magit git log showing a list of commits in emacs.">}}
+
+From here, I can choose a specific commit by navigating with `j` and `k`, then pressing `RET` to split another window that will show me a detailed view of that commit, INCLUDING a diff!
+
+{{< img src="magitlogdiff.png" alt="Screenshot of magit git log showing a diff in emacs.">}}
+
+If I show commits by all authors (no `- A` flag), it displays them with helpful indicators of branch points:
+
+{{< img src="magitlogbranches.png" alt="Screenshot of magit git log commits by multiple authors in emacs.">}}
+
+There's an incredible amount of power here, with a surprisingly usable UX, especially compared to just using git from the command line. You can also invoke magit directly on a file, for example if you want to do a `git blame` or diff that file specifically to see its `git log`. Those are the main things I use `magit` for, but I again highly recommend exploring what else can be done with it. People online constantly rave about it.
+
+## Programming a Vanilla HTML, CSS, Javascript Project
 
 The rarest of rare. These tend to just be personal project type things, but the tooling that these projects use are extended by all the react and vue type plugins, so worth discussing.
 
@@ -227,26 +302,15 @@ As an example, I'll use a really [dumbshit website](https://www.rocket.diamonds/
 
 So here's what a javascript file looks like in my editor:
 
-
 {{< img src="javascriptfile.png" alt="Screenshot of a javascript file in emacs.">}}
 
-Almost everything here is from [js2-mode](https://github.com/mooz/js2-mode). In spacemacs, this is activated when `javascript` is added in `dotspacemacs-configuration-layers`.
-
-{{< highlight emacs-lisp "linenos=table,linenostart=1" >}}
-dotspacemacs-configuration-layers
-  '(
-    ;; ...
-    javascript
-    ;; ...
-    )
-{{< / highlight >}}
+Almost everything here is from [js2-mode](https://github.com/mooz/js2-mode).
 
 So, we've got syntax highlighting, which is of course a bare minimum. Vim gives you that. You also have code folding, which I rarely use, but is nice for huge files.
 
 {{< img src="javascriptfilecodefolding.png" alt="Screenshot of folded code in a javascript file in emacs.">}}
 
-
-There's also syntax error handling, also through `js2-mode`.
+There's also syntax error handling.
 
 {{< img src="javascriptfileerrors.png" alt="Screenshot of errors in a javascript file in emacs.">}}
 
@@ -272,10 +336,7 @@ if ('hello') {
 
 There's some other random stuff like `js2r-wrap-in-for-loop`, but that's about it.
 
-In an HTML file, the major mode I use is `web-mode`. In spacemacs, you get this by adding `html` to your `dotspacemacs-configuration-layers`. This gets a lot more exciting, insomuch as editing an HTML file *can* be exciting.
-
-
-Here's what a file looks like in `web-mode`.
+Here's what an HTML file looks like in `web-mode`.
 
 {{< img src="htmlfile.png" alt="Screenshot of an html file in emacs.">}}
 
@@ -293,12 +354,17 @@ As for CSS, I mean, I dunno what vscode is doing for CSS these days, but I'm not
 
 {{< img src="cssfile.png" alt="Screenshot of a css file in emacs.">}}
 
-The mode is `css-mode` and comes bundled with `html` in spacemacs, I'm pretty sure. Syntax highlighting, hex color applied as a background color to the attribute, what else do you need? No seriously, if there's cool shit going on in the vscode world of css editing, someone tell me.
+Syntax highlighting, hex color applied as a background color to the attribute, what else do you need? No seriously, if there's cool shit going on in the vscode world of css editing, someone tell me.
 
-## Vue, Typescript, SCSS Project
+## Setting up Javascript, HTML, CSS
 
+In an HTML file, the major mode I use is `web-mode`. In spacemacs, you get this by adding `html` to your `dotspacemacs-configuration-layers`.
 
-### Vue Features
+In a JS file, the major mode I use is `js2-mode`. Add `javascript` to your `dotspacemacs-configuration-layers` to use it.
+
+I believe that `css-mode` comes baked-in when you add `html` to spacemacs.
+
+## Programming a Vue, Typescript, SCSS Project
 
 Ok, now for an actual project. I'll be using as an example the open source [Disfactory](https://github.com/Disfactory/frontend) project I've been contributing a bit of time to. it's an app for reporting and tracking illegal factories here in Taiwan.
 
@@ -338,8 +404,235 @@ Also, within typescript file, you can use `lsp-ui-imenu` to get this overview of
 
 {{< img src="tssidebar.png" alt="Screenshot of the lsp ui imenu in a typescript file in emacs.">}}
 
-### Vue Setup
+### Setting up Vue, Typescript
 
 Setting this up was a little convoluted.  First of all, I have `vue` in my `dotspacemacs-configuration-layers`. It's added as ``(vue :variables vue-backend 'lsp)`, because a lot of features require a language server. That means I also need to have `lsp` in my `dotspacemacs-configuration-layers`.
 
-LSP itself is a bit of a rats nest to get set up. I've found [the emacs-lsp](https://emacs-lsp.github.io/lsp-mode/page/installation/) instructions to be the best, as they, unlike spacemacs, indicate all the things you need to do to get LSP working. So first, add `lsp` to `dotspacemacs-configuration-layers`. Then, you need to install a "language server" for your language of choice. Generally that means doing `M-x lsp-install-server` and choosing from the list of servers. For vue, though, that means installing [Vue Language Server](https://github.com/vuejs/vetur/tree/master/server), via `npm install vls -g`. I also had to use `M-x lsp-install-server` to install `ts-ls`, and whatever other servers helm lists for things like html, css, etc. For getting eslint and typescript linting to pull rules from your project root, you need `vue` in your `dotspacemacs-configuration-layers`, with `node-add-modules-path t`, as in `(node :variables node-add-modules-path t)`.
+LSP itself is a bit of a rats nest to get set up. I've found [the emacs-lsp](https://emacs-lsp.github.io/lsp-mode/page/installation/) instructions to be the best, as they, unlike spacemacs, indicate all the things you need to do to get LSP working. So first, add `lsp` to `dotspacemacs-configuration-layers`. Then, you need to install a "language server" for your language of choice. Generally that means doing `M-x lsp-install-server` and choosing from the list of servers. For vue, though, that means installing [Vue Language Server](https://github.com/vuejs/vetur/tree/master/server), via `npm install vls -g`. I also had to use `M-x lsp-install-server` to install `ts-ls`, and whatever other servers helm lists for things like html, css, etc. For getting eslint and typescript linting to pull rules from your project root, you need `vue` in your `dotspacemacs-configuration-layers`, with `node-add-modules-path t`, as in `(node :variables node-add-modules-path t)**.
+
+## Programming a React, Typescript, Styled Components Project
+
+Wow, does React have some major tooling. And god almighty do people love it. I hate it, arbitrarily. But it's worth saying, 99.999% of people writing react code, are doing so in vscode, and so therefore, vscode is probably quite simply the "best" (has the most tooling) editor when writing React.
+
+But doing so in emacs isn't so bad.
+
+Here's what it looks like:
+
+{{< img src="reactwithpeek.png" alt="Screenshot of a react / typescript file opened in emacs.">}}
+
+You've got your syntax highlighting, bracket highlighting and autoclosing, template component tag highlighting and autoclosing, as a baseline. I think that's what comes out of the box with emacs, actually. Also in that screenshot, you can see in the middle I have an lsp "peek" open. By putting my cursor on any variable and pressing `, G d`, I can run `lsp-ui-peek-find-definitions`, which, if there's multiple definitions (for example in typescript, an `interface` and `class` might have the same name), lets you scroll through those definitions on the right with `j` and `k`, while viewing the implementation on the left. Notice that this falls through to libraries, as well. In the screenshot, I can view definitions for native react methods. If there's only one definition, you'll simply be taken directly to its file (or location, if within the same file).
+
+Just like Vue, you can also typechecking, with error displays (see the vue section for an example screenshot) and error list capabilities. There's also IntelliSense, so you can start typing and then get a list of suggestions, as exampled in this screenshot:
+
+{{< img src="reactintellisense.png" alt="Screenshot of an example of react intellsense in emacs.">}}
+
+I can navigate this list with `C-j` and `C-k`, and select with `RET`. Great for finding out quick info about some component or method.
+
+For more information specifically about typescript functionality, see above in the vue section, where I write about `.ts` files.
+
+There's also [the possibility of debugging react](https://emacs-lsp.github.io/lsp-mode/tutorials/reactjs-tutorial/#debugging-react) in emacs, though I haven't bothered with it, because I prefer debugging directly from the browser.
+
+
+### Setting Up React
+
+You'll need to have LSP, which means having `lsp` in your `dotspacemacs-configuration-layers`. Apparently, [emacs supports IntelliSense](https://emacs-lsp.github.io/lsp-mode/tutorials/reactjs-tutorial/) and code navigation out of the box, so for autocompletions, you don't need anything. To get LSP working, though, you should also add `react` to your `dotspacemacs-configuration-layers`.
+
+
+## Programming a Python Project
+
+I'll be using the [Calibre](https://github.com/kovidgoyal/calibre) application for this example, which I had [been playing with for a personal project](/posts/calibre-automerge) recently.
+
+Python functionality is similar to typescript, with the ability to jump to definitions with `, g g`, peek definitions and references with `, G r` and `, G d`, typechecking, error helpers and error listing, and obviously, syntax highlighting and bracket jumping. Here's what a python file looks like opened:
+
+{{< img src="pythonfile.png" alt="Screenshot of a python file opened in emacs.">}}
+
+There's also a lot more functionality available, especially with REPLs, debugging, and testing code. I don't get to work in python enough to speak confidently to any of this, but here's the major mode menu for a python to give you an idea:
+
+
+{{< img src="pythonfilemajormode.png" alt="Screenshot of the major mode menu for python in emacs.">}}
+
+As someone that doesn't get to dev in python too often, I especially like the helper pop-ups for native python functions. They look like this:
+
+{{< img src="pythonnativehelper.png" alt="Screenshot of a helper pop-up for a python native method in emacs.">}}
+
+
+### Setting up Python
+
+Just add `python` and `lsp` to your `dotspacemacs-configuration-layers`, and use `M-x lsp-install-server` to install the python LSP server.
+
+# On Productivity in Emacs
+
+I use emacs for more than just programming in my life. As a frequent contractor, I also use it to track my tasks against companies and projects, while also tracking my time against companies, which makes billing quite easy. In general, I use emacs for all of my task tracking. I also use it for taking notes for meetings, which connects well into my task management flow. Finally, I use it for note taking for things like classes, with tooling that leads to very cool opportunities for linking the various things I'm learning and reading about. Oh, and because why not at this point, I also check my email from within Emacs.
+
+## Tracking Tasks and Time
+
+Similar to magit, I have heard countless stories of people using emacs solely for [org-mode](https://orgmode.org/). Org mode is a sort of markdown-editing mode, except instead of markdown files, it's used to edit org files (`.org`). The best way to learn a quick overview is to play with the example of an org file on the front page of the org-mode website.
+
+I'll go through a couple flows I use for tracking tasks. After, I'll demonstrate what parts of my `.spacemacs` enable a given flow.
+
+First, the basic intake. Imagine the following scenario: I get a call from my manager, and he says "look into why screenreaders aren't working on xyz.com/blah". I press `SPC a o c` to run `org-capture`, where I'm presented with [keys assigned to my custom capture templates](https://orgmode.org/manual/Capture-templates.html).
+
+
+{{< img src="orgcapturetemplates.png" alt="Screenshot of a list of org capture templates in emacs.">}}
+
+I press `w` to initiate the recording of a `work` TODO item. Then I press `, , ` to save this TODO item.
+
+{{< img src="orgcapturework.png" alt="Screenshot of an org capture window in emacs.">}}
+
+Done! Later, it's time to start work, so I press `SPC a o o` to invoke `org-agenda`,
+
+{{< img src="orgagendalist.png" alt="Screenshot of an org agenda list in emacs.">}}
+
+`w` to access my list of work related agendas,
+
+{{< img src="orgagendasublist.png" alt="Screenshot of an org agenda submenu list in emacs.">}}
+
+then `w` again to access my general work agenda.
+
+{{< img src="orgagendawork.png" alt="Screenshot of an org agenda in emacs.">}}
+
+Now I can see a list of tasks! The task my manager just gave me has a deadline tomorrow, so I navigate to it with `j` and `k`, then press `, d d`  to invoke `org-agenda-deadline`. Now, the task will appear under the deadline area at the top of my agenda:
+
+{{< img src="orgagendadeadline.png" alt="Screenshot of an org agenda with a todo item that has a deadline in emacs.">}}
+
+It's time to get to work on this issue, so I move my cursor to the item, and do `, C i` to invoke `org-agenda-clock-in`. A timer has started that will record how long I work on this issue. When I'm done working on the issue, I go back to the TODO item and do `C-c t` to cycle the state from `TODO` to `DONE`. Doing so automatically invoked `org-agenda-clock-out`, and so now my total time against the task has been logged. Here's what the todo item looks like now from the agenda:
+
+{{< img src="orgagendataskdone.png" alt="Screenshot of an org agenda with a todo item that is completed in emacs.">}}
+
+
+That's just from the agenda view, though! Behind the scenes, what all these commands have *actually* been doing is modifying text in a file called `inbox.org`, where I've chosen to organize general tasks like this. I can press `RET` on the task from the agenda to be taken directly to its location within the org file. Here's what a portion of the file looks like:
+
+{{< img src="orgbasicinbox.png" alt="Screenshot of my inbox.org file in emacs.">}}
+
+All of the information is recorded against the item. The clock time is inside the `:LOGBOOK`, the `CLOSED` date is tracked as a timestamp, as is the `DEADLINE`. org-mode knows its a `work` TODO item because of the `:work:` tag. And the state is determined from whether there's a `TODO` or `DONE` at the beginning of the item.
+
+Now, it's time to get my boss to pay up for however long it took me to fix his issue. I have an org file for each of the companies I do work for, and at the top of each is an [org clock table](https://orgmode.org/manual/The-clock-table.html). Here's one for one of my personal weekly reviews:
+
+
+{{< img src="personalclocktable.png" alt="Screenshot of an example of an org clock table in emacs.">}}
+
+There's tons of power there, you can make a table that pulls only from certain files, for certain tags, for certain time periods.
+
+I have a couple other flows, but first let me talk about how the above is possible.
+
+First, obviously, you need org-mode. Add `org` to your `dotspacemacs-configuration-layers`. For reasonable control over your agendas, you also need [org-super-agenda](https://github.com/alphapapa/org-super-agenda). Add `org-super-agenda` to `dotspacemacs-additional-packages` (NOT configuration layers).
+
+Org requires hella configuration. The first part of configuration goes within the org declaration inside of `dotspacemacs-configuration-layers`. Here's mine:
+
+```emacs-lisp
+(org :variables
+  org-directory "~/Dropbox/org"
+  org-projectile-file "~/Dropbox/org/projects.org"
+  org-enable-roam-support t
+  org-enable-org-journal-support t
+  org-roam-directory "~/Dropbox/org/notes/"
+  org-roam-index-file "~/Dropbox/org/notes/20200526213916-index.org"
+  org-default-notes-file (concat org-directory "/inbox.org")
+  )
+
+```
+
+`org-directory` determines your root org directory, against which many org functions are invoked. Having it within a Dropbox folder can be useful for backing up, but also if you use org-mode management apps on your phone, or just use org-mode on multiple machines.
+
+`org-projectile-file` can be useful if you want to use org-projectile. I don't use that anymore, but it's cool for doing things like creating TODOs on a per-projectile-project basis.
+
+Roam and journal will be discussed later.
+
+`org-default-notes-file` determines where org captures will be saved if you don't pass in any custom template properties. I use `inbox.org` because I follow a sort of [Getting Things Done](https://gettingthingsdone.com/) (GTD) type workflow. Because of the powerful nature of org agenda filtering and the ability to write custom capture templates, it's not necessary to do a lot of organization by filetype. I'll demonstrate why later.
+
+Now for even more customization. Inside of `dotspacemacs/user-config`, create a `with-eval-after-load 'org` invocation. This function causes included code to run after the passed-in mode has been loaded, in this case org-mode. Like this:
+
+
+```emacs-lisp
+(with-eval-after-load 'org
+;; ...where all our further configuration will go
+)
+```
+
+Now, I might be wrong about some of this stuff, as I recently learned I was putting stuff within this `with-eval-after-load` that could instead go up under `(org :variables)`, so take what I write with a grain of salt. This is just how my `.spacemacs` is set up and it seems to work great.
+
+First, require `org-agenda`.
+
+
+```emacs-lisp
+(with-eval-after-load 'org
+  (require 'org-agenda)
+)
+```
+
+That way you can use agendas. Then, activate `org-super-agenda-mode` by default:
+
+```emacs-lisp
+(with-eval-after-load 'org
+  ;; ...
+  (org-super-agenda-mode)
+)
+```
+
+Also, apply this fix that fixes some problem that's ubiquitous but I've completely forgotten about. I think it's something about capture template hotkeys.
+
+```emacs-lisp
+(with-eval-after-load 'org
+  ;; ...
+  (org-defkey org-mode-map [(meta return)] 'org-meta-return)  ;; The actual fix
+)
+```
+
+Now, tell org what directories and files it can look through to generate agendas and clock tables.
+
+```emacs-lisp
+(with-eval-after-load 'org
+  ;; ...
+  (setq org-agenda-files
+    (seq-filter (lambda(x) (not (string-match "/.git/"(file-name-directory x))))
+      (directory-files-recursively "~/Dropbox/org" "\\.org$")))
+  )
+```
+
+Now tell org what your TODO keywords are. The default are fine, I think they're `TODO` and `DONE`, maybe some more. Whatever you put here are what org will cycle through when you `C-c t` on a `TODO` item.
+
+```emacs-lisp
+(with-eval-after-load 'org
+  ;; ...
+  (setq org-todo-keywords
+        '((sequence "TODO" "DOING" "WAITING" "|" "DONE")))
+)
+```
+
+Now for capture templates. These are what are listed when, as in my above example, you do `SPC a o c`.
+
+
+```emacs-lisp
+(with-eval-after-load 'org
+  ;; ...
+  (setq org-capture-templates
+        `(("i" "inbox" entry (file ,(concat org-directory "/inbox.org"))
+           "* TODO %?")
+          ("m" "Meeting Notes" entry (file+olp+datetree ,(concat org-directory "/meeting_notes.org"))
+           "* %?")
+          ("r" "Roam Notes" entry (file+olp+datetree ,(concat org-directory "/notes/notes.org"))
+           "* %?")
+          ("w" "Work Todo" entry (file ,(concat org-directory "/inbox.org"))
+           "* TODO %? :work:\n")
+          ("u" "Curative Todo" entry (file+headline ,(concat org-directory "/curative.org") "Tasks")
+           "* TODO %? \n")
+          ("l" "Life Todo" entry (file ,(concat org-directory "/inbox.org"))
+           "* TODO %? :life:\n")
+          ))
+)
+```
+
+I have a lot for various situations. `inbox` is my default, real-quick, will-sort-later capture. Because it has no tags, it'll go within a `refile` section of my inbox, so I know to organize it more later. As you can see from my other capture templates, that might involve putting it in a proper file (such as a company-specific file), or adding a relevant tag (such as `life` or `work`). Incidentally, this is what that looks like:
+
+{{< img src="needsrefiling.png" alt="Screenshot of the needs refiling section of my general agenda view in emacs.">}}
+
+If you want, you can have your captures stored under a new date heading, by using `file+olp+datetree`. That will result with a file organized by year, month, and then date subheadings, with the final level being the title of the note you enter. See my `meeting_notes.org` file as an example:
+
+
+{{< img src="meeeting_notes.png" alt="Screenshot of my meeting notes file in emacs.">}}
+
+Or, you can put your captures under a specific headline within a file, such as how I do for my "Curative Todo" items, because my `curative.org` file is organized into various project types, with a special place for general tasks:
+
+{{< img src="curative.png" alt="Screenshot of my curative org file in emacs.">}}
+
+The other half of that is your `org-agenda-custom-comands` list. There is where you generate the various agenda views, such listed when I do `SPC a o o`.
