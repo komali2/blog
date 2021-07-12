@@ -47,6 +47,10 @@ main>section ul{
 article section p {
     line-height: 1.5;
 }
+article h1 {
+    font-size: 2em;
+}
+
 
 .image-link {
     display: block;
@@ -61,9 +65,6 @@ figcaption {
 
 article li {
     margin-bottom: 4px;
-}
-article h2 {
-    font-size: 1.1em;
 }
 
 ul {
