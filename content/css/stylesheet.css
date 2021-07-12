@@ -75,6 +75,10 @@ ul {
     width: unset !important;
 }
 
+p>code {
+    color: #682F93;
+}
+
 
 /* table { */
 /*     border-spacing: 16px; */
