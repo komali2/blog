@@ -10,9 +10,9 @@ I've been meaning to write one big fat post on my Emacs journey, and how I use E
 
 I guess what I'm getting at is that while probably Emacs isn't necessary to get done the kinds of things I like to get done, I really appreciate how Emacs has made all of those things very easy, all while protecting my wrists from [Repetitive Strain Injury (RSI)](https://www.nhs.uk/conditions/repetitive-strain-injury-rsi/), which was the original reason I started tinkering with Emacs back in 2016.
 
-The first section, "Why Did I Start Using Emacs," is me just sort of blogging, and can be skipped if you aren't interested in exploring in a narrative manner why someone might pick up emacs. The other sections get into the nitty gritty.
+The first section, "Why Did I Start Using Emacs," is me just sort of blogging, and can be skipped if you aren't interested in exploring in a narrative manner why someone might pick up emacs. The other sections get into the nitty gritty. This post is very long, so I also recommend taking a good look at the table of contents and navigating directly to your interest areas.
 
-Also, if you're a newer developer wondering whether you should try using emacs as your primary IDE, I believe you shouldn't. You should use vscode, which is enormously popular, extremely easy to use, and integrated with all the hot-new-shit webdev technology, which is probably what you're being paid to program. Focus on getting the programming job done first, spending your spare time upskilling in the wide world of webdev technologies, before you start down this path.
+Also, if you're a newer developer wondering whether you should try using emacs as your primary IDE, I believe you shouldn't. You should use [vscode](https://code.visualstudio.com/), which is enormously popular, extremely easy to use, and integrated with all the hot-new-shit webdev technology, which is probably what you're being paid to program. Focus on getting the programming job done first, spending your spare time upskilling in the wide world of webdev technologies, before you start down this path.
 
 I'll be using [emacs style keystroke notations](https://www.gnu.org/software/emacs/manual/html_node/calc/Notations-Used-in-This-Manual.html) in this post.
 
@@ -27,7 +27,7 @@ I'll be using [emacs style keystroke notations](https://www.gnu.org/software/ema
     * [Managing Git]({{< relref "#managing-git" >}})
   * [Programming a Vanilla HTML, CSS, Javascript Project]({{< relref "#programming-a-vanilla-html-css-javascript-project" >}})
     * [Setting Up Javascript, HTML, CSS]({{< relref "#setting-up-javascript-html-css" >}})
-  * [Programming a Vue, Typescript, SCSS Project]({{< relref "#programing-a-vue-typescript-scss-project" >}})
+  * [Programming a Vue, Typescript, SCSS Project]({{< relref "#programming-a-vue-typescript-scss-project" >}})
     * [Setting Up Vue, Typescript]({{< relref "#setting-up-vue-typescript" >}})
   * [Programming a React, Typescript, Styled Components Project]({{< relref "#programming-a-react-typescript-styled-components-project" >}})
     * [Setting Up React]({{< relref "#setting-up-react" >}})
@@ -35,16 +35,30 @@ I'll be using [emacs style keystroke notations](https://www.gnu.org/software/ema
     * [Setting Up Python]({{< relref "#setting-up-python" >}})
 * [On Productivity in Emacs]({{< relref "#on-productivity-in-emacs" >}})
   * [Tracking Tasks and Time]({{< relref "#tracking-tasks-and-time" >}})
-  * [Taking Notes]({{< relref "#taking-notes" >}})
+      * [Example Workflows]({{< relref "#example-workflows" >}})
+          * [New Ticket for Work]({{< relref "#new-ticket-for-work" >}})
+          * [Tammy Wants me to Pick Up the Laundry]({{< relref "#tammy-wants-me-to-pick-up-the-laundry" >}})
+          * [Taking Notes for a Meeting]({{< relref "#taking-notes-for-a-meeting" >}})
+  * [Taking Notes (for class and learning)]({{< relref "#taking-notes" >}})
   * [Journaling]({{< relref "#journaling" >}})
   * [Checking Email]({{< relref "#checking-email" >}})
-
+      * [Example Email Workflows]({{< relref "#example-email-workflows" >}})
+  * [Reading the News]({{< relref "#reading-the-news" >}})
+* [Quick Notes and Tips]({{< relref "#quick-notes-and-tips" >}})
+    * [What OS?]({{< relref "#what-os" >}})
+    * [What's that Theme?]({{< relref "#whats-that-theme" >}})
+    * [I Don't Want to Use Emacs, but I Don't Want RSI]({{< relref "#rsi-tips" >}})
+    * [Can I see your .spacemacs?]({{< relref "#can-i-see-your-spacemacs" >}})
+    * [Can I see your org roam notes?]({{< relref "#can-i-see-your-org-roam-notes" >}})
+    * [How Can I Ask You About Something on this Post?]({{< relref "#how-can-i-ask-you-about-something-on-this-post" >}})
+    * [Wait, You Live in Taiwan? Can I Do That?]({{< relref "#taiwan" >}})
+    * [Wait, You're an Engineer but Don't Have a Computer Science Degree?]({{< relref "#you-dont-have-a-degree-but-youre-an-engineer" >}})
 
 # Why Did I Start Using Emacs?
 
-In 2016, I was a few months into my first software engineering job, at Electric Imp. I had until then spent the previous 6 months developing in [Atom](https://atom.io/) on Windows, because I was in the bootcamp and just didn't have any clue what I was doing. I did, however, have a strong sense of superiority over my fellow students using [Sublime](https://www.sublimetext.com/). Every time they clicked away the "please pay for me" banner I'd smugly say some shit like "imagine paying for a text editor." Then again, during the bootcamp, one of the teachers showed us some [webstorm](https://www.jetbrains.com/webstorm/) setup they had that completely blew our little minds, so there was some attraction to the "fat, paid for IDE that can do magic." Right towards the end of this is when [vscode](https://code.visualstudio.com/) came out, which I picked right up because I liked how little input delay there was. It felt like the difference between playing a game at 60 fps and 120. People will say "acTuAllY the HuMAn EyE caN'T seE hIgHeR tHan whatever fps," I say no, vscode was smooth, I'd stake my life on it. As I remember it that was the very beginning of the vscode days, so I also got the early-adopter feeling of superiority. We bootcamp kids were big on the "we set ourselves apart by quickly adapting to new technology" mindset, so any chance we could get to get a headstart on something that might be the Next Big Thing, we took. Hindsight, I really wish I had taken a crack at writing some vscode extensions back then, the thing is so ubiquitous that I've had times at jobs where it was literally required to develop on a given app with any kind of productivity due to extension integration.
+In 2016, I was a few months into my first software engineering job, at Electric Imp. I had until then spent the previous 6 months developing in [Atom](https://atom.io/) on Windows, because I was in a coding bootcamp and just didn't have any clue what I was doing. I did, however, have a strong sense of superiority over my fellow students that were using [Sublime](https://www.sublimetext.com/). Every time they clicked away the "please pay for me" banner I'd smugly say some shit like "imagine paying for a text editor." Then again, during the bootcamp, one of the teachers showed us some [webstorm](https://www.jetbrains.com/webstorm/) setup they had that completely blew our little minds, so there was some attraction to the "fat, paid for IDE that can do magic." Right towards the end of this is when [vscode](https://code.visualstudio.com/) came out, which I picked right up because I liked how little input delay there was. It felt like the difference between playing a game at 60 fps and 120. People will say "acTuAllY the HuMAn EyE caN'T seE hIgHeR tHan whatever fps," I say no, vscode was smooth, I'd stake my life on it. As I remember it that was the very beginning of the vscode days, so I also got the early-adopter feeling of superiority. We bootcamp kids were big on the "we set ourselves apart by quickly adapting to new technology" mindset, so any chance we could get to get a headstart on something that might be the Next Big Thing, we took. Hindsight, I really wish I had taken a crack at writing some vscode extensions back then, the thing is so ubiquitous that I've had times at jobs where it was literally required to develop on a given app with any kind of productivity due to extension integration.
 
-Anyway, so there's me at Electric Imp, wet behind the ears and devving on a Macbook for the first time in my life, hanging with the real grownups with actual Unix environments (I had used Windows Subsystem for Linux at the bootcamp and on reflection I'm honestly shocked I made it work). I learned a lesson very early in my life from World of Warcraft: mouse users (we called them clickers) are at a significant disadvantage to pure keyboard users. So I spent a lot of time trying to memorize as many vscode hotkeys as I could, including adding my own. As I added more and more, I realized that I wasn't really following any kind of convention, I was just making up stuff that kind of made sense, resulting in contradictory, convoluted hotkeys that sometimes just didn't make sense. I thought, surely smarter people than me have been mapping keys, maybe I can just copy how they do it? And right as I was in the middle of this path, I started getting RSI, really *really* badly.
+Anyway, so there's me at Electric Imp, wet behind the ears and devving on a Macbook for the first time in my life, hanging with the real grownups with actual Unix environments (I had used Windows Subsystem for Linux at the bootcamp and on reflection I'm honestly shocked I made it work). I learned a lesson very early in my life from World of Warcraft: mouse users (we called them clickers) are at a significant disadvantage to pure keyboard users. So I spent a lot of time trying to memorize as many vscode hotkeys as I could, including adding my own. As I added more and more, I realized that I wasn't really following any kind of convention, I was just making up stuff, resulting in contradictory, convoluted hotkeys that sometimes didn't make sense. I thought, surely smarter people than me have been mapping keys, maybe I can just copy how they do it? And right as I was in the middle of this path, I started getting RSI, really *really* badly.
 
 From going to meetups and mini hackathon type things, I'd hung out with enough older engineers to know that RSI was a pretty serious problem to get as an engineer. I remember one older guy used to carry around a split keyboard  with his laptop because otherwise he literally couldn't type, so bad was his wrist pain. I remember articles getting posted on Hacker News, speculating on how to treat RSI, and the comments getting thousands deep. I pretty quickly realized that the main cause of mine was constantly moving between my mouse and keyboard, so I doubled down on trying to stay keyboard-only in vscode.
 
@@ -54,7 +68,7 @@ Inevitably, I took a look at [vim](https://www.vim.org/). I had until then only 
 
 2. My also-sort-of-purist coworker at Electric Imp that used vim and various gnu/linux tools exclusively as his programming environment.
 
-Regarding my coworker, while part of me wanted to roll my eyes at what seemed to be outdated tooling, I had to admit it was cool to watch him work. And sometimes he worked vim magic that I had no idea how to replicate in vscode, I wasn't even sure if it was possible. At the very least, I liked how he never had to take his fingers off the keyboard, so I decided to spend some time trying out vim. At the very least, I thought, I could port some of the keybindings over to vscode.
+Regarding my coworker, while part of me wanted to roll my eyes at what seemed to be outdated tooling, I had to admit it was cool to watch him work. Sometimes he worked vim magic that I had no idea how to replicate in vscode. I wasn't even sure if it was possible. I did like how he never had to take his fingers off the keyboard, so I decided to spend some time trying out vim. At the very least, I thought, I could port some of the keybindings over to vscode.
 
 I poked around some resources before finding the very cool [vim adventures](https://vim-adventures.com/) game. You navigate a little character around obstacles using vim commands. That combined with the built-in `vimtutor` got me to where I could at least switch between the two main modes of vim, and get some basic things done. From there it was just practice, which I did, on and off. At work, if what I was doing mostly involved staying in one file, I'd try editing in vim instead of vscode. It was great, my wrists were already thanking me.
 
@@ -69,17 +83,17 @@ Even back then, when I was almost utterly unfamiliar with emacs (and the vim bin
 
 I dedicated a month or two to using spacemacs exclusively, until I could at least match my productivity in vscode. I'd switch back during critical times, but I'd note what functionality had dragged me back to vscode, and then when I had time, learned how to do the same in spacemacs. It took about two months before I was fully integrated, and to my joy I could do my entire job without ever moving my hands off the keyboard (except to use Jira). Nirvana, and that was just the beginning.
 
-As I was using emacs, I was hearing rumors here and there of things like org-mode (task and time organizing in emacs), or mu4e (email within emacs), and various other weird shit people were forcing into emacs. RSS reading. Webcomic browsing; hell, *all* their internet browsing. And with all this came that kind of weird but kind of cool and arguably quite ethical [gnu](https://www.gnu.org/) community. I was settling right in. Emacs was militantly open source, kinda old school, completely modifiable, and had a huge swath of things for me to learn about it. Also, it felt kinda neat being the office emacs guy. Can't deny that.
+As I was using emacs, I was hearing rumors here and there of things like org-mode (task and time organizing in emacs), or mu4e (email within emacs), and various other weird shit people were forcing into emacs. RSS reading. Webcomic browsing; hell, *all* their internet browsing. And with all this came that kind of weird but kind of cool and arguably quite ethical [gnu](https://www.gnu.org/) community. I was settling right in. Emacs was militantly open source, kinda old school, completely modifiable, and had a huge swath of things for me to learn about it. Also, it felt kinda neat being the office emacs guy.
 
 So, why did I commit to the switch?
 
 1. I could use emacs to do my job (writing code) without taking my hands off the keyboard. Over time, more and more of my job could be done within emacs, such as handling emails (I'll talk about this more later).
 2. emacs as a tool and its community / developing entity (gnu) are radically pro-software freedom. I was (and am) attracted to this movement
-3. It felt kind of [brutalist](https://en.wikipedia.org/wiki/Brutalist_architecture), which, take a look around you at this blog, dunno if you can tell, but I'm really into. It was quite simple on the face, but at the same time quite capable.
+3. It felt kind of [brutalist](https://en.wikipedia.org/wiki/Brutalist_architecture), which, take a look around you at this blog, dunno if you can tell, but I'm really into. It was quite simple on the face, but at the same time very capable.
 4. It's ostensibly an older, or baseline technology, which I'm just attracted to for whatever reason. I don't really know yet how to define this feeling, but the best I can say is this reason for liking emacs is the same reason I like being good at git, or learning unix tooling (sed, grep, etc).
 5. I could use vim commands and hotkeys within it, which let me do some pretty wild code editing
 
-Now for the actual environment, and part of the blog post other people might actually find useful.
+Narrative over, now behold the part of the blog post other people might actually find useful.
 
 # On Emacs and Spacemacs Versions
 
@@ -105,7 +119,7 @@ First off, the layout of my "workspace," by which I mean the full screen on whic
 
 It's fullscreened, which you can accomplish by hitting `f11`, or have emacs launch as such by setting, inside of `dotspacemacs/init`, `dotspacemacs-fullscreen-at-startup t`.
 
-In emacs, a "frame" is what other paradigms might call a "window." It's one "instance" of emacs, which contains multiple "windows." In the above screenshot, you're looking at one (fullscreened) frame, within which there are three windows, which other paradigms might call "frames" or "panes". Each window displays one "buffer," which kind of means "file being edited," but buffers represent things other than files, such as the output of a git command, or the output of a linter, or a list of emails. In the screenshot above, the large window on the left half of the screen is occupied by a buffer that's editing `index.md` of my this blog post, the top-right window has a buffer that is editing `map.ts` file, and the bottom-right window has a buffer in it that's editing my `.spacemacs` file. I'm going to stick to the emacs nomenclature from here on out, so bear the above definitions in mind, or [read up someone smarter than me](https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame) explain it.
+In emacs, a "frame" is what other paradigms might call a "window." It's one "instance" of emacs, which contains multiple "windows." In the above screenshot, you're looking at one (fullscreened) frame, within which there are three windows, which other paradigms might call "frames" or "panes". Each window displays one "buffer," which kind of means "file being edited," but buffers represent things other than files, such as the output of a git command, or the output of a linter, or a list of emails. In the screenshot above, the large window on the left half of the screen is occupied by a buffer that's editing the `index.md` of this blog post, the top-right window has a buffer that's editing the `map.ts` file, and the bottom-right window has a buffer in it that's editing my `.spacemacs` file. I'm going to stick to the emacs nomenclature from here on out, so bear the above definitions in mind, or [read up someone smarter than me](https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame) explain it.
 
 I usually am popping open and closing windows constantly. So for example, if I wanted to edit something at another location in this file real quick, and then quickly return back to this exact line, I'd open a new window horizontally, by doing `SPC w -`, which invokes `split-window-below`. Then, I'd jump to wherever else in the file I need to go, save, and close the window by doing `SPC w d`, which invokes `delete-window`. I'm then brought back to the previous state of my workspace, with my cursor exactly where it was when I opened a new window. Typically, if I want to open and work on a new file, I'd do `SPC w /`, which invokes `split-window-right`. Some combination of such usually results in the kinds of workspaces pictured above.
 
@@ -131,7 +145,7 @@ Emacs has a lot of commands, but it also has a strong concept of discoverability
 
 > Helm is an Emacs framework for incremental completions and narrowing selections. It helps to rapidly complete file names, buffer names, or any other Emacs interactions requiring selecting an item from a list of possible choices.
 
-The buffer list I showed earlier was possible because of helm. Helm also makes it a lot easier to learn how to use spacemacs over time. I can press any command-intiating key, or prefix combination, such as `SPC`, `C-c`, `C-x`, or `,` (or others but those are the ones I use most office), and be shown a list of possible commands. For example, if I press `SPC`:
+The buffer list I showed earlier was possible because of helm. Helm also makes it a lot easier to learn how to use spacemacs over time. I can press any command-initiating key, or prefix combination, such as `SPC`, `C-c`, `C-x`, or `,` (or others but those are the ones I use most often), and be shown a list of possible commands. For example, if I press `SPC`:
 
 {{< img src="helmspc.png" alt="Screenshot of a helm buffer listing available commands in emacs.">}}
 
@@ -143,7 +157,7 @@ To enable helm, add it to your `dotspacemacs/layers`, as `helm`. I think it's th
 
 A very typical workflow for me is to do full-text searches across an entire project. By "project" I usually mean the root of whatever you get when you `git clone` something. In fact, that's basically how `projectile`, the tool that enables great project workflows in emacs, determines what "project" is as well: a `.git` directory.
 
-For example, if I've been instructed to modify how a button works on a frontend app, I often just go look at whatever text is in the button, and then do a text search across the whole project for that text, using `SPC /`, which is bound to `(spacemacs/helm-project-smart-do-search &optional DEFAULT-INPUTP)`. Then I input the text, and choose viable candidates from a list to investigate. It looks like this:
+For example, if I've been instructed to modify how a button works on a frontend app, I often just go look at whatever text is in the button, and then do a text search across the whole project for that text, using `SPC /`, which is bound to `(spacemacs/helm-project-smart-do-search)`. Then I input the text, and choose viable candidates from a list to investigate. It looks like this:
 
 {{< img src="projecttextsearch.png" alt="Screenshot of a project-wide text search in emacs.">}}
 
@@ -165,18 +179,18 @@ It's worth pointing out that it's possible to do a ton of other wild stuff with 
 
 To do the above, you need projectile, which comes default with spacemacs. You need treemacs for the sidepanel file browsing, which can be had by adding `treemacs` to your `dotspacemacs/layers`. Spacemacs main branch used to (still does?) have some other side-panel file browser, but now treemacs is where it's at I guess.
 
-Very important: if you want your file searches to be any kind of fast, you should install [ripgrep](https://github.com/BurntSushi/ripgrep), which is, for some reason, way faster than ag, pt, ack, and grep. You can swap around which search tool is used for these kinds of fucntions with `dotspacemacs-search-tools` inside `dotspacemacs/init`. Mine looks like
+Very important: if you want your file searches to be any kind of fast, you should install [ripgrep](https://github.com/BurntSushi/ripgrep), which is, for some reason, way faster than ag, pt, ack, and grep. You can swap around which search tool is used for these kinds of functions with `dotspacemacs-search-tools` inside `dotspacemacs/init`. Mine looks like
 
 ```emacs-lisp
    dotspacemacs-search-tools '("rg" "ag" "pt" "ack" "grep")
 ```
 
-There's some interesting integrations with between projectile and org-mode that I played with in the past, but I ended up abandoning. I mention it in case it draws your fancy. The package to investigate if this interests you is [org-projectile](https://github.com/IvanMalison/org-projectile).
+There's some interesting integrations  between projectile and org-mode that I played with in the past, but that I ended up abandoning. I mention it in case it draws your fancy. The package to investigate if this interests you is [org-projectile](https://github.com/IvanMalison/org-projectile).
 
 
 ### Finding and Replacing Text
 
-There's lots of options here, because there's emacs and vim ways of doing this. Within a buffer, to quickly find text, I typically simply use `/`, which invokes `(evil-ex-search-forward &optional COUNT)`. Then, I type the text, hit `RET`, and use `n` (next result) and `p` (previous result) to browse the results. It looks like this, after I press `RET`:
+There's lots of options here, because there's emacs and vim ways of doing this. Within a buffer, to quickly find text, I typically simply use `/`, which invokes `(evil-ex-search-forward)`. Then, I type the text, hit `RET`, and use `n` (next result) and `p` (previous result) to browse the results. It looks like this, after I press `RET`:
 
 {{< img src="slashsearch.png" alt="Screenshot of the result of a vim-style text search in emacs.">}}
 
@@ -209,11 +223,11 @@ You can also do the changes one item at a time, by doing `: s % / const / let / 
 
 Another way to find text is to use `*`, which invokes `(spacemacs/enter-ahs-forward)`. I think this just comes baked in with spacemacs by default. To use it, you put your cursor on a word that you want to find across an entire buffer, and press `*`. It looks like this:
 
-{{< img src="starsearch.png" alt="Screenshot of a asterik-style text search and replace in emacs.">}}
+{{< img src="starsearch.png" alt="Screenshot of a asterisk-style text search and replace in emacs.">}}
 
 You have lots of options. You can navigate results with `n` (next) and `p` (previous), you can trigger the same search across the entire projectile project with `/` (which is the same as doing `SPC /` and entering the same text manually), or you can edit the text across the entire file. To edit all instances in the file, press `e`, which invokes `iedit`. This tool I think is a lot more powerful than I realize, but the only way I know how to use it so far is to, after pressing `e` and having one item highlighted, pressing `S` to do some magic vim "change all" type command, then entering the desired text, then pressing `ESC ESC`. So to change all instances of `let` to `const`, I'd put my cursor on one instances of `let`, then do `* e S const ESC ESC`. Again, I think this tool is way more powerful than I realize, but it does what I need it to do as-is.
 
-Finally, to replace text across an entire project, put your cursor on an instance of the text you want to replace, and do `SPC p R`, which invokes `projectile-replace`. You're then presented with the text under your cursor in your minibuffer (at the bottom of the frame), which you can edit as needed. Then, upon pressing `RET`, you're asked which text you want to replace the selected text with. After entering that text and pressign `RET`, you're brought into a replace transient state, similar to when using the `c` flag on the vim `s%` command. From here, there's a lot of commands, so I'll just copy the full help text
+Finally, to replace text across an entire project, put your cursor on an instance of the text you want to replace, and do `SPC p R`, which invokes `projectile-replace`. You're then presented with the text under your cursor in your minibuffer (at the bottom of the frame), which you can edit as needed. Then, upon pressing `RET`, you're asked which text you want to replace the selected text with. After entering that text and pressing `RET`, you're brought into a replace transient state, similar to when using the `c` flag on the vim `s%` command. From here, there's a lot of commands, so I'll just copy the full help text
 
 ```
  Query replacing regexp OLMap with butt.
@@ -252,9 +266,9 @@ As you can see in the screenshot, the status window alone is kinda neat. You can
 
 Changes are broken into chunks, which I can stage separately. I move my cursor to the header of the second chunk (`@@ -252,7`... etc) and press `s` to stage this chunk:
 
-{{< img src="gitstage1.png" alt="Screenshot of a magit status window with an unstaged and staged file tabbed open in emacs.">}}
+{{< img src="gitstage2.png" alt="Screenshot of a magit status window with an unstaged and staged file tabbed open in emacs.">}}
 
-Now, that change is staged. From here, I can unstage it `u` or commit it by pressing `c` to open the commit options:
+Now, that change is staged. From here, I can unstage it with `u` or commit it by pressing `c` to open the commit options:
 
 
 {{< img src="gitcommitoptions.png" alt="Screenshot of the magit commit options in emacs.">}}
@@ -280,7 +294,7 @@ which obviously has TONS of options. This time, I want to figure out which of my
 
 {{< img src="magitlogauthors.png" alt="Screenshot of magit git log showing an author list in emacs.">}}
 
-I select myself with `RET`, then am brought back to the `git log` options, where I press `l` to log on the current branch (I think that's what I mean). I'm shown a list of all commits that match my flags:
+I select myself with `RET`, then am brought back to the `git log` options, where I press `l` to log on the current branch (I think that's what `l` means). I'm shown a list of all commits that match my flags:
 
 {{< img src="magitlogcommits.png" alt="Screenshot of magit git log showing a list of commits in emacs.">}}
 
@@ -400,15 +414,15 @@ Unfortunately I haven't managed to get typechecking working in vue files yet.
 
 Typescript files also have the ability to jump not only to a given variable's definition, but its type definition as well.
 
-Also, within typescript file, you can use `lsp-ui-imenu` to get this overview of a file, its classes, functons, etc, but I never really use this. Looks kinda cool though:
+Also, within typescript file, you can use `lsp-ui-imenu` to get this overview of a file, its classes, functions, etc, but I never really use this. Looks kinda cool though:
 
 {{< img src="tssidebar.png" alt="Screenshot of the lsp ui imenu in a typescript file in emacs.">}}
 
 ### Setting up Vue, Typescript
 
-Setting this up was a little convoluted.  First of all, I have `vue` in my `dotspacemacs-configuration-layers`. It's added as ``(vue :variables vue-backend 'lsp)`, because a lot of features require a language server. That means I also need to have `lsp` in my `dotspacemacs-configuration-layers`.
+Setting this up was a little convoluted.  First of all, I have `vue` in my `dotspacemacs-configuration-layers`. It's added as `(vue :variables vue-backend 'lsp)`, because a lot of features require a language server. That means I also need to have `lsp` in my `dotspacemacs-configuration-layers`.
 
-LSP itself is a bit of a rats nest to get set up. I've found [the emacs-lsp](https://emacs-lsp.github.io/lsp-mode/page/installation/) instructions to be the best, as they, unlike spacemacs, indicate all the things you need to do to get LSP working. So first, add `lsp` to `dotspacemacs-configuration-layers`. Then, you need to install a "language server" for your language of choice. Generally that means doing `M-x lsp-install-server` and choosing from the list of servers. For vue, though, that means installing [Vue Language Server](https://github.com/vuejs/vetur/tree/master/server), via `npm install vls -g`. I also had to use `M-x lsp-install-server` to install `ts-ls`, and whatever other servers helm lists for things like html, css, etc. For getting eslint and typescript linting to pull rules from your project root, you need `vue` in your `dotspacemacs-configuration-layers`, with `node-add-modules-path t`, as in `(node :variables node-add-modules-path t)**.
+LSP itself is a bit of a rats nest to get set up. I've found [the emacs-lsp](https://emacs-lsp.github.io/lsp-mode/page/installation/) instructions to be the best, as they, unlike spacemacs, indicate all the things you need to do to get LSP working. So first, add `lsp` to `dotspacemacs-configuration-layers`. Then, you need to install a "language server" for your language of choice. Generally that means doing `M-x lsp-install-server` and choosing from the list of servers. For vue, though, that means installing [Vue Language Server](https://github.com/vuejs/vetur/tree/master/server), via `npm install vls -g`. I also had to use `M-x lsp-install-server` to install `ts-ls`, and whatever other servers helm lists for things like html, css, etc. For getting eslint and typescript linting to pull rules from your project root, you need `node` in your `dotspacemacs-configuration-layers`, with `node-add-modules-path t`, as in `(node :variables node-add-modules-path t)`.
 
 ## Programming a React, Typescript, Styled Components Project
 
@@ -420,9 +434,9 @@ Here's what it looks like:
 
 {{< img src="reactwithpeek.png" alt="Screenshot of a react / typescript file opened in emacs.">}}
 
-You've got your syntax highlighting, bracket highlighting and autoclosing, template component tag highlighting and autoclosing, as a baseline. I think that's what comes out of the box with emacs, actually. Also in that screenshot, you can see in the middle I have an lsp "peek" open. By putting my cursor on any variable and pressing `, G d`, I can run `lsp-ui-peek-find-definitions`, which, if there's multiple definitions (for example in typescript, an `interface` and `class` might have the same name), lets you scroll through those definitions on the right with `j` and `k`, while viewing the implementation on the left. Notice that this falls through to libraries, as well. In the screenshot, I can view definitions for native react methods. If there's only one definition, you'll simply be taken directly to its file (or location, if within the same file).
+You've got your syntax highlighting, bracket highlighting and auto-closing, template component tag highlighting and auto-closing, as a baseline. I think that's what comes out of the box with emacs, actually. Also in that screenshot, you can see in the middle I have an lsp "peek" open. By putting my cursor on any variable and pressing `, G d`, I can run `lsp-ui-peek-find-definitions`, which, if there's multiple definitions (for example in typescript, an `interface` and `class` might have the same name), lets you scroll through those definitions on the right with `j` and `k`, while viewing the implementation on the left. Notice that this falls through to libraries, as well. In the screenshot, I can view definitions for native react methods. If there's only one definition, you'll simply be taken directly to its file (or location, if within the same file).
 
-Just like Vue, you can also typechecking, with error displays (see the vue section for an example screenshot) and error list capabilities. There's also IntelliSense, so you can start typing and then get a list of suggestions, as exampled in this screenshot:
+Just like in Vue, you can do typechecking, with error displays (see the vue section for an example screenshot) and error list capabilities. There's also IntelliSense, so you can start typing and then get a list of suggestions, as exampled in this screenshot:
 
 {{< img src="reactintellisense.png" alt="Screenshot of an example of react intellsense in emacs.">}}
 
@@ -475,7 +489,7 @@ First, the basic intake. Imagine the following scenario: I get a call from my ma
 
 {{< img src="orgcapturetemplates.png" alt="Screenshot of a list of org capture templates in emacs.">}}
 
-I press `w` to initiate the recording of a `work` TODO item. Then I press `, , ` to save this TODO item.
+I press `w` to initiate the recording of a `work` `TODO` item. Then I press `, , ` to save this `TODO` item.
 
 {{< img src="orgcapturework.png" alt="Screenshot of an org capture window in emacs.">}}
 
@@ -485,7 +499,7 @@ Done! Later, it's time to start work, so I press `SPC a o o` to invoke `org-agen
 
 `w` to access my list of work related agendas,
 
-{{< img src="orgagendasublist.png" alt="Screenshot of an org agenda submenu list in emacs.">}}
+{{< img src="orgagendasublist.png" alt="Screenshot of an org agenda sub-menu list in emacs.">}}
 
 then `w` again to access my general work agenda.
 
@@ -495,7 +509,7 @@ Now I can see a list of tasks! The task my manager just gave me has a deadline t
 
 {{< img src="orgagendadeadline.png" alt="Screenshot of an org agenda with a todo item that has a deadline in emacs.">}}
 
-It's time to get to work on this issue, so I move my cursor to the item, and do `, C i` to invoke `org-agenda-clock-in`. A timer has started that will record how long I work on this issue. When I'm done working on the issue, I go back to the TODO item and do `C-c t` to cycle the state from `TODO` to `DONE`. Doing so automatically invoked `org-agenda-clock-out`, and so now my total time against the task has been logged. Here's what the todo item looks like now from the agenda:
+It's time to get to work on this issue, so I move my cursor to the item, and do `, C i` to invoke `org-agenda-clock-in`. A timer has started that will record how long I work on this issue. When I'm done working on the issue, I go back to the `TODO` item and do `C-c t` to cycle the state from `TODO` to `DONE`. Doing so automatically invoked `org-agenda-clock-out`, and so now my total time against the task has been logged. Here's what the `TODO` item looks like now from the agenda:
 
 {{< img src="orgagendataskdone.png" alt="Screenshot of an org agenda with a todo item that is completed in emacs.">}}
 
@@ -511,7 +525,7 @@ Now, it's time to get my boss to pay up for however long it took me to fix his i
 
 {{< img src="personalclocktable.png" alt="Screenshot of an example of an org clock table in emacs.">}}
 
-There's tons of power there, you can make a table that pulls only from certain files, for certain tags, for certain time periods.
+There's tons of power there, you can make a table that pulls only from certain files, for certain tags, or for certain time periods.
 
 I have a couple other flows, but first let me talk about how the above is possible.
 
@@ -534,11 +548,11 @@ Org requires hella configuration. The first part of configuration goes within th
 
 `org-directory` determines your root org directory, against which many org functions are invoked. Having it within a Dropbox folder can be useful for backing up, but also if you use org-mode management apps on your phone, or just use org-mode on multiple machines.
 
-`org-projectile-file` can be useful if you want to use org-projectile. I don't use that anymore, but it's cool for doing things like creating TODOs on a per-projectile-project basis.
+`org-projectile-file` can be useful if you want to use org-projectile. I don't use that anymore, but it's cool for doing things like creating `TODO`s on a per-projectile-project basis.
 
 Roam and journal will be discussed later.
 
-`org-default-notes-file` determines where org captures will be saved if you don't pass in any custom template properties. I use `inbox.org` because I follow a sort of [Getting Things Done](https://gettingthingsdone.com/) (GTD) type workflow. Because of the powerful nature of org agenda filtering and the ability to write custom capture templates, it's not necessary to do a lot of organization by filetype. I'll demonstrate why later.
+`org-default-notes-file` determines where org captures will be saved if you don't pass in any custom template properties. I use `inbox.org` because I follow a sort of [Getting Things Done](https://gettingthingsdone.com/) (GTD) type workflow. Because of the powerful nature of org agenda filtering and the ability to write custom capture templates, it's not necessary to do a lot of organization by file type. I'll demonstrate why later.
 
 Now for even more customization. Inside of `dotspacemacs/user-config`, create a `with-eval-after-load 'org` invocation. This function causes included code to run after the passed-in mode has been loaded, in this case org-mode. Like this:
 
@@ -635,4 +649,673 @@ Or, you can put your captures under a specific headline within a file, such as h
 
 {{< img src="curative.png" alt="Screenshot of my curative org file in emacs.">}}
 
-The other half of that is your `org-agenda-custom-comands` list. There is where you generate the various agenda views, such listed when I do `SPC a o o`.
+The other half of that is your `org-agenda-custom-commands` list. There is where you generate the various agenda views, those being the ones listed when you do `SPC a o o`. I have a lot.
+
+To create these, you set them equal to a variable, which we then will add to the `org-agenda-custom-commands` list later.
+
+My `work` one is a simple example, basically just searching for a single, specific tag, and showing only `TODO` items that have that tag.
+
+```emacs-lisp
+(setq w-view
+           `("ww" "Work"
+             (
+              (agenda ""
+                      (
+                       (org-super-agenda-groups
+                        '((:discard (:not (:tag ("work")))))
+                        )
+                       (org-agenda-span 'day)
+                       (org-deadline-warning-days 365)
+                       ))
+              (tags-todo "work"
+                         ((org-agenda-overriding-header "All Work")
+                          (org-agenda-files '("~/Dropbox/org/"))
+                          (org-super-agenda-groups
+                           '((:name "All Work Todos"
+                                    :and (:tag ("work"))
+                                    )
+                             (:discard (:anything t))
+                             )
+                           )
+                          (org-agenda-sorting-strategy '(deadline-up priority-down tag-up))
+                          ))
+              nil
+              )
+             )
+           )
+
+```
+
+All of that is made possible due to org-super-agenda. I have literally the sketchiest understanding in the world of the seemingly back-asswards logic employed by `org-super-agenda-groups` to achieve a desired result, so just, copy the above if you're trying to get a view for one specific tag. That `:discard` bit is tricky. Maybe I'm just dumb.
+
+I like my company-specific work views to be broken into the various project type categories. Recall in the screenshot of my `curative.org` file above, I had a couple project types, such as `Email Templates` or `Accessibility`. Those display like this within my curative agenda view:
+
+{{< img src="curativecategories.png" alt="Screenshot of an agenda broken into categories in emacs.">}}
+
+There's a couple things necessary to achieve this. First, my actual agenda view:
+
+```emacs-lisp
+(setq curative-view
+           `("wu" "Curative"
+             (
+              (agenda ""(
+                         (org-super-agenda-groups
+                          '((:discard (:not (:tag ("curative")))))
+                          )
+                         (org-agenda-span 'day)
+                         (org-deadline-warning-days 365)))
+              (tags-todo "curative"
+                         ((org-agenda-overriding-header "All Curative")
+                          (org-agenda-prefix-format "  %?-12t% s")
+                          (org-agenda-files '("~/Dropbox/org/"))
+                          (org-super-agenda-groups
+                           '((:auto-property "CATEGORY")))
+                          (org-agenda-sorting-strategy '(deadline-up priority-down tag-up))))
+              nil)))
+
+```
+
+First, it only shows items that have the tag `curative`. Everything in my `curative.org` file has that tag, because I have this at the top of my `curative.org` file:
+
+```org
+#+FILETAGS: :work:curative:
+```
+
+Next, the agenda automatically creates groups based on the `CATEGORY` property of an item. Properties are inherited from parent items in org-mode, and so I achieve this by giving the `CATEGORY` property to each of the headers in my `curative.org` file. Like so:
+
+```org
+* Accessibility
+  :PROPERTIES:
+  :CATEGORY: accessibility
+  :END:
+```
+
+Now to bring all of this together is my super-huge "life" view.
+
+```emacs-lisp
+(setq l-view
+           `("l" "Life "
+             (
+              (agenda ""
+                      (
+                       (org-agenda-span 'day)
+                       (org-deadline-warning-days 365)
+                       (org-super-agenda-groups
+                        '((:name "Life Agenda"
+                                 :and (:tag ("life")))
+                          (:discard (:anything t))))))
+
+              (todo "TODO"
+                         ((org-agenda-overriding-header "")
+                          (org-super-agenda-groups
+                           '((:name "Needs Filing"
+                                    :and (:not(:tag ("life" "work" "project" "read"))))
+                             (:discard (:anything t)))))
+                          (org-agenda-sorting-strategy '(deadline-up priority-down tag-up)))
+              (todo "TODO"
+                    ((org-agenda-overriding-header "")
+                     (org-super-agenda-groups
+                      '((:name "Reading"
+                               :and (:tag ("read")))
+                        (:discard (:anything t)))))
+                    (org-agenda-sorting-strategy '(deadline-up priority-down tag-up)))
+
+              (todo "TODO"
+                    ((org-agenda-overriding-header "")
+                     (org-super-agenda-groups
+                      '((:name "All Life Todos"
+                               :and (:tag ("life")))
+                        (:discard (:anything t)))))
+                    (org-agenda-sorting-strategy '(deadline-up priority-down tag-up)))
+              (tags-todo "project"
+                    ((org-agenda-overriding-header "Projects")
+                     (org-super-agenda-groups
+                      '((:auto-category t))))
+                    (org-agenda-sorting-strategy '(deadline-up priority-down tag-up))))
+              nil))
+```
+
+First, my `Needs Filing` section contains anything missing my major tags. Then, there's a couple groups with specific tags. Finally, anything with a `project` tag is auto-grouped by category. Similar to my curative file, this is achieved by having `#+FILETAGS: :project:` at the top of my `projects.org` file, and then giving a `CATEGORY` property to each of my headers in the `projects.org` file. Actually, look at that, I don't do `:auto-property "CATEGORY"` here like I do for my curative view, I simply do `:auto-category t`. Huh. Well, try both, see what works for you.
+
+After making views, you have to add them to `org-agenda-custom-commands`:
+
+```emacs-lisp
+(with-eval-after-load 'org
+  ;; ...
+  (add-to-list 'org-agenda-custom-commands `,w-view)
+  (add-to-list 'org-agenda-custom-commands `,l-view)
+  (add-to-list 'org-agenda-custom-commands `,curative-view)
+)
+```
+
+org-mode breaks window layouts obnoxiously by default, so finally, stop it from doing that with:
+
+```emacs-lisp
+(with-eval-after-load 'org
+  ;; ...
+  (setq org-agenda-window-setup 'current-window)
+)
+```
+
+With this setup, I can achieve the following workflows:
+
+### Example Workflows
+
+#### New Ticket for Work
+
+I've started a ticket for curative. I open `curative.org` with `SPC b b curative.org` (the buffer list maintains a log of commonly opened files, so this works even if I haven't opened `curative.org` recently). I navigate to the proper project category, in this case `Accessibility`, and add a new item to it with `C-RET ALT-L` (`C-RET` adds a new heading as a sibling to the current, and then `ALT-L` demotes the heading one level, immediately making the new heading a child of `Accessibility` instead of  a sibling). I write the TODO:
+
+```org
+* Accessibility
+  :PROPERTIES:
+  :CATEGORY: accessibility
+  :END:
+
+**  TODO Make website more accessible
+```
+
+And then press `C-t` on it to switch it to `DOING` state. Then I do `, C i` on it to clock in. I get to work. After a while, I issue a pull request.  I find my current `TODO` heading quickly by doing `SPC a o C j` to run `org-clock-jump-to-current-lock`, then add a subheader with `C-RET ALT-L`, to which I add a timestamp with `A , ESC , D t ENT` (`A ,` moves the cursor to the end of the current line and enters insert mode, I type a comma then `ESC` into command mode, then run `org-time-stamp`, pressing `ENT` to select today). I add the comma because otherwise the timestamp has no whitespace between it and the asterisks that make an org header a header, and am too lazy to find a better preventative measure. Anyway, then I add a note about issuing a pull request, and clock out with `SPC a o C o`.
+
+```org
+** WAITING do a thing
+   :LOGBOOK:
+   CLOCK: [2021-07-12 Mon 19:27]--[2021-07-12 Mon 19:37] =>  0:10
+   :END:
+*** <2021-07-12 Mon>,
+    issued a PR
+
+```
+
+Later, someone merges my pull request, so I find the issue again in my agenda, with `SPC a o o w u` to launch my custom `curative` agenda view, navigate my cursor to the issue in that view, and do `t` to change its state to `DONE`.
+
+Now, it's time to bill my client for the work done today. I create a clock table in my `curative.org` file:
+
+```org
+#+BEGIN: clocktable :scope file :maxlevel 5 :block today :hidefiles t :match "curative" :fileskip0 t :link t
+#+END:
+```
+I do `, , ` on it to cause the clocktable to generate:
+
+```org
+#+BEGIN: clocktable :scope file :maxlevel 5 :block today :hidefiles t :match "curative" :fileskip0 t :link t
+#+CAPTION: Clock summary at [2021-07-12 Mon 12:56], for Monday, July 12, 2021.
+| Headline                          |   Time |      |
+|-----------------------------------+--------+------|
+| *Total time*                      | *2:05* |      |
+|-----------------------------------+--------+------|
+| Accessibility                     |   1:41 |      |
+| \_  CUR-5759 text input dropdowns |        | 1:41 |
+#+END:
+
+```
+
+(I hid some of the above clocktable for simplicity sake, that's why the hours don't add up)
+
+#### Tammy Wants me to Pick Up the Laundry
+
+Tammy sends me a message to pick up the laundry. I do `SPC a o c l` to trigger my custom `life` capture template. I type "Pick up the laundry", then do `, d d` to invoke `org-deadline`, selecting today as the deadline. I do `, , ` to save my new `TODO` item to my `inbox.org` file with the proper tags automatically assigned by my capture template.
+
+```org
+* TODO Get laundry                                                     :life:
+  DEADLINE: <2021-07-11 Sun>
+```
+
+The next day, I start my day with `SPC a o o l` to invoke my custom `life` agenda view. At the top, I see my items with deadlines, and that my `Get laundry` `TODO` was due one day ago. Oops.
+
+#### Taking Notes for a Meeting
+
+I've started a meeting and so create a new item in my `meeting_notes.org` file with `SPC a o c m`, invoking my custom `meeting notes` capture template, which creates a new date item in `meeting_notes.org` with the notes I enter in the capture buffer. I give the first header the :work: tag and clock in with `, C i`. After taking notes, I have some `TODO` headers as children to the main header. These will automatically display the next time I look at my work agenda view with `SPC a o o w`, because they have the `:work:` tag. I clock out with `SPC a o C o` and then save the note with `, ,`.
+
+``` org
+**** Meeting about doing a hostile takeover :work:
+     :LOGBOOK:
+     CLOCK: [2021-07-12 Mon 19:56]--[2021-07-12 Mon 19:57] =>  0:01
+     :END:
+***** blah blah
+      do a thing
+***** TODO turn bathroom into bunker
+```
+(the headers are already so nested because they were automatically created as children of year, month, and day time trees within `meeting_notes.org`)
+
+## Taking Notes
+
+I have terrible memory and am working on actually keeping with me the things that I'm learning in the various computer science courses I'm taking, as well as the books I'm reading. To do so, I'm leveraging [org-roam](https://github.com/org-roam/org-roam), which is an org-mode implementation of [roam research](https://roamresearch.com/), which is an sort of implementation of the [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) method of note-taking and personal knowledge management, focused on helping generate connections between the things you know. Once you've been using it for some amount of time, it starts to look like this:
+
+
+{{< img src="linearregression.png" alt="Screenshot of an org roam backlinks buffer in emacs.">}}
+
+The idea is that you create .org files for both "concepts" (such as "linear regression" in the example), as well as for sources of information, such as an article, book, talk, or meeting. The "concept" files are supposed to be more "pure," so for example when I eventually flesh out that Linear Regression file, it'll talk only, in short, about what Linear Regression is, with the context being more filled out by the backlinks buffer, in the example on the right. But the backlinks buffer is the cool part! That shows all the other places I've mentioned "Linear Regression" in my org-roam directory, making it a lot easier for me to fill out that linear regression org file! Also, it can lead to connections between things you wouldn't realize.
+
+I'm also combining this with a method for creaking [anki](https://apps.ankiweb.net/) cards from within my .org files, so that while I take notes, I can immediately make relevant flashcards for later study.
+
+Finally, I also use org-roam as a journaling tool, so that I can link out any relevant thoughts or reflections I have into my org-roam node map.
+
+### Setting up Org Roam and Anki
+
+You need org-mode, but luckily in spacemacs, installing org-roam simply means passing a flag to your `org :variables` like so, within `dotspacemacs-configuration-layers`:
+
+```elisp
+(org :variables
+  org-directory "~/Dropbox/org"
+  org-enable-roam-support t
+  org-enable-org-journal-support t
+  org-roam-directory "~/Dropbox/org/notes/"
+  org-roam-index-file "~/Dropbox/org/notes/20200526213916-index.org"
+  )
+```
+
+The location of the `org-roam-directory` is IMPORTANT, because you probably want the *shitloads* of files that org-roam creates in their own little special directory. org-roam creates a file for literally every concept you ever write about, which is the idea, but it means that you'll eventually have hundreds, if not thousands, of files.  So, give it its own directory, preferably as a child directory of your main `org-directory` and `org-agenda-directory` so that you can do clocktables and pull `TODO`s out of org-roam files. As for the index file, it's not too important when you get started, but it can be helpful for organizing down the line. [This is what my index file looks like](https://github.com/komali2/notes/blob/1d19efc677886776ef7993a3ae506d4ae9870ef8/20200526213916-index.org). The long string of numbers at the front of the filename is a sort of timestamp that org-roam adds to all its files on creation, I guess to allow for duplicates or similarly named files, I'm not sure, but because you'll be interacting with those files through org-roam, it'll be fine, trust me.
+
+To get `anki` working, you need to add `anki-editor` to `dotspacemacs-additional-packages`. Then, [follow the up to date installation instructions](https://github.com/louietan/anki-editor) from the website, which mostly just means installing anki and a plugin for anki.
+
+
+### Example Org Roam Workflows
+
+#### Taking Notes for a Book
+
+When I'm about to start reading the book, I do `SPC a o r f` to invoke `org-roam-find-file`, which will create a new file named whatever I name it, because the file doesn't yet exist. If the file did exist, org-roam would simply open the file. A file is created, with a `#+title` property of whatever you input. The filename will be that same title, but with a long datetime string at the front. For example, I created a file for "Hands-On Machine Learning," and the filename is `20210614104501-hands_on_machine_learning.org`, and the title property is `#+title: Hands-On Machine Learning`. [Here's the actual file](https://github.com/komali2/notes/blob/1d19efc677886776ef7993a3ae506d4ae9870ef8/20210614104501-hands_on_machine_learning.org).
+
+Because I know what the book is about, I'm going to add some `ROAM_TAGS` so as to make the file show up when I search for certain concepts. I add the following to the top of the file:
+
+```org
+#+ROAM_TAGS: "machine learning" scikit-learn keras tensorflow "computer science"
+```
+
+Now whenever I do `org-roam-find-file` and enter "computer science," this book will be one of the results:
+
+{{< img src="findcomputerscience.png" alt="Screenshot of a list of tagged items returned by org-roam-find-file in emacs.">}}
+
+As I read the book, I add headers and take notes in a hierarchical manner. Example:
+
+```org
+* Preface
+  Assumption: I know nothing about Machine Learning
+  Book will give me concepts, tools, and intuition necessary to implement programs capable of learning from data.
+** frameworks used
+*** Scikit-learn
+    easy to use
+    implements many Machine Learning algorithms efficiently
+    good entry point
+*** TensorFlow
+    Complex library
+    Distributed numerical computation
+    Train and run very large neural networks efficiently
+      Does so by distributing the computations across 100s of multi-GPU servers
+    Created at google
+    open sourced in november 2015
+
+```
+
+When I find a concept that I think should be captured on its own by org-roam, I highlight that concept with the evil-mode `evil-visual-char` command, the equivalent of vim's visual-mode, essentially the same thing as selecting text by clicking and dragging with a mouse. I put the cursor on "TensorFlow" in the above example and press `v e` to select to the end of the word. I then do `, o r i` to invoke `org-roam-insert`, which will allow me to select from a list of existent files and link this text to an existent file, or, create a new file, and then link this text to that file:
+
+{{< img src="org-roam-insert-new.png" alt="Screenshot of org roam's insert command in emacs.">}}
+
+The file doesn't exist yet, so I navigate to the "literal interpretation" of my input (rather than the autocomplete offering) with `C-k` (navigate up in helm buffers), then create the file with `RET`. An org capture buffer is opened, but I'm too lazy to input any information about TensorFlow now, so I leave it with its default state of simply a `#+title` property of "TensorFlow" and press `, ,` to close and save the capture. Now, a new file has been created: `20210712203812-tensorflow.org`. Also, my TensorFlow header item in my book file has been linked to that file:
+
+```org
+*** [[file:20210712203812-tensorflow.org][TensorFlow]]
+```
+
+If I go to the TensorFlow file again with `SPC a o r f tensorflow RET`, then from within the file do `SPC SPC org-roam`, I can see the backlink to TensorFlow from my book file.
+
+{{< img src="tensorflowbacklinks.png" alt="Screenshot of a backlinks example in org roam in emacs.">}}
+
+
+#### Adding Anki Cards
+
+While taking notes on a book, I need to make some cards. I add a top-level header called "Anki" just to keep my headers separate, as they have a specific format and I don't want them cluttering up my main notes. I create some "forward" and "backward" cards, because to learn a concept, one must learn the definition's association with the word, and the word's association with the definition. Here's an example:
+
+```org
+* Anki
+** Training set
+*** training set forward
+   :PROPERTIES:
+   :ANKI_DECK: Org Learning
+   :ANKI_NOTE_TYPE: Basic (and reversed card)
+   :END:
+**** Front
+     What is a training set in Machine Learning?
+**** Back
+     examples that a machine learning system uses to learn
+*** training set back
+   :PROPERTIES:
+   :ANKI_DECK: Org Learning
+   :ANKI_NOTE_TYPE: Basic (and reversed card)
+   :END:
+**** Front
+     What do you call examples that a machine learning system uses to learn?
+**** Back
+     a Training Set
+```
+
+Then, after making sure anki is running and thus that that the anki-connect server is running, I do `SPC SPC anki-editor-mode` to activate anki commands, then `SPC SPC anki-editor-push-notes`. After a short while, a message in my modeline notifies me that the cards were created successfully, which I can confirm by seeing that they now have new properties indicating their card IDs:
+
+```org
+*** training set forward
+   :PROPERTIES:
+   :ANKI_DECK: Org Learning
+   :ANKI_NOTE_TYPE: Basic (and reversed card)
+   :ANKI_NOTE_ID: 1623836976838
+ :END:
+```
+
+## Journaling
+
+I journal using org-roam, which lets me follow similar workflows as I do within the [taking notes]({{< relref "#taking-notes">}}) section for my own journaling, which is common when I am writing down things I thought about on walks or while meditating.
+
+The workflow is simple, throughout the day, I do `SPC a o r d t` to invoke `org-roam-dailies-find-today`. If I haven't journaled today, org-roam creates a file for today. Otherwise, it simply takes me to today's journal file. Then, I journal away, adding `TODO`s as needed, or following an org-roam linking flow identical to what I'd do when taking notes for a book or class. Then, if I am exploring backlinks, I can see not only instances against various books and articles I've read, but also instances where something was mentioned in my own journal! Very cool.
+
+I also do weekly and monthly reviews to see what I've been up to. To do so, in my daily journal for the day, opened with `SPC a o r d t`, I add a header for my review, and under that header, I add a clocktable and populate it with `, ,` like so. I use options `:tstart` and `:tend` to specify the block of time, `:fileskip0` to clean out the file names which are irrelevant to me, and `:link t` to make each of the items in the clock table link to their locations (not shown below for simplicity).
+
+```org
+* review
+#+BEGIN: clocktable :scope agenda :maxlevel 5 :block 2021-7 :tstart 2017-7-1 :tend today :hidefiles t :fileskip0 t :link t
+#+CAPTION: Clock summary at [2021-07-13 Tue 09:21], for July 2021.
+| Headline                                       |      Time |       |       |
+|------------------------------------------------+-----------+-------+-------|
+| *Total time*                                   | *2d 7:39* |       |       |
+|------------------------------------------------+-----------+-------+-------|
+| Book club notetaking                           |      2:00 |       |       |
+|------------------------------------------------+-----------+-------+-------|
+| make new mandarin flashcard                    |      0:06 |       |       |
+| read man's search for meaning                  |      1:00 |       |       |
+| fuck with opz                                  |      0:20 |       |       |
+|------------------------------------------------+-----------+-------+-------|
+| read man's search for meaning                  |      1:00 |       |       |
+|------------------------------------------------+-----------+-------+-------|
+| Part I The Fundamentals of Machine...          |      1:00 |       |       |
+| \_  Chapter 1. The Machine Learning...         |           |  1:00 |       |
+| \_    Types of Machine Learning Systems        |           |       |  1:00 |
+|------------------------------------------------+-----------+-------+-------|
+| BOOK CLUB                                      |      3:43 |       |       |
+| \_  <2021-07-01 Thu> thursday bookclub...      |           |  1:45 |       |
+| \_  <2021-07-08 Thu> thursday bookclub...      |           |  1:58 |       |
+|------------------------------------------------+-----------+-------+-------|
+| <2021-07-07 Wed>                               |      1:05 |       |       |
+|------------------------------------------------+-----------+-------+-------|
+| \covid19lab\covid19lab                                     |     11:24 |       |       |
+| Accessibility                                  |      8:31 |       |       |
+| \_  CUR-6317 make radio inputs accessible      |           |  0:31 |       |
+| \_  CUR-6362 vpat                              |           |  6:19 |       |
+| \_  CUR-5759 text input dropdowns              |           |  1:41 |       |
+| Tasks                                          |      1:30 |       |       |
+| \_  cur-6391 add question to post-vaccine...   |           |  1:30 |       |
+|------------------------------------------------+-----------+-------+-------|
+| Disfactory                                     |      1:15 |       |       |
+| \_  clusters                                   |           |  1:15 |       |
+|------------------------------------------------+-----------+-------+-------|
+| \blog\blog                                           |     22:25 |       |       |
+| \_  Pending Articles                           |           | 22:25 |       |
+| \_    Blogpost on emacs environment            |           |       | 22:03 |
+| \_    Make blog post about wulai motorcycle... |           |       |  0:22 |
+| Chinese                                        |      0:20 |       |       |
+| \_  Chinese lessons preply                     |           |  0:20 |       |
+#+END:
+
+```
+
+To get org-roam journal functionality, follow the org-roam installation instructions under the taking notes section above.
+
+
+## Checking Email
+
+The blog is already long and I'm about to start a section that just might be as long as every previous section combined. Oh well.
+
+I check my email in emacs. Here's what it looks like:
+
+{{< img src="mu4einbox.png" alt="Screenshot of the mu4e inbox buffer in emacs.">}}
+
+{{< img src="mu4ecompose.png" alt="Screenshot of the mu4e compose buffer in emacs.">}}
+
+It's great, because it allows for keyboard-only navigation. Also, because images don't display by default, it's quite literally impossible to track whether I've opened an email, or do any funky user-agent identification using tracking pixels. Downside, sometimes emails display kinda weird if they have custom CSS, but upside, I don't really like reading those kinds of emails anyway.
+
+This kind of emacs integration is only for the most devout of the "path of the unnecessarily convoluted ways of doing shit." I love it and find it very useful, but it involves lots more than just plugging in a tool on your `.spacemacs`.
+
+
+### Setting up Email
+
+Add mu4e to your `dotspacemacs/layers`.
+
+[Install mu](https://www.djcbsoftware.nl/code/mu/mu4e/Installation.html#Installation), which installs mu4e. Then, you'll probably have to tell emacs how to find mu4e, so add the following to your `dotspacemacs/user-init`:
+
+```emacs-lisp
+  (add-to-list 'load-path "/usr/local/share/emacs/site-lisp/mu4e")
+```
+
+But wait, guess what, mu4e and mu just browse maildir directories on your computer. To actually fetch and populate those directories, you need another tool. I use [offlineimap](http://www.offlineimap.org/). Install it.
+
+Create `~/.offlineimaprc`. You'll need to customize this file based on the kinds of email services you use. I use a bluehost custom domain, plus, gmail. Mine kinda looks like this:
+
+```conf
+[general]
+pythonfile = ~/.offlineimap.py
+accounts = gmailhome, calebjay,
+maxsyncaccounts = 2
+
+[Account gmailhome]
+localrepository = gmailhomelocal
+remoterepository = gmailhomeremote
+
+[Account calebjay]
+localrepository = calebjaylocal
+remoterepository = calebjayremote
+
+[Repository gmailhomelocal]
+type = Maildir
+localfolders = ~/Mail/gmailhome
+
+[Repository gmailhomeremote]
+type = Gmail
+remoteuser = myemail@gmail.com
+remotepasseval = get_pass("Gmailhome")
+createfolders = False
+sslcacertfile = /etc/ssl/certs/ca-certificates.crt
+folderfilter = lambda folder: folder in ['INBOX', '[Gmail]/Drafts', '[Gmail]/Sent Mail', '[Gmail]/.Archive']
+
+[Repository calebjaylocal]
+type = Maildir
+localfolders = ~/Mail/calebjay
+
+[Repository calebjayremote]
+type = IMAP
+remotehost = my.emailserver.com
+ssl = yes
+remoteuser = my@email.com
+remotepasseval = get_pass("calebjay")
+createfolders = True
+sslcacertfile = /etc/ssl/certs/ca-certificates.crt
+```
+
+Now you need to tell offlineimap how to read passwords. Create `~/.offlineimap.py`. Make it look like this:
+
+```python
+#! /usr/bin/env python2
+from subprocess import check_output
+
+def get_pass(account):
+        return check_output("pass Google/" + account, shell=True).splitlines()[0]
+```
+
+Note that the `pass Google/` command means that that program which we haven't installed yet (pass) is going to look inside its `Google/` directory for the given password. You could do like `mu/` or something as well. If you already use pass for password management, don't try to just use your already existent password, it won't work, because you have to use app passwords. You'll see.
+
+Install [pass](https://www.passwordstore.org/). If you're struggling, [this dude has written](https://medium.com/@chasinglogic/the-definitive-guide-to-password-store-c337a8f023a1) a great article that I constantly reference on how to use pass.
+
+Create a gpg key. If you're going down this path, you'll probably find yourself using this key and this pass store for a lot of stuff, so maybe do this part well (and choose a good password). Do `gpg2 --full-gen-key`. Mostly go with default options, except key length, roll with 4096. Use your full name and email, because this is how the key will be referenced. For the love of god, don't forget the password you choose here.
+
+Initiate pass. Do `pass init {{your_email}}` using the email you used to create your gpg key. If you want to have your pass store be a git repository (I do and it's awesome), do `pass git init`.
+
+Add your gmail email app password to pass. Under your google account "security" section, find "app passwords." I'd attach screenshots, but they change the UI ever 3 months, so just... find it lol. Create an app password, and plop it in a text file that you won't save for a second, cause I think google only lets you see it once. Now, do `pass add Google/Gmailhome` or whatever you want to name it. Just remember to use the prefix (`Google/`) that you had in `offlineimap.py` and the suffix that you use as the argument passed to `remotepasseval` in `.offlineimaprc`. After `pass add`, you should be prompted for the password. Enter the app password you grabbed earlier, press `RET`.
+
+Ok, you should be sorted on that front. Try running `offlineimap` and see what happens! If you get an error, tell me and I'll try to get it added to this section.
+
+Let that run, it might take a while depending on how many emails you have. When it's done, [initialize mu](https://www.djcbsoftware.nl/code/mu/mu4e/Initializing-the-message-store.html#Initializing-the-message-store) so it knows where to find mail, and what your emails are. Do `mu init --maildir=~/Mail --my-address=jim@example.com `.
+
+Once that's done, let mu [index your mail](https://www.djcbsoftware.nl/code/mu/mu4e/Indexing-your-messages.html#Indexing-your-messages), and create a database. Do `mu index`.
+
+Now, config your `.spacemacs`. Start a `with-eval-after-load 'mu4e`:
+
+```emacs-lisp
+(with-eval-after-load 'mu4e
+    ;; Sets your user agent to not a fake one
+    (setq mail-user-agent 'mu4e-user-agent)
+    ;; Sets a sane compose format, where you don't have to manually
+    ;; enter newlines to try to enforce column widths. Trust me, do this.
+    (setq mu4e-compose-format-flowed t)
+    ;; Close the send buffer when you send an email. Why wouldn't you do this?
+    (setq message-kill-buffer-on-exit t)
+    ;; This doesn't mean delete sent messages, it means delete the draft when sent.
+    ;; I think. I mean, I have emails in my sent directory, so.
+    (setq mu4e-sent-messages-behavior 'delete )
+    ;; Tells mu4e to use offlineimap to fetch emails. It does this for you automatically every...
+    (setq mu4e-get-mail-command "offlineimap" )
+    ;; 5 minutes, or whatever time you specify here
+    (setq mu4e-update-interval 300 )
+    ;; Set to the same as you set it above in your mu init and .offlineimaprc
+    (setq mu4e-maildir "~/Mail")
+
+    ;; Asks you what "context" before doing some actions.
+    ;; Context means like, your personal gmail, or work gmail
+    (setq mu4e-context-policy 'ask)
+    ;; Now you actually make said contexts
+    (setq mu4e-contexts
+          ;; Gmail example:
+          `( ,(make-mu4e-context
+               :name "Personal"
+               :enter-func (lambda () (mu4e-message "Entering Personal context"))
+               :leave-func (lambda () (mu4e-message "Leaving Personal context"))
+               ;; we match based on the contact-fields of the message
+               :match-func (lambda (msg)
+                             (when msg
+                               (string-match-p "^/gmailhome" (mu4e-message-field msg :maildir))))
+               :vars '( ( user-mail-address	    . "youremail@gmail.com"  )
+                        ( user-full-name	    . "Caleb Rogers" )
+                        ;; this is how gmail names its shit, don't change this
+                        ( mu4e-drafts-folder . "/gmailhome/[Gmail].Drafts" )
+                        ( mu4e-sent-folder   . "/gmailhome/[Gmail].Sent Mail" )
+                        ( mu4e-trash-folder  . "/gmailhome/[Gmail].Trash" )
+                        ( mu4e-refile-folder . "/gmailhome/[Gmail].All Mail")
+                        ( mu4e-maildir-shortcuts .
+                                                 (
+                                                  ("/gmailhome/INBOX"  . ?i)
+                                                  )
+                                                 )
+                        (smtpmail-smtp-user . "youremail@gmail.com")
+                        ))
+             ;; Personal email server example:
+             ,(make-mu4e-context
+               :name "Caleb"
+               :enter-func (lambda () (mu4e-message "Switch to the Caleb context"))
+               :leave-func (lambda () (mu4e-message "Leaving Caleb context"))
+               ;; we match based on the maildir of the message
+               :match-func (lambda (msg)
+                             (when msg
+                               (string-match-p "^/calebjay" (mu4e-message-field msg :maildir))))
+               :vars '( ( user-mail-address	     . "youremail@yourwebsite.com" )
+                        ( user-full-name	     . "Caleb Rogers" )
+                        ( mu4e-drafts-folder . "/calebjay/INBOX.Drafts" )
+                        ( mu4e-sent-folder   . "/calebjay/INBOX.Sent" )
+                        ( mu4e-trash-folder  . "/calebjay/INBOX.Trash" )
+                        (mu4e-refile-folder . "/calebjay/INBOX.Archive")
+                        ( mu4e-maildir-shortcuts .
+                                                 (
+                                                  ("/calebjay/INBOX"  . ?i)
+                                                  )
+                                                 )
+                        (smtpmail-smtp-user . "caleb@calebjay.com")
+                        (smtpmail-default-smtp-server . "mail.yourwebsite.com")
+                        (smtpmail-smtp-server . "mail.yourwebsite.com")
+                        (smtpmail-smtp-service . 465)
+                        (smtpmail-stream-type . ssl)
+                        (mu4e-sent-messages-behavior . sent )
+                       ))
+             ))
+    )
+
+```
+
+Ok that's it, do `SPC a e m` to launch mu4e, I hope it works!
+
+### Example Email Workflows
+
+I check my email with `SPC a e m` to launch mu4e. I have an email from a colleague at g0v telling me about an upcoming meetup. From within the email, I do `C-c l` to invoke `org-store-link`, then do `SPC a o c i` to launch my custom `inbox` org capture template.  I create some sensible header ('check out this meetup'), then on a newline, do `, i l` to invoke `org-insert-link`, choosing the link to the email that `org-store-link` captured for me, and pressing `RET` to select the default title for the link. I press `, ,` to save the capture buffer. Now, a new `TODO` item has been created, with a link to this email in mu4e should I like to easily access it for further context in the future.
+
+
+## Reading the News
+
+Yes, even this. Luckily, this is pretty easy to set up. Using [elfeed](https://github.com/skeeto/elfeed), I can read RSS feeds of my choice. It looks like this:
+
+
+{{< img src="elfeed.png" alt="Screenshot of elfeed in emacs.">}}
+
+Right now I'm having some kind of display bug where the source of a given RSS item isn't showing up, so check the [elfeed repository](https://github.com/skeeto/elfeed) to see how it should actually look. But, it still works.
+
+To get elfeed, add `elfeed` to your `dotspacemacs/layers`. Then, add the RSS feeds you want under the `elfeeds-feeds` list, which is a variable you pass directly in `dotspacemacs/layers`, like so
+
+```emacs-lisp
+     (elfeed :variables
+             elfeed-feeds '("https://researchbuzz.me/feed/"
+                            "http://n-gate.com/index.rss"
+                            "https://mjtsai.com/blog/feed/"
+                            "https://craphound.com/feed/"
+                            "https://pluralistic.net/feed/"
+                            "http://www.fudzilla.com/?format=feed"
+                            "http://semiengineering.com/feed/"
+                            "https://www.eff.org/rss/pressrelease"
+                            "http://news.mit.edu/rss/topic/nanotech"
+                            "http://news.mit.edu/rss/topic/electrical-engineering"
+                            "http://www.pocketables.com/feed"
+                            "https://www.quantamagazine.org/feed"
+                            "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml"
+                            "https://machinelearningmastery.com/blog/feed/"
+                            "http://news.mit.edu/rss/topic/artificial-intelligence2"
+                            "https://bair.berkeley.edu/blog/feed.xml"
+                            "https://openai.com/blog/rss/"
+                            "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+                            "https://www.jefftk.com/news.rss"
+                             ))
+
+```
+
+My typical workflow is, I'm waiting for some long command to run or whatever, and quickly pop open an elfeed window with `SPC a r e`. As I read, I might pop over to my org-roam daily journal to create some note of interest, copying a link to the article in question first with `SPC a o l ` . I might add a follow-up `TODO` with the `read` tag so it shows up in my "To Read" portion of my "life" agenda view.
+
+# Quick Notes and Tips
+
+This is a long ass blog post so I figure I'll leave some quickly accessible information down here.
+
+
+## What OS?
+
+I use Ubuntu 20.10, with GNOME as my display manager. If you want workspace management like I have, with `C-ALT-{{number}}` functionality, you need to find  away to install "gnome tweak tools." In the "workspaces" section of that tool will be the settings you'll find that allow control over workspaces. Then, you need to add "switch to workspace {number}" keybindings under your "keyboard" settings, under main ubuntu settings.
+
+## What's that Theme?
+
+The theme you see in my screenshots is one I made, called [vscode-default-high-contrast](https://github.com/komali2/Emacs-VSCode-Default-High-Contrast). It's named as such because I'm lifting the color scheme from vscode's "default high contrast theme." I [wrote a blog post](/posts/i-made-an-emacs-theme) about making my own theme. I recommend doing so, it's a great way to customize your IDE while also getting a taste of emacs lisp.
+
+## RSI Tips
+
+You don't have to go all in on vim and emacs with evil-mode to help prevent RSI. Here's some quick tips:
+
+* Rebind `CAPS` to be `CTRL`
+* Use `C-[` as `ESC` rather than the actual `ESC` key  (this may be already bound as such for your system)
+* Get a split keyboard. I use the kinesis freestyle pro. They don't pay me so you can go find them on your own lol.
+* When typing, keep your wrists off the keyboard. Aka, hover-type.
+
+## Can I See Your .spacemacs?
+
+Yes, [here it is](https://github.com/komali2/Configs/blob/master/emacs/.spacemacs).
+
+## Can I See Your Org Roam Notes?
+
+Yes, [here they are](https://github.com/komali2/notes).
+
+## How Can I Ask You About Something on this Post?
+
+You can email me. My email is my first name at calebjay.com. My first name is caleb.
+
+## Taiwan?
+
+Yes, and I wrote [a blog post in which I argue that you should live here too](/posts/why-taiwan).
+
+## You Don't Have a Degree but You're an Engineer?
+
+That's right, and I [have a lot of posts about how this is possible](/tags/bootcamp), and how you probably can do this too.
