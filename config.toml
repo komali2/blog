@@ -17,7 +17,7 @@ enableRobotsTXT = true # generate robots.txt
 # pygmentsCodefences = true
 
 [params.info]
-description = "A blog by Caleb Jay on programming, writing, traveling, and philosophy."
+description = "A blog by Caleb on programming, writing, traveling, and philosophy."
 title404 = "File Not Found."
 
 [taxonomies]

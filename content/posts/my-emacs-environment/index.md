@@ -1,6 +1,6 @@
 ---
 title: "How I Write Code, Take Notes, Journal, Track Time and Tasks, and Stay Organized using Emacs"
-date: 2021-07-07T02:16:47-08:00
+date: 2021-07-12T02:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['emacs', 'javascript', 'open-source', 'frontend', 'python', 'vue']
