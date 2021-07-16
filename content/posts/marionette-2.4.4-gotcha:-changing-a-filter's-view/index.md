@@ -3,7 +3,7 @@ title: "Marionette 2.4.4 Gotcha: Changing a Filter's View"
 date: 2017-04-11T00:16:47-08:00
 draft: false
 categories: ['programming']
-tags: ['marionette']
+tags: ['frontend', 'javascript']
 ---
 
 I was banging my head against the desk trying to figure out why the following code, <em>straight from the Marionette.js docs</em>, wasn't working:

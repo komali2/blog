@@ -3,7 +3,7 @@ title: "onlinetaxman.com Prices"
 date: 2021-01-24T02:16:47-08:00
 draft: false
 categories: ['life']
-tags: ['tax', 'work', 'digital nomad']
+tags: ['work', 'digital nomad']
 ---
 
 I hate when I can't find pricing for shit.

@@ -3,7 +3,7 @@ title: "highlights-getter"
 date: 2020-11-08T02:16:47-08:00
 draft: false
 categories: ['programming']
-tags: ['personal-project', 'open-source', 'javascript', 'web' ]
+tags: ['personal-project', 'open-source', 'javascript', 'frontend' ]
 ---
 
 If you're just here to grab some code or use the bookmarklet,

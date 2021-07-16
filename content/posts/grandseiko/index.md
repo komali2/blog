@@ -3,7 +3,7 @@ title: "Buying a Grand Seiko"
 date: 2020-09-24T12:16:47-08:00
 draft: false
 categories: ['life']
-tags: ['watch' ]
+tags: ['watches' ]
 ---
 
 Covid-19 prevented me from doing a blowout 30th birthday trip, so I bought a watch instead. It's 30, so, what a great excuse
