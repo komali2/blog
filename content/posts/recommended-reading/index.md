@@ -18,11 +18,10 @@ horrible and frustrating and have the energy to send me an email telling me so, 
 be enormously grateful. My email address is caleb at this domain.
 
 * [Must Reads]({{< relref "" >}})
-  * "How to Win Friends and Influence People" by Dale Carnegie
-  * ["Walkaway"]({{< relref "#walkaway" >}}) by Cory Doctorow
+  * ["How to Win Friends and Influence People"]({{< relref "#how-to-win-friends-and-influence-people" >}}) by Dale Carnegie
 * [Genre]({{< relref "" >}} )
   * Scifi
-    * "Walkaway" by Cory Doctorow
+    * ["Walkaway"]({{< relref "#walkaway" >}}) by Cory Doctorow
     * ["Cryptonomicon"]({{< relref "#cryptonomicon" >}}) by Neal Stephenson
     * "Reamde" and "Fall, or, Dodge in Hell" (books 2 and 3 of a sort-of series starting with "Cryptonomicon") by Neal Stephenson
     * "Snow Crash" by Neal Stephenson
@@ -43,8 +42,9 @@ be enormously grateful. My email address is caleb at this domain.
     * Abarat
     * Mistborn
   * Self Help / Life Advice
-  * "How to Win Friends and Influence People", Dale Carnegie
-  * 7 hour workweek
+      * "How to Win Friends and Influence People", Dale Carnegie
+      * 4 hour workweek
+      * Man's Search for Meaning
   * Non Fiction
     * Paradise Built in Hell
     * True Believer
@@ -63,7 +63,7 @@ post-humanism and transhumanism, futurism, transportation, philosophy of mind
 "Walkaway" is kind of like "what if Burning Man, but always?" The conflict is between
 the bourgeoisie and the prolet - er, sorry, between "Default," that is, normal,
 State-enforced, capitalist society, and the Walkaways, that is, the people who simply
-walked into the barren wasteland abandoned by Default as nonproductive.
+walked into the barren wasteland abandoned by Default as nonproductive, and tried to make a life for themselves.
 
 The topics list is so long because Cory Doctorow covers just about every topic imaginable,
 somehow managing to keep the narrative moving while answering all the "but what if" questions
@@ -76,10 +76,10 @@ of how close our society is to post-scarcity (if we're not already there), and w
 are for us if we let go of profit motive.
 
 
-# How to Win Friends an Influence People
+# How to Win Friends and Influence People
 ## Dale Carnegie
 
-Topics:
+Topics: empathy, making friends, having conversations
 
 The self help book upon which most others are based. If you only ever read just one of those
 sorts of books, I suggest this one. Dale Carnegie was giving talks on the subject of
@@ -93,3 +93,6 @@ The title smacks of snake oil self help, but the book itself focuses on empathy 
 as ways to "win" people over. There's none of that weird salesman sociopathy. Carnegie's ethics
 appear sound. Anyway, I recommend it not only because it helped me learn best to communicate, but also
 helped me learn better to empathize with other people's position.
+
+# Cryptonomicon
+## Neal Stephenson
