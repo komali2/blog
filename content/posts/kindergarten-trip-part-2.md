@@ -2,7 +2,6 @@
 title: 'Kindergarten Trip part 2'
 date: 2012-07-27T03:05:00.001-05:00
 draft: false
-url: /2012/07/kindergarten-trip-part-2.html
 categories: ['travel']
 tags: ['japan']
 ---

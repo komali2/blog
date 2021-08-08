@@ -2,7 +2,6 @@
 title: 'A Couple Reasons you Shouldn''t Watch Movie Trailers'
 date: 2014-05-20T22:32:00.001-05:00
 draft: false
-url: /2014/05/a-couple-reasons-you-shouldnt-watch.html
 categories: ['info']
 tags:
 ---

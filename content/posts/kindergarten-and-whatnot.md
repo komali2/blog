@@ -2,7 +2,6 @@
 title: 'Kindergarten and Whatnot'
 date: 2012-07-17T05:00:00.007-05:00
 draft: false
-url: /2012/07/kindergarten-and-whatnot.html
 categories: ['travel']
 tags: ['japan']
 ---

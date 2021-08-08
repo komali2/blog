@@ -2,7 +2,6 @@
 title: 'AIESEC FACI'
 date: 2013-02-05T23:07:00.001-06:00
 draft: false
-url: /2013/02/aiesec-faci.html
 categories: ['life']
 tags: ['aiesec']
 ---

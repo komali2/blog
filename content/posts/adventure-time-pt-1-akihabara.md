@@ -2,7 +2,6 @@
 title: 'Adventure Time! Pt. 1, Akihabara'
 date: 2012-08-01T04:04:00.001-05:00
 draft: false
-url: /2012/08/adventure-time-pt-1-akihabara.html
 categories: ['travel']
 tags: ['japan']
 ---

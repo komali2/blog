@@ -2,7 +2,6 @@
 title: 'I should be in Japan right now'
 date: 2012-06-29T08:04:00.002-05:00
 draft: false
-url: /2012/06/i-should-be-in-japan-righ-tnow.html
 categories: ['travel']
 tags: ['japan']
 ---

@@ -2,7 +2,6 @@
 title: 'Internet connection ACTIVATE'
 date: 2012-07-03T19:12:00.002-05:00
 draft: false
-url: /2012/07/internet-connection-activate.html
 categories: ['travel']
 tags: ['japan', 'aiesec']
 ---

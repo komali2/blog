@@ -2,7 +2,6 @@
 title: 'Between a Break and a Break'
 date: 2011-11-26T22:36:00.001-06:00
 draft: false
-url: /2011/11/between-break-and-break.html
 categories: ['life']
 tags: ['university']
 ---

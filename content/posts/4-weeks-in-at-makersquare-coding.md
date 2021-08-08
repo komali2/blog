@@ -2,7 +2,6 @@
 title: '4 weeks in at Makersquare coding bootcamp'
 date: 2016-03-18T15:29:00.000-05:00
 draft: false
-url: /2016/03/4-weeks-in-at-makersquare-coding.html
 categories: ['life']
 tags: ['bootcamp']
 ---

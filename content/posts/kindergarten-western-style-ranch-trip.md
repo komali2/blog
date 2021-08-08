@@ -2,7 +2,6 @@
 title: 'Kindergarten "Western Style Ranch" Trip'
 date: 2012-07-24T02:30:00.002-05:00
 draft: false
-url: /2012/07/kindergarten-western-style-ranch-trip.html
 categories: ['travel']
 tags: ['japan']
 ---

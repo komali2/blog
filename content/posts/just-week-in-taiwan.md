@@ -2,7 +2,6 @@
 title: 'Just a Week in Taiwan'
 date: 2015-12-17T14:16:00.001-06:00
 draft: false
-url: /2015/12/just-week-in-taiwan.html
 categories: ['travel']
 tags: ['taiwan', 'usa']
 ---

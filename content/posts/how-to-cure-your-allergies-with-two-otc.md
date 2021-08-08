@@ -2,7 +2,6 @@
 title: 'How to Cure Your Allergies With Two OTC Drugs'
 date: 2015-06-21T19:15:00.001-05:00
 draft: false
-url: /2015/06/how-to-cure-your-allergies-with-two-otc.html
 categories: ['info']
 tags:
 ---

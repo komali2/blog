@@ -2,7 +2,6 @@
 title: 'Adventure Time! Pt. 2, Takao Mountain'
 date: 2012-08-08T07:03:00.000-05:00
 draft: false
-url: /2012/08/adventure-time-pt-2-takao-mountain.html
 categories: ['travel']
 tags: ['japan']
 ---
