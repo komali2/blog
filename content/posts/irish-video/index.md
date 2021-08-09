@@ -2,7 +2,7 @@
 title: "YanMingShan with Irish Riding Video"
 date: 2021-07-15T02:16:47-08:00
 draft: false
-categories: ['life']
+categories: ['travel']
 tags: ['taiwan', 'video', 'motorcycle']
 ---
 

@@ -2,7 +2,7 @@
 title: 'Day One, in which I will walk five hundred miles'
 date: 2012-06-30T09:41:00.001-05:00
 draft: false
-categories: ['japan']
+categories: ['travel']
 tags: ['aiesec', 'japan']
 ---
 

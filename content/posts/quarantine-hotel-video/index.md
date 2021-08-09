@@ -2,7 +2,7 @@
 title: "Quarantine Hotel Video"
 date: 2021-01-24T02:17:47-08:00
 draft: false
-categories: ['life']
+categories: ['travel']
 tags: ['digital nomad', 'taiwan', 'video']
 ---
 

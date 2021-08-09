@@ -2,7 +2,7 @@
 title: "Wulai to Yilan Motorcycle Ride Video"
 date: 2021-07-26T02:16:47-08:00
 draft: false
-categories: ['life']
+categories: ['travel']
 tags: ['taiwan', 'motorcycle', 'video']
 ---
 
