@@ -2,7 +2,7 @@
 title: "Recommended Reading"
 date: 2021-04-25T02:16:47-08:00
 draft: false
-categories: ['informative']
+categories: ['info']
 tags: ['reading']
 ---
 
@@ -19,13 +19,14 @@ be enormously grateful. My email address is caleb at this domain.
 
 * [Must Reads]({{< relref "" >}})
   * ["How to Win Friends and Influence People"]({{< relref "#how-to-win-friends-and-influence-people" >}}) by Dale Carnegie
+  * ["Walkaway"]({{< relref "#walkaway" >}}) by Cory Doctorow
 * [Genre]({{< relref "" >}} )
   * Scifi
     * ["Walkaway"]({{< relref "#walkaway" >}}) by Cory Doctorow
     * ["Cryptonomicon"]({{< relref "#cryptonomicon" >}}) by Neal Stephenson
     * "Reamde" and "Fall, or, Dodge in Hell" (books 2 and 3 of a sort-of series starting with "Cryptonomicon") by Neal Stephenson
-    * "Snow Crash" by Neal Stephenson
-    * "Anathem" by Neal Stephenson
+    * ["Snow Crash"]({{< relref "#snow-crash" >}}) by Neal Stephenson
+    * ["Anathem"]({{< relref "#anathem" >}}) by Neal Stephenson
     * "Revelation Space" (first of the "Revelation Space" series) by Alistair Reynolds
     * "Consider Phlebas" (first of the "Culture" series) by Iain M. Banks
     * "Foundation" (first of the "Foundation" series) by Isaac Asimov
@@ -96,3 +97,23 @@ helped me learn better to empathize with other people's position.
 
 # Cryptonomicon
 ## Neal Stephenson
+
+Topics: cryptography, computer science, networking
+
+Dope book taking place over two timelines: WWII and the modern era, or, at this point more like the early 2000s. It's Neal Stephenson so it's absurdly well researched, but also well written. I find it inspiring to read about smart people like Turing doing their thing, so there's that added treat. Not to mention this starts a psuedo-trilogy alongside "Reamde" and "Fall, or, Dodge in Hell," both of which are great and the final of which will smack transhumanist and futurist types right in the gut.
+
+# Snow Crash
+## Neal Stephenson
+
+Topics: cyberpunk, virtual reality, linguistics, dystopia
+
+In my opinion the best bit of cyberpunk media ever conceived. Perfectly ironic and self-aware: the main character's name is "Hero Protagonist" and at one point he straps on a katana and hops on a motorcycle. As always, because it's Neal Stephenson, it goes way more in depth to issues than you'd expect, while being fun to read.
+
+People often focus on the technological, cyberpunk, and dystopic elements of the book, but I really like how it deals with the concept of language as a programming tool. It delves into some freaky sumerian near spell-casting type stuff. Awesome.
+
+# Anathem
+## Neal Stephenson
+
+Topics: learning, multiverse, platonic ideals, math
+
+Imagine if the schools of Plato and Pythagoras were maintained via Abbeys that built tall walls to keep out the peasants so the nerds could keep inventing new math for thousands of years. Anathem is an exploration of what if college, but always. It's really fun to think about the possibilities of learning for learning's sake, and the society Stephenson creates here is one I think about a lot. Engaging, deep yet moves quickly, Anathem is a grounded scifi.
