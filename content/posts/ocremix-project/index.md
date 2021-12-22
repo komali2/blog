@@ -122,6 +122,41 @@ def deep_create_remix(
 
 ### API
 
+I dabbled with a couple ideas of how the API should work, including ones that tracked game "sessions," or in other words maintained an idea of frontend state. This turned out to be probably kinda hard to implement, even though I had done something like this with websockets on a [super old projects in my bootcamp days](https://github.com/komali2/langBattle). Instead, I wanted a way for the frontend to just get a "question" (a youtube link) and some possible "answers," one of which was correct. I could obviously just send all this information to the frontend, including which answer was "correct," and then not display it in a way that allowed cheating on the frontend, but someone could peek at the network requests and cheat that way! No, I had to make sure it was impossible to cheat using my API (unless, of course, one simply navigated to the youtube URL manually and read the game information).
+
+It took some gnawing on the idea, but I settled on to what my understanding is basically a rudimentary implementation of a public/private key pair.
+
+It works like this:
+
+A request to get a "question" would return
+
+```json
+{
+  choices: [
+    {
+      origin_game: 'Some game',
+      public_id: 'some id'
+    },
+    ...x4
+  ],
+  question: {
+    remix_youtube_url: 'https://youtube.com/somesong',
+    secret_id: 'some id'
+  }
+}
+```
+
+The user would see four game titles, and when they chose one, they'd send another request with that game's `public_id`, as well as the `secret_id` of the "question," the object with the youtube url.
+
+On the backend, I'd simply query for any model with that public and secret id.
+
+```python
+def match_public_id_to_secret_id(db: Session, public_id: int, secret_id: int):
+    return db.query(models.Remix).filter(and_(models.Remix.secret_id == secret_id, models.Remix.public_id == public_id)).first()
+```
+
+If I found a result, the choice was correct. Otherwise, it's incorrect.
+
 ## Frontend
 
 ## Deployment
