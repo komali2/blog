@@ -6,7 +6,7 @@ categories: ['travel']
 tags: ['taiwan', 'digital-nomad' ]
 ---
 
-I've had enough people ask me the question now that it's going to get a blogpost: What's it actually like over here?
+I've had enough people ask me the question now that it's going to get a blogpost: What's it actually like over here? The answer is that it's as perfect as is earthly possible in every way, but I'll elaborate.
 
 I've already argued strongly in favor of Taiwan [as a destination for immigration](/posts/why-taiwan**, but what about the day to day here? Where do I work, how do I work, what do I get up to for fun, do I actually have time for that sort of thing?
 
@@ -56,8 +56,6 @@ My final task is unique to Curative and a flow I find works very well and recomm
 
 Then, I work! I code or whatever until around 11:45, occassionally looking at our bearded dragon, Richard, or our fish, or the birds that dick around in our backyard. Today's a lazy day example, so I toss out an order on Uber eats for some local bento box place. My options are seemingly unlimited here, and I can usually get lunch to me in something like 30 minutes, 15 sometimes. Lunch is usually around 6 bucks USD delivered.
 
-Depending on how much work I have an hour many hours I'm billing that day (occassionaly I don't bill full time for Curative in this example), I'll finish work around 2 or 3. From then, I can work on personal projects, or walk around outside and catch pikmin, or read, whatever.
-
 At 5 I have an online mandarin lesson with a Taiwanese teacher that lives in the UK. The time zone difference works out well, though I agree that it's probably a little silly to be doing lessons with a Taiwanese person in another country. Even if she was here, though, I'd prefer the online lessons. Tammy sometimes does her mandarin lessons in person and it adds a lot of time to the thing for commute, small talk while buying coffee, etc. I use Preply for Mandarin lessons, and it costs 30$ USD/hr. I take two lessons a week and find it to be one of the best value for time and money activities I do in terms of leraning mandarin. It does need to be supplemented with other studies though, which I'll get into.
 
-It's Wednesday in this example day, so I horf a quick uber eats dinner
+It's Wednesday in this example day, so I horf a quick uber eats dinner, study my flashcards or something, then
