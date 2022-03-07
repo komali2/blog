@@ -3,7 +3,7 @@ title: "How to Rent a Motorcycle in Taiwan"
 date: 2022-02-22T12:16:47-08:00
 draft: false
 categories: ['travel']
-tags: ['motorcycle', 'taiwan**]
+tags: ['motorcycle', 'taiwan']
 ---
 
 I've written plenty of times about how I think one of the coolest ways to see a country is on the back of a motorcycle. This is doubly true for Taiwan, [where my many videos can speak for themselves](https://www.youtube.com/playlist?list=PLz49KNOFH8-lqwB-NBCHrUlYTyn6ij57Q** on the subect.
@@ -112,9 +112,26 @@ Taiwan is no Vietnam, but it is a little wilder than some places in the USA. The
 
 In any case, you know, ride to your comfort and all that, and if you think your experience is good enough to ride in a foreign country, when doing so, try to keep the speed reasonable.
 
+# Renting in Taiwan
+
+The company we always use is [Motor Rental Town](https://facebook.com/pg/MRTTYPZ). They have locations all over Taiwan and can handle whatever rental situation you want: day rental, multi-day, pick up in one city and drop off in another, etc. Their prices are also pretty good.
+
+Motor Rental Town divides their bikes into several categories based on performance. Unfortunately the only way to view the options are by [looking at this year's photo album](https://www.facebook.com/media/set/?set=a.634250758003717&type=3) on Facebook. For motorcyclists, I recommend their "Type-C" classification, which in 2022 includes two bikes I can strongly recommend: the Yamaha MT-07 for a more upright ride and the Honda CBR500R for a sportier ride. This classification will run 1500 NTD per day, or about 50 USD a day.
+
+To rent a bike, message Motor Rental Town on Facebook messenger. I agree that this sucks, but this is just how many things are done in Taiwan - at least you don't need to message them on Line instead. They have a template they'll send back that'll ask for things like dates of rental, 3 bike choices, etc. Usually the person on the other end will be helpful in terms of recommending what kind of split you should do, or whether you should adjust your times a bit to save some money.
+
+When it's time to pick up, you'll head to whatever location you're renting from, walk through an active motorcycle shop and car wash to wherever they keep their desk, and show your passport and international driver's license. They'll photocopy both, have you fill out some paperwork regarding insurance, photocopy everything again, stamp a bunch of stuff, take payment, and give you a receipt that essentially is a sort of guarantee for the both of you that no actual motorcycle "sale" has happened. Try not to lose this, when you give the bike back, it'll get stamped again with proof that you returned the bike.
+
+They'll probably walk you out to the bike, show you how it works (just let them, it'll take like 2 minutes tops), and advise you to take some pictures and videos of the bike's state. Make sure to focus on common scratch and drop points so you don't get blamed for a drop you didn't do! Though, in my experience over tens of rentals, these guys are very honest.
+
+Once the capitalist rituals are complete, you're free to go! On a totally empty tank of gas. They'll probably tell you where the nearest gas station, so hit that, and then ride! (upside: you can and should return the bike on an empty tank)
+
+
 # Tips
 
 Taiwan has some specific weirdness about its road rules.
+
+## Hook Turns
 
 There's many things to be aware of if you're on a White or Green plate bike. First is the "hook turn." These vehicles can't make left turns at many lights, especially in the city. I thought it was a bit silly at first but honestly the roads are chaotic enough without scooters randomly darting to the left lane and then across all of oncoming to make a turn. It's better this way, trust me.
 
@@ -128,4 +145,43 @@ Note that it isn't always there, and if you don't see it, that doesn't mean this
 
 What *will* always be there is the hook turn box. At an intersection, there are sometimes two scooter boxes: one before the crosswalk, and one after. The one before is where you wait on a red, the one after is for people to your *left* that are looking to make a *left* turn, or in other words, parallel traffic from the left looking to turn onto your road and join your direction of travel. That's the box you'll go into when making a hook turn.
 
+Incredibly, even roundabouts can have hook turn boxes! Yes, that defeats the point of a roundabout, I'm sure the cop that pulls you over will love to hear this feedback from you.
+
 As for what to do with your indicators when performing a hook turn, nobody seems to know, and I didn't find any instruction for this when I was preparing for my licensing test in Taiwan. What my friends and I tend to do is flip on the right turn signal when approaching the intersection so people behind us expect our rightwards movement and our slowing down. Then as we get right up on the intersection, we flip the left indicator on, so as to not get cut off from someone to our left going faster than us and wanting to make a wider-radius right turn (which would result in a collission as you continue to go straight). Then we ride over to the box and flip off all our indicators. Obviously, during the whole maneauver, keep your head on a swivel, and take it at a reasonable speed.
+
+## Fast Lanes
+
+Sometimes the leftmost, or several leftmost, lanes are "Fast Lanes." This means only Yellow and Red plate motorcycles, as well as cars, can drive there. They're identifiable by text written on the road itself that says "fast lane" in Mandarin. You don't need to know the characters: If you see a long column of yellow text on a lane, that's probably a fast lane. In general, you should be staying to the right on a white plate anyway.
+
+
+##  Arrow Stoplights
+
+Green doesn't always mean "go." If a green light is a circle, that means there is no protected left or right turn, and you can do both (carefully). If the green light is a *green arrow pointing up*, that means there is either a protected left, right, or both. You must wait for a green left or right arrow, or for the green up arrow to turn into a regular green circle, before you can turn. The cops seem to care about this above all else, and I've been pulled over twice for this mistake.
+
+## Running Reds
+
+Sometimes a yellow light turning red will be blatantly run seconds after it turns red, usually by a truck or bus, but sometimes by things harder than that to see. When you're stopped at a stoplight and get a green, be smart, give it a couple seconds before you gun it.
+
+## Flower Roads and Highways
+
+There's a couple classifications of road based on size, speed, and frequency of exists. The largest is the "flower road" or "high road" (like, literally, it's lifted way the fuck up in the air). Only cars and trucks can go on here, and there's only one or two in all of Taiwan that red or yellow plates can go on.
+
+The symbol for a flower road looks like this:
+
+TODO flower road symbol
+
+Also, sometimes this blue sign with a car on it will indicate that only cars can go on this road:
+
+TODO insert cars only sign
+
+If you see the blue sign with a car and motorcycle on it, that means if you're on a red or yellow plate, you can go on the road:
+
+TODO insert cars / motorcycles sign
+
+If you see a flower sign with no blue car sign, don't risk it! The fine is insane (hundreds of USD) and if you get on a flower road, it could be tens of kilometers before you get an exit to get off. According to some local friends, getting on a flower road in the wrong kind of vehicle is enough of an event to make the news here. Careful at all highway entrances! Pull over and double check if necessary, right at the shoulder if you have to.
+
+## Gas Stations
+
+Almost all gas stations have attendants that will pump your gas for you. Just let them, it'll be easier than trying to figure it out on your own. Don't tip these people, it'll cause an enormous amount of confusion.
+
+When you pull up, they'll probably wave you towards where to go. If not, just start riding straight at an attendant lol. They'll sort you. Kick off the engine and open your gas tank. Hopefully you know how to count to ten in mandarin, and can tell them the fuel octane you need (no need to say "98 ninety-eight for example, you can just say "9" "8" "nine" "eight"). Then say "ja man" with a jamaiican accent to request the tank be filled all the way. At the end, they'll probably ask you whether the price on the screen is OK. I'm not sure the purpose, maybe to see if you want to get a round number so you don't get change? After you pay, wait for your change, and then get out of the way quick or a taxi will honk at you.
