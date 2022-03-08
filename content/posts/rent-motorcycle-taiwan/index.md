@@ -6,37 +6,37 @@ categories: ['travel']
 tags: ['motorcycle', 'taiwan']
 ---
 
-I've written plenty of times about how I think one of the coolest ways to see a country is on the back of a motorcycle. This is doubly true for Taiwan, [where my many videos can speak for themselves](https://www.youtube.com/playlist?list=PLz49KNOFH8-lqwB-NBCHrUlYTyn6ij57Q) on the subect.
+I've written [plenty of times](/tags/motorcycle) about how I think one of the coolest ways to see a country is on the back of a motorcycle. This is doubly true for Taiwan, [where my many videos can speak for themselves](https://www.youtube.com/playlist?list=PLz49KNOFH8-lqwB-NBCHrUlYTyn6ij57Q) on the subject.
 
-There really is some of the best riding in the world here. Clean, well-paved roads with almost no potholes, wide double lanes in the highway, endless choices within 30 minutes of Taipei, and low rental costs combine to make Taiwan as perfect a motorcycle tourist destination as is probably possible.
+There really is some of the best riding in the world here. Clean, well-paved roads with almost no potholes, wide double lanes, endless mountain road choices within 30 minutes of Taipei, and low rental costs combine to make Taiwan as perfect a motorcycle tourist destination as is probably possible.
 
-Renting a motorcycle in Taiwan is easier than you might expect. With just a little preparation, you could easily add a couple biking days to your next vacation here.
+Renting a motorcycle in Taiwan is simpler than you might expect. With just a little preparation, you could easily add a couple biking days to your next vacation here. If you're short on time, the two most important sections are, first, regarding the [International Driver's License]({{< relref "#international-drivers-license">}}), and second, [going to the rental shop]({{< relref "#renting-in-taiwan">}}).
 
 * [Basic Info]({{< relref "#basic-info">}})
   * [Green Plate]({{< relref "#green-plate">}})
   * [White Plate]({{< relref "#white-plate">}})
-  * [Yellow Plate]({{< relref "#">}})
-  * [Red Plate]({{< relref "#">}})
-* [Pre-Trip Requirements]({{< relref "#">}})
-  * [International Driver's License]({{< relref "#">}})
-  * [Gear]({{< relref "#">}})
-  * [Experience Level]({{< relref "#">}})
-* [Renting in Taiwan]({{< relref "#">}})
-* [Riding in Taiwan]({{< relref "#">}})
-  * [Hook turns]({{< relref "#">}})
-  * [Fast Lanes]({{< relref "#">}})
-  * [Arrow Stoplights]({{< relref "#">}})
-  * [Running Reds]({{< relref "#">}})
-  * [FLower Roads and Highways]({{< relref "#">}})
-  * [Fluidity]({{< relref "#">}})
-  * [Trash Cycles]({{< relref "#">}})
-  * [Blue Trucks]({{< relref "#">}})
+  * [Yellow Plate]({{< relref "#yellow-plate">}})
+  * [Red Plate]({{< relref "#red-plate">}})
+* [Pre-Trip Requirements]({{< relref "#pre-trip-requirements">}})
+  * [International Driver's License]({{< relref "#international-drivers-license">}})
+  * [Gear]({{< relref "#gear">}})
+  * [Experience Level]({{< relref "#experience-level">}})
+* [Renting in Taiwan]({{< relref "#renting-in-taiwan">}})
+* [Riding in Taiwan]({{< relref "#riding-in-taiwan">}})
+  * [Hook turns]({{< relref "#hook-turns">}})
+  * [Fast Lanes]({{< relref "#fast-lanes">}})
+  * [Arrow Stoplights]({{< relref "#arrow-stoplights">}})
+  * [Running Reds]({{< relref "#running-reds">}})
+  * [Flower Roads and Highways]({{< relref "#flower-roads-and-highways">}})
+  * [Fluidity]({{< relref "#fluidity">}})
+  * [Trash Cycles]({{< relref "#trash-cycles">}})
+  * [Blue Trucks]({{< relref "#blue-trucks">}})
 
 # Basic Info
 
 It's worth knowing a couple basic things about motorcycling in Taiwan, it'll make everything a lot easier.
 
-First, motorcycles in Taiwan are separated into four categories based on engine size, and each category has different licensing requirements. Each classification determines the color of license plate on the bike. From lowest to highest in terms of requirements (and engine size), the classifications are:
+First, motorcycles in Taiwan are separated into four categories based on engine size, and each category has different licensing requirements. Each classification determines the color of the license plate on the bike. From lowest to highest in terms of license requirements (and engine size), the classifications are:
 
 * Green Plate: certain electrics and less than 50cc engines
 * White Plate: certain electrics, and 50cc to 250cc engines
@@ -68,7 +68,7 @@ White plates have to ride in the scooter lane and make hook turns, can't ride on
 
 250cc to 500cc
 
-Yellow plates can be rented on an international driver's license with a motorcycle certificaiton, or a Taiwan Heavy Motorcycle License (yellow and red plate). You probably aren't going to get away with renting a yellow plate without the right license, no sketchy places or anything like that. Heavy motorcycles are really expensive in Taiwan, nobody's going to risk a bike like that uninsured. This is an excellent engine size category for Taiwan, especially for single-up riders. It's more than enough power.
+Yellow plates can be rented on an international driver's license with a motorcycle certification, or a Taiwan Heavy Motorcycle License (yellow and red plate). You probably aren't going to get away with renting a yellow plate without the right license, no sketchy places or anything like that. Heavy motorcycles are really expensive in Taiwan, nobody's going to risk a bike like that uninsured. This is an excellent engine size category for Taiwan, especially for single-up riders. It's more than enough power.
 
 Yellow plates can't ride in the scooter lane (legally, but often do anyway), can ride on certain highways and one or two flower roads in Taipei, can ride in the yellow "fast lane," can make left turns (but can't legally make hook turns), can't park in scooter parking spots (but often do anyway), can't legally lane split (but often do), and can't use the scooter box at a stoplight (but often do).
 
@@ -87,15 +87,15 @@ Here's what you'll need to know about before arriving in Taiwan.
 
 ## International Driver's License
 
-As noted above, regardless of the engine size of the motorcyle you want to rent, you need an international driver's license.
+Regardless of the engine size of the motorcycle you want to rent, you need an international driver's license.
 
-I can only speak with experience as an American here. Every country has their own version, and it's possible some countries' International Driver's Licenses aren't useable in Taiwan.
+I can only speak with experience as an American here. Every country has their own version, and it's possible some countries' International Driver's Licenses aren't usable in Taiwan.
 
-Americans, you can get your International Driver's License, or International Driving Permit (IDP) from [AAA](https://www.aaa.com/vacation/idpf.html). (Fun fact: it's called AAA so it'd appear as the first entry in phonebooks. I recently learned that some of the newer generations don't know why so many businesses are AAA_something).
+Americans, you can get your International Driver's License, or International Driving Permit (IDP) from [AAA](https://www.aaa.com/vacation/idpf.html).
 
 AAA is a private business, and it's kind of a glimpse behind the curtain here that they get to print a magic piece of paper that having in hand means you get to drive cars and motorcycles in other countries. All authority is bullshit, no gods no kings, etc etc.
 
-It really is just a paper booklet with your picture in it, and its lent authority by a bunch of AAA stamps all over it. The stamping is great for you, cause Taiwan LOVES stamps. So, head into your local AAA, bring your driver's license with M classification on it (you'll obviously need to already have a motorcycle license...), they can usually take your passport pictures there, and for something like 60 bucks you'll be out in less than an hour.
+It really is just a paper booklet with your picture in it, and it's lent authority by a bunch of AAA stamps all over it. The stamping is great for you, cause Taiwan LOVES stamps. So, head into your local AAA, bring your driver's license with M classification on it (you'll obviously need to already have a motorcycle license...), they can usually take your passport pictures there, and for something like 60 bucks you'll be out in less than an hour.
 
 ### IMPORTANT NOTE
 
@@ -107,17 +107,20 @@ Countries like Taiwan and Japan don't just love the stamps, they *worship* the s
 
 They want their stamps.
 
+{{< figure src="stamps.jpg" alt="An IDP page missing a stamp" caption="One language page from the IDP. Notice it's lacking its car stamp (B). This page is French, there are several other languages. Each page should have two stamps on it, one for car, one for motorcycle." >}}
+
+
 The AAA people will tell you that you're wrong. They might simply refuse to stamp all the language pages. Be polite, but be firm. Agree with them. Say it's stupid. It is, after all, kinda stupid. But **get your stamps on every page**. Don't leave without those stamps. You won't be driving without all those stamps.
 
 ## Gear
 
-The only gear you need by law in Taiwan is a helmet. Some shops will rent one to you for an extra fee, but I don't really trust those, so you might wanna bring your own. As a [onebagger](/tags/onebag), doing so grates me, as I basically have to have a carry-on if I have my helmet, but it's worth it to have my SENA and GoPro mount, as well as to not have to share sweat with an unknown number of people. In terms of other gear, I've written a bit about how to make this efficient in [some of my onebag posts](/tags/onebag).
+The only gear you need by law in Taiwan is a helmet. Some shops will rent one to you for an extra fee, but I don't really trust those, so you might wanna bring your own. As a onebagger, doing so grates me, as I basically have to have a carry-on if I have my helmet, but it's worth it to have my SENA and GoPro mount, as well as to not have to share sweat with an unknown number of people. In terms of other gear, I've written a bit about how to make this efficient in [some of my onebag posts](/tags/onebag).
 
 Beyond the helmet, know that depending on location, Taiwan in the summer could be hitting 40℃. Or more. I don't recommend riding in a T-Shirt unless you'd like to cosplay as a block of soft cheddar grinding on a cheese grater, so grab a summer jacket and some summer gloves as well since you'll need the carry-on anyway.
 
 ## Experience Level
 
-Experience level is of course subjective, and there's no clear answer to "how much riding should I do before trying it in another country". Personally, I learned to ride in Vietnam after [riding across its entirety](posts/how-to-drive-motorcycle-across-vietnam/) a week after getting my motorcycle license, but I wouldn't really recommend that.
+Experience level is of course subjective, and there's no clear answer to "how much riding should I do before trying it in another country." Personally, I learned to ride in Vietnam after [riding across its entirety](/posts/how-to-drive-motorcycle-across-vietnam/) a week after getting my motorcycle license, but I wouldn't really recommend that.
 
 Taiwan is no Vietnam, but it is a little wilder than some places in the USA. The upside is that generally, the speeds are much lower, and the road conditions are much better. Also, while videos you watch may make the seas of scooters seem intimidating, so long as you just go with the flow, it isn't too hard to ride in the cities. What may be hard is some of the sharp switchbacks in the mountains, so be sure to practice your uphill turns.
 
@@ -150,17 +153,19 @@ I'd recommend assuming your upcoming left turn is going to be a hook turn and be
 
 One is the blue hook turn sign. It looks like this:
 
- TODO add hook turn sign
+{{< figure src="hookturn_sign.png" alt="Taiwanese hookturn sign" caption="Hookturn sign" >}}
 
 Note that it isn't always there, and if you don't see it, that doesn't mean this isn't a hook turn intersection.
 
 What *will* always be at a hook turn intersection is the hook turn box. At an intersection, there are sometimes two scooter boxes: one before the crosswalk, and one after. The one before is where you wait on a red, the one after is for people to your *left* that are looking to make a *left* turn, or in other words, perpendicular traffic from the left looking to turn onto your road and join your direction of travel. That's the box you'll go into when making a hook turn. So, look towards the perpendicular right-side section of the intersection for the box. See the picture below:
 
-TODO add picture of where the scooter box is
+{{< figure src="hookturn_box.png" alt="Taiwanese hookturn boxes, circled in different colors" caption="Two hookturn boxes. The one directly in front, circled in red, is for perpendicular traffic looking to join this direction of travel. The one in the top-right, circled in blue, is where you'd go if you want to turn left. " >}}
+
+[Here's my riding video from that intersection if you want a closer look.](https://www.youtube.com/watch?v=7aDbrcnQmsE&t=530s)
 
 Incredibly, even roundabouts can have hook turn boxes! Yes, that defeats the point of a roundabout, I'm sure the cop that pulls you over will love to hear this feedback from you.
 
-As for what to do with your indicators when performing a hook turn, nobody seems to know, and I didn't find any instruction for this when I was preparing for my licensing test in Taiwan. What my friends and I tend to do is flip on the right turn signal when approaching the intersection so people behind us expect our rightwards movement and our slowing down. Then as we get right up on the intersection, we flip the left indicator on, so as to not get cut off from someone to our left going faster than us and wanting to make a wider-radius right turn (which would result in a collission as you continue to go straight). Then we ride over to the box and flip off all our indicators. Obviously, during the whole maneauver, keep your head on a swivel, and take it at a reasonable speed.
+As for what to do with your indicators when performing a hook turn, nobody seems to know, and I didn't find any instruction for this when I was preparing for my licensing test in Taiwan. What my friends and I tend to do is flip on the right turn signal when approaching the intersection so people behind us expect our rightwards movement and our slowing down. Then as we get right up on the intersection, we flip the left indicator on, so as to not get cut off from someone to our left going faster than us and wanting to make a wider-radius right turn (which would result in a collision as you continue to go straight). Then we ride over to the box and flip off all our indicators. Obviously, during the whole maneuver, keep your head on a swivel, and take it at a reasonable speed.
 
 ## Fast Lanes
 
@@ -181,29 +186,39 @@ There's a couple classifications of road based on size, speed, and frequency of 
 
 The symbol for a flower road looks like this:
 
-TODO flower road symbol
+{{< figure src="flower_road.gif" alt="Flower road sign" caption="Flower road sign" >}}
 
 Also, sometimes this blue sign with a car on it will indicate that only cars can go on this road:
 
-TODO insert cars only sign
+{{< figure src="cars_only.gif" alt="Cars only sign" caption="Cars only sign" >}}
 
 If you see the blue sign with a car and motorcycle on it, that means if you're on a red or yellow plate, you can go on the road:
 
-TODO insert cars / motorcycles sign
+{{< figure src="cars_motorcycles.jpg" alt="Cars and Motorcycles allowed sign" caption="Cars and motorcycles allowed sign on freeways" >}}
+
+Note there's also the rare freeway that allows cars and red plates only. I've seen this twice, but I can't remember where:
+
+{{< figure src="cars_redplates.jpg" alt="Cars and red plate motorcycles allowed sign" caption="Cars and red plates only allowed sign on freeways" >}}
+
+Notice in that last picture, behind the blue sign is a white sign with what looks like a motorcycle on it, crossed out, indicating that *scooters* aren't allowed on this road. That little motorcycle dude generally means "scooter" in Taiwan, which includes all White plate bikes.
+
+I think it's a little confusing that Taiwan uses *positive* indication rather than *negative*. By that I mean, rather than saying "Scooters and Yellow plates not allowed," the signs say "scooters not allowed, red plates allowed, cars allowed." Another example: above I mentioned arrow stoplights. The stoplights say: "Going straight allowed," if the green straight arrow is lit, or "going all directions is allowed" if the green circle is lit, but instead I think it'd make more sense to say "turning left not allowed, turning right not allowed, going straight allowed," with like red arrows or something. Ah well. Hence why you must be extra vigilant when it comes to signage here.
 
 If you see a flower sign with no blue car sign, don't risk it! The fine is insane (hundreds of USD) and if you get on a flower road, it could be tens of kilometers before you get an exit to get off. According to some local friends, getting on a flower road in the wrong kind of vehicle is enough of an event to make the news here. Careful at all highway entrances! Pull over and double check if necessary, right at the shoulder if you have to.
+
+Taiwan's Freeway Bureau [has a website](https://www.freeway.gov.tw/english/Print.aspx?cnid=1104&p=764) with some of these signs and their descriptions in English, but it isn't very good.
 
 ## Gas Stations
 
 Almost all gas stations have attendants that will pump your gas for you. Just let them, it'll be easier than trying to figure it out on your own. Don't tip these people, it'll cause an enormous amount of confusion.
 
-When you pull up, they'll probably wave you towards where to go. If not, just start riding straight at an attendant lol. They'll sort you. Kick off the engine and open your gas tank. Hopefully you know how to count to ten in mandarin, and can tell them the fuel octane you need (no need to say "98 ninety-eight for example, you can just say "9" "8" "nine" "eight"). Then say "ja man" with a jamaiican accent to request the tank be filled all the way. At the end, they'll probably ask you whether the price on the screen is OK. I'm not sure the purpose, maybe to see if you want to get a round number so you don't get change? After you pay, wait for your change, and then get out of the way quick or a taxi will honk at you.
+When you pull up, they'll probably wave you towards where to go. If not, just start riding straight at an attendant lol. They'll sort you. Kick off the engine and open your gas tank. Hopefully you know how to count to ten in mandarin, and can tell them the fuel octane you need (no need to say "98 ninety-eight for example, you can just say "9" "8" "nine" "eight"). Then say "ja man" with a Jamaican accent to request the tank be filled all the way. At the end, they'll probably ask you whether the price on the screen is OK. I'm not sure the purpose, maybe to see if you want to get a round number so you don't get change? After you pay, wait for your change, and then get out of the way quick or a taxi will honk at you.
 
 ## Fluidity
 
-If you're used to driving in the USA, you know that the American obsession with private property extends to the commute, and that passing someone too close, or edging into their lane near them, will result in a furious littany of beeping.
+If you're used to driving in the USA, you know that the American obsession with private property extends to the commute, and that passing someone too close, or edging into their lane near them, will result in a furious litany of beeping.
 
-In Taiwan, things are a bit more fluid. It's not to the level of Vietnam, where lanes kinda sort don't matter, but be ready for cars to cross halfway into your lane as they avoid some obstacle. This is especially true in the second-to-rightmost lane: cars in the rightmost lane will cross partially into your lane to avoid parked cars, or vehicles coming from perpedincular roads turning onto yours.
+In Taiwan, things are a bit more fluid. It's not to the level of Vietnam, where lanes kinda sort don't matter, but be ready for cars to cross halfway into your lane as they avoid some obstacle. This is especially true in the second-to-rightmost lane: cars in the rightmost lane will cross partially into your lane to avoid parked cars, or vehicles coming from perpendicular roads turning onto yours.
 
 On that note, be ready for anything to come flying out of a perpendicular road without a stoplight (so alleys and the like). The strategy here seems to be, when making a right turn onto a major road, simply continue driving and make the turn without looking, and good luck everyone else.
 
@@ -211,7 +226,7 @@ Maybe it goes without saying, but also be ready to share your lane with hundreds
 
 ## Trash Cycles
 
-There's these ancient motorcycles and bicycles around that have a big trailer off the back, usually  laden with trashbags. The rules of the road don't apply to them, and this is expected by everyone. They will maintain a constant speed of 12mph in all situations: approaching and then directly through a red light, through a group of pedestrians, in the second to left most lane of a 4 lane major road, etc. Don't bother beeping, just do what everyone else does and go around them.
+There's these ancient motorcycles and bicycles around that have a big trailer off the back, usually  laden with trash bags. The rules of the road don't apply to them, and this is expected by everyone. They will maintain a constant speed of 12mph in all situations: approaching and then directly through a red light, through a group of pedestrians, in the second to left most lane of a 4 lane major road, etc. Don't bother beeping, just do what everyone else does and go around them.
 
 ## Blue Trucks
 
