@@ -2,7 +2,7 @@
 title: "How to Rent a Motorcycle in Taiwan"
 date: 2022-02-22T12:16:47-08:00
 draft: false
-categories: ['travel']
+categories: ['info']
 tags: ['motorcycle', 'taiwan']
 ---
 
