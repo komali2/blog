@@ -1,6 +1,6 @@
 ---
 title: "Life in Taiwan is Good"
-date: 2020-06-14T02:16:47-08:00
+date: 2022-04-01T02:16:47-08:00
 draft: false
 categories: ['life']
 tags: ['taiwan']
@@ -10,7 +10,7 @@ This article has been a long time coming.
 
 For the most part, my immigrant friends have been having a grand old time in Taiwan. Not perfect, nowhere is, but I like to say it's about as perfect as life *can* be, depending on one's circumstances, of course.
 
-There's a loud minority though, and unfortunately like many loud minorities, the media loves to trot out their bad takes, because bad takes generate clicks and outrage, and that means eyes on ads.  I've resisted writing a post like this because of that, I don't want to feed the outrage machine, but when articles [like this hit the news](https://therealjg888.medium.com/real-living-experiences-they-dont-tell-you-about-in-taiwan-from-a-taiwan-gold-card-holder-8e1d4a44ad9d), written as if there's some sort of dark secret, as if Gold Card holders are suffering under the (white) burden of how improving Taiwan all on our own, as if people like us have a perspective that Taiwan absolutely *must* hear at its own peril, I gotta respond. It's time.
+There's a loud minority though, and unfortunately like many loud minorities, the media loves to trot out their bad takes, because bad takes generate clicks and outrage, and that means eyes on ads.  I've resisted writing a post like this because of that, I don't want to feed the outrage machine, but when articles [like this hit the news](https://therealjg888.medium.com/real-living-experiences-they-dont-tell-you-about-in-taiwan-from-a-taiwan-gold-card-holder-8e1d4a44ad9d), written as if there's some sort of dark secret, as if Gold Card holders are suffering under the (white) burden of improving Taiwan all on our own, as if people like us have a perspective that Taiwan absolutely *must* hear at its own peril, I gotta respond. It's time.
 
 It's not just Gold Card holders I see this from. Places like "forumosa" and the Taiwan subreddit are also full of people who frankly I just don't understand why they live here, considering they have a foreign passport.
 
@@ -38,7 +38,7 @@ I am confused here. Jonathan claims to be experienced in real estate, dare I say
 
 For what it's worth, yeah, Taipei housing costs are high. They're around [$970,000](https://land.gov.taipei/News_Content.aspx?n=0ABE9F8A3E5B75C2&sms=72544237BBE4C5F6&s=5AAFF9FCFB38CEE6) USD on average right now. Leave the city, and the numbers drop, fast. Yilan, which with low traffic is about a 30 minute drive through a tunnel to Taipei (high traffic can get up to 2 hours), you can get a 100 sq meter apartment for around $530,000 USD. Taitung, Taizhong, etc, prices drop precipitously.
 
-So what we have here is someone immigrated into one of the largest cities on the planet, for some reason expecting to find a house under a million bucks. Yeah, I wish prices were lower too, but hell I also wish we abolished private property altogether so I take a somewhat different perspective on the whole issue ;)  Either way, to see a capitalist surprised at this fact is, well, surprising.
+So what we have here is someone immigrated into one of the largest cities on the planet, for some reason expecting to find a house under a million bucks. Yeah, I wish prices were lower too, but I also wish we abolished private property altogether so I take a somewhat different perspective on the whole issue ;)  Either way, to see a capitalist surprised at this fact is in itself surprising.
 
 > Especially when compared to the US. I asked how my local friends can afford their houses and the answers were either with the help of family or banks or that they rent for the foreseeable future.
 
