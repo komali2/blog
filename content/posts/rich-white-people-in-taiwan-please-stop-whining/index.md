@@ -1,6 +1,6 @@
 ---
 title: "Rich White People in Taiwan, Please Stop Whining"
-date: 2022-04-01T02:16:47-08:00
+date: 2022-04-04T02:16:47-08:00
 draft: false
 categories: ['life']
 tags: ['taiwan']
