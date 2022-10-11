@@ -4,7 +4,7 @@ title = "Caleb Jay's Blog"
 
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
-timeout = 60000
+timeout = 6000000
 [params]
 author = "Caleb Jay"
 
