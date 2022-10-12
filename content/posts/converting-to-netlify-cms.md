@@ -2,7 +2,8 @@
 title: Converting to Netlify CMS
 date: 2022-10-12T01:46:16.085Z
 draft: false
-categories: List ["programming"]
+categories:
+  - programming
 tags: "['personal-project', 'frontend']"
 ---
 I've got a massive backlog of blog posts I want to write, and I'm not writing them. There's friction. I vaguely remember reading somewhere that a good way to help get stuff done is remove all obstacles you can. If you're struggling to get to the gym in the morning, leave your gym shorts and shirt right next to your bed every night so you can toss'm right on as soon as you get up. That kind of thing. 
