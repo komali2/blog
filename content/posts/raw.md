@@ -52,4 +52,18 @@ The first dish was just the starting bread, with the first wine. Those without a
 
 The first wine was "Grain de Folie," 2020 by Domaine Mmaruta. A sparkling rosé that I described in my notes as "smelling dry, super dry taste, and not strong flavor." I don't know shit about wine though.
 
-It seems I didn't take notes on the bread, but it was a major cronchy croissantish vibe, hella buttery. The whipped butter they gave us was awesome, we just kept having them bring more. Came with a nutty cocoa-powdery sesame seedish mix that added a lot of savory to the salty butter.
+The bread was croissant vibes, chewy / crunchy mix. Butter was great, had a cream cheese smell but was really whipped and soft. I wrote "strong goat butter taste" in my notes, but I have no idea what that means, and at one drink in I can't blame being drunk yet, so, who knows. Came with a nutty cocoa-powdery sesame seedish mix that added a lot of savory to the salty butter.
+
+Right on the tails of first wine came the first dish.
+
+{{< figure src="/images/uploads/20221006_183909.jpg" alt="The first dish" caption="undefined" >}}
+
+{{< figure src="/images/uploads/20221006_184422.jpg" alt="The first dish, with the spherical glass orb opened." caption="undefined" >}}
+
+The first dish was titled "Aspic de Macedoine de legumes aux Ecrevisses," on the top left in the picture above, and is a cognac consomme with a crayfish inside. "Rillettes de Sardines fumees aux fleurs de thym" is the Sardine cracker in the white sphere dish, and "Cuisse de Nymphe et Escargot en Persillade," the two cakepop lookin things on the bottom. One is snail, the other, frog leg. We were told that the sardine cracker is apparently monk food from back when monks were hanging out, and that the dishes were based on / inspired by some 13th century first recipe book. 
+
+The consome crayfish orb was super olive oily, and smelled like cilantro. The orb itself kinda tasted like meat fat, super jelly-like. The whole thing had a really nutty tomato vibe, very wholesome autumnal flavor. The crayfish just tasted like a really good shrimp lol.
+
+The sardine cracker had a rich salmon smell. It was really light and crunchy and came in with a deep I guess umami flavor? I never know if something is umami or not. Towards the end of it was a sort of tiny fish bone texture that I always hated, but it was still good.
+
+The frog cakepop thing, on the left, smelled like Hainan chicken oil, and tasted basically like chicken, with a strong veggie base. The green sauce under the cakepops was really good, everyone at our table loved it. The snail, the green ball on the right, had a fun outer texture, like cheese almost.
