@@ -30,10 +30,14 @@ We also got menus for a wine pairing, as well as something I've never heard of b
 
 {{< figure src="/images/uploads/img_4768.jpg" alt="Back of the RAW menu" caption="Back of the RAW menu, featuring the dishes for the night. The cursive text in blue and brackets is to what or whom the dish is an homage, the red text below is the actual name of the dish, and the black text under that is some of the ingredients. I didn't get an explanation for black italicized text above the blue bracket text." >}}
 
-![RAW's bread and wine pairing menu](/images/uploads/20221006_181015.jpg "Bread and wine pairing menu. The waiter recommended two people share one bread pairing. ")
+{{< figure src="/images/uploads/20221006_181015.jpg" alt="RAW's bread and wine pairing menu" caption="Bread and wine pairing menu. The waiter recommended two people share one bread pairing.">}}
 
 Turns out to have been totally worth it, whole kit. Later Tammy read more into the restaurant and chef, including finding an [interview](https://www.youtube.com/watch?v=YsaXr2h478k) he did with Taiwan's Digital Minister, Audrey Tang. Prices may be so high at least partially because the staff are getting paid huge wages for Taiwan, in which case, I'm all for it. The kind of people eating at the restaurant are all probably already making high-for-USA salaries, so might as well charge USA rates and bump the local workforce a bit. 
 
 So, Tammy and I go doubles on the bread pairing (waiter recommendation due to size of the pairing) as well as wine pairing (because wine pairings are usually WAY too much alcohol for us lightweights). We had a wee drama with a late member of our table, and then the waiter launched into an introduction of the restaurant, all in English luckily. What we gleaned was that we were nearing the end of the Autumn seasonal menu, which was focusing on historic French dishes, including one from what is apparently the oldest cookbook in the world. 
 
 {{< figure src="/images/uploads/pxl_20221006_101304040.jpg" alt="The full bread pairing at RAW." caption="Before we started, they brought out the full bread pairing. Very tempted to just snag a bun off the plank, which they left on our table a good while. " >}}
+
+The first dish was just the starting bread. Those without a bread pairing got nothing, lol, get dunked on you bread fearing fools. 
+
+{{< figure src="/images/uploads/20221006_183124.jpg" alt="undefined" caption="undefined" >}}
