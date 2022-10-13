@@ -14,16 +14,21 @@
    CMS.registerEditorComponent({
      id: "figure",
      label: "Figure",
-     fields: [{
-       name: "title",
-       label: "Figure Title",
-       widget: "string"
-     },
-              {
+     fields: [              {
                 name: "src",
                 label: "Figure SRC",
                 widget: "image",
                 allow_multiple: false,
+              },
+              {
+                name: "alt",
+                label: "Figure ALT",
+                widget: "string",
+              },
+              {
+                name: "caption",
+                label: "Figure Caption",
+                widget: "string",
               },
      ],
      pattern: /{{< figure src="([a-zA-Z0-9-_ ',.=]*)" alt="([a-zA-Z0-9-_ ',.=]*)" caption="([a-zA-Z0-9-_ ',.=]*)" >}}/g,
