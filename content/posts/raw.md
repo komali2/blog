@@ -41,3 +41,5 @@ So, Tammy and I go doubles on the bread pairing (waiter recommendation due to si
 The first dish was just the starting bread, with the first wine. Those without a bread pairing got nothing, lol, get dunked on you bread fearing fools. 
 
 {{< figure src="/images/uploads/20221006_183124.jpg" alt="The plank of wood upon which the first bread pairing was served" caption="The least fancy piece of wood in the whole restaurant: the plank upon which the first bread pairing was plopped" >}}
+
+{{< figure src="/images/uploads/20221006_183455.jpg" alt="A glass of the first wine pairing. " caption="The first wine pairing." >}}
