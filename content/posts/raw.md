@@ -17,3 +17,7 @@ The reservation process was intense: we had to pay for basically the entire bill
 True to their timeliness warning, they didn't open the doors until the exact minute of our reservation, leaving us standing around in the rain for a bit, which was a bummer because the first thing you see when you walk in is the most fantastic bar I've ever encountered:
 
 {{< figure src="/images/uploads/20221006_222039.jpg" alt="View from our table across the restaurant towards the front entrance, featuring the massive bar" caption="The restaurant as seen from our table. The bar is on the left in the back of the picture." >}}
+
+They had a couple of these massive wood structures, all humongous, all smelling like tea trees. One wrapped around the two group tables and sort of separated us from the rest of the restaurant:
+
+{{< figure src="/images/uploads/20221006_180353.jpg" alt="The wraparound secondary bar thing." caption="undefined" >}}
