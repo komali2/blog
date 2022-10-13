@@ -18,11 +18,11 @@ True to their timeliness warning, they didn't open the doors until the exact min
 
 {{< figure src="/images/uploads/20221006_222039.jpg" alt="View from our table across the restaurant towards the front entrance, featuring the massive bar" caption="The restaurant as seen from our table. The bar is on the left in the back of the picture." >}}
 
-They had a couple of these massive wood structures, all humongous, all smelling like tea trees. One wrapped around the two group tables and sort of separated us from the rest of the restaurant:
+They had a couple of these wood structures, all humongous, all smelling like tea trees. One wrapped around the two group tables and sort of separated us from the rest of the restaurant:
 
 {{< figure src="/images/uploads/20221006_180353.jpg" alt="The wraparound secondary bar thing." caption="undefined" >}}
 
-We sat at a massive slab of wood and were given pretty little menus, as well as a French flag pin thing that we were required to put on our clothes somewhere visible. When asked, we were told it's "the dress code." Never got much more explanation than that, though the impression is that Raw's style switches around, so if we were really lucky and had come in a Taiwan based season, we might have gotten Taiwan flag pins. 
+We sat at an enormous slab of wood and were given pretty little menus, as well as a French flag pin thing that we were required to put on our clothes somewhere visible. When asked, we were told it's "the dress code." Never got much more explanation than that, though the impression is that Raw's style switches around, so if we were really lucky and had come in a Taiwan based season, we might have gotten Taiwan flag pins. 
 
 We also got menus for a wine pairing, as well as something I've never heard of before: a bread pairing. At 400NTD extra we started to get a little worried: was this two michelin star restaurant with a celebrity chef *nickle and diming us?* Charging extra for bread on top of a 250 USD dinner? 250 USD in Taiwan, mind, where a good lunch can be had for 3 USD. When I visited Pierre Gagnairre, a 3 michelin star restaurant in Paris and by some counts one of the best restaurants in the world, dinner went for about 300$ USD per person, without wine. So, before the food came, we spent a lot of time speculating on wtf was going on with the prices here. 
 
