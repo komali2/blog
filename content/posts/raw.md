@@ -43,3 +43,13 @@ The first dish was just the starting bread, with the first wine. Those without a
 {{< figure src="/images/uploads/20221006_183124.jpg" alt="The plank of wood upon which the first bread pairing was served" caption="The least fancy piece of wood in the whole restaurant: the plank upon which the first bread pairing was plopped" >}}
 
 {{< figure src="/images/uploads/20221006_183455.jpg" alt="A glass of the first wine pairing. " caption="The first wine pairing." >}}
+
+{{< figure src="/images/uploads/img_4771.jpg" alt="The bottle of the first wine pairing." caption="Un Grain de Folie" >}}
+
+{{< figure src="/images/uploads/20221006_183856.jpg" alt="The first bread pairing" caption="The first bread pairing" >}}
+
+{{< figure src="/images/uploads/20221006_183722.jpg" alt="The butter that came with the first bread pairing" caption="The butter and nutty crumble included with all the bread pairings." >}}
+
+The first wine was "Grain de Folie," 2020 by Domaine Mmaruta. A sparkling rosé that I described in my notes as "smelling dry, super dry taste, and not strong flavor." I don't know shit about wine though.
+
+It seems I didn't take notes on the bread, but it was a major cronchy croissantish vibe, hella buttery. The whipped butter they gave us was awesome, we just kept having them bring more. Came with a nutty cocoa-powdery sesame seedish mix that added a lot of savory to the salty butter.
