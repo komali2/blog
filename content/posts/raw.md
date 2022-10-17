@@ -67,3 +67,17 @@ The consome crayfish orb was super olive oily, and smelled like cilantro. The or
 The sardine cracker had a rich salmon smell. It was really light and crunchy and came in with a deep I guess umami flavor? I never know if something is umami or not. Towards the end of it was a sort of tiny fish bone texture that I always hated, but it was still good.
 
 The frog cakepop thing, on the left, smelled like Hainan chicken oil, and tasted basically like chicken, with a strong veggie base. The green sauce under the cakepops was really good, everyone at our table loved it. The snail, the green ball on the right, had a fun outer texture, like cheese almost.
+
+SECOND WINE:
+
+{{< figure src="/images/uploads/img_4786.jpg" alt="The second wine bottle" caption="undefined" >}}
+
+{{< figure src="/images/uploads/img_4789.jpg" alt="Glass of the second wine" caption="undefined" >}}
+
+{{< figure src="/images/uploads/20221006_190309.jpg" alt="Pastry edge of the Pâté" caption="The pastry of the Pâté was perfectly crunchy" >}}
+
+{{< figure src="/images/uploads/20221006_190320.jpg" alt="Jelly edge of the Pâté" caption="The jelly was so salty and good! " >}}
+
+{{< figure src="/images/uploads/20221006_190433.jpg" alt="Side view of the loaf of Pâté" caption="They brought out an uncut loaf of the Pâté for us to ooh and aah over. Desperately wanted to just take a bite out of it like it was a baguette. " >}}
+
+{{< figure src="/images/uploads/pxl_20221006_110444030.jpg" alt="Top down view of the loaf of Pâté" caption="We were told that the large circles are where tubes were inserted to allow for more even cooking of the Pâté, and then later filled with jelly. " >}}
