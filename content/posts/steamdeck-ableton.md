@@ -24,3 +24,5 @@ Browse to downloads
 In the file type picker, choose "all" so you can see the exe
 
 Add the ableton installer exe
+
+enable proton compatibility version 7.8 or something
