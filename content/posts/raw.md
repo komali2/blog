@@ -111,3 +111,13 @@ Next up was caviar and monkfish.
 The menu calls the dish "Medaillon de Baudrioe a la mousseline au Champagne," with "PERSEUS Superior Oscietra a la royale, monkfish, and leek compote." As soon as it was brought out, there was a strong smell of fish, which kind of worried us for a second, but the taste itself was not very strongly fishy, more buttery. The sauce we were told is egg, baked butter, and champagne. It was all very herby with a good, not too soft texture. There were hints of fruit in the fish, even without the champagne sauce. 
 
 {{< figure src="/images/uploads/20221006_194850.jpg" alt="The caviar in the tin" caption="Inevitably they brought the caviar tin out on an ice block. Intense discussions as to what Superior Oscietra No. 1 would be like. " >}}
+
+{{< figure src="/images/uploads/pxl_20221006_115807837.mp.jpg" alt="The kitchen staff plating on the monkfish dish" caption="Friends sitting across the table from us were able to turn around to get great shots of the plating and finishing table, which jutted from the kitchen into the dining area. " >}}
+
+{{< figure src="/images/uploads/pxl_20221006_115808602.jpg" alt="Another image of the kitchen staff plating the monkfish" caption="undefined" >}}
+
+The third wine was brought out after the monkfish was finished. 
+
+{{< figure src="/images/uploads/img_4799.jpg" alt="The bottle of the third wine" caption="Montagny Le May, 2020" >}}
+
+{{< figure src="/images/uploads/img_4800.jpg" alt="The third wine, in a glass" caption="I wrote down that it was "flat and creamy," I can't imagine what I meant by "flat," but I don't remember any negative feelings about it, so perhaps just a non dynamic flavor? " >}}
