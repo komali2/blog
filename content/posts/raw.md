@@ -88,7 +88,7 @@ After the cakepop monk food plate came the second wine and a ridiculously perfec
 
 The pâté was pork, deer, duck, and chicken liver. Smelled like hella meaty pâté, but also light and fruity. Taste was light as well, not that kinda heavy oily taste you get sometimes from pâtés. It was a bit chewy, occasionally getting hit with onion or pickle, and some tang. The side was of course perfectly crunchy and incredible. The menu calls the dish "Pâté en croute du Chaseur," with "cepes mushroom, game, deer, partridge, wild board, and cornichon," and it was apparently worked on with Frederic Jullien, sous-chef at l'atelier de Joel Robuchon in Taipei. Obviously Andre Chiang is buddies with the entire food scene in Taiwan. 
 
-When we got to chat with Chef Chiang, he said he felt somewhat dismayed that many of his dishes, including the pâté, are difficult if not impossible to find anymore in the world, done in the fashion that he does them. More on that to follow, but he was proud to point out the tube technique as well as the perfect right angles of the pastry exterior, indicative of a sort of combination traditionalist and perfectionist attitude for the menu.
+When we got to chat with Chef Chiang, he said he felt somewhat dismayed that many of his dishes, including the pâté, are difficult if not impossible to find anymore in the world, done in the fashion that he does them. More on that to follow, but he was proud to point out the tube technique as well as the perfect right angles of the pastry exterior, the lack of the gap between the crust and the main dish, and the shape holding, indicative of a sort of combination traditionalist and perfectionist attitude for the menu.
 
 {{< figure src="/images/uploads/20221006_191945.jpg" alt="The second bread" caption="The second bread was all THYME, right in the face" >}}
 
@@ -121,3 +121,21 @@ The third wine was brought out after the monkfish was finished.
 {{< figure src="/images/uploads/img_4799.jpg" alt="The bottle of the third wine" caption="Montagny Le May, 2020" >}}
 
 {{< figure src="/images/uploads/img_4800.jpg" alt="The third wine, in a glass" caption="I wrote down that it was "flat and creamy," I can't imagine what I meant by "flat," but I don't remember any negative feelings about it, so perhaps just a non dynamic flavor? " >}}
+
+The next dish consumed a huge portion of time, mostly because Chef Andre came out and talked with us for ages, fortunate table that we were! In fact I think we delayed service for our table, which we joked may be causing some kind of panic in the kitchen, staff screaming under their breath, "Chef's doing it again, what do we do, what the fuck do we do? We're 20 minutes behind!" 
+
+The menu calls it "Poussin en Vessie au Beurre d'Estragon aux Raisins blancs. I was excited about it because I'm one of apparently only three people on earth that like raisins, and putting raisins in food. 
+
+{{< figure src="/images/uploads/20221006_201027.jpg" alt="The chicken, still bagged" caption="The dish is brought out in a very thin sort of plastic bag" >}}
+
+{{< figure src="/images/uploads/20221006_201032.jpg" alt="The chicken dish bag being cut" caption="The bag is then cut with a very heavy and fancy pair of scissors, letting out extremely fragrant mist. Cinnamon, butter, sugar" >}}
+
+{{< figure src="/images/uploads/20221006_201208.jpg" alt="The chicken dish, served in its bag" caption="The dish is served still-in-bag, and I believe a sauce is added after, based on my notes, which I described as smelling strongly of dill and olive oil" >}}
+
+{{< figure src="/images/uploads/img_4976.jpg" alt="Closeup shot of the chicken" caption="undefined" >}}
+
+The flavor was incredibly sweet, especially if you grabbed a grape in a bite. The sauce was strongly cinnamon and sugary, and I wrote that the grapes "taste like Christmas." The fennel was not oniony at all, just mildly sharp. The chicken was hearty, and as written, "fucking good." The soup was fantastic with the bread, though I failed to reccord which bread we were on at that point (wine kicking in), I beleive it was some kind of truffle bread. The soup stayed fragrant throughout. 
+
+Chef Andre came out around now to talk to us at length, and demonstrate what the dish was in reference to: a process of sort of sous-vide, using a pig bladder. He went into great detail about the rarity of the technique, owing to the high risk. The bladder is opaque and can't be opened throughout cooking, and it takes several hours to finish. The chicken sits in the middle, and because the bladder inflates, there's no way to test the chicken donness through feel, meaning donness must be checked periodically through simply poking the bag with a finger. The bladders themselves can't be gotten from butchers, but instead must be purchased from laboratories. He says maybe one or two restaurants in France are serving the dish at any time, and he worries the technique may be completely lost after his generation of chefs retire. The high labor cost is usually passed onto a junior chef as a sort of training exercise, and he said of the example bladder he brought out, it won't be served to guests, but instead just to the kitchen. 
+
+{{< figure src="/images/uploads/pxl_20221006_122452793.jpg" alt="The chicken dish, but in a pig bladder, resting on the finishing table" caption="They brought out the same dish, but prepared in a pig bladder, to demonstrate the true traditional process. " >}}
