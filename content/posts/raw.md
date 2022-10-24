@@ -139,3 +139,15 @@ The flavor was incredibly sweet, especially if you grabbed a grape in a bite. Th
 Chef Andre came out around now to talk to us at length, and demonstrate what the dish was in reference to: a process of sort of sous-vide, using a pig bladder. He went into great detail about the rarity of the technique, owing to the high risk. The bladder is opaque and can't be opened throughout cooking, and it takes several hours to finish. The chicken sits in the middle, and because the bladder inflates, there's no way to test the chicken donness through feel, meaning donness must be checked periodically through simply poking the bag with a finger. The bladders themselves can't be gotten from butchers, but instead must be purchased from laboratories. He says maybe one or two restaurants in France are serving the dish at any time, and he worries the technique may be completely lost after his generation of chefs retire. The high labor cost is usually passed onto a junior chef as a sort of training exercise, and he said of the example bladder he brought out, it won't be served to guests, but instead just to the kitchen. 
 
 {{< figure src="/images/uploads/pxl_20221006_122452793.jpg" alt="The chicken dish, but in a pig bladder, resting on the finishing table" caption="They brought out the same dish, but prepared in a pig bladder, to demonstrate the true traditional process. " >}}
+
+{{< figure src="/images/uploads/20221006_202619.jpg" alt="Us poking the pig bladder" caption="We were invited to poke the pig bladder lol" >}}
+
+{{< figure src="/images/uploads/pxl_20221006_122848030.mp.jpg" alt="Chef Andre talking to us" caption="Chef Andre explaining the tediousness of the pig bladder chicken process" >}}
+
+{{< figure src="/images/uploads/pxl_20221006_123542637.night.jpg" alt="Chef andre still talking to us" caption="We got so much time with the Chef!" >}}
+
+{{< youtube id="fmOHr6yN3GM" title="Chef Andre cutting open the chicken bag" >}}
+
+{{< figure src="/images/uploads/20221006_203504.jpg" alt="The opened chicken bag" caption="The chicken bag, when cut, poofed out a fantastic smelling steam, exposing just a whole chicken, apparently cooked perfectly according to the Chef. " >}}
+
+Basically the second Chef Andre peaced out, the mashed potato presentation was begun. I believe we were a dish behind the rest of the restaurant at this point.
