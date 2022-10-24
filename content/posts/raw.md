@@ -152,6 +152,74 @@ Chef Andre came out around now to talk to us at length, and demonstrate what the
 
 Basically the second Chef Andre peaced out, the mashed potato presentation was begun. I believe we were a dish behind the rest of the restaurant at this point. Tammy and I were pretty sauced up at this point, and things were getting silly. Tammy's also completely obsessed with mashed potatoes, which this menu called "Aligot a la truffe, jus deglacage," having "aged comte cheese, black truffle, egg yolk confit, and sel de guerande." 
 
-{{< figure src="/images/uploads/20221006_205358.jpg" alt="The waiter presenting " caption="undefined" >}}
+{{< figure src="/images/uploads/20221006_205358.jpg" alt="The waiter presenting the mashed potatoes" caption="Another presentation for us!" >}}
+
+{{< figure src="/images/uploads/img_4810.jpg" alt="The mashed potato and its constituent dishes laid out" caption="The tools of mashed potato finishing" >}}
+
+The potatoes were extremely cheesy by the time the waiter was done with them:
 
 {{< youtube id="Z-a2dnMQiPA" title="Chef Andre cutting open the chicken bag" >}}
+
+{{< figure src="/images/uploads/pxl_20221006_125533056.jpg" alt="The waiter stretching out the mashed potato cheese" caption="undefined" >}}
+
+I wrote that it "smelled bready," and that it was "so, so creamy." Not too powerful flavor, egg added a ton of extra creaminess on top of the comte cheese. It wasn't a very powerfully flavorful dish but it was very heavy with protein and cheese flavor and texture, in its own way kinda nuking our palletes. 
+
+{{< figure src="/images/uploads/20221006_205834.jpg" alt="The mashed potatoes, served with egg" caption="The mashed potatoes were served very warm, with an egg yolk" >}}
+
+{{< figure src="/images/uploads/20221006_205907.jpg" alt="Tammy with her mashed potatoes" caption="Tammy was thrilled to receive a massive portion from the demonstration table" >}}
+
+At some point during all this, the next and final wine was brought out, "Fluer Cardinale Grand Cru Classe," of Saint-Emilion Grand Cru, 2017, though I don't have a picture or notes, as we were completely overwhelmed by now.
+
+In preparation for the final main, we got to choose a steak knife, with the handles all of different materials I believe from different restaurants. 
+
+{{< figure src="/images/uploads/20221006_210621.jpg" alt="The knife selection box" caption="Top down, Concrete from Chef Andre Chiang's Raw, G10 from Hotel Plaza Athenee with Alain Ducasse, SKA from Mirazure of Mauro Calagreco, G10 Copper from Maison Pic of Anne Sophie Pic, and Charcoal of A Sadro Etxebarri of Victor Arguinzoniz" >}}
+
+
+
+{{< figure src="/images/uploads/20221006_210831.jpg" alt="RAW's concrete knife, with Taiwan engraving on the blade" caption="I went with Raw's Concrete because it had a little laser engraving of Taiwan on the blade" >}}
+
+The next dish was "Canard Apicius aux peches roties," with duck, apicius spice, wild honey, tunisia dates, and saffron. The plate was so satiny, I couldn't stop touching it lol. It smelled of sweet potatoes when sat in front of us, and had a sweetness. After, there was a strong beefiness and pepper. The peach was, quoting from my increasingly difficult to read notes, "thicc and juicy," with a good salty aftertase. 
+
+{{< figure src="/images/uploads/20221006_210837.jpg" alt="Top down image of the duck dish" caption="That plate had a satiny texture I couldn't keep my hands off of" >}}
+
+{{< figure src="/images/uploads/20221006_210842.jpg" alt="Macro shot of the duck" caption="Obviously it was cooked perfectly" >}}
+
+{{< figure src="/images/uploads/pxl_20221006_131032854.portrait.jpg" alt="The duck before as it's cooked" caption="The duck as it's cooked, of course brought out to show off. " >}}
+
+
+
+Pants were getting tight, which is good, because we were nearing the end of the meal. They calmed us down with a cheese plate that I basically ate all of, being the biggest cheese fanatic for our section of the table. It was many kinds of cheese, the menu calling it "Chariot de Fromages, 'Tour de France,'" having epoisses, fourme d'Ambert, morbier, comte (the same as went on the potatoes), mimolette, pouligny St. Pierre, crottin de Chavignol, ossau-iraty, St. Nectaire, and brie de Meaux. They ran the gamut from very mild to extraordinarily powerful. Lucky me, nobody really liked the intense stuff, so I got most of it. It also came with a really wonderful honeycomb, that we got extra of because we all fought over it.
+
+{{< figure src="/images/uploads/20221006_212715.jpg" alt="The cheese plate" caption="Starting in the top left, the cheeses increased in strength counter clockwise." >}}
+
+{{< figure src="/images/uploads/img_4830.jpg" alt="The blocks of cheese from which the plate was made" caption="As always, they brought out a show stopper of a demo cart. " >}}
+
+We were basically entirely out of sorts at this point, stuffed full and well drunk, so Chef Andre came out to do some pictures while we tried to recover in time for dessert
+
+ 
+
+{{< figure src="/images/uploads/img_4833.jpg" alt="Us with Chef Andre" caption="Note me, barely keeping it together" >}}
+
+I had lost track of the breads at this point, but with dessert came the final bread, a spice sort of ginger bread. Considering all the breads were paired with the sauce of the given dish, this one was perfect, as it would be dipped in the chocolate sauce of the dessert, a perfect pairing. 
+
+{{< figure src="/images/uploads/20221006_214148.jpg" alt="The final bread pairing" caption="The bread was very spiced, but in a good way" >}}
+
+The first dessert was an adorable porcupine of four kinds of chocolate.
+
+{{< figure src="/images/uploads/20221006_214734.jpg" alt="Chocolate sauce being added to the first dessert" caption="Of course, the dessert was finished at the table, with rich chocolate sauce." >}}
+
+The chocolate dessert was my favorite dish the whole night, which is to be expected considering my sweet tooth and chocolate obsession. The menu calls it "Le Concorde de Gaston Lenotre," with chocolate, merengue, and cardamom (which paired very well with the bread). It was incredibly rich, but smelled of spice when sat down. There was a solid choclatey crunch at fist bite, with a salt kick. The mousse was cold and thick, and very spiced. It finished feeling like pudding in the mouth, with the meringue dissolving on top. 
+
+{{< figure src="/images/uploads/pxl_20221006_134752120.jpg" alt="The chocolate dish, unbroken" caption="Adorable" >}}
+
+{{< figure src="/images/uploads/20221006_215052.jpg" alt="The chocolate dish, with a bite" caption="I wouldn't let them take this plate away, I kept it for licking purposes the remainder of the night" >}}
+
+At just about the same time, the remainder of the desserts were brought out. Sadly Tiffany had to leave us at this time, a literal bitter-sweet moment as she had a flight out of Taiwan the next day. 
+
+Right on top of the chocolate, the remainders of the dessert were brought out, starting with an ephemeral ice cream type dessert, called "Galette des rois" I believe (I had lost track of which dish was which at this point).
+
+{{< figure src="/images/uploads/20221006_214829.jpg" alt="The galette des rois" caption="We were told to eat this quickly. It was flowery, cold, with light powdered sugar hitting first. A sweet almond taste and lots of crunch. Dissolved almost instantly!" >}}
+
+{{< figure src="/images/uploads/20221006_193756.jpg" alt="All the bathroom pods" caption="The toilets were each contained in these torpedo tube lookin things" >}}
+
+{{< figure src="/images/uploads/20221006_193800.jpg" alt="View of one of the bathroom pod things" caption="Very private and nice, I suppose!" >}}
