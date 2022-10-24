@@ -64,6 +64,8 @@ The first dish was titled "Aspic de Macedoine de legumes aux Ecrevisses," on the
 
 The consome crayfish orb was super olive oily, and smelled like cilantro. The orb itself kinda tasted like meat fat, super jelly-like. The whole thing had a really nutty tomato vibe, very wholesome autumnal flavor. The crayfish just tasted like a really good shrimp lol.
 
+{{< figure src="/images/uploads/pxl_20221006_104428706.night.jpg" alt="Selfie of all of us at the table" caption="Jaime snapped a selfie just as we're about to tuck in. Absolutely starving at this point, I hadn't eaten anything all day in preparation :)" >}}
+
 The sardine cracker had a rich salmon smell. It was really light and crunchy and came in with a deep I guess umami flavor? I never know if something is umami or not. Towards the end of it was a sort of tiny fish bone texture that I always hated, but it was still good.
 
 The frog cakepop thing, on the left, smelled like Hainan chicken oil, and tasted basically like chicken, with a strong veggie base. The green sauce under the cakepops was really good, everyone at our table loved it. The snail, the green ball on the right, had a fun outer texture, like cheese almost.
@@ -83,3 +85,7 @@ After the cakepop monk food plate came the second wine and a ridiculously perfec
 {{< figure src="/images/uploads/20221006_190433.jpg" alt="Side view of the loaf of Pâté" caption="They brought out an uncut loaf of the Pâté for us to ooh and aah over. Desperately wanted to just take a bite out of it like it was a baguette. " >}}
 
 {{< figure src="/images/uploads/pxl_20221006_110444030.jpg" alt="Top down view of the loaf of Pâté" caption="We were told that the large circles are where tubes were inserted to allow for more even cooking of the Pâté, and then later filled with jelly. " >}}
+
+The pâté was pork, deer, duck, and chicken liver. Smelled like hella meaty pâté, but also light and fruity. Taste was light as well, not that kinda heavy oily taste you get sometimes from pâtés. It was a bit chewy, occasionally getting hit with onion or pickle, and some tang. The side was of course perfectly crunchy and incredible. 
+
+{{< figure src="/images/uploads/20221006_191945.jpg" alt="The second bread" caption="The second bread was all THYME, right in the face" >}}
