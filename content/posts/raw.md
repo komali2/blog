@@ -107,3 +107,7 @@ Next up was caviar and monkfish.
 {{< figure src="/images/uploads/20221006_194613.jpg" alt="The sauce being added to the monkfish" caption="The sauce was added to the monkfish after it was brought to the table. " >}}
 
 {{< figure src="/images/uploads/20221006_194743.jpg" alt="The caviar and monkfish" caption="undefined" >}}
+
+The menu calls the dish "Medaillon de Baudrioe a la mousseline au Champagne," with "PERSEUS Superior Oscietra a la royale, monkfish, and leek compote." As soon as it was brought out, there was a strong smell of fish, which kind of worried us for a second, but the taste itself was not very strongly fishy, more buttery. The sauce we were told is egg, baked butter, and champagne. It was all very herby with a good, not too soft texture. There were hints of fruit in the fish, even without the champagne sauce. 
+
+{{< figure src="/images/uploads/20221006_194850.jpg" alt="The caviar in the tin" caption="Inevitably they brought the caviar tin out on an ice block. Intense discussions as to what Superior Oscietra No. 1 would be like. " >}}
