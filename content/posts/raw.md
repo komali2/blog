@@ -68,11 +68,13 @@ The sardine cracker had a rich salmon smell. It was really light and crunchy and
 
 The frog cakepop thing, on the left, smelled like Hainan chicken oil, and tasted basically like chicken, with a strong veggie base. The green sauce under the cakepops was really good, everyone at our table loved it. The snail, the green ball on the right, had a fun outer texture, like cheese almost.
 
-SECOND WINE:
+Jesse demanded I write down the ingredients of the green sauce, which we were told are "extra virgin olive oil, garlic, parsley, and dijon mustard."
 
-{{< figure src="/images/uploads/img_4786.jpg" alt="The second wine bottle" caption="undefined" >}}
+{{< figure src="/images/uploads/img_4786.jpg" alt="The second wine bottle" caption="Le Gam Cab' du Bled, 2013" >}}
 
-{{< figure src="/images/uploads/img_4789.jpg" alt="Glass of the second wine" caption="undefined" >}}
+{{< figure src="/images/uploads/img_4789.jpg" alt="Glass of the second wine" caption="French, very flowery smell, but also almost menthol / medicine smell. Not very strong flavor." >}}
+
+After the cakepop monk food plate came the second wine and a ridiculously perfect pâté. Undecorated plate except for a bit of salt/pepper I didn't bother with. I thought the addition of pickles was a bit weird but whatever. 
 
 {{< figure src="/images/uploads/20221006_190309.jpg" alt="Pastry edge of the Pâté" caption="The pastry of the Pâté was perfectly crunchy" >}}
 
