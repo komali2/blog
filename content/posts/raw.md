@@ -86,10 +86,24 @@ After the cakepop monk food plate came the second wine and a ridiculously perfec
 
 {{< figure src="/images/uploads/pxl_20221006_110444030.jpg" alt="Top down view of the loaf of Pâté" caption="We were told that the large circles are where tubes were inserted to allow for more even cooking of the Pâté, and then later filled with jelly. " >}}
 
-The pâté was pork, deer, duck, and chicken liver. Smelled like hella meaty pâté, but also light and fruity. Taste was light as well, not that kinda heavy oily taste you get sometimes from pâtés. It was a bit chewy, occasionally getting hit with onion or pickle, and some tang. The side was of course perfectly crunchy and incredible. The menu calls the dish "Pâté en croute du Chaseur," and it was apparently worked on with Frederic Jullien, sous-chef at l'atelier de Joel Robuchon in Taipei. Obviously Andre Chiang is buddies with the entire food scene in Taiwan. 
+The pâté was pork, deer, duck, and chicken liver. Smelled like hella meaty pâté, but also light and fruity. Taste was light as well, not that kinda heavy oily taste you get sometimes from pâtés. It was a bit chewy, occasionally getting hit with onion or pickle, and some tang. The side was of course perfectly crunchy and incredible. The menu calls the dish "Pâté en croute du Chaseur," with "cepes mushroom, game, deer, partridge, wild board, and cornichon," and it was apparently worked on with Frederic Jullien, sous-chef at l'atelier de Joel Robuchon in Taipei. Obviously Andre Chiang is buddies with the entire food scene in Taiwan. 
 
 When we got to chat with Chef Chiang, he said he felt somewhat dismayed that many of his dishes, including the pâté, are difficult if not impossible to find anymore in the world, done in the fashion that he does them. More on that to follow, but he was proud to point out the tube technique as well as the perfect right angles of the pastry exterior, indicative of a sort of combination traditionalist and perfectionist attitude for the menu.
 
 {{< figure src="/images/uploads/20221006_191945.jpg" alt="The second bread" caption="The second bread was all THYME, right in the face" >}}
 
-The
+We were all excited for the next dish, genuine ratatouille, well, "Ratatouille Revisitée" in this case. When it came out, yup, looks just like from the movie lol:
+
+{{< figure src="/images/uploads/20221006_192442.jpg" alt="Top down shot of the ratatouille" caption="undefined" >}}
+
+{{< figure src="/images/uploads/20221006_192438.jpg" alt="Macro shot of the ratatouille" caption="undefined" >}}
+
+With "aubergine, zucchini, bay leaf, capsicums, and basil," it smelled strongly of roasted vegetable. The included soup smelled of tomatoes and onions, almost like a very tomato-y french onion soup, with a hint of nut. The soup is apparently roasting juices from the ratatouille with chicken broth. The paste is of zuchinni. The eggplant came out strong int he dish, as did the basil. The texture was mostly soft with some crunch, I felt maybe from the zuchinni mostly. 
+
+Next up was caviar and monkfish.
+
+
+
+{{< figure src="/images/uploads/20221006_194613.jpg" alt="The sauce being added to the monkfish" caption="The sauce was added to the monkfish after it was brought to the table. " >}}
+
+{{< figure src="/images/uploads/20221006_194743.jpg" alt="The caviar and monkfish" caption="undefined" >}}
