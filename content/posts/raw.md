@@ -86,6 +86,10 @@ After the cakepop monk food plate came the second wine and a ridiculously perfec
 
 {{< figure src="/images/uploads/pxl_20221006_110444030.jpg" alt="Top down view of the loaf of Pâté" caption="We were told that the large circles are where tubes were inserted to allow for more even cooking of the Pâté, and then later filled with jelly. " >}}
 
-The pâté was pork, deer, duck, and chicken liver. Smelled like hella meaty pâté, but also light and fruity. Taste was light as well, not that kinda heavy oily taste you get sometimes from pâtés. It was a bit chewy, occasionally getting hit with onion or pickle, and some tang. The side was of course perfectly crunchy and incredible. 
+The pâté was pork, deer, duck, and chicken liver. Smelled like hella meaty pâté, but also light and fruity. Taste was light as well, not that kinda heavy oily taste you get sometimes from pâtés. It was a bit chewy, occasionally getting hit with onion or pickle, and some tang. The side was of course perfectly crunchy and incredible. The menu calls the dish "Pâté en croute du Chaseur," and it was apparently worked on with Frederic Jullien, sous-chef at l'atelier de Joel Robuchon in Taipei. Obviously Andre Chiang is buddies with the entire food scene in Taiwan. 
+
+When we got to chat with Chef Chiang, he said he felt somewhat dismayed that many of his dishes, including the pâté, are difficult if not impossible to find anymore in the world, done in the fashion that he does them. More on that to follow, but he was proud to point out the tube technique as well as the perfect right angles of the pastry exterior, indicative of a sort of combination traditionalist and perfectionist attitude for the menu.
 
 {{< figure src="/images/uploads/20221006_191945.jpg" alt="The second bread" caption="The second bread was all THYME, right in the face" >}}
+
+The
