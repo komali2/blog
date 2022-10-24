@@ -220,6 +220,34 @@ Right on top of the chocolate, the remainders of the dessert were brought out, s
 
 {{< figure src="/images/uploads/20221006_214829.jpg" alt="The galette des rois" caption="We were told to eat this quickly. It was flowery, cold, with light powdered sugar hitting first. A sweet almond taste and lots of crunch. Dissolved almost instantly!" >}}
 
+After the two main desserts was brought a trio, which included "Clafoutis aux griottes," "Callison d'Aix," and "Carambar" (caramel). 
+
+{{< figure src="/images/uploads/20221006_215934.jpg" alt="The final dessert trio" caption="" >}}
+
+The small cake on the top right included a tradition similar to King Cake from Louisiana, wherein a small crown had been included in a single slice out of all served that night, location of which unknown to anybody until it was discovered. Incredibly, it was found at our table. Discovery rewarded with a much bigger crown.
+
+{{< figure src="/images/uploads/20221006_220103.jpg" alt="The finding of the crown" caption="undefined" >}}
+
+
+
+{{< figure src="/images/uploads/img_4840.jpg" alt="A larger crown is delivered" caption="undefined" >}}
+
+Of the King Cake, the flavor wasn't too strong, but it had a nice texture, very flakey.
+
+The little cherry orb was very sour, and tasted strongly of cherry, rum, and alcohol. I really liked it. 
+
+The caramel came with a paper to wrap and take home if you'd like. I of course ate it immediately. It was very chewy, but in a genuine caramel way, not like a store bought candy that takes years to finish. Very burnt sugar, real caramel flavor. Extremely sticky. Lovely.
+
+{{< figure src="/images/uploads/20221006_215306.jpg" alt="A whole king cake" caption="A king cake, before slicing" >}}
+
+
+
+{{< figure src="/images/uploads/20221006_215939.jpg" alt="The bitter cherry dish" caption="The fruity and bitter cherry dish, a great finisher." >}}
+
+{{< figure src="/images/uploads/20221006_215945.jpg" alt="The caramel, under its paper" caption="The caramel was simple but perfect. The paper, in my hands, useless. " >}}
+
+At the end of the meal, we were left to our own devices for seemingly as long as we'd like. Chef 
+
 {{< figure src="/images/uploads/20221006_193756.jpg" alt="All the bathroom pods" caption="The toilets were each contained in these torpedo tube lookin things" >}}
 
 {{< figure src="/images/uploads/20221006_193800.jpg" alt="View of one of the bathroom pod things" caption="Very private and nice, I suppose!" >}}
