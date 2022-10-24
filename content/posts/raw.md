@@ -150,4 +150,8 @@ Chef Andre came out around now to talk to us at length, and demonstrate what the
 
 {{< figure src="/images/uploads/20221006_203504.jpg" alt="The opened chicken bag" caption="The chicken bag, when cut, poofed out a fantastic smelling steam, exposing just a whole chicken, apparently cooked perfectly according to the Chef. " >}}
 
-Basically the second Chef Andre peaced out, the mashed potato presentation was begun. I believe we were a dish behind the rest of the restaurant at this point.
+Basically the second Chef Andre peaced out, the mashed potato presentation was begun. I believe we were a dish behind the rest of the restaurant at this point. Tammy and I were pretty sauced up at this point, and things were getting silly. Tammy's also completely obsessed with mashed potatoes, which this menu called "Aligot a la truffe, jus deglacage," having "aged comte cheese, black truffle, egg yolk confit, and sel de guerande." 
+
+{{< figure src="/images/uploads/20221006_205358.jpg" alt="The waiter presenting " caption="undefined" >}}
+
+{{< youtube id="Z-a2dnMQiPA" title="Chef Andre cutting open the chicken bag" >}}
