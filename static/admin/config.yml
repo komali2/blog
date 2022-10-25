@@ -11,9 +11,9 @@ collections:
     label_singular: 'Post'
     folder: 'content/posts'
     create: true
-    path: '{{slug}}/index',
-    media_folder: '',
-    public_folder: '',
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
