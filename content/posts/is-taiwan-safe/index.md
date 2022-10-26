@@ -111,3 +111,27 @@ Now Taiwan's covid restrictions have mostly lifted, and it has since had an unco
 This is repeatable, a point of Taiwan pride. When COVID-27 hits or whatever the next pandemic is, there's nowhere I'd rather be than the country that literally handled COVID-19 better than any other in terms of balancing quality of life against safety.
 
 Talking about death so much is depressing, though. Safety doesn't just mean likelyhood of dying, it can mean other things too: How likely are you to be attacked? Robbed? Mugged? Burgaled? Had your stuff vandalized, stolen, taken by the government? In Taiwan, very unlikely.
+
+Let's go through the day of a digital nomad in any given country.
+
+First, to the gym, because all digital nomads are six packed chads in those loose thailand backpacker pants. They bicycle there, and lock up outside the gym, where they'll be for an hour and a half. While they're there, how likely is their bike to be stolen?
+
+Some fun bicycle stat numbers
+
+* London: 486:  160 bikes are stolen per 100,000 residents per year
+* Washington, D.C.: 160 bikes are stolen per 100,000 residents per year
+* 2,000,000 bicycles are stolen every year in the USA
+
+https://discerningcyclist.com/how-common-is-bike-theft-statistics/
+
+I'm having trouble finding good numbers for Taiwan, but from personal experience, plenty of people don't even bother locking their bikes here, and if they do, it's not to a pole or anything, and it's usually with a hilariously fragile little thing that I could probably break open with my bare hands. Imagine locking your bike up in Paris or San Francisco with anything other than a 5 pound hunk of iron kryptonite lock.
+
+What about in the gym, are you willing to set down your gym bag? Are you worried about things in your locker? Again, in Taiwan, in my experience the majority of people don't even bother locking their things up. They'll set them down in the gym floor and walk away for their entire workout without concern.
+
+Now let's go to a cafe to work. You pull out your laptop, drink some coffee, and oops, gotta pee. Time to pack up literally EVERYTHING and lug your bag into the bathroom with you. In Taiwan, no need. You don't even have to do that silly thing where you ask a stranger to watch your bag for you. Just stand up and go. I've left my laptop at a table for an hour while I chat with someone elsewhere in the cafe without issue.
+
+Now it's time to take the train somewhere. Where you live, do you carefully put your phone away when the train doors open, so nobody can snatch it and run? If you live in DC, NYC, SF, London, Berlin, or Paris, you really should. In Taipei, I can't actually find an instance of this ever happening. That doesn't mean it never does, of course, but it does align with what I expected, considering petty crime and muggings are basically nonexistent here, same for pickpocketing.
+
+Night comes, you go to the club. In your country, how often had you had to deal with belligerent people? Roudy crowds? Phone being snatched from your purse on the dance floor? Again, hard to find statistics for this in Taiwan, but I go out way more often here than I did in the other cities I live, and I've yet to hear stories of phones being taken, an common occurance for going out in Vegas or SF. There's of course been rowdiness, often directed at foreigners not respecting boundaries of some Taiwanese dude's girlfriend, but nothing like the tension I recall from clubbing in the USA.
+
+After the club, time to walk home. For women especially, not something you'd ever do on your own, you'd stick with your friends, yeah? I'm not a girl, but my friends have all told me they've never felt safer walking around alone, especially at night, than they have in Taiwan. I've heard one or two stories of mild harassment, but rather than catcalling or aggressive behavior, it's been more sad-puppy or earnest wanting-to-practice-english vibes.
