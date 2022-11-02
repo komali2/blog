@@ -21,4 +21,45 @@ The app is a typescript app, however, which means I need to handle the Segment A
 
 At first I just tried to copy the code into a file that I'd import, tweaking it to make it happy with the linter or whatever, and grabbing the types from [a package output from DefinitelyTyped](https://www.npmjs.com/package/@types/segment-analytics) that I found, but that caused funky weird typescript errors that were truly stupid to parse like "the type is referred to directly or indirectly in its own type annotation?" Does that actually make sense to people and I'm just an idiot? Well fine if so, I'd rather be an idiot than have whatever information necessary to make that error make sense be in my brain.
 
-Anyway eventually I found [this semi-useful medium article](https://javascript.plainenglish.io/add-segment-google-analytics-to-your-typescript-next-js-app-af9fc7cd83a9) that pointed me to the fact that Segment, telling nobody, actually has a [sneaky little library](https://www.npmjs.com/package/@segment/snippet) you can import to 
+Anyway eventually I found [this semi-useful medium article](https://javascript.plainenglish.io/add-segment-google-analytics-to-your-typescript-next-js-app-af9fc7cd83a9) that pointed me to the fact that Segment, telling nobody, actually has a [sneaky little library](https://www.npmjs.com/package/@segment/snippet) you can import to manage their snippet in your own templating library (react in my case). Yay, thanks half-functional, 2MB of javascript Medium article!
+
+But lo the actual question I came with remains unanswered: how do you include the type? I had tried, per stackoverflow, to install the type, and then add in my `index.ts`: 
+
+```typescript
+declare global {
+  interface Window {
+    analytics: analytics;
+  }
+}
+```
+
+which, before I installed the snippet library, typescript hated. Then I tried
+
+```typescript
+declare global {
+  interface Window {
+    analytics: typeof analytics;
+  }
+}
+```
+
+based on what typescript was recommending to me in its own error, but it also hated that. In typical typescript fashion though, once I installed the above snippet library, the error simply went away :) so I guess `typeof analytics` is the right invocation!
+
+Hilariously, the medium post handled the hard part of the problem, the typescript portion, by just doing, for all their snippets, the following:
+
+```typescript
+ // @ts-ignore
+ window?.analytics?.page(Component.displayName)
+```
+
+Yup that'll do it! I poked into the comments and saw one that started with "You don't need all those ts-ignores! Just do..." heart racing, I scrolled down! To find the commentors example:
+
+```
+declare global {
+interface Window {
+analytics: any
+}
+}
+```
+
+Eugh. I'd leave a comment with the correct answer on there, but I'm not making an account on that shit.
