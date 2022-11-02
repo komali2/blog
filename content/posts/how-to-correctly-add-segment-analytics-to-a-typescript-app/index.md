@@ -63,3 +63,12 @@ analytics: any
 ```
 
 Eugh. I'd leave a comment with the correct answer on there, but I'm not making an account on that shit.
+
+Now to just declare the snippet: 
+
+```
+      if (!window.analytics) {
+        snippet.min({apiKey: process.env.SEGMENT_WRITE_KEY})
+      }
+```
+
