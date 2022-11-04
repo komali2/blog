@@ -55,4 +55,8 @@ My point is that the government's other efforts, to integrate indigenous culture
 
 A lot of the Bilingual Nation aligned documentation talks about making things easier for "foreigners" in Taiwan that don't speak Mandarin, but bear in mind English is not a multicultural language to the people writing these documents, it's the language of money, so making foreigners comfortable (and attracting foreigners to Taiwan with better English signage or whatever) is not to increase the multi cultural nature of Taiwan, it's just a plain and simple capitalist objective to, I dunno, do some economic stimulation. Increase global trade. That kind of thing. 
 
-There is the "soft power" angle of course. America destroyed communism by getting Russian to love blue jeans, maybe Taiwan can end PRC imperialism by getting citizens of all the other nuclear superpowers to fall in love with [小資女孩向前衝](https://en.wikipedia.org/wiki/Office_Girls) by releasing a *really* good dub, sponsored by the NDC. Maybe! But that doesn't seem to be the focus of the various articles and documents.
+There is the "soft power" angle of course. America destroyed communism by getting Russian to love blue jeans, maybe Taiwan can end PRC imperialism by getting citizens of all the other nuclear superpowers to fall in love with [小資女孩向前衝](https://en.wikipedia.org/wiki/Office_Girls) by releasing a *really* good dub, sponsored by the NDC. Maybe! But that doesn't seem to be the focus of the various articles and documents. 
+
+## Wow very cool, but, what is the Bilingual Nation Initiative?
+
+Other than a vaguely Han-supremacist, vaguely whitewashing-of-foreigners-while-erasing-non-white-non-English-speaking-foreigners bit of classic liberal gaff, the Bilinguagl Nation Initiative seems to be your typical, tepid, democratic nation-state bit of campaign promise-fulfilling "go do a thing" directive from party leaders, that various agencies, departments, and ministries are scrambling to accomplish.
