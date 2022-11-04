@@ -57,7 +57,7 @@ A lot of the Bilingual Nation aligned documentation talks about making things ea
 
 There is the "soft power" angle of course. America destroyed communism by getting Russian to love blue jeans, maybe Taiwan can end PRC imperialism by getting citizens of all the other nuclear superpowers to fall in love with [小資女孩向前衝](https://en.wikipedia.org/wiki/Office_Girls) by releasing a *really* good dub, sponsored by the NDC. Maybe! But that doesn't seem to be the focus of the various articles and documents. 
 
-## Wow very cool, but, what is the Bilingual Nation Initiative?
+## Wow very cool, but, wtf is the Bilingual Nation Initiative?
 
 Other than a vaguely Han-supremacist, vaguely whitewashing-of-foreigners-while-erasing-non-white-non-English-speaking-foreigners bit of classic liberal gaff, the Bilinguagl Nation Initiative seems to be your typical, tepid, democratic nation-state bit of campaign promise-fulfilling "go do a thing" directive from party leaders, that various agencies, departments, and ministries are scrambling to accomplish. 
 
