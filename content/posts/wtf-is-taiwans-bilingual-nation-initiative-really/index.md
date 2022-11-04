@@ -43,4 +43,6 @@ This is all a nasty form of Han supremacy that the CPC deliberately engages in b
 
 We are finally back to talking specifically about the Bilingual Nation initiative, because that's what the initiative, and most of its supporting documentation does: make an awful lot of assumptions about what is "normal," what is "multicultural," and what is "really cool rich guy capitalism." 
 
-For example, as noted by Ferrer in
+For example, as noted by Ferrer and Tzu-Bin in the paper I linked up top, when the Ministry of Education discusses the initiative in ["Plan to Promote (a)"](https://www.edu.tw/News_Content.aspx?n=D33B55D537402BAA&s=FB233D7EC45FFB37)  and ["Plan to Promote (b),"](<https://depart.moe.edu.tw/ED2100/News_Content.aspx?n=D23E9B1FC9ED5D63&sms=418 6928212B88A3A&s=E4D1735A88BB7258>) it implies a pretty clear trifecta: Mandarin is "normal," native languages are "multicultural," and English is... something else. Money. English is Money. 
+
+That's been the implied goal through all the
