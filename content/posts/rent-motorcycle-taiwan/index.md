@@ -128,9 +128,11 @@ In any case, you know, ride to your comfort and all that, and if you think your 
 
 # Renting in Taiwan
 
-The company we always use is [Motor Rental Town](https://facebook.com/pg/MRTTYPZ). They have locations all over Taiwan and can handle whatever rental situation you want: day rental, multi-day, pick up in one city and drop off in another, etc. Their prices are also pretty good. I wish they were hooking me up for pluggin them here, but they're not.
 
-Motor Rental Town divides their bikes into several categories based on performance. Unfortunately the only way to view the options are by [looking at this year's photo album](https://www.facebook.com/media/set/?set=a.634250758003717&type=3) on Facebook. For motorcyclists, I recommend their "Type-C" classification, which in 2022 includes two bikes I can strongly recommend: the Yamaha MT-07 for a more upright ride and the Honda CBR500R for a sportier ride. This classification will run 1500 NTD per day, or about 50 USD a day.
+The company we always use is [Motor Rental Town](https://www.facebook.com/TownTire/). They change their Facebook link sometimes, so [here's a Google Maps link als](https://goo.gl/maps/v2U32yuSBVGXJi4JA)o. They have locations all over Taiwan and can handle whatever rental situation you want: day rental, multi-day, pick up in one city and drop off in another, etc. Their prices are also pretty good. I wish they were hooking me up for pluggin them here, but they're not.
+
+
+Motor Rental Town divides their bikes into several categories based on performance. Unfortunately the only way to view the options are by [looking at this year's photo album](https://www.facebook.com/media/set/?set=a.5732595786806682&type=3) on Facebook, or their [services page](https://www.facebook.com/TownTire/services/?ref=page_internal). For motorcyclists, I recommend their "Type-C" classification, which in 2022 includes two bikes I can strongly recommend: the Yamaha MT-07 for a more upright ride and the Honda CBR500R for a sportier ride. This classification will run 1500 NTD per day, or about 50 USD a day.
 
 To rent a bike, message Motor Rental Town on Facebook messenger. I agree that this sucks, but this is just how many things are done in Taiwan. At least you don't need to message them on Line instead. They have a template they'll send back that'll ask for things like dates of rental, 3 bike choices, etc. Usually the person on the other end will be helpful in terms of recommending what kind of hourly split you should do, or whether you should adjust your times a bit to save some money.
 
