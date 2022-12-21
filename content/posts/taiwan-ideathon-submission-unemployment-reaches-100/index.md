@@ -12,6 +12,11 @@ tags:
 ---
 Taiwan had an Ideathon, like a Hackathon but for ideas, in November. One submission category was to write a [news article](https://www.ideathon.tw/en/futureNews) set in the year 2040. I believe the [evaluation criteria](https://www.ideathon.tw/en/about) are "the futuristic nature of the entry, creativity, and presentation." Considering the next submission category is a "prototype" aka designs and whatnot, I'm guessing most of the submissions are more strictly technology focused, so maybe I'll stand out a bit by taking a more economic / philosophical / political angle. Anyway, below is the submission, pages and pages of maybe naive daydreaming about what life could be like for people if we just took some of that capitalist pressure off. 
 
+UPDATE: For some reason, the submission was set as a "Future Prototype" submission, not "Future News." I have no idea how that happened, but it probably resulted in me being considered poorly against the category, as that category required more formal technical documentation type things, whereas my submission is a simple news article. 
+
+It can be seen here: https://www.ideathon.tw/en/futurePrototype/view/e06c354922c3fe4653772ba345d0afb0 
+
+
 Submission:
 
 Article in The Times, March, 2040
