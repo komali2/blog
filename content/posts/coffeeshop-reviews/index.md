@@ -10,4 +10,4 @@ tags:
   - food
   - digital-nomad
 ---
-I'm losing track of the cafe's I've tried in Taipei, and the whole point is to build out a list of the best ones, so I'm going to start updating this post as I hit them.
+## I'm losing track of the cafe's I've tried in Taipei, and the whole point is to build out a list of the best ones, so I'm going to start updating this post as I hit them.
