@@ -156,3 +156,9 @@ We had the ambitious idea of taking the entire family on a scooter trip from Tai
 I've done [a whole post on renting motorcycles in Taiwan](posts/rent-motorcycle-taiwan) that I recommend reading for details. In short, get your IDP before you come, make a reservation at a rental spot ahead of time, and you're good to go. It's a bit harder now with the place I recommed because they want a local guarantor, but that's more for heavier motorcycles. You can always look into more traditional rental agencies for just a scooter.
 
 There's no reason to rent a car here. Don't bother, just take trains. You'll absolutely ruin your trip wasting time to find parking and stressing about driving in the dense roads here. If you are somewhere remote like Hualien, just hire a cab for the day, it'll cost probably around 2-3k TWD.
+
+# The Trip
+
+## Day One
+
+###
