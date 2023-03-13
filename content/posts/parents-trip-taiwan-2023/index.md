@@ -205,6 +205,8 @@ Thanks to Tammy's good Airbnb hunting skills the Airbnb we got was a five minute
 
 {{< figure src="airbnbpose.jpg" alt="The family in the airbnb" caption="Well rested and ready to be dragged around the city!" >}}
 
+### Glassblowing at Songshan Cultural Creative Park
+
 We were always trying to balance maximally showing off Taiwan and adventuring against making sure nobody was burnt out, and I was really worried about that balance towards the beginning of the trip when everyone was jetlagged. Everyone kept up pretty well but it was like, the philosophical debate of the entire trip, what does it mean to maximize a trip, balance that against your restfulness? How much of your energy do you sacrifice knowing you can make up for it when you get home later? And what does that mean for how packed you can get your actual "normal" life?
 
 Anyway after resting up we all walked over to Songshan Cultural Creative Park. I actually felt kinda annoyed during the walk cause it's a pretty car-heavy part of the city we had to walk through, and to get to the park we had to go around that giant blob of nothing that the city calls the TRA museum (has anybody actually ever been able to go inside?), as well as walk along a major road. I kept saying, "ok but actually Taipei is way more quiet and nice to walk around in," but the family was confused, saying nah this is already really nice to walk around in. I guess I'm spoiled.
@@ -247,3 +249,80 @@ Glassblowing turned out to be really awesome, and I highly recommend it. It shoo
 {{< figure src="weaponizedcolette.JPG" alt="Colette holding the glass blowy tube thing" caption="" >}}
 {{< figure src="glassweaponmom.JPG" alt="Mom holding the glass blowy tube thing" caption="" >}}
 {{< figure src="glassweapondad.JPG" alt="Dad hodling holding the glass blowy tube thing" caption="" >}}
+
+Not enough to do on the first day when everyone is jet lagged, after glassblowing we walked down to Tammy and my apartment to show it off, meet Richard, and rest.
+
+{{< figure src="coletterichard.jpg" alt="Colette holding Richard" caption="Richard did not seem to know or care what was happening." >}}
+{{< figure src="richard.JPG" alt="Richard the bearded dragon" caption="Glorious" >}}
+
+### Raohe Nightmarket
+
+After some hardcore jetlag naps, we walked to Raohe night market. Normally the plan there is to blitz through and grab a bunch of stuff to go, and then carry it all to the river, but I realized on this run that that strategy results in a big greasy blob of rapidly cooling food, especially when it's cold out. Not quite as good. Next time, we'll munch and walk, and then just have a nice river walk after or something.
+
+{{< figure src="nightmarket1.JPG" alt="Eating potato balls at Raohe" caption="Eating puffed sweet potato balls at Raoehe." >}}
+{{< figure src="nightmarket2.JPG" alt="Pork buns in the oven" caption="These pepper pork buns are Raohe's most famous food." >}}
+{{< figure src="nightmarket3.JPG" alt="Tammy at the riverside" caption="Hanging at the riverside." >}}
+{{< figure src="nightmarket4.JPG" alt="Family at the riverside" caption="Monchin at the riverside." >}}
+
+We'd hit the limit, luckily everyone had it in them for one more train ride, so we caught a quick MRT ride from Songshan back to the Airbnb. Straight to bed after that, we had to get up early the next day to catch a train to Hualien.
+
+## Day Two
+
+### Train to Hualien
+
+Day two plan was to spend all day in Hualien. Hualien is a famously beautiful city in the middle Southeast portion of Taiwan, known for its Grand Canyon-esque area called "Taroko Gorge," as well as its beaches. To make the trip work in a day, we had to leave pretty early, catching an express train around 7am. Unlike the west coast, there's no HSR, however the train was still quite fast and got us there in about an hour and a half. We got to Songshan station very early and stocked up on 7-11 breakfast, quickly becoming the family's favorite thing to do.
+
+
+{{< figure src="hualienmomdadtrain.JPG" alt="Mom and dad on the train to hualien" caption="Bright and early" >}}
+{{< figure src="hualienfamilytrain.JPG" alt="Family on the train to hualien" caption="Jet lag probably advantageous for now." >}}
+
+Once arriving at Hualien station, we hired a yellow cab for the day, costing around 2k TWD for what was expected to be about 4 hours. In the end I think we had him for more like 6 hours and paid 3k.
+
+Hiring a driver turned out to be a great idea. Despite my relative familiarity with Hualien, he still knew way more than me, and suggested a couple really interesting drop off places, including a beach I didn't know about with really cool rocks we could collect, which my family really loves doing. We literally filled our bags with rocks, great idea before a hike.
+
+{{< figure src="hualientammybeach.JPG" alt="Tammy on the beach" caption="" >}}
+{{< figure src="hualienfamilybeach.JPG" alt="" caption="" >}}
+{{< figure src="hualienview.JPG" alt="" caption="" >}}
+
+### Hiking in Taroko
+
+From there we drove up and into Taroko Gorge. It was a day of light traffic, lucky because it can get crazy on the two tiny roads that thread the river into the canyon. The driver often stopped and had us get out to check out some recommended views I hadn't noticed before. Realized that all the times I had done Taroko I was on a motorcycle and more interested in the ride than getting out to admire the view.
+
+{{< figure src="hualien2bridgeview.JPG" alt="A view of taroko gorge" caption="Lots of really cool temples and pagodas all throughout the gorge" >}}
+
+Before lunch, we stopped off for a hike at [Baiyang Trail](https://goo.gl/maps/djHBxpY6UrqBBRY57), my favorite Taroko hike that terminates at a cave created when workers accidentally penetrated an aquifer, resulting in a cave with water streaming from the ceiling. It also starts with a pretty cool couple hundred meter hike through a massive, pitch-black tunnel. Unfortunately, parts of the trail were damaged in a landslide, resulting in a very short hike with none of the really impressive and terrifying views of rushing water that I really enjoy. The family still liked it, especially because at the start, a monkey jumped into our cab, and we got to watch a group of monkeys harass people in the parking lot.
+
+{{< figure src="hualien1tunnel.JPG" alt="Tunnel at the entrance of baiyang trail" caption="" >}}
+{{< figure src="hualien2colette.JPG" alt="Colette in taroko gorge" caption="" >}}
+{{< figure src="hualien2hike.JPG" alt="Family hiking Baiyang trail" caption="Short little 1km hike" >}}
+{{< figure src="hualien2monkey.JPG" alt="Monkey in Taroko gorge" caption="These monkeys are genuine terrors" >}}
+
+After dodging monkeys to get to the cab, the driver took us to my preferred stop-off point in Taroko Gorge, [Tianxin Recreation Area](https://goo.gl/maps/QUZsKhCk6LmfE3SC7), a little bit before the Baiyang trail when coming from Hualien. There's a bunch of restaurants there that are decent enough, as well as a sort of psuedo-market with stalls of more interesting food. One of the restaurants had some kind of arrangement with our taxi driver, so we went there. My family loved it, I thought it was passable, but apparently to a newcomer even just passable Taiwanese food is pretty good.
+
+{{< figure src="hualien2food.JPG" alt="Lunch in Taroko" caption="Dumplings quickly becoming an addiction for the family" >}}
+{{< figure src="hualien3pagoda.JPG" alt="Pagoda in taroko" caption="" >}}
+
+After lunch we went to a really dope massive pedestrian bridge that went straight over the gorge. It was cool, highly engineered, clearly meant to hold hundreds of people, but our luck held and still we basically had the whole thing to ourselves.
+
+{{< figure src="hualien3bridge.JPG" alt="Pedestrian bridge in Taroko" caption="" >}}
+{{< figure src="hualien3view.JPG" alt="View from a pedestrian bridge in Taroko" caption="" >}}
+{{< figure src="hualien3calebtammy.JPG" alt="Caleb and tammy on a pedestrian bridge in taroko" caption="Tammy refused to go any further from here lol" >}}
+{{< figure src="hualien3colette.JPG" alt="Colette on pedestrian bridge in Taroko" caption="" >}}
+{{< figure src="hualien3dad.JPG" alt="Dad on a pedestrian bridge in taroko" caption="Dad was taking tons of videos on his gimbal thing" >}}
+{{< figure src="hualien3family.JPG" alt="Family on a pedestrian bridge in Taroko" caption="" >}}
+
+At this point it was early afternoon and there was a chance we could catch a 4pm express train back to Taipei, which would get us there in time to have a nice sit down dinner somewhere with time to spare for me to pick up a rental scooter for the Jiufen ride the next day. The taxi driver stepped on it but we missed the train unfortunately. I was surprised that he was recommending the station just outside of Taroko, he was under the impression that all the trains were the same, whereas even though it takes an extra 20 minutes to drive to Hualien, catching an express from there would get us back to Taipei nearly an hour sooner than taking a train from the smaller station.
+
+Anyway we did miss the train, but no big deal, we just killed time hanging out in the station and caught the next one back. Great thing about Taiwan, there's always another train or bus, and it's really easy to kill time at stations, which usually have all sorts of restaurants and shops. The Hualien station has a genuine TRA gift shop, so we got a bunch of little pins and TRA swag.
+
+By the time we got back everyone was beat. Tammy grabbed everyone food while I biked over to the [motorcycle rental shop](posts/rent-motorcycle-taiwan) to grab a motorcycle for Tammy for the next day.
+
+## Day Three
+
+By some measures, our busiest day. The plan for day three was to put everyone on scooters and motorcycles and ride from Taipei through Shifen, Huotong, finishing in Jiufen, and then riding all the way back. Luckily our neighbor lent us his scooter, so I only needed to rent one motorcycle and we were able to get everyone on bikes.
+
+### Scootering to Shifen
+
+I wanted this to be another day where we get up at the asscrack of dawn and maximize daylight, but that strategy seemed to be taking the wind out of everyone's sails, so we tried to be just a smidge more chilled out, getting out of the airbnb around I think 8. First, I had to scooter dad back to our apartment, where the other two motorcycles were stashed, so he could get some solo practice time. The rest of the family ubiked there.
+
+{{< figure src="jiufen1bros.jpg" alt="Dad and I on a scooter" caption="On our way to steal your girl" >}}
