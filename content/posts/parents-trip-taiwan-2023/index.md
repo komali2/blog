@@ -321,8 +321,44 @@ By the time we got back everyone was beat. Tammy grabbed everyone food while I b
 
 By some measures, our busiest day. The plan for day three was to put everyone on scooters and motorcycles and ride from Taipei through Shifen, Huotong, finishing in Jiufen, and then riding all the way back. Luckily our neighbor lent us his scooter, so I only needed to rent one motorcycle and we were able to get everyone on bikes.
 
-### Scootering to Shifen
 
 I wanted this to be another day where we get up at the asscrack of dawn and maximize daylight, but that strategy seemed to be taking the wind out of everyone's sails, so we tried to be just a smidge more chilled out, getting out of the airbnb around I think 8. First, I had to scooter dad back to our apartment, where the other two motorcycles were stashed, so he could get some solo practice time. The rest of the family ubiked there.
 
 {{< figure src="jiufen1bros.jpg" alt="Dad and I on a scooter" caption="On our way to steal your girl" >}}
+
+We geared up, said bye to Richard, and began our scootering day trip.
+
+### Scootering to Shifen
+
+The first leg of the trip was from Taipei to [that 7-11 all the riders meet at](https://goo.gl/maps/JwYYNBUj8NxTePC26). I shot [a video of the entire ride before my family visited](https://youtu.be/CFtFAHrC6nE) for those that want to understand the vibes. This leg was basically the most boring, involving a lot of straight riding through Taipei. It got fun once we got to the 109 that goes past [Shanshuilu Eco Park](https://goo.gl/maps/DQgErbkVq8Dvxh8a6), which is normally where Tammy and I tear it up, but we kept it nice and slow for everyone. It was really surreal to be riding with the family, and it had been the part of the trip I was most looking forward to. I had to balance that against my intense focus on making sure we were all riding safe and in the right direction.
+
+{{< figure src="shifen1.jpg" alt="Colette after her first leg on the scooter ride" caption="Colette after her first motorcycle ride in Taiwan." >}}
+
+We stopped for breakfast at the 7-11, and just as we were getting ready to leave, we got to watch another genuinely unexpected and weird Taiwan thing happen, some sort of blessing ceremony:
+
+{{< figure src="shifen2.jpg" alt="People dressed up in ceremonial costumes near 7-11" caption="The dude with the big head was being led around by handlers." >}}
+{{< figure src="shifen3.jpg" alt="People in ceremonial costumes bowing near 7-11" caption="Each restaurant and business in the little strip got a prayer and a bow." >}}
+
+Tammy's guess was funeral, mine was that it was some sort of yearly blessing ceremony, bringing good luck or whatever. It was a whole thing, kicking off with a dragon dance and everything. Very cool and unique.
+
+We got stuck behind their caravan for a moment on our way out, but managed to pass them and head on to [Shifen](https://goo.gl/maps/b3u8e1DBc6EKkn6p9). Originally I was going to stop us at [Pingxi](https://goo.gl/maps/ebuxiv72LN6n3Laf9), predicting that we'd need frequent stops, but everyone was doing fine and just enjoying the ride.
+
+{{< figure src="lantern1.jpg" alt="Colette in front of some lanterns" caption="Shifen has lots of good places to take pictures with lanterns." >}}
+{{< figure src="lantern93.jpg" alt="Family in front of some lanterns" caption="" >}}
+
+At Shifen, we parked the bikes for a bit, and walked along the old street, which runs along the train tracks. It was a bit too soon for lunch, but we got some snacks, including one of my favorites, which I unfortunately didn't get a picture of: a sort of three scoop ice cream peanut brittle taco thing.
+
+{{< figure src="lantern2.jpg" alt="The river at shifen, from the bridge" caption="One of my favorite things about the rural areas around Taipei is that they build their towns around and into the rivers." >}}
+{{< figure src="lantern4.jpg" alt="Tammy on the bridge at shifen" caption="" >}}
+{{< figure src="lantern5.jpg" alt="Colette and mom on the bridge at shifen" caption="" >}}
+{{< figure src="lantern6.jpg" alt="Dad in shifen" caption="Dad got swarmed by children on a school trip." >}}
+
+Then, we did the Shifen classic activity of painting and launching a paper lantern. No mandarin needed, just go to any of the shops selling the big paper lanterns and ask about it in any language, they seem to speak literally all of them.
+
+{{< figure src="lantern7.jpg" alt="Mom painting a lantern" caption="You get to paint whatever you want on all four sides of the lantern. They help you turn it." >}}
+{{< figure src="lantern8.jpg" alt="Tammy painting a lantern" caption="They have various colors of lanterns, all representing various forms of good fortune." >}}
+{{< figure src="lantern9.jpg" alt="The family holding the lantern" caption="Once you're done, you take it to the middle of the train tracks to launch. When a train comes, you get to watch everyone scatter." >}}
+{{< figure src="lantern91.jpg" alt="Launching the lantern" caption="They light the lantern for you, and you let it go. It rises quite quickly." >}}
+{{< figure src="lantern92.jpg" alt="The lantern in the sky" caption="Winds can sometimes blow lanterns into houses, in which case someone with a really long stick comes and pokes it down. It seems they aren't too worried about fires or anything." >}}
+
+### Scootering to Jiufen
