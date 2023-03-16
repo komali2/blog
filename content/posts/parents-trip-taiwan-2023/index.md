@@ -416,3 +416,43 @@ On the way back we took a more "straightforward" route that happened to be the s
 {{< figure src="jiufennight.jpg" alt="Everyone gassing up their scooters and motorcycles at night." caption="Gassing up the bikes before returning them." >}}
 
 The journey wasn't over for everyone. I had to return the motorcycle to the motorcycle shop, then drop the scooter back off at our apartment and leave it in good order for our neighbor who was nice enough to rent it out. There was some forgetfulness, in that I accidentally kept the shop's helmet they lent us and also accidentally took our neighbor's key with us back to the Airbnb, making it an overall very draining day! But still, when we finally kicked our feet up at the airbnb around 10:30pm, I was extremely satisfied.
+
+## Day Four
+
+The next morning we were all exhausted and sore, and in one case slightly injured, so we left the morning open to do whatever with. First, we checked out the nearby pharmacy, picking up some medicine that's much cheaper in Taiwan, or only available in the USA with a perscription.
+
+{{< figure src="fourbakery1.jpg" alt="Baked goods" caption="My mom and I raided a bakery as well. Taiwanese bakeries are really fun, they have a huge variety of random stuff you can grab yourself." >}}
+
+{{< figure src="fourbakery2.jpg" alt="My mom holding bags of baked goods" caption="" >}}
+
+### Massages
+
+After relaxing for a bit, Tammy booked everyone [massages](https://goo.gl/maps/E5D3Ep1vvN2mNzZQ7) near the Airbnb. This is really easy to just walk in and do, and most massage places are comfortable communicating in a little bit of English. It's also really cheap in Taiwan!
+
+### Daan Park
+
+We started the main part of the day taking the train down to [Daan Park](https://goo.gl/maps/x9cmj3KBGxe4F7Nr5). Daan is kinda like the central park of Taipei.
+
+{{< figure src="daan1.JPG" alt="The fountains at Daan Park Station" caption="Daan Park Station has a really cool water display out front that runs I think once an hour." >}}
+
+We spent about an hour there slowly walking around and bird watching.
+
+{{< figure src="daanbird1.JPG" alt="Tammy looking at a big poopy bird" caption="Tammy loves this, we call them the big poopy bird, because they have big poops." >}}
+
+{{< figure src="daanbird2.JPG" alt="A big poopy bird in Daan Park" caption="In mandarin they also have the nickname Big Dumb Bird, officially they're called the Malaysian Night Heron." >}}
+
+There's a really good [duck pond](https://goo.gl/maps/sxSzED5QftmSkPgj8) in the upper half of Daan Park, which is a good destination when walking south from Daan Park MRT station.
+
+{{< figure src="daanbird3.JPG" alt="A duckling hiding under a man at Daan Park" caption="Some guy had a baby duckling he was carrying around." >}}
+
+{{< figure src="daan4.jpeg" alt="The family noticing the duckling" caption="The family when we noticed the duckling." >}}
+
+{{< figure src="daanbird4.JPG" alt="A squirrel at Daan Park" caption="They also have squirrels." >}}
+
+{{< figure src="daanbird5.JPG" alt="Some kind of bird at Daan Park" caption="And whatever these things are." >}}
+
+{{< figure src="daan2.JPG" alt="Colette, Tammy, and Mom at Daan Park" caption="" >}}
+
+### Dongmen
+
+After the pond in Daan, we made our way west to [Dongmen](https://goo.gl/maps/ZXvHbET5kgF1mR6TA), an area with tons of good tea shops and cafes, as well as two food destinations we wanted to hit.
