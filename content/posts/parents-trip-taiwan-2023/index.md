@@ -456,3 +456,14 @@ There's a really good [duck pond](https://goo.gl/maps/sxSzED5QftmSkPgj8) in the 
 ### Dongmen
 
 After the pond in Daan, we made our way west to [Dongmen](https://goo.gl/maps/ZXvHbET5kgF1mR6TA), an area with tons of good tea shops and cafes, as well as two food destinations we wanted to hit.
+
+{{< figure src="dongmen2.JPG" alt="Dad in front of the lanterns at the park at dongmen" caption="There was lots of lantern festival decorations everywhere in Taipei." >}}
+
+The first must-eat was Mango Ice, or in this season, Strawberry Ice. [Smoothie House](https://goo.gl/maps/SW7dtP7vhTsLinck9) is such a famous destination for this, there's ads for it in the MRT station.
+
+{{< figure src="dongmen1.JPG" alt="A bowl of strawberry ice" caption="Fresh strawberries on shaved ice, with fruit syrup and strawberry icecream." >}}
+
+The second must-eat is something that can be gotten anywhere, but Dongmen has a really good spot for Congzhuabing, or Taiwanese Scallion Pancake. I can't find a link for it on the map but it's [somewhere around here](https://goo.gl/maps/UFCdL9QpxY9r3MYb6) and impossible to miss because it always has a line.
+
+
+{{< figure src="dongmen3.JPG" alt="Dad eating congzhuabing" caption="Congzhuabing is SUPER sloppy, must be eaten carefully." >}}
