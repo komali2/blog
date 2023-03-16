@@ -33,6 +33,7 @@ I have two reasons to put this blog post together: first, to record and reflect 
     * [Hiking in Taroko](#hiking-in-taroko)
   * [Day Three](#day-three)
     * [Scootering to Shifen](#scootering-to-shifen)
+    * [Scootering to Huotong](#scootering-to-huotong)
     * [Scootering to Jiufen](#scootering-to-jiufen)
     * [Scootering to Taipei](#scootering-to-taipei)
   * [Day Four](#day-four)
@@ -361,4 +362,57 @@ Then, we did the Shifen classic activity of painting and launching a paper lante
 {{< figure src="lantern91.jpg" alt="Launching the lantern" caption="They light the lantern for you, and you let it go. It rises quite quickly." >}}
 {{< figure src="lantern92.jpg" alt="The lantern in the sky" caption="Winds can sometimes blow lanterns into houses, in which case someone with a really long stick comes and pokes it down. It seems they aren't too worried about fires or anything." >}}
 
+### Scootering to Huotong
+
+It was just around 1pm at this point so we had to push on if we wanted to catch the rest of our itinerary before sundown. Next was [Huotong cat town](https://goo.gl/maps/26uqfs9ayGbna2HX9), a once-dying mining village converted into a cat-filled tourist destination around 2008 through the efforts of a single cat lady. This was high on the list of things Colette wanted to do.
+
+To get to Huotong, we took the [southern route](https://goo.gl/maps/uUt8ASeiePYGPf9Z9) that's much less winding that the northern route, despite being a bit out of the way.
+
+{{< figure src="huotong1.jpg" alt="Cat resting in Huotong" caption="Huotong is full of tens of cats, some of which deign to let you touch them." >}}
+{{< figure src="huotong2.jpg" alt="Colette touching a cat" caption="" >}}
+
+Huotong is also a really great place to come swimming in the summer, the river is crystal clear and easily accessible, and the town can be reached by train.
+
+{{< figure src="huotong3.jpg" alt="The huotong mining bridge" caption="Huotong maintains a mining town aesthetic in many ways, such as this bridge over the train tracks they made to look like a mining tunnel." >}}
+
+After about an hour of petting cats, it was time to move on.
+
 ### Scootering to Jiufen
+
+[Jiufen](https://goo.gl/maps/J39nxGhfqJMpEaWaA) is a very popular tourist destination with good reason. It's a really unique town with winding alleys stuck into the side of a mountain. There's some really good hikes, an old street with really good food, and tea houses with phenomenal views.
+
+{{< figure src="jiufenview.jpg" alt="View from jiufen" caption="Jiufen is famous for its ocean and mountain views, among other things." >}}
+
+We parked somewhat down the mountain and hiked our way straight to the [old street](https://goo.gl/maps/949UJKsizkUS3TeGA). Our mission was to find yuyuan, a snack for which Jiufen is famous. It's basically taro and sweet potato balls in a somewhat sweet soup, served hot or cold. Very chewy.
+
+{{< figure src="jiufenyuyuan.jpg" alt="Yuyuan" caption="Unfortunately didn't get a very good picture of the actual yuyuan balls." >}}
+
+After, we wandered around the old street shops for a while, in the general direction of a really good [viewing platform](https://goo.gl/maps/YYRXucrD7rEVvCKt6).
+
+{{< figure src="jiufen1.JPG" alt="Colette in Jiufen old street" caption="Jiufen old street is usually packed with people, and there are hundreds of shops." >}}
+
+{{< figure src="jiufenallies.jpg" alt="Mom and I in Jiufen" caption="Jiufen is also famous for its winding alleys." >}}
+{{< figure src="jiufenalley1.jpg" alt="An alley in Jiufen" caption="" >}}
+
+We finished off Jiufen at [my favorite teahouse](https://goo.gl/maps/hLHJ8no6BpZzvwhH7), a weirdly frequently empty but perfect teahouse that has a private room for large groups as well as an upper floor with seating for individuals or smaller groups. I'm not sure why it's not booked out 24/7, it has a phenomenal view of the ocean and really good tea.
+
+{{< figure src="jiufenteahouse.JPG" alt="Colette and dad in a teahouse in Jiufen" caption="We were all exhausted from an entire day of scootering." >}}
+
+{{< figure src="jiufentea.JPG" alt="Some tea in Jiufen" caption="We all got little tea sets, that came with brewed tea and some tea snacks. Perfect way to finish the day." >}}
+
+We managed to relax before an hour, a bit too much maybe because though it meant we got to hike back to the bikes while enjoying the sunset, it also meant that part of our ride home would be in the dark.
+
+
+{{< figure src="jiufenleaving1.JPG" alt="Mom coming down the stairs in Jiufen" caption="Hiking all the way back down the stairs." >}}
+
+{{< figure src="jiufensunset.jpg" alt="The sunset from Jiufen" caption="Jiufen has gorgeous sunsets every time I visit." >}}
+
+{{< figure src="jiufenleaving2.jpg" alt="Tammy on her motorcycle at Jiufen" caption="We met Tammy at the bikes and rode home." >}}
+
+### Scootering to Taipei
+
+On the way back we took a more "straightforward" route that happened to be the same route everyone takes to get back into Taipei during rush hour, along the "2 ding." I regret this because while it was more straightforward and probably faster, it meant sharing the road with hundreds of other scooters and cars at night, which had me white-knuckled that something would happen to Tammy or my Dad, who are less used to the more free-flowing style of Taiwan traffic. Next time, I'd bite the bullet and ride in the dark in the mountains, the traffic would be much less and we could just take it slow.
+
+{{< figure src="jiufennight.jpg" alt="Everyone gassing up their scooters and motorcycles at night." caption="Gassing up the bikes before returning them." >}}
+
+The journey wasn't over for everyone. I had to return the motorcycle to the motorcycle shop, then drop the scooter back off at our apartment and leave it in good order for our neighbor who was nice enough to rent it out. There was some forgetfulness, in that I accidentally kept the shop's helmet they lent us and also accidentally took our neighbor's key with us back to the Airbnb, making it an overall very draining day! But still, when we finally kicked our feet up at the airbnb around 10:30pm, I was extremely satisfied.
