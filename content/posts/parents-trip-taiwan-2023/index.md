@@ -465,5 +465,32 @@ The first must-eat was Mango Ice, or in this season, Strawberry Ice. [Smoothie H
 
 The second must-eat is something that can be gotten anywhere, but Dongmen has a really good spot for Congzhuabing, or Taiwanese Scallion Pancake. I can't find a link for it on the map but it's [somewhere around here](https://goo.gl/maps/UFCdL9QpxY9r3MYb6) and impossible to miss because it always has a line.
 
-
 {{< figure src="dongmen3.JPG" alt="Dad eating congzhuabing" caption="Congzhuabing is SUPER sloppy, must be eaten carefully." >}}
+
+{{< figure src="dongmen4.JPG" alt="Cherry blossom tree near dongment" caption="The cherry blossom trees were already starting to bloom in Taipei." >}}
+
+We were tired from all the eating, so walked down to a really pretty little [cat cafe](https://goo.gl/maps/8A722VdthedH7E62A) to relax for a while.
+
+{{< figure src="dongmen5.JPG" alt="Cat in a cat cafe" caption="" >}}
+
+### Gongguan
+
+After eating in Dongmen, we walked to [Gongguan](https://goo.gl/maps/DL6rcFo2nkpATAW88) so as to eat more. Our goal was a really famous and Michelin noted [Guabao](https://goo.gl/maps/vmMPBrBS5n9qj7p87) stand, as well as the now infamous, and my favorite, [black sugar boba milk](https://goo.gl/maps/YDFwA9cdm6KtEViXA) shop right next door. The boba shop used to have a line snaking in front of it at all times until there was a social media post accusing them of serving a drink with a cockroach in it (which I still think was faked by a competitor), so the shop changed its name, serves the *exact* same best-in-the-world drink, and yet doesn't get huge lines anymore. Oh well, more for me.
+
+{{< figure src="gongguan1.JPG" alt="Man making guabao" caption="The shop that makes the guabao is quite tiny, and always has a long line." >}}
+
+At this point is was a late 7pm and so we finally called it a night and took the MRT all the way back home.
+
+## Day Five
+
+Day five involved an HSR ride to [Tainan City](https://goo.gl/maps/1imuhnmbVFXDPQp86), a large city in the far South of Taiwan that used to be the capital. It's reknown for its temples, old European style forts, and like most places in Taiwan, its food.
+
+### HSR to Tainan
+
+We went to Taipei Main Station in the late morning, around 10, to get some HSR tickets without pre-booking them, to give us some flexibility in the morning. This was an ok idea, there were plenty of tickets available for trains leaving every 20 or 30 minutes, however this meant we were no longer getting early bird tickets and so the prices were more expensive. Taipei Main Station has self-serve machines to do this, so you don't need to wait in line at the ticket window if you don't want, and the machines take credit card as well.
+
+We made the mistake of thinking there'd be drink machines after the HSR gate for us to get coffee for the ride, which was incorrect. Make sure to grab your snacks and drinks before going into the HSR gate! Other than that, the HSR was really nice, only taking a little over an hour to get us all the way to Tainan. From there, we caught a local TRA train from the HSR station to Tainan proper. We got lucky and caught a train just as it was about to leave, I'm not sure how often they leave but this could add some extra time if you don't get lucky.
+
+
+
+### Tainan
