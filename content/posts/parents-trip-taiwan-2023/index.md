@@ -479,7 +479,7 @@ After eating in Dongmen, we walked to [Gongguan](https://goo.gl/maps/DL6rcFo2nkp
 
 {{< figure src="gongguan1.JPG" alt="Man making guabao" caption="The shop that makes the guabao is quite tiny, and always has a long line." >}}
 
-At this point is was a late 7pm and so we finally called it a night and took the MRT all the way back home.
+At this point is was a late 7pm and so we finally called it a night and took the MRT all the way back home. If we were less tired and had more time, it would have been nice to walk around [National Taiwan University](https://goo.gl/maps/evLe5ZDS6dqHY9XK7) a bit, as the campus is really beautiful, but we were pretty tired. [Shida night market](https://goo.gl/maps/vj3gU1oDqQnBf9Sr8) and [Gongguan night market](https://goo.gl/maps/q8scwpNgQHwyD8DA7) are both also nice places to explore and get some good food.
 
 ## Day Five
 
@@ -492,5 +492,46 @@ We went to Taipei Main Station in the late morning, around 10, to get some HSR t
 We made the mistake of thinking there'd be drink machines after the HSR gate for us to get coffee for the ride, which was incorrect. Make sure to grab your snacks and drinks before going into the HSR gate! Other than that, the HSR was really nice, only taking a little over an hour to get us all the way to Tainan. From there, we caught a local TRA train from the HSR station to Tainan proper. We got lucky and caught a train just as it was about to leave, I'm not sure how often they leave but this could add some extra time if you don't get lucky.
 
 
-
 ### Tainan
+
+{{< figure src="tainan1.JPG" alt="Palm trees outside of Tainan train station" caption="Tainan was very warm." >}}
+
+We took the train from Tainan HSR directly to [Tainan Station](https://goo.gl/maps/HgRrusZEpKj3rYRr6) in "downtown" Tainan. We thought we'd do a big loop south, then west to all the famous temples, but hindsight, considering the heat and distance, it would probably have been better to taxi south and then start walking, or, if we were more limited on time, taxi or walk west directly to [Chikan Tower](https://goo.gl/maps/JJjLR6ZcHcQiiMyZ9) and then tour around from there.
+
+We ended up at a crazy good [dry noodle restaurant](https://goo.gl/maps/HzPJFPzQ1LAkbyom7) where we ordered way too much noodle.
+
+{{< figure src="tainanfood1.JPG" alt="Sesame paste noodles in Tainan" caption="Majiangmian, sesame paste noodles. Very good." >}}
+{{< figure src="tainanfood2.JPG" alt="My family eating noodles." caption="Everyone carbing up like their lives depended on it." >}}
+
+We walked west after that, stopping at any cool temples or food things we saw. We cut through some alleys and found this [ridiculously good brownie fudge place](https://goo.gl/maps/dFAKvDPgu1WjLPMF6) and went nuts, buying a way too big box of the stuff and pigging out.
+
+
+{{< figure src="tainanfood4.JPG" alt="Box of brownies." caption="It came in a ton of different flavors so we just got the variety box, the obvious best choice." >}}
+{{< figure src="tainanfood5.JPG" alt="Colette and mom eating brownies." caption="" >}}
+
+We wandered around the alleys a bit, heading vaguely northwest.
+
+{{< figure src="tainan3.JPG" alt="Tammy in an alley in Tainan" caption="Tainan alleys are winding and really cool." >}}
+
+{{< figure src="tainan4.JPG" alt="Mom, Dad, Colette in an alley in Tainan" caption="" >}}
+
+We came out into the small street that feeds into an [ancient gate](https://goo.gl/maps/JPq451P3E3dTAEF28) across from the Confucius temple. There were lots of little craft shops and snack stands there, which we resisted.
+
+{{< figure src="tainan5.JPG" alt="Mom, Tammy, Colette in front of an ancient gate in Tainan." caption="" >}}
+
+We went to our first big historical site, the [Tainan Confucius Temple](https://goo.gl/maps/ejyTHLhQv2cYbfR58), which was very unique and cool.
+
+{{< figure src="tainan6.JPG" alt="Mom and Colette in the confucius temple." caption="" >}}
+
+{{< figure src="tainan7.JPG" alt="Tammy in front of a gate in the confucius temple." caption="The temple is in really good condition despite its age." >}}
+
+After that we made our way northwest, stopping at the very small but kinda cool [firefighter museum](https://goo.gl/maps/5zynDhM8ZW6qxGjM9).
+
+{{< figure src="tainan8.JPG" alt="Tainan firefighter's museum" caption="The firefighter museum." >}}
+
+{{< figure src="tainan9.JPG" alt="Lanterns inside the Tainan firefighter's museum." caption="The museum was covered inside and out with lanterns." >}}
+
+From there we stumbled onto a really busy [Taoist temple](https://goo.gl/maps/vocXu5W6aBumUGa47) where people were tossing massive stacks of ghost cash into a furnace. Upstairs a bunch of old people were playing old Chinese instruments. Very cool place to stop in. Everyone was really welcoming too, telling us to go anywhere we liked and explore.
+
+{{< figure src="tainan91.JPG" alt="Some lady praying at a Taoist temple in Tainan" caption="" >}}
+{{< figure src="tainan92.JPG" alt="People playing instruments at a Taoist temple in Tainan" caption="Old folks playing some instruments. Taoist temples are always heavily decorated on every surface." >}}
