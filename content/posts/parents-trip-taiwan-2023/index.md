@@ -531,7 +531,15 @@ After that we made our way northwest, stopping at the very small but kinda cool 
 
 {{< figure src="tainan9.JPG" alt="Lanterns inside the Tainan firefighter's museum." caption="The museum was covered inside and out with lanterns." >}}
 
-From there we stumbled onto a really busy [Taoist temple](https://goo.gl/maps/vocXu5W6aBumUGa47) where people were tossing massive stacks of ghost cash into a furnace. Upstairs a bunch of old people were playing old Chinese instruments. Very cool place to stop in. Everyone was really welcoming too, telling us to go anywhere we liked and explore.
+From there we stumbled onto a really busy [Taoist temple](https://goo.gl/maps/vocXu5W6aBumUGa47) where people were tossing massive stacks of ghost cash into a furnace. Just straight hucking fat stacks straight into the furnace. Upstairs a bunch of old people were playing old Chinese instruments. Very cool place to stop in. Everyone was really welcoming too, telling us to go anywhere we liked and explore.
 
 {{< figure src="tainan91.JPG" alt="Some lady praying at a Taoist temple in Tainan" caption="" >}}
 {{< figure src="tainan92.JPG" alt="People playing instruments at a Taoist temple in Tainan" caption="Old folks playing some instruments. Taoist temples are always heavily decorated on every surface." >}}
+
+After the temple we needed another break, so Tammy found this really cool [drink and dessert shop](https://goo.gl/maps/HmeL1rwi7mKXhzFQ9) we could sit at for a while. Drinks with hella mixins, my favorite.
+
+{{< figure src="tainanfood5.JPG" alt="Mochi snack" caption="They had mochi and other snacks." >}}
+{{< figure src="tainan93.JPG" alt="Dad eating a iced drink." caption="" >}}
+{{< figure src="tainan94.JPG" alt="The family sitting at the drink shop." caption="" >}}
+
+ a
