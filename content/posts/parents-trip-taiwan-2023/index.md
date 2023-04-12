@@ -599,6 +599,8 @@ For dinner we hit Tammy and mine's comfort spot, [Kura sushi](https://goo.gl/map
 {{< figure src="dunhua9.JPG" alt="Mom and Dad at Kura Sushi" caption="I think this is the first sushi they'd had in like 8 years or something." >}}
 {{< figure src="dunhua91.JPG" alt="Colette at Kura Sushi" caption="" >}}
 
+### KTV
+
 After refueling, we hit the event we'd been saving our energy all day for: KTV at [ONCOR](https://goo.gl/maps/h1gXLE3mobGogm597) (quintessential Taiwan name for a business). We invited a shitload of our friends to hang out with my family, singing karaoke and snacking in our own little private room.
 
 {{< figure src="ktv2.JPG" alt="Inside the KTV room" caption="" >}}
@@ -607,7 +609,19 @@ After refueling, we hit the event we'd been saving our energy all day for: KTV a
 {{< figure src="ktv4.JPG" alt="Three cakes at ktv" caption="Tammy got me the chocolate cake I'm obsessed with, and we found a low carb cake for my family, and Jay brought a fish cake." >}}
 {{< figure src="ktv5.JPG" alt="Colette singing at KTV" caption="" >}}
 
+### Clubbing
+
 Things got a little wild, so we sent the parents home and went clubbing, I think. At some point, we got home somehow, and found a playground.
 
 {{< figure src="ktv6.jpg" alt="Colette and I on the streets of Taipei" caption="" >}}
 {{< figure src="ktv7.jpg" alt="Colette and I in a playground" caption="" >}}
+
+## Day Seven
+
+Day Seven was planned to be a recovery day after KTV, with plenty of time to get supplies for a picnic with friends at Daan Park.
+
+### Taipei 101
+
+We wanted to hit the fancy supermarkets in the basement of Taipei 101, so we figured we might as well go up the thing. Unfortunately, the weather had turned in the second half of the trip, so it was pretty foggy.
+
+### Daan Park Picnic
