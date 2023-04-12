@@ -542,4 +542,4 @@ After the temple we needed another break, so Tammy found this really cool [drink
 {{< figure src="tainan93.JPG" alt="Dad eating a iced drink." caption="" >}}
 {{< figure src="tainan94.JPG" alt="The family sitting at the drink shop." caption="" >}}
 
- a
+Finally time for the two main events in Tainan. First, this really cool demolished parking garage / mall that they turned into a public park thing. We cut through [snail alley](https://goo.gl/maps/VWsPBenELp5jbpsE7), a cute little quiet street, and buzzed past [Chikan Tower](https://goo.gl/maps/VB6PHZDAhNWLsQCQ8), the most popular tourist spot, on the way.
