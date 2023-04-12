@@ -130,7 +130,7 @@ In past trips to Taiwan, Tammy had booked some really cool hotels. Hotel choices
 
 {{< figure src="traincard.jpg" alt="Keychain traincard" caption="The traincard we gave Colette" >}}
 
-We wanted to almost always take public transit on this trip, to show off how awesome the public transit system in Taiwan but also because of all the reasons that public transit is just superior to driving anyway: more relaxing, everyone can hang out and have a conversation, not too cramped, and in Taipei at least, it's often faster to take the train. We also wanted to be able to take U-bikes, which are honestly an incredible solution to the last mile problem and I love showing it off.
+We wanted to almost always take public transit on this trip, to show off how awesome the public transit system in Taiwan but also because of all the reasons that public transit is just superior to driving anyway: more relaxing, everyone can hang out and have a conversation, not too cramped, and in Taipei at least, it's often faster to take the train. We also wanted to be able to take U-bikes, an incredibly cheap and prolific by-the-minute bicycle rental system in Taipei.
 
 So, before my parents came, we picked up a couple random yoyo cards from 7-11 or somewhere. Tammy added them to her account to make sure they worked with ubikes, although, we aren't sure that was necessary.
 
@@ -542,4 +542,72 @@ After the temple we needed another break, so Tammy found this really cool [drink
 {{< figure src="tainan93.JPG" alt="Dad eating a iced drink." caption="" >}}
 {{< figure src="tainan94.JPG" alt="The family sitting at the drink shop." caption="" >}}
 
-Finally time for the two main events in Tainan. First, this really cool demolished parking garage / mall that they turned into a public park thing. We cut through [snail alley](https://goo.gl/maps/VWsPBenELp5jbpsE7), a cute little quiet street, and buzzed past [Chikan Tower](https://goo.gl/maps/VB6PHZDAhNWLsQCQ8), the most popular tourist spot, on the way.
+Finally time for the two main events in Tainan. First, this really cool demolished parking garage / mall that they turned into a public park thing, called [The Spring](https://goo.gl/maps/hABsrXySvxHGExbZ8). We cut through [snail alley](https://goo.gl/maps/VWsPBenELp5jbpsE7), a cute little quiet street, and buzzed past [Chikan Tower](https://goo.gl/maps/VB6PHZDAhNWLsQCQ8), the most popular tourist spot, on the way.
+
+{{< figure src="tainan96.JPG" alt="The Spring" caption="The Spring is weirdly quiet for being in the middle of the city." >}}
+
+{{< figure src="tainan98.JPG" alt="Snail alley at night" caption="Snail alley at night is really peaceful and pretty." >}}
+
+The second main event is lantern festival, in full swing the week my family was visiting. Tainan has a really cool display at one of their temples where they hang thousands of student-painted lanterns. There's some pretty incredible artistic skill on display!
+
+
+{{< figure src="tainanlantern1.JPG" alt="Tainan lantern festival" caption="" >}}
+{{< figure src="tainanlantern2.JPG" alt="Mom and colette at Tainan lantern festival" caption="" >}}
+{{< figure src="tainanlantern3.JPG" alt="The family at Tainan lantern festival" caption="" >}}
+{{< figure src="tainanlantern4.JPG" alt="Mom at Tainan lantern festival" caption="" >}}
+{{< figure src="tainanlantern5.JPG" alt="Colette at Tainan lantern festival" caption="" >}}
+{{< figure src="tainanlantern6.JPG" alt="Selection of lanterns at Tainan lantern festival" caption="" >}}
+{{< figure src="tainanlantern7.JPG" alt="Dad at Tainan lantern festival" caption="" >}}
+{{< figure src="tainanlantern8.JPG" alt="More lanterns at Tainan lantern festival" caption="Click to zoom into some of the lanterns, there's some really good ones!" >}}
+
+After an exhausting day we decided to just take cabs straight to the HSR station rather than trying to time TRA trains. We didn't get a chance to eat dinner in Tainan so we raided all of Tainan HSR station for various train foods, snacked, and passed out on the way home.
+
+## Day Six
+
+Finally, we had finished all our big trips and huge adventures, and it was time to just explore Taipei. Also, this was the day we had scheduled KTV (karaoke) to celebrate my and Colette's birthday.
+
+### Bicycling to Zhongxiao Dunhua
+
+We grabbed a quick traditional [Taiwanese breakfast](https://goo.gl/maps/y3iEr7ZEqFGZ3Na57), which basically consists of children's food: chicken nuggets, little mcdonald's style hashbrowns, and lots of dan bing. Too much, probably. I highly recommend going to a traditional Taiwanese breakfast, don't be intimidated by the all Taiwan menu! With a little google translate, you can get by.
+
+After, we started a longish walk to Zhongxiao Dunhua, hoping to pick up U-bikes for all of us on the way. Unfortunately, we passed a [Cremia](https://goo.gl/maps/yQ7FMpnDGA1b2BZC6), which has some of the best soft serve ice cream in the world, so we had to stop within minutes of breakfast to get that.
+
+{{< figure src="dunhua1.JPG" alt="Dad eating cremia ice cream" caption="The cone's the best part." >}}
+
+We found a park that had tons of U-bikes, but even better, cherry blossom trees in full bloom!
+
+{{< figure src="dunhua3.JPG" alt="Cherry blossom tree" caption="" >}}
+{{< figure src="dunhua4.JPG" alt="Cherry blossom tree" caption="" >}}
+{{< figure src="dunhua5.JPG" alt="Cherry blossom tree" caption="" >}}
+
+We realized we were near my friends' hot sauce shop, [Empress Hot Sauce](https://www.empresshotsauce.com/), so we popped in to say hi. I really recommend checking these guys out, their sauce is hella good, all Taiwan sourced ingredients, all really unique and balanced.
+
+
+{{< figure src="dunhua2.JPG" alt="Family in Empress Hot Sauce factory" caption="" >}}
+
+We dropped off the Ubikes after a somewhat fraught ride dodging blue trucks and walked to the cafe with the best espresso in Taipei,  [Cafe Costumice](https://goo.gl/maps/BAqDkoV1pVeSYTqv8). This was great because every time I go here it's just a normal day, so I can't try any of their awesome desserts, but this time I finally I got to try their Tiramisu I've always wanted lol.
+
+{{< figure src="dunhua6.JPG" alt="Colette next to ubikes" caption="Successful U-bike ride." >}}
+{{< figure src="dunhua7.JPG" alt="Dad at Cafe Costumice" caption="Finally just chillin out." >}}
+
+For the previous couple days we had been selecting a subset of photos to put into a scrapbook of our trip. After coffee, we went to the [Fujifilm Shop](https://goo.gl/maps/3LfBeAoNMjgNa6ae8) to print them, and hang out a bit more while we waited for Tammy to join us. That done, we headed to the Zhongxiao Dunhua MRT and then to Taipei City Hall to get some food before KTV.
+
+{{< figure src="dunhua8.JPG" alt="Family walking around Taipei City Hall" caption="Vibing at Taipei City Hall area." >}}
+
+For dinner we hit Tammy and mine's comfort spot, [Kura sushi](https://goo.gl/maps/YjiH9dsNVm2sZ8gH6). It's a revolving sushi place that's of higher than normal quality for those kinds of places. It's weirdly fun, just grabbing whatever strikes your fancy.
+
+{{< figure src="dunhua9.JPG" alt="Mom and Dad at Kura Sushi" caption="I think this is the first sushi they'd had in like 8 years or something." >}}
+{{< figure src="dunhua91.JPG" alt="Colette at Kura Sushi" caption="" >}}
+
+After refueling, we hit the event we'd been saving our energy all day for: KTV at [ONCOR](https://goo.gl/maps/h1gXLE3mobGogm597) (quintessential Taiwan name for a business). We invited a shitload of our friends to hang out with my family, singing karaoke and snacking in our own little private room.
+
+{{< figure src="ktv2.JPG" alt="Inside the KTV room" caption="" >}}
+{{< figure src="ktv1.JPG" alt="Mom and dad singing" caption="" >}}
+{{< figure src="ktv3.jpg" alt="The family singing" caption="" >}}
+{{< figure src="ktv4.JPG" alt="Three cakes at ktv" caption="Tammy got me the chocolate cake I'm obsessed with, and we found a low carb cake for my family, and Jay brought a fish cake." >}}
+{{< figure src="ktv5.JPG" alt="Colette singing at KTV" caption="" >}}
+
+Things got a little wild, so we sent the parents home and went clubbing, I think. At some point, we got home somehow, and found a playground.
+
+{{< figure src="ktv6.jpg" alt="Colette and I on the streets of Taipei" caption="" >}}
+{{< figure src="ktv7.jpg" alt="Colette and I in a playground" caption="" >}}
