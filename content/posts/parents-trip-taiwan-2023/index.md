@@ -62,6 +62,7 @@ I have two reasons to put this blog post together: first, to record and reflect 
   * [Day Ten](#day-ten)
     * [Din Tai Fung](#din-tai-fung)
     * [Hair Wash](#hair-wash)
+    * [Back to the Airport](#back-to-the-airport)
 
 
 
@@ -731,3 +732,31 @@ The restaurant was a little confusing, basically they brought us over to coolers
 {{< figure src="addiction5.JPG" alt="Wagyu steak" caption="More wagyu lol, I think I ordered another round after I finished one." >}}
 {{< figure src="addiction6.JPG" alt="Mom at addiction aquatic" caption="" >}}
 {{< figure src="addiction7.JPG" alt="Mom and Colette eating dessert at addiction aquatic." caption="After dinner, you can get dessert from the supermarket." >}}
+
+## Day Ten
+
+Sadly the last day came sooner than we thought! Maybe because we packed our days full we barely had time to think straight. Luckily, the family's flight was quite late in the day, I think around 7pm, so we had plenty of time to do a couple last minute things on the list.
+
+{{< figure src="final1.JPG" alt="Colette and Mom with Richard" caption="First, we dropped off everyone's luggage at our apartment, and got one more Richard hangout session." >}}
+
+{{< figure src="final2.JPG" alt="Mom with Richard" caption="" >}}
+
+### Din Tai Fung
+
+We grabbed U-bikes and rode down to the [Din Tai Fung](https://goo.gl/maps/Lg9rWN84mAgaLRBb6) near Taipei City Hall. Din Tai Fung is a super famous soup dumpling restaurant. Pricy but perfect every time.
+
+{{< figure src="final3.JPG" alt="Pan fried dumplings" caption="Pan fried dumplings" >}}
+{{< figure src="final4.JPG" alt="Soup dumplings" caption="The soup dumplings for which Din Tai Fung is famous." >}}
+{{< figure src="final5.JPG" alt="Mom eating noodles" caption="Wrestling with the fact that this is the last noodles she'll get for the forseeable future." >}}
+{{< figure src="final6.JPG" alt="Shrimp siumai" caption="Shrimp siumai" >}}
+{{< figure src="final7.JPG" alt="Big bun" caption="Bun" >}}
+
+
+### Hair Wash
+
+After Din Tai Fung, we U-biked to Tammy's favorite hair was spot in Taipei. Hair washes are like refreshing head massages, great for in the summer when you're all sweaty and gross.
+
+{{< figure src="final8.JPG" alt="Mom and dad near ubikes" caption="One last U-bike ride!" >}}
+{{< figure src="final9.JPG" alt="Mom and colette in the hair wash salon" caption="The perfect way to end a busy trip." >}}
+
+### Back to the Airport
