@@ -760,3 +760,16 @@ After Din Tai Fung, we U-biked to Tammy's favorite hair was spot in Taipei. Hair
 {{< figure src="final9.JPG" alt="Mom and colette in the hair wash salon" caption="The perfect way to end a busy trip." >}}
 
 ### Back to the Airport
+
+Fittingly, before heading back to the apartment to pick up luggage, we biked back over to Songshan Cultural Creative Park to finally pick up the glass things we had made on the very first day of the trip. They turned out really well!
+
+
+{{< figure src="glass1.JPG" alt="Glass that we had made" caption="" >}}
+{{< figure src="glass2.JPG" alt="Glass that we had made" caption="" >}}
+{{< figure src="glass3.JPG" alt="Glass that we had made" caption="" >}}
+
+Then, sadly, it was time to go back home, grab the massive luggage (the family one bagged... with HUGE bags), and head to the airport. We grabbed the Taoyuan Airport MRT, grabbed one last picture in front of the weird big dick art, and said sad goodbyes! Though I'm betting everyone was so tired it was probably nice to have an uninterrupted 14 hours of guaranteed sleep time.
+
+{{< figure src="airport1.JPG" alt="Mom, dad, and colette in front of the big dick art" caption="Colette's thumbs downing leaving, not Taiwan!" >}}
+
+It was really sad to say bye to everyone. The only upside is that Tammy and I had booked a one hour spa for right after we dropped off the family, so we had a really nice pure relaxing activity after all the hustle and bustle of the trip. It helped lessen the sting of saying bye!
