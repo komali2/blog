@@ -697,8 +697,37 @@ After, we went to a [Yakiniku place](https://goo.gl/maps/H8pjLEnqnrmjptKs9) near
 
 ## Day Nine
 
+Our trip was winding down, and the weather pushed us for more cozy, relaxed days. Thinking ahead on this, the day before, I had managed to book a spot at a popular cat cafe, as well as a hot spring hotel in Beitou.
+
 ### Cat Cafe
+
+The [cat cafe](https://goo.gl/maps/7sNwc8pU1BAJYg9W9) we went to actually has pretty good food, and a fair number of cats. It's kind of expensive, but you can hang out there for hours just chillin with cats, so it's pretty worth it.
+
+{{< figure src="cat1.JPG" alt="Cat in the cat cafe" caption="The cats will get up in your shit without hesitation." >}}
+{{< figure src="cat2.JPG" alt="Colette petting a cat" caption="" >}}
+{{< figure src="cat3.JPG" alt="Cat themed mango smoothie" caption="The drinks were all cat themed." >}}
+{{< figure src="cat4.JPG" alt="Toast cube thing" caption="We had a healthy, well-rounded breakfast of giant cubes of toast, mango smoothies, and french toast." >}}
+{{< figure src="cat5.JPG" alt="French toast" caption="Behold, french toast." >}}
+{{< figure src="cat6.JPG" alt="Cat looking into bag" caption="" >}}
 
 ### Hot Spring
 
+After filling up on bread and sugar, it was time to sit in hot water somewhere pretty. Out of laziness we grabbed cabs to the [hotspring hotel](https://goo.gl/maps/YCVKgE8zDBwRmZ8g9) I booked in Beitou, a bit of a journey. There's lots of hot spring options there, but I recommend trying to get one with a nice big "public style" hot spring shared by all guests, or, a private one that's huge so you can have your whole family one. Other hot spring hotel offerings will just be a little room with a big bathtub, not as nice a vibe on a rainy day.
+
+{{< figure src="beitou2.JPG" alt="The hot spring in beitou." caption="Our place was one of those cool inside-out ones, covered so you don't get rained on, but still with lots of fresh air." >}}
+{{< figure src="beitou1.JPG" alt="A church in Beitou" caption="Beitou is a really cool area to explore, you could spend at least half a day if not more wandering around the green library there, as well as other spots. Unfortunately we didn't really have time for that." >}}
+
 ### Addiction Aquatic Development
+
+After the hot spring, we grabbed a cab to the supremely strange [Addiction Aquatic Development](https://goo.gl/maps/WRx5Rmqtg1KJscso6). Hard to describe that place. It's a supermarket with like four different restaurants, but also a fresh seafood market. Whatever, all of its restaurants are really good, basically you just go there and pick a spot that you vibe with. We went to the barbecue restaurant because it was outside and quiet.
+
+{{< figure src="addiction1.JPG" alt="Mom in the market area of addiction aquatic." caption="The market area of Addiction Aquatic has these huge vats of live crab." >}}
+
+The restaurant was a little confusing, basically they brought us over to coolers full of fresh fish, and we picked what we wanted to eat. There were all sorts of deals and combos that make up the backbone of the Taiwan restaurant industry that the waitress thought it was really important we understand, but in the end we sorted it and ended up ordering probably way too much food.
+
+{{< figure src="addiction3.jpg" alt="Colette and I at addiction aquatic" caption="I think we were hella hungry." >}}
+
+{{< figure src="addiction4.JPG" alt="Roasted crab legs" caption="Fresh crab legs." >}}
+{{< figure src="addiction5.JPG" alt="Wagyu steak" caption="More wagyu lol, I think I ordered another round after I finished one." >}}
+{{< figure src="addiction6.JPG" alt="Mom at addiction aquatic" caption="" >}}
+{{< figure src="addiction7.JPG" alt="Mom and Colette eating dessert at addiction aquatic." caption="After dinner, you can get dessert from the supermarket." >}}
