@@ -620,8 +620,85 @@ Things got a little wild, so we sent the parents home and went clubbing, I think
 
 Day Seven was planned to be a recovery day after KTV, with plenty of time to get supplies for a picnic with friends at Daan Park.
 
+{{< figure src="picnic1.JPG" alt="Family hanging out on the couch" caption="Morning after vibes." >}}
+
 ### Taipei 101
 
 We wanted to hit the fancy supermarkets in the basement of Taipei 101, so we figured we might as well go up the thing. Unfortunately, the weather had turned in the second half of the trip, so it was pretty foggy.
 
+{{< figure src="picnic7.JPG" alt="Taipei 101 from the bottom on a foggy day" caption="" >}}
+
+{{< figure src="picnic3.JPG" alt="Colette and mom taking pictures out of Taipei 101" caption="Even on foggy days, it can be cool to go up Taipei 101. You can see the massive counterweight plus some other little bits and bobs they have." >}}
+
+{{< figure src="picnic2.JPG" alt="View down the emergency stairs of Taipei 101" caption="This is my favorite part of going to the observation deck of Taipei 101: for some reason you have to change between observation floors using the emergency stairs, and if you look down you can see down the gap all the way to the ground floor." >}}
+
+{{< figure src="picnic4.JPG" alt="Colette in the Taipei 101 mall" caption="Also, Taipei 101 mall is pretty cool, and worth hanging out in. It has a huge collection of watch shops, if you're into that." >}}
+
+{{< figure src="picnic5.JPG" alt="Dad in the Taipei 101 mall" caption="" >}}
+
 ### Daan Park Picnic
+
+After grabbing some fancy cheeses and other snacks, we took the train over to Daan Park, where we found a gazebo and had a little picnic with some more friends. This is one of my favorite daytime activities in Taipei.
+
+{{< figure src="picnic6.JPG" alt="Big poopy bird in Daan park" caption="Tammy immediately hunted down a big poopy bird." >}}
+{{< figure src="picnic8.JPG" alt="The picnic spread" caption="Hella spread." >}}
+{{< figure src="picnic9.JPG" alt="Emily at the picnic." caption="Lots of friends came! Unfortunately it was a little cold and drizzly." >}}
+
+## Day Eight
+
+Drizzles were keeping us a bit down, but luckily there's plenty of inside stuff to do in Taipei.
+
+{{< figure src="guanghua1.JPG" alt="Colette eating a 7-11 breakfast" caption="First was the obligatory 7-11 breakfast." >}}
+
+### Jade and Flower Market
+
+Sunday is the perfect day to go to the [Jianguo Flower Market](https://goo.gl/maps/y1sJyBfLFp9p1anT8) and Jade Market right next to it, both near Daan and Daan Park MRT stations. They're both massive outdoor markets, but covered by a highway overhead, so perfect for rainy days as well. They're only open on the weekends though!
+
+{{< figure src="guanghua2.JPG" alt="Flowers at the flower market" caption="" >}}
+{{< figure src="guanghua3.JPG" alt="Flowers at the flower market" caption="" >}}
+{{< figure src="guanghua4.JPG" alt="Dad at the flower market" caption="The flower market can be frustrating for tourists because you'll probably see some plants you really want to buy, but there's no way to take them home :(" >}}
+
+The jade market especially is a great place to get souveniers.
+
+{{< figure src="guanghua5.JPG" alt="Mom and dad at the jade market" caption="The jade market can be overwhelming. It has hundreds of vendors." >}}
+{{< figure src="guanghua6.JPG" alt="Mom at the jade market" caption="The prices are pretty reasonable, and vendors allow for a small bit of haggling." >}}
+
+After the market, we wandered vaguely towards Guanghua, hoping to find lunch. We were lucky to find a crazy good [dumpling place](https://goo.gl/maps/P9XUPMDrPCxR7C757) that was soon to close, but they still sat us.
+
+{{< figure src="guanghua7.JPG" alt="Mom and Colette looking at dumplings" caption="The dumpling obsession was real." >}}
+{{< figure src="guanghua8.JPG" alt="Pork dish" caption="This pork was like the kind they put in guabao and was obscenely good." >}}
+{{< figure src="guanghua9.JPG" alt="Soup dumplings" caption="Soup dumplings. Also good." >}}
+{{< figure src="guanghua91.JPG" alt="Three cup chicken" caption="Three Cup Chicken, very Taiwanese." >}}
+
+### Guanghua Digital Plaza
+
+After lunch, we walked to [Guanghua Digital Plaza](https://goo.gl/maps/oQAPWQDvhHMpG9Ds5), which is both one specific building but also a term to describe the area which has several other malls as well as a neighborhood of various electronic stores. This is like a little mini Akihabara. It's pretty cool for nerds but if you're on a trip with mixed nerds and non nerds, you can send the non-nerds to the newly opened [DON DON DONKI](https://goo.gl/maps/M1SJZaM9Z5UDufBU9), a Japanese everything-market that's absolutely insane, a "you gotta see it to believe it" kind of place. Really though the whole area is cool no matter your inclinations.
+
+### Lantern Festival at Sun Yat Sen
+
+The big event for the day was checking out the Lantern Festival stuff at [Sun Yat Sen Memorial Hall](https://goo.gl/maps/Tak1yS2yZLBhrQuh7), which is a pretty cool spot to check out even when there isn't a holiday. For lantern festival, though, Taipei had gone all out.
+
+
+{{< figure src="bunny1.JPG" alt="The giant robot bunny" caption="The main exhibit was this gundam bunny thing that was like 3 stories tall and moved around a bit. Terrifying. Adorable." >}}
+
+{{< figure src="bunny2.JPG" alt="The family in front of the gundam bunny." caption="" >}}
+
+{{< figure src="bunny3.JPG" alt="Colette at the lantern festival." caption="Sun Yat Sen Memorial Hall is huge, but it was still totally packed. And raining." >}}
+
+{{< figure src="bunny4.JPG" alt="Another bunny exhibit at lantern festival." caption="They had a lot of really cool light exhibits all over the park." >}}
+{{< figure src="bunny5.JPG" alt="The carrot walk at lantern festival." caption="" >}}
+
+At one point we were really tired and needed a break, and we stumbled into this weird cafe that's kind of inside the Memorial Hall. Turns out, it was a [carb-free cafe](https://goo.gl/maps/ozhHSxjRVYE61zcVA), with no carb ice cream and stuff. Taiwan provides!
+
+After, we went to a [Yakiniku place](https://goo.gl/maps/H8pjLEnqnrmjptKs9) near Sun Yat Sen that I had booked, so we could try Wagyu steak. Also, yakiniku is the vibe for rainy nights.
+
+{{< figure src="yakiniku1.JPG" alt="Colette in the yakiniku restaurant" caption="The restaurant was cozy and adorable." >}}
+{{< figure src="yakiniku2.JPG" alt="Wagyu steak" caption="Wagyu steak! The restaurant just cooked it for us, which was fine by me cause they usually do a better job than I can do with wagyu." >}}
+
+## Day Nine
+
+### Cat Cafe
+
+### Hot Spring
+
+### Addiction Aquatic Development
