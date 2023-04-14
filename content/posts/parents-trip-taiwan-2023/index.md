@@ -6,11 +6,11 @@ categories: ['travel']
 tags: ['taiwan']
 ---
 
-In late January and early February of 2023, my family visited Tammy and I in Taiwan. It's something I never really thought possible but always wanted. When I think about My Family, I automatically put myself back into the "normal" mode, the kind of thinking where moving to a foreign country or going to a coding bootcamp isn't like, a thing that people do. Yet I always argue that these sorts of things are much more accessible or even easy than people think, and lo and behold, having my family visiting us in Taiwan held to this argument.
+In late January and early February 2023, my family visited Tammy and I in Taiwan. It's something I never really thought possible but always wanted. When I think about my family, I automatically put myself back into the "normal" mode, the kind of thinking where moving to a foreign country or going to a coding bootcamp isn't like, a thing that people do. Yet I always argue that these sorts of things are much more accessible or even easy than people think, and behold, having my family visiting us in Taiwan supported this argument.
 
-My family doesn't really have the kind of travel experience I have. They're not totally isolated typical Americans or anything, but this would be their first trip to Asia, and also one of the biggest sort of "adventure** trips, rather than traveling for a relaxing vacation on a beach somewhere, so it was for many reasons going to be a very unique experience for them.
+My family doesn't really have the kind of travel experience I have. They're not totally isolated typical Americans or anything, but this would be their first trip to Asia, and also one of their biggest "adventure" trips, as opposed to traveling for a relaxing vacation on a beach somewhere, so it was for many reasons going to be a very unique experience for them.
 
-I have two reasons to put this blog post together: first, to record and reflect on the experience, and have on the web a sort of scrapbook of what we did and how much fun we had, that any of us can look at or share at any time. Second, I wanted to share as much of what we did and how we did it as possible, to enable other people to take similar trips, or perhaps convince others that trips like this are very much in the realm of Things That People Do.
+I have two reasons to put this blog post together: first, to record and reflect on the experience, and have on the web a sort of scrapbook of what we did and how much fun we had, that any of us can look at or share at any time. Second, I want to share what we did and how we did it, so as to enable other people to take similar trips, or perhaps convince others that trips like this are very much in the realm of Things That People Do.
 
 
 * [Planning](#planning)
@@ -45,7 +45,7 @@ I have two reasons to put this blog post together: first, to record and reflect 
     * [HSR to Tainan](#hsr-to-tainan)
     * [Tainan](#tainan)
   * [Day Six](#day-six)
-    * [Bicycling to Zhongxiao Dunhua](#bicyling-to-zhongxiao-dunhua)
+    * [Bicycling to Zhongxiao Dunhua](#bicycling-to-zhongxiao-dunhua)
     * [KTV](#ktv)
     * [Clubbing](#clubbing)
   * [Day Seven](#day-seven)
@@ -70,11 +70,11 @@ I have two reasons to put this blog post together: first, to record and reflect 
 
 ## The Spreadsheet
 
-Planning a trip can be an overwhelming task, but as has been preached for overwhelming tasks, the solution is to break it down into manageable pieces. A spreadsheet helps with that. I've been making spreadsheets for trips for over a decade now. To some it can seem like overkill, but even for the simplest trip it's nice to have one spot for all your airbnb links, plane ticket times, a basic schedule, etc. If you're traveling with more than just yourself, the collaborative ability that comes with a shared doc (not necessarily a spreadsheet) is worth the energy alone if nothing else so you can answer every question with "did you check the spreadsheet?"
+Planning a trip can be an overwhelming task, but as has often been preached for overwhelming tasks, the solution is to break it down into manageable pieces. A spreadsheet helps with that. I've been making spreadsheets for trips for over a decade now. To some it can seem like overkill, but for even the most simple trip it's nice to have one spot for all your airbnb links, plane ticket times, a basic schedule, etc. If you're traveling with more than just yourself, the collaborative ability that comes with a shared doc (not necessarily a spreadsheet) is worth the energy alone if nothing else so you can answer every question with "did you check the spreadsheet?"
 
 We set up a [family planning doc](https://docs.google.com/spreadsheets/d/1u-sqizprBxZsFJGmUctvabLTNjKJlaTgVWRBOE5j2ps/edit?usp=sharing) months before the trip. This way, the family could see what kind of activities we were cooking up, and suggest which ones they were more excited about, which let us prioritize our planning.
 
-In short, it has a tab for important info, such as emergency numbers (which are different than in the USA!), the address, map links, and webites of our airbnb and personal apartment, both in English and in Mandarin, theory being at least they could just show that to a taxi driver if anyone got lost. There was also Tammy and my phone numbers.
+In short, it has a tab for important info, such as emergency numbers (which are different than in the USA!), the address, map links, and webites of our airbnb and personal apartment, both in English and in Mandarin (with the theory being at least they could just show that to a taxi driver if anyone got lost). There was also Tammy and my phone numbers.
 
 This came in handy in unexpected ways, such as at the border when they needed to provide contact information for locals, or write down the address of their accomodations.
 
@@ -97,31 +97,31 @@ These tabs fed into a "Schedule" tab that I highly recommend for most trips. For
 | | 6 parents land| 12 songshan cultural creative eslite | our house + richard |
 | | 6-9 airbnb | 13:50-15:30 glassblowing | raohe night market + riverside |
 
-It looks better on the actual spreadsheet. Point is, notice we were able to mix hard-scheduled things, such as when my parents land (and Tammy and I needed to be at the airport by) or the booked glassblowing glass at 13:50, with more flexible activities, such as being at raohe night market.
+It looks better on the actual spreadsheet. Point is, notice we were able to mix hard-scheduled things, such as when my parents land (and Tammy and I needed to be at the airport) or the booked glassblowing glass at 13:50, with more flexible activities, such as being at raohe night market.
 
 We continually tweaked this as we got closer to the trip, and it let us know what was really possible to accomplish in the trip. It fed back into the ambitions tab and let the whole family adjust their expectations. For example, Kenting was desired, but we determined it would basically nuke an entire day, and thus we nixxed it in favor of doing other stuff.
 
-We mostly planned out the first halfish of the trip, with only vague notions of the second half, so that when the family arrived and we had down time, we could plop more blocks of activities for later days. This combination of documented planning and flexibility worked honestly better than I've ever seen trip planning work. It was good to know what was going to be going on the next day, so we could chill out and store our energy if needed, make sure to get to bed on time if necessary, or know that we can comfortably stay out late without issue. It prevented nasty surprises for people who decided to stay up too late just to vibe, and also prevented a typical annoyance I have with trips, where activities are lost because everyone got out the door too late.
+We mostly planned out the first halfish of the trip, with only vague notions of the second half, so that when the family arrived and we had down time, we could plop more blocks of activities for later days. This combination of documented planning and flexibility worked better than I've ever seen trip planning work. It was good to know what was going to be going on the next day, so we could chill out and store our energy if needed, make sure to get to bed on time if necessary, or know that we can comfortably stay out late without issue. It prevented nasty surprises for people who decided to stay up too late just to vibe, and also prevented a typical annoyance I have with trips, where activities are lost because everyone got out the door too late.
 
-A flexible but recorded schedule also let us create a really balanced trip, where we could put really hardcore days against more chilled out ones, to prevent burnout. Plus, combined with keeping a sharp eye on the weather, prevented regret if we woke up to find a rainy day on the day we wanted to go ride bicycles or whatever.
+A flexible but recorded schedule also let us create a really balanced trip, where we could put really hardcore days against more chilled out ones, to prevent burnout. Plus, by keeping a sharp eye on the weather, we prevented regret if we woke up to find a rainy day on the day we wanted to go ride bicycles or whatever.
 
-The trip spreadsheet went so well I'm essentially now an obnoxious evangealist for the concept.
+The trip spreadsheet went so well I'm now an obnoxious evangealist for the concept.
 
 
 ## Packing One Bag
 
-Another new thing my family would be trying was [onebag travel](/tags/onebag). I've been preaching about this for ages as something basically anyone can do, despite as earlier mentioned always have this weird feeling of normality, like, is that really something My Normal Ass Family can do? Turns out yeah, it was their first onebag trip and they did really well. They all rolled in with Patagonias holding the majority of their stuff. Of course, in my opinion they were overpacked, especially my Dad, who was carrying around this like fifty pound monstrosity, but that's par for course for a first onebag trip.
+Another new thing my family would be trying was [onebag travel](/tags/onebag). I've been preaching about this for ages as something basically anyone can do, though I secretly wondered if that was true. Turns out yeah, for my family, it was their first onebag trip and they did really well. They all rolled in with Patagonia bags holding the majority of their stuff. Of course, in my opinion they were overpacked, especially my Dad, who was carrying around this fifty pound monstrosity, but that's par for the course of a first onebag trip.
 
 Anyway, those considering a trip like this should strongly encourage all participants to investigate and try out onebagging. My family got off the plane, breezed through immigration and customs, and were exiting the airport onto the train in about thirty minutes. Then, we were able to take the Taoyuan express train and transfer to the MRT and have a nice easy ride on trains all the way to our Airbnb because nobody had a massive roller luggage to deal with. It's a game changer.
 
-Also, throughout the trip, everyone was game theorying their packs, talking about what they didn't need to have brought, talking about packing strategies, and planning on what they'd do differently next time. It's just another fun thing really.
+Also, throughout the trip, everyone was game theorying their packs, talking about what they didn't need to have brought, talking about packing strategies, and planning on what they'd do differently next time. It's just another fun thing.
 
 
 ## Accomodation
 
-We went with an Airbnb so we could all stay together in the same place. We also initially thought my family would want to stay mostly keto, and thus we'd need to be cooking a lot, and so would need a kitchen. The Airbnb was a good idea because it was really nice to hang out as a family like we do on most trip. I did discover that within Taipei and on the MRT, it's really hard to find a good Airbnb, even at high pricepoints. If you look outside the city you can find some incredible places for really cheap, but in Taipei itself the newer places are too tiny for a family, and the older places are just plain ugly and often gross looking (and plagued with issues like drain smell or bad plumbing).
+We went with an Airbnb so we could all stay together in the same place. We also initially thought my family would want to stay mostly keto, and thus we'd need to be cooking a lot, and so would need a kitchen. The Airbnb was a good idea because it was really nice to hang out as a family like we do on most trips. I did discover it's really hard to find a good Airbnb in Taipei, even at high pricepoints. If you look outside the city you can find some incredible places for really cheap, but in Taipei itself the newer places are too tiny for a family, and the older places are just plain ugly and often gross looking (and plagued with issues like drain smell or bad plumbing).
 
-We stayed at [this airbnb](https://www.airbnb.com/rooms/673741797107840347?) near Nanjing Sanming station. It was perfect, being right next to the MRT station, as well as in quick bicycling distance of our own apartment, so if anybody ever got overwhelmed they could always flee to the peace of the apartment.
+We stayed at [this airbnb](https://www.airbnb.com/rooms/673741797107840347?) near Nanjing Sanming station. It was perfect, being right next to an MRT station, as well as in quick bicycling distance of our own apartment, so if anybody ever got overwhelmed they could always flee to the peace of the apartment.
 
 In past trips to Taiwan, Tammy had booked some really cool hotels. Hotel choices in Taipei are in my experience more interesting and luxurious than Airbnbs, so for those that don't need one big space for the whole family, I'd recommend looking into that. Outside Taipei though, give Airbnb (or just googling for BnBs) a shot.
 
@@ -131,7 +131,7 @@ In past trips to Taiwan, Tammy had booked some really cool hotels. Hotel choices
 
 {{< figure src="traincard.jpg" alt="Keychain traincard" caption="The traincard we gave Colette" >}}
 
-We wanted to almost always take public transit on this trip, to show off how awesome the public transit system in Taiwan but also because of all the reasons that public transit is just superior to driving anyway: more relaxing, everyone can hang out and have a conversation, not too cramped, and in Taipei at least, it's often faster to take the train. We also wanted to be able to take U-bikes, an incredibly cheap and prolific by-the-minute bicycle rental system in Taipei.
+We wanted to almost always take public transit on this trip, mostly to show off how awesome the public transit system is in Taiwan, but also because of all the reasons that public transit is just superior to driving anyway: more relaxing, everyone can hang out and have a conversation, not too cramped, and in Taipei at least, it's often faster to take the train. We also wanted to be able to take U-bikes, an incredibly cheap and prolific by-the-minute bicycle rental system in Taipei.
 
 So, before my parents came, we picked up a couple random yoyo cards from 7-11 or somewhere. Tammy added them to her account to make sure they worked with ubikes, although, we aren't sure that was necessary.
 
@@ -139,7 +139,7 @@ For those coming that don't have people here to do this prep work, you can pick 
 
 ### SIM Cards
 
-We were planning on getting cheap prepaid sim cards for my family so they could make calls in an emergency or if they get lost or whatever, but also just use their phone data as they please without worrying about huge roaming charges. Plans were foiled when we were given another reason why USA is a clown world country when my family pointed out that their phones are "locked," which means that even though they paid full prices for the small computers, they aren't actually allowed to *use* the small computers. They may use them as AT&T pleases and dictates. That is of course normal and acceptable.
+We were planning on getting cheap prepaid sim cards for my family so they could make calls in an emergency or if they get lost or whatever, but also so they could just use their phone data as they please without worrying about huge roaming charges. Plans were foiled when we were given another reason why USA is a clown world country when my family pointed out that their phones are "locked," which means that even though they paid full prices for the small computers, they aren't actually allowed to *use* the small computers. They may use them as AT&T pleases and dictates. That is of course normal and acceptable.
 
 So, SIM card plan out, and anyway our carriers wanted us to show a passport to get prepaid sims which was stupid and annoying. In the end we hit up one of the wifi box vendors in the airport arrivals hall and got an unlimited wifi box for like 1000ntd a week or cheaper. Can't exactly remember, but it was cheap and got the job done, everyone connected to that wifi when they were out and about.
 
@@ -157,7 +157,7 @@ So, you need cash. You can always just withdraw at an ATM and eat a small fee of
 We had the ambitious idea of taking the entire family on a scooter trip from Taipei east through Shifen, Huotong, finishing in Jiufen, and then back. I have a motorcycle, and our neighbor lent us his scooter, so we needed just one more scooter to finish off the ensemble.
 
 
-I've done [a whole post on renting motorcycles in Taiwan](posts/rent-motorcycle-taiwan) that I recommend reading for details. In short, get your IDP before you come, make a reservation at a rental spot ahead of time, and you're good to go. It's a bit harder now with the place I recommed because they want a local guarantor, but that's more for heavier motorcycles. You can always look into more traditional rental agencies for just a scooter.
+I've done [a whole post on renting motorcycles in Taiwan](/posts/rent-motorcycle-taiwan) that I recommend reading for details. In short, get your IDP before you come, make a reservation at a rental spot ahead of time, and you're good to go. It's a bit harder now with the place I recommed because they want a local guarantor, but that's more for heavier motorcycles. You can always look into more traditional rental agencies for just a scooter.
 
 There's no reason to rent a car here. Don't bother, just take trains. You'll absolutely ruin your trip wasting time to find parking and stressing about driving in the dense roads here. If you are somewhere remote like Hualien, just hire a cab for the day, it'll cost probably around 2-3k TWD.
 
@@ -209,22 +209,22 @@ Thanks to Tammy's good Airbnb hunting skills the Airbnb we got was a five minute
 
 ### Glassblowing at Songshan Cultural Creative Park
 
-We were always trying to balance maximally showing off Taiwan and adventuring against making sure nobody was burnt out, and I was really worried about that balance towards the beginning of the trip when everyone was jetlagged. Everyone kept up pretty well but it was like, the philosophical debate of the entire trip, what does it mean to maximize a trip, balance that against your restfulness? How much of your energy do you sacrifice knowing you can make up for it when you get home later? And what does that mean for how packed you can get your actual "normal" life?
+We were always trying to balance maximally showing off Taiwan and adventuring against making sure nobody was burnt out, and I was really worried about that balance towards the beginning of the trip when everyone was jetlagged. Everyone kept up pretty well but it was like, the philosophical debate of the entire trip, what does it mean to maximize a trip and balance that against your restfulness? How much of your energy do you sacrifice knowing you can make up for it when you get home later? And what does that mean for how packed you can get your actual "normal" life?
 
-Anyway after resting up we all walked over to Songshan Cultural Creative Park. I actually felt kinda annoyed during the walk cause it's a pretty car-heavy part of the city we had to walk through, and to get to the park we had to go around that giant blob of nothing that the city calls the TRA museum (has anybody actually ever been able to go inside?), as well as walk along a major road. I kept saying, "ok but actually Taipei is way more quiet and nice to walk around in," but the family was confused, saying nah this is already really nice to walk around in. I guess I'm spoiled.
+Anyway after resting up we all walked over to [Songshan Cultural Creative Park](https://goo.gl/maps/2n5PU8w95kNuiChB9). I actually felt kinda annoyed during the walk cause it's a pretty car-heavy part of the city we had to walk through, and to get to the park we had to go around that giant blob of nothing that the city calls the TRA museum (has anybody actually ever been able to go inside?), as well as walk along a major road. I kept saying, "ok but actually Taipei is way more quiet and nice to walk around in," but the family was confused, saying nah this is already really nice to walk around in. I guess I'm spoiled.
 
 {{< figure src="walkin.JPG" alt="The family walking towards Songshan Cultural Creative Park" caption="Bright sunny day for walkin!" >}}
 
-On the way some neighbors were setting of firecrackers, presumably as part of New Years celebrations, and let my family participate. A hilariously cinematic, almost cliche moment. We wanted to explain that they're really lucky and it's kinda abornmal to get to witness something so spontaneous and weird, but actually it's a pretty normal thing to happen in Taiwan. There's always something going on and people are generally friendly and inviting to anybody curious.
+On the way some neighbors were setting off firecrackers, presumably as part of New Years celebrations, and let my family participate. A hilariously cinematic, almost cliche moment. We wanted to explain that they're really lucky and it's kinda abornmal to get to witness something so spontaneous and weird, but actually it's a pretty normal thing to happen in Taiwan. There's always something going on and people are generally friendly and inviting to anybody curious.
 
 {{< figure src="fireworks.JPG" alt="The family plugging their ears from the fireworks" caption="Hella loud" >}}
 
-The activity of the afternoon was glassblowing, rated with a high "degree of WANT" by my dad, but we had some time to kill beforehand, so we took them around the food court at the basement of the Eslite. For Americans I think a food court in a mall is a pretty dismal place, and I noticed when we mentioned shopping or going to malls as activities people weren't really interested because they probably had the American experience of malls in mind, whereas in Taiwan it's a markedly different thing. Eslite is mostly crafts shops and small businesses, and the food court is comprised of just normal Taiwanese restaurants, not like, Chipotle and McDonalds or whatever. So, my family's first proper meal in Taiwan was pretty good.
+The activity of the afternoon was [glassblowing](https://goo.gl/maps/PFMFHZXrZeN5mHW48), rated with a high "degree of WANT" by my dad, but we had some time to kill beforehand, so we took them around the food court at the basement of the Eslite. For Americans I think a food court in a mall is a pretty dismal place, and I noticed when we mentioned shopping or going to malls as activities people weren't really interested because they probably had the American experience of malls in mind, whereas in Taiwan it's a markedly different thing. Eslite is mostly crafts shops and small businesses, and the food court is comprised of just normal Taiwanese restaurants, not like, Chipotle and McDonalds or whatever. So, my family's first proper meal in Taiwan was pretty good.
 
 
 {{< figure src="mealone.JPG" alt="The foodcourt meal" caption="Pork rice, spicy noodles, boba tea, fried tofu, and etc" >}}
 
-One thing I hadn't counted on was people's desire to be pretty independent when getting food and paying. There was some expectations maybe that they'd be able to fend for themselves when it comes to menus, and I had forgotten that here if there's no English menu, you're kinda on your own guessing what a food is from the pictures, or using Google Translate photo mode and guessing from the broken translation what something is. My strategy has thus been to just grab something priced middle to high, which means I usually get something good and filling, though who knows what'll end up being, but I really enjoy the spontenaeity and surprise of that, it's not for everyone. There's also the difficulty around communicating which actual item it is you want on a menu, which can be hard if it's not in hand and you're instead pointing at a board behind the staff. Then when it comes to payment, luckily in a mall food court a lot of places take credit card, but there's still a lot of questions the Taiwanese staff wanna ask you, regarding receipts and company tax numbers and stuff, that can cause some confusion. Plus, there's an instinct I guess to try and figure out how much something costs before buying it, so I was fielding a lot of questions about "around how much is 300NTD, 400NTD" etc, when in my brain a food is either "around 10$", "under 10$", or "expensive," and I don't think about it much from there.
+One thing I hadn't counted on was people's desire to be pretty independent when getting food and paying. There was some expectations maybe that they'd be able to fend for themselves when it comes to menus, and I had forgotten that here if there's no English menu, you're kinda on your own guessing what a food is from the pictures, or using Google Translate photo mode and guessing from the broken translation what something is. My strategy has thus been to just grab something priced middle to high, which means I usually get something good and filling, though who knows what'll end up being, but I really enjoy the spontenaeity and surprise of that. There's also the difficulty around communicating which actual item it is you want on a menu, which can be hard if it's not in hand and you're instead pointing at a board behind the staff. Then when it comes to payment, luckily in a mall food court a lot of places take credit card, but there's still a lot of questions the Taiwanese staff wanna ask you, regarding receipts and company tax numbers and stuff, that can cause some confusion. Plus, there's an instinct I guess to try and figure out how much something costs before buying it, so I was fielding a lot of questions about "around how much is 300NTD, 400NTD" etc, when in my brain a food is either "around 10$", "under 10$", or "expensive," and I don't think about it much from there.
 
 Anyway it all got sorted and the family was sitting happy with food they were kinda obsessing over.
 
@@ -235,7 +235,7 @@ After lunch we had just a smidge more time to burn so we shopped around. Despite
 
 {{< figure src="shoppingeslite.JPG" alt="Family shopping in Eslite" caption="Checking out the little craft shops" >}}
 
-Glassblowing turned out to be really awesome, and I highly recommend it. It shook out to like 20 buck USD a person depending on what kind of thing you wanted to make, and they basically hold your hands as much as you need throughout the entire process, stepping back to let you screw up a bit if that's how you wanna do it. It's really hot in there and pretty engaging and exciting. The only downside is they have to fire your glass after so you don't get to take it home right away, but that turned out to be fine because we kinda symbolically picked it up over a week later on the day they flew out, so they could see Eslite and the area again with very different eyes.
+Glassblowing turned out to be really awesome, and I highly recommend it. It shook out to like 20 buck USD a person depending on what kind of thing you wanted to make, and they basically hold your hands as much as you need throughout the entire process, stepping back to let you screw up a bit if that's how you wanna do it. It's really hot in there and pretty engaging and exciting. The only downside is they have to fire your glass after so you don't get to take it home right away, but that turned out to be fine because we symbolically picked it up over a week later on the day the family flew out, so they could see Eslite and the area again with very different eyes.
 
 
 {{< figure src="glovedup.JPG" alt="Caleb and Colette getting gloves on" caption="They provided a bunch of safety gear." >}}
@@ -252,7 +252,9 @@ Glassblowing turned out to be really awesome, and I highly recommend it. It shoo
 {{< figure src="glassweaponmom.JPG" alt="Mom holding the glass blowy tube thing" caption="" >}}
 {{< figure src="glassweapondad.JPG" alt="Dad hodling holding the glass blowy tube thing" caption="" >}}
 
-Not enough to do on the first day when everyone is jet lagged, after glassblowing we walked down to Tammy and my apartment to show it off, meet Richard, and rest.
+### Visiting Richard
+
+After glassblowing we walked down to Tammy and my apartment to show it off, meet Richard, and rest.
 
 {{< figure src="coletterichard.jpg" alt="Colette holding Richard" caption="Richard did not seem to know or care what was happening." >}}
 {{< figure src="richard.JPG" alt="Richard the bearded dragon" caption="Glorious" >}}
@@ -266,13 +268,13 @@ After some hardcore jetlag naps, we walked to Raohe night market. Normally the p
 {{< figure src="nightmarket3.JPG" alt="Tammy at the riverside" caption="Hanging at the riverside." >}}
 {{< figure src="nightmarket4.JPG" alt="Family at the riverside" caption="Monchin at the riverside." >}}
 
-We'd hit the limit, luckily everyone had it in them for one more train ride, so we caught a quick MRT ride from Songshan back to the Airbnb. Straight to bed after that, we had to get up early the next day to catch a train to Hualien.
+We'd hit the limit, but luckily everyone had it in them for one more train ride, so we caught a quick MRT ride from Songshan back to the Airbnb. Straight to bed after that, we had to get up early the next day to catch a train to Hualien.
 
 ## Day Two
 
 ### Train to Hualien
 
-Day two plan was to spend all day in Hualien. Hualien is a famously beautiful city in the middle Southeast portion of Taiwan, known for its Grand Canyon-esque area called "Taroko Gorge," as well as its beaches. To make the trip work in a day, we had to leave pretty early, catching an express train around 7am. Unlike the west coast, there's no HSR, however the train was still quite fast and got us there in about an hour and a half. We got to Songshan station very early and stocked up on 7-11 breakfast, quickly becoming the family's favorite thing to do.
+Day two plan was to spend all day in Hualien. Hualien is a famously beautiful city in the middle Southeast portion of Taiwan, known for its Grand Canyon-esque area called "Taroko Gorge," as well as its beaches. To make the trip work in a single day, we had to leave pretty early, catching an express train around 7am. Unlike the west coast, there's no HSR, however the train was still quite fast and got us there in about an hour and a half. We got to Songshan station very early and stocked up on 7-11 breakfast, which was quickly becoming the family's favorite thing to do.
 
 
 {{< figure src="hualienmomdadtrain.JPG" alt="Mom and dad on the train to hualien" caption="Bright and early" >}}
@@ -288,7 +290,7 @@ Hiring a driver turned out to be a great idea. Despite my relative familiarity w
 
 ### Hiking in Taroko
 
-From there we drove up and into Taroko Gorge. It was a day of light traffic, lucky because it can get crazy on the two tiny roads that thread the river into the canyon. The driver often stopped and had us get out to check out some recommended views I hadn't noticed before. Realized that all the times I had done Taroko I was on a motorcycle and more interested in the ride than getting out to admire the view.
+From there we drove up and into Taroko Gorge. It was a day of light traffic, lucky because it can get crazy on the two tiny roads that thread the river into the canyon. The driver often stopped and had us get out to check out some recommended views I hadn't noticed before. I realized that all the times I had done Taroko I was on a motorcycle and more interested in the ride than getting out to admire the view.
 
 {{< figure src="hualien2bridgeview.JPG" alt="A view of taroko gorge" caption="Lots of really cool temples and pagodas all throughout the gorge" >}}
 
@@ -304,7 +306,7 @@ After dodging monkeys to get to the cab, the driver took us to my preferred stop
 {{< figure src="hualien2food.JPG" alt="Lunch in Taroko" caption="Dumplings quickly becoming an addiction for the family" >}}
 {{< figure src="hualien3pagoda.JPG" alt="Pagoda in taroko" caption="" >}}
 
-After lunch we went to a really dope massive pedestrian bridge that went straight over the gorge. It was cool, highly engineered, clearly meant to hold hundreds of people, but our luck held and still we basically had the whole thing to ourselves.
+After lunch we went to a really dope massive pedestrian bridge that went straight over the gorge. It was cool, highly engineered, clearly meant to hold hundreds of people, but we basically had the whole thing to ourselves.
 
 {{< figure src="hualien3bridge.JPG" alt="Pedestrian bridge in Taroko" caption="" >}}
 {{< figure src="hualien3view.JPG" alt="View from a pedestrian bridge in Taroko" caption="" >}}
@@ -315,13 +317,13 @@ After lunch we went to a really dope massive pedestrian bridge that went straigh
 
 At this point it was early afternoon and there was a chance we could catch a 4pm express train back to Taipei, which would get us there in time to have a nice sit down dinner somewhere with time to spare for me to pick up a rental scooter for the Jiufen ride the next day. The taxi driver stepped on it but we missed the train unfortunately. I was surprised that he was recommending the station just outside of Taroko, he was under the impression that all the trains were the same, whereas even though it takes an extra 20 minutes to drive to Hualien, catching an express from there would get us back to Taipei nearly an hour sooner than taking a train from the smaller station.
 
-Anyway we did miss the train, but no big deal, we just killed time hanging out in the station and caught the next one back. Great thing about Taiwan, there's always another train or bus, and it's really easy to kill time at stations, which usually have all sorts of restaurants and shops. The Hualien station has a genuine TRA gift shop, so we got a bunch of little pins and TRA swag.
+We killed time hanging out in the station and caught the next train back. Great thing about Taiwan, there's always another train or bus, and it's really easy to kill time at stations, which usually have all sorts of restaurants and shops. The Hualien station has a genuine TRA gift shop, so we got a bunch of little pins and TRA swag.
 
-By the time we got back everyone was beat. Tammy grabbed everyone food while I biked over to the [motorcycle rental shop](posts/rent-motorcycle-taiwan) to grab a motorcycle for Tammy for the next day.
+By the time we got back everyone was beat. Tammy grabbed everyone food while I biked over to the [motorcycle rental shop](/posts/rent-motorcycle-taiwan) to grab a motorcycle for Tammy for the next day.
 
 ## Day Three
 
-By some measures, our busiest day. The plan for day three was to put everyone on scooters and motorcycles and ride from Taipei through Shifen, Huotong, finishing in Jiufen, and then riding all the way back. Luckily our neighbor lent us his scooter, so I only needed to rent one motorcycle and we were able to get everyone on bikes.
+By some measures, our busiest day. The plan for day three was to put everyone on scooters and motorcycles and ride from Taipei through Shifen, Huotong, finish in Jiufen, and then ride all the way back. Our neighbor lent us his scooter, so I only needed to rent one motorcycle and we were able to get everyone on bikes.
 
 
 I wanted this to be another day where we get up at the asscrack of dawn and maximize daylight, but that strategy seemed to be taking the wind out of everyone's sails, so we tried to be just a smidge more chilled out, getting out of the airbnb around I think 8. First, I had to scooter dad back to our apartment, where the other two motorcycles were stashed, so he could get some solo practice time. The rest of the family ubiked there.
@@ -348,7 +350,7 @@ We got stuck behind their caravan for a moment on our way out, but managed to pa
 {{< figure src="lantern1.jpg" alt="Colette in front of some lanterns" caption="Shifen has lots of good places to take pictures with lanterns." >}}
 {{< figure src="lantern93.jpg" alt="Family in front of some lanterns" caption="" >}}
 
-At Shifen, we parked the bikes for a bit, and walked along the old street, which runs along the train tracks. It was a bit too soon for lunch, but we got some snacks, including one of my favorites, which I unfortunately didn't get a picture of: a sort of three scoop ice cream peanut brittle taco thing.
+At Shifen, we parked the bikes for a bit and walked along the old street, which runs along the train tracks. It was a bit too soon for lunch, but we got some snacks, including one of my favorites, which I unfortunately didn't get a picture of: a three scoop ice cream peanut brittle taco thing.
 
 {{< figure src="lantern2.jpg" alt="The river at shifen, from the bridge" caption="One of my favorite things about the rural areas around Taipei is that they build their towns around and into the rivers." >}}
 {{< figure src="lantern4.jpg" alt="Tammy on the bridge at shifen" caption="" >}}
@@ -380,7 +382,7 @@ After about an hour of petting cats, it was time to move on.
 
 ### Scootering to Jiufen
 
-[Jiufen](https://goo.gl/maps/J39nxGhfqJMpEaWaA) is a very popular tourist destination with good reason. It's a really unique town with winding alleys stuck into the side of a mountain. There's some really good hikes, an old street with really good food, and tea houses with phenomenal views.
+[Jiufen](https://goo.gl/maps/J39nxGhfqJMpEaWaA) is a very popular tourist destination with good reason. It's a really unique town with winding alleys stuck into the side of a mountain. There's some really good hikes, an old street with really good food, and tea houses with phenomenal views. Allegedly, it inspired Miyazaki's "Spirited Away," but that's just a rumor, so it's very fun to do the ritual when going of someone saying "did you know that this town inspired Spirited Away" and someone else saying "it's called sparkling Frankenstein's Monster."
 
 {{< figure src="jiufenview.jpg" alt="View from jiufen" caption="Jiufen is famous for its ocean and mountain views, among other things." >}}
 
@@ -399,9 +401,9 @@ We finished off Jiufen at [my favorite teahouse](https://goo.gl/maps/hLHJ8no6BpZ
 
 {{< figure src="jiufenteahouse.JPG" alt="Colette and dad in a teahouse in Jiufen" caption="We were all exhausted from an entire day of scootering." >}}
 
-{{< figure src="jiufentea.JPG" alt="Some tea in Jiufen" caption="We all got little tea sets, that came with brewed tea and some tea snacks. Perfect way to finish the day." >}}
+{{< figure src="jiufentea.JPG" alt="Some tea in Jiufen" caption="We all got little tea sets that came with brewed tea and some tea snacks. Perfect way to finish the day." >}}
 
-We managed to relax before an hour, a bit too much maybe because though it meant we got to hike back to the bikes while enjoying the sunset, it also meant that part of our ride home would be in the dark.
+We managed to relax for about an hour, perhaps a bit too long, because though it meant we got to hike back to the bikes while enjoying the sunset, it also meant that part of our ride home was in the dark.
 
 
 {{< figure src="jiufenleaving1.JPG" alt="Mom coming down the stairs in Jiufen" caption="Hiking all the way back down the stairs." >}}
@@ -412,7 +414,7 @@ We managed to relax before an hour, a bit too much maybe because though it meant
 
 ### Scootering to Taipei
 
-On the way back we took a more "straightforward" route that happened to be the same route everyone takes to get back into Taipei during rush hour, along the "2 ding." I regret this because while it was more straightforward and probably faster, it meant sharing the road with hundreds of other scooters and cars at night, which had me white-knuckled that something would happen to Tammy or my Dad, who are less used to the more free-flowing style of Taiwan traffic. Next time, I'd bite the bullet and ride in the dark in the mountains, the traffic would be much less and we could just take it slow.
+On the way back we took a more "straightforward" route that happened to be the same route everyone takes to get back into Taipei during rush hour, along the "2 ding." I regret this because while it was more straightforward and probably faster, it meant sharing the road with hundreds of other scooters and cars at night, which had me white-knuckled that something would happen to Tammy or my Dad, who are less used to the more free-flowing style of Taiwan traffic. Next time, I'd bite the bullet and ride in the dark in the mountains, the traffic would be much less busy and we could just take it slow.
 
 {{< figure src="jiufennight.jpg" alt="Everyone gassing up their scooters and motorcycles at night." caption="Gassing up the bikes before returning them." >}}
 
@@ -432,13 +434,13 @@ After relaxing for a bit, Tammy booked everyone [massages](https://goo.gl/maps/E
 
 ### Daan Park
 
-We started the main part of the day taking the train down to [Daan Park](https://goo.gl/maps/x9cmj3KBGxe4F7Nr5). Daan is kinda like the central park of Taipei.
+We started the main part of the day taking the train down to [Daan Park](https://goo.gl/maps/x9cmj3KBGxe4F7Nr5). Daan is kinda like the central park of Taipei. It's a really popular place to hang out on the weekends. We often have picnics here.
 
 {{< figure src="daan1.JPG" alt="The fountains at Daan Park Station" caption="Daan Park Station has a really cool water display out front that runs I think once an hour." >}}
 
 We spent about an hour there slowly walking around and bird watching.
 
-{{< figure src="daanbird1.JPG" alt="Tammy looking at a big poopy bird" caption="Tammy loves this, we call them the big poopy bird, because they have big poops." >}}
+{{< figure src="daanbird1.JPG" alt="Tammy looking at a big poopy bird" caption="Tammy loves these birds, we call them the big poopy bird, because they have big poops." >}}
 
 {{< figure src="daanbird2.JPG" alt="A big poopy bird in Daan Park" caption="In mandarin they also have the nickname Big Dumb Bird, officially they're called the Malaysian Night Heron." >}}
 
@@ -456,21 +458,21 @@ There's a really good [duck pond](https://goo.gl/maps/sxSzED5QftmSkPgj8) in the 
 
 ### Dongmen
 
-After the pond in Daan, we made our way west to [Dongmen](https://goo.gl/maps/ZXvHbET5kgF1mR6TA), an area with tons of good tea shops and cafes, as well as two food destinations we wanted to hit.
+After the pond in Daan, we made our way west to [Dongmen](https://goo.gl/maps/ZXvHbET5kgF1mR6TA), an area with tons of good tea shops and cafes, as well as two food destinations we wanted to hit. Dongmen is a great area for coworking, there's lots of cafes to choose from.
 
 {{< figure src="dongmen2.JPG" alt="Dad in front of the lanterns at the park at dongmen" caption="There was lots of lantern festival decorations everywhere in Taipei." >}}
 
-The first must-eat was Mango Ice, or in this season, Strawberry Ice. [Smoothie House](https://goo.gl/maps/SW7dtP7vhTsLinck9) is such a famous destination for this, there's ads for it in the MRT station.
+The first must-eat was Mango Ice, or in this season, Strawberry Ice. [Smoothie House](https://goo.gl/maps/SW7dtP7vhTsLinck9) is a famous destination for this, there's ads for it in the MRT station.
 
 {{< figure src="dongmen1.JPG" alt="A bowl of strawberry ice" caption="Fresh strawberries on shaved ice, with fruit syrup and strawberry icecream." >}}
 
-The second must-eat is something that can be gotten anywhere, but Dongmen has a really good spot for Congzhuabing, or Taiwanese Scallion Pancake. I can't find a link for it on the map but it's [somewhere around here](https://goo.gl/maps/UFCdL9QpxY9r3MYb6) and impossible to miss because it always has a line.
+The second must-eat is Congzhuabing (scallion pancake), which can be gotten anywhere, but Dongmen has a really good spot. I can't find a link for it on the map but it's [somewhere around here](https://goo.gl/maps/UFCdL9QpxY9r3MYb6) and impossible to miss because it always has a line.
 
 {{< figure src="dongmen3.JPG" alt="Dad eating congzhuabing" caption="Congzhuabing is SUPER sloppy, must be eaten carefully." >}}
 
 {{< figure src="dongmen4.JPG" alt="Cherry blossom tree near dongment" caption="The cherry blossom trees were already starting to bloom in Taipei." >}}
 
-We were tired from all the eating, so walked down to a really pretty little [cat cafe](https://goo.gl/maps/8A722VdthedH7E62A) to relax for a while.
+We were tired from all the eating, so we walked down to a really pretty little [cat cafe](https://goo.gl/maps/8A722VdthedH7E62A) to relax for a while. The cat cafes in Taiwan are more chilled out than the ones in Japan, in my experience. No weird ticket systems or anything like that, they're literally just cafes that have cats. Though, usually they're more expensive and busy than other cafes.
 
 {{< figure src="dongmen5.JPG" alt="Cat in a cat cafe" caption="" >}}
 
@@ -532,7 +534,7 @@ After that we made our way northwest, stopping at the very small but kinda cool 
 
 {{< figure src="tainan9.JPG" alt="Lanterns inside the Tainan firefighter's museum." caption="The museum was covered inside and out with lanterns." >}}
 
-From there we stumbled onto a really busy [Taoist temple](https://goo.gl/maps/vocXu5W6aBumUGa47) where people were tossing massive stacks of ghost cash into a furnace. Just straight hucking fat stacks straight into the furnace. Upstairs a bunch of old people were playing old Chinese instruments. Very cool place to stop in. Everyone was really welcoming too, telling us to go anywhere we liked and explore.
+From there we stumbled onto a really busy [Taoist temple](https://goo.gl/maps/vocXu5W6aBumUGa47) where people were tossing massive stacks of ghost cash into a furnace. Just straight hucking fat stacks straight into the furnace. Upstairs a bunch of old people were playing old regional instruments. Very cool place to stop in. Everyone was really welcoming too, telling us to go anywhere we liked and explore.
 
 {{< figure src="tainan91.JPG" alt="Some lady praying at a Taoist temple in Tainan" caption="" >}}
 {{< figure src="tainan92.JPG" alt="People playing instruments at a Taoist temple in Tainan" caption="Old folks playing some instruments. Taoist temples are always heavily decorated on every surface." >}}
@@ -569,7 +571,7 @@ Finally, we had finished all our big trips and huge adventures, and it was time 
 
 ### Bicycling to Zhongxiao Dunhua
 
-We grabbed a quick traditional [Taiwanese breakfast](https://goo.gl/maps/y3iEr7ZEqFGZ3Na57), which basically consists of children's food: chicken nuggets, little mcdonald's style hashbrowns, and lots of dan bing. Too much, probably. I highly recommend going to a traditional Taiwanese breakfast, don't be intimidated by the all Taiwan menu! With a little google translate, you can get by.
+We grabbed a quick traditional [Taiwanese breakfast](https://goo.gl/maps/y3iEr7ZEqFGZ3Na57), which basically consists of children's food: chicken nuggets, little mcdonald's style hashbrowns, and lots of dan bing (egg pancake). Too much, probably. I highly recommend going to a traditional Taiwanese breakfast, don't be intimidated by the Mandarin menu! With a little google translate, you can get by.
 
 After, we started a longish walk to Zhongxiao Dunhua, hoping to pick up U-bikes for all of us on the way. Unfortunately, we passed a [Cremia](https://goo.gl/maps/yQ7FMpnDGA1b2BZC6), which has some of the best soft serve ice cream in the world, so we had to stop within minutes of breakfast to get that.
 
@@ -612,14 +614,14 @@ After refueling, we hit the event we'd been saving our energy all day for: KTV a
 
 ### Clubbing
 
-Things got a little wild, so we sent the parents home and went clubbing, I think. At some point, we got home somehow, and found a playground.
+Things got a little wild, so we sent the parents home and went clubbing. At some point, we got home somehow, and found a playground. Clubbing in Taipei is far better than any I'd done in the USA, if you're into the scene, I recommend it. It's also just so much less aggressive than in the USA, everyone's a lot more chilled out and focused on having a good time. We ended up at [Ce La Vie](https://goo.gl/maps/TkQMzEnUoaqzFk8v5), a tame spot reknown for an outside table area with good views of Taipei 101. We have no pictures, lol.
 
 {{< figure src="ktv6.jpg" alt="Colette and I on the streets of Taipei" caption="" >}}
 {{< figure src="ktv7.jpg" alt="Colette and I in a playground" caption="" >}}
 
 ## Day Seven
 
-Day Seven was planned to be a recovery day after KTV, with plenty of time to get supplies for a picnic with friends at Daan Park.
+Day Seven was planned to be a recovery day after KTV, with plenty of time to get supplies for a picnic with friends at Daan Park. I think we spent some time scrapbooking as well.
 
 {{< figure src="picnic1.JPG" alt="Family hanging out on the couch" caption="Morning after vibes." >}}
 
@@ -645,6 +647,8 @@ After grabbing some fancy cheeses and other snacks, we took the train over to Da
 {{< figure src="picnic8.JPG" alt="The picnic spread" caption="Hella spread." >}}
 {{< figure src="picnic9.JPG" alt="Emily at the picnic." caption="Lots of friends came! Unfortunately it was a little cold and drizzly." >}}
 
+It was really cool that we were able to gather some friends and introduce my family to them. It's been really easy to build a social circle in Taiwan, and because of the ease of getting around and the variety of activities to do, I feel like our social life has been way more rich here than it was back in the USA. Plus, most of our friends are immigrants, a subsection of people that I think self-selects for enjoying a slightly more exciting life.
+
 ## Day Eight
 
 Drizzles were keeping us a bit down, but luckily there's plenty of inside stuff to do in Taipei.
@@ -659,12 +663,12 @@ Sunday is the perfect day to go to the [Jianguo Flower Market](https://goo.gl/ma
 {{< figure src="guanghua3.JPG" alt="Flowers at the flower market" caption="" >}}
 {{< figure src="guanghua4.JPG" alt="Dad at the flower market" caption="The flower market can be frustrating for tourists because you'll probably see some plants you really want to buy, but there's no way to take them home :(" >}}
 
-The jade market especially is a great place to get souveniers.
+The jade market is a great place to get souveniers.
 
 {{< figure src="guanghua5.JPG" alt="Mom and dad at the jade market" caption="The jade market can be overwhelming. It has hundreds of vendors." >}}
-{{< figure src="guanghua6.JPG" alt="Mom at the jade market" caption="The prices are pretty reasonable, and vendors allow for a small bit of haggling." >}}
+{{< figure src="guanghua6.JPG" alt="Mom at the jade market" caption="The prices are pretty reasonable, and vendors allow for a bit of haggling." >}}
 
-After the market, we wandered vaguely towards Guanghua, hoping to find lunch. We were lucky to find a crazy good [dumpling place](https://goo.gl/maps/P9XUPMDrPCxR7C757) that was soon to close, but they still sat us.
+After the market, we wandered vaguely towards Guanghua, hoping to find lunch. We were lucky to find a crazy good [dumpling place](https://goo.gl/maps/P9XUPMDrPCxR7C757) that was soon to close for the day, but they still sat us.
 
 {{< figure src="guanghua7.JPG" alt="Mom and Colette looking at dumplings" caption="The dumpling obsession was real." >}}
 {{< figure src="guanghua8.JPG" alt="Pork dish" caption="This pork was like the kind they put in guabao and was obscenely good." >}}
@@ -673,7 +677,7 @@ After the market, we wandered vaguely towards Guanghua, hoping to find lunch. We
 
 ### Guanghua Digital Plaza
 
-After lunch, we walked to [Guanghua Digital Plaza](https://goo.gl/maps/oQAPWQDvhHMpG9Ds5), which is both one specific building but also a term to describe the area which has several other malls as well as a neighborhood of various electronic stores. This is like a little mini Akihabara. It's pretty cool for nerds but if you're on a trip with mixed nerds and non nerds, you can send the non-nerds to the newly opened [DON DON DONKI](https://goo.gl/maps/M1SJZaM9Z5UDufBU9), a Japanese everything-market that's absolutely insane, a "you gotta see it to believe it" kind of place. Really though the whole area is cool no matter your inclinations.
+After lunch, we walked to [Guanghua Digital Plaza](https://goo.gl/maps/oQAPWQDvhHMpG9Ds5), which is both one specific building but also a term to describe the area which has several other malls as well as a neighborhood of various electronic stores. It's like a mini Akihabara. It's pretty cool for nerds but if you're on a trip with mixed nerds and non nerds, you can send the non-nerds to the newly opened [DON DON DONKI](https://goo.gl/maps/M1SJZaM9Z5UDufBU9), a Japanese everything-market that's absolutely insane, a "you gotta see it to believe it" kind of place. Really though the whole area is cool no matter your inclinations.
 
 ### Lantern Festival at Sun Yat Sen
 
@@ -702,7 +706,7 @@ Our trip was winding down, and the weather pushed us for more cozy, relaxed days
 
 ### Cat Cafe
 
-The [cat cafe](https://goo.gl/maps/7sNwc8pU1BAJYg9W9) we went to actually has pretty good food, and a fair number of cats. It's kind of expensive, but you can hang out there for hours just chillin with cats, so it's pretty worth it.
+The [cat cafe](https://goo.gl/maps/7sNwc8pU1BAJYg9W9) we went to actually has pretty good food, and a fair number of cats. It's kind of expensive, but you can hang out there for hours just chillin with cats, so it's pretty worth it. For a place like this, it's a good idea to make a reservation for a big group.
 
 {{< figure src="cat1.JPG" alt="Cat in the cat cafe" caption="The cats will get up in your shit without hesitation." >}}
 {{< figure src="cat2.JPG" alt="Colette petting a cat" caption="" >}}
@@ -713,12 +717,12 @@ The [cat cafe](https://goo.gl/maps/7sNwc8pU1BAJYg9W9) we went to actually has pr
 
 ### Hot Spring
 
-After filling up on bread and sugar, it was time to sit in hot water somewhere pretty. Out of laziness we grabbed cabs to the [hotspring hotel](https://goo.gl/maps/YCVKgE8zDBwRmZ8g9) I booked in Beitou, a bit of a journey. There's lots of hot spring options there, but I recommend trying to get one with a nice big "public style" hot spring shared by all guests, or, a private one that's huge so you can have your whole family one. Other hot spring hotel offerings will just be a little room with a big bathtub, not as nice a vibe on a rainy day.
+After filling up on bread and sugar, it was time to sit in hot water somewhere pretty. Out of laziness we grabbed cabs to the [hotspring hotel](https://goo.gl/maps/YCVKgE8zDBwRmZ8g9) I booked in Beitou, a bit of a journey. There's lots of hot spring options there, but I recommend trying to get one with a nice big "public style" hot spring shared by all guests, or, a private one that's huge so you can have your whole family in one room. Other hot spring hotel offerings will just be a little room with a big bathtub, not as nice a vibe on a rainy day.
 
 {{< figure src="beitou2.JPG" alt="The hot spring in beitou." caption="Our place was one of those cool inside-out ones, covered so you don't get rained on, but still with lots of fresh air." >}}
 {{< figure src="beitou1.JPG" alt="A church in Beitou" caption="Beitou is a really cool area to explore, you could spend at least half a day if not more wandering around the green library there, as well as other spots. Unfortunately we didn't really have time for that." >}}
 
-### Addiction Aquatic Development
+### Addiction Aquatic
 
 After the hot spring, we grabbed a cab to the supremely strange [Addiction Aquatic Development](https://goo.gl/maps/WRx5Rmqtg1KJscso6). Hard to describe that place. It's a supermarket with like four different restaurants, but also a fresh seafood market. Whatever, all of its restaurants are really good, basically you just go there and pick a spot that you vibe with. We went to the barbecue restaurant because it was outside and quiet.
 
@@ -768,7 +772,7 @@ Fittingly, before heading back to the apartment to pick up luggage, we biked bac
 {{< figure src="glass2.JPG" alt="Glass that we had made" caption="" >}}
 {{< figure src="glass3.JPG" alt="Glass that we had made" caption="" >}}
 
-Then, sadly, it was time to go back home, grab the massive luggage (the family one bagged... with HUGE bags), and head to the airport. We grabbed the Taoyuan Airport MRT, grabbed one last picture in front of the weird big dick art, and said sad goodbyes! Though I'm betting everyone was so tired it was probably nice to have an uninterrupted 14 hours of guaranteed sleep time.
+Then, sadly, it was time to go back home, grab the bags, and head to the airport. We hit the Taoyuan Airport MRT, snagged one last picture in front of the weird big dick art, and said sad goodbyes! Though I'm betting everyone was so tired it was probably nice to have an uninterrupted 14 hours of guaranteed sleep time.
 
 {{< figure src="airport1.JPG" alt="Mom, dad, and colette in front of the big dick art" caption="Colette's thumbs downing leaving, not Taiwan!" >}}
 
