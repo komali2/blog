@@ -1,42 +1,22 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="author" content="Caleb Jay Rogers">
-  <meta name="description" content="Caleb's blog about software engineering, Taiwan, motorcycling, and philosophy.">
-  <meta name="keywords" content="Caleb Rogers, Caleb Jay, komali_2, frontend, backend, software, programming, writing, taiwan, motorcycle">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/css/stylesheet.css">
-  <title>{{.Title}}</title>
-</head>
-
-<body>
-  <main>
-    <header>
-      <h1>{{ .Title }}</h1>
-      <h3>
-        <small>
-          Updated: <time datetime="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
-        </small>
-      </h3>
-      <nav>
-        <ul>
-          <li>
-            <a href="/">Home</a>
-          </li>
-          <li>
-            <a href="http://www.calebjay.com">Calebjay.com</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
-
+{{ define "metadescription" }}
+{{ if .Description }}
+<meta name="description" content="{{ .Description }}">
+{{ else }}
+<meta name="description" content="The personal blog of Caleb Jay Rogers, Software Engineer">
+{{ end }}
+{{ end }}
+{{ define "title" }}
+{{ .Title }}
+{{ end }}
+{{ define "header" }}
+{{ partial "headerwithnav" . }}
+{{ end }}
+{{ define "content" }}
+<main>
     <article>
       <section class="main-content">
         {{ .Content }}
       </section>
     </article>
-  </main>
-  {{ partial "goatcounter" .}}
-</body>
+</main>
+{{ end }}

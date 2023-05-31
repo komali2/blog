@@ -1,28 +1,22 @@
-<!DOCTYPE html>
-<html>
+{{ define "metadescription" }}
+<meta name="description" content="Articles on Caleb's blog with the tag {{ .Title }}">
+{{ end }}
 
-<head>
-    <meta charset="utf-8">
-    <meta name="author" content="Caleb Jay Rogers">
-    <meta name="description" content="Caleb's articles regarding {{ .Title }}">
-    <meta name="keywords" content="Caleb Rogers, Caleb Jay, komali_2, frontend, programming, writing, {{ .Title }}">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="stylesheet" href="/css/stylesheet.css">
-    <title>Tagged With: {{.Title}}</title>
-</head>
-
-<body>
+{{ define "header" }}
+<header>
+  <h1>Tagged With: "{{ .Title }}"</h1>
+  <h3>
+    <small>
+      Updated: <time datetime="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
+    </small>
+  </h3>
+</header>
+{{ end }}
+{{ define "title" }}
+Tagged With: {{.Title}}
+{{ end }}
+{{ define "content" }}
     <main>
-        <header>
-            <h1>Tagged With: "{{ .Title }}"</h1>
-            <h3>
-                <small>
-                  Updated: <time datetime="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
-                </small>
-            </h3>
-        </header>
-        <nav>
-
             <h1>
                 Posts:
             </h1>
@@ -36,7 +30,5 @@
                 </li>
                 {{ end }}
             </ul>
-        </nav>
-    </main>
-    {{ partial "goatcounter" .}}
-</body>
+ </main>
+{{ end }}

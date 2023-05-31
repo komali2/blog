@@ -4,6 +4,7 @@ date: 2023-02-16T02:17:47-08:00
 draft: false
 categories: ['travel']
 tags: ['taiwan']
+description: "A long post about my family visiting me in Taiwan, including our itinerary as well as my general travel planning strategy. Lots of tips for Taiwan travel!"
 ---
 
 In late January and early February 2023, my family visited Tammy and I in Taiwan. It's something I never really thought possible but always wanted. When I think about my family, I automatically put myself back into the "normal" mode, the kind of thinking where moving to a foreign country or going to a coding bootcamp isn't like, a thing that people do. Yet I always argue that these sorts of things are much more accessible or even easy than people think, and behold, having my family visiting us in Taiwan supported this argument.
