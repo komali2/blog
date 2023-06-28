@@ -1,6 +1,6 @@
 baseURL = "http://blog.calebjay.com/"
 languageCode = "en-us"
-title = "Caleb Jay's Blog"
+title = "Caleb's Blog"
 
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
