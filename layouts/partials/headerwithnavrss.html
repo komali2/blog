@@ -1,0 +1,21 @@
+<header>
+  <h1>{{ .Title }}</h1>
+  <h3>
+    <small>
+      Updated: <time datetime="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
+    </small>
+  </h3>
+  <nav>
+    <ul>
+      <li>
+        <a href="/">Home</a>
+      </li>
+      <li>
+        <a href="http://www.calebjay.com">Calebjay.com</a>
+      </li>
+      <li>
+        <a href="/index.xml">RSS</a>
+      </li>
+    </ul>
+  </nav>
+</header>
