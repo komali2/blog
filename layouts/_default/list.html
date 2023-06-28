@@ -1,5 +1,19 @@
 {{ define "content" }}
   <main>
+    <h1>
+      Recent Posts:
+    </h1>
+    <section>
+      <ul>
+        {{ range first 6 .Site.RegularPages }}
+        <li>
+          <time datetime="{{ .Date }}">{{ .Date.Format "Jan 2006" }}</time>
+          <a href="{{ .URL }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+
   <h1>
     Categories:
   </h1>
@@ -21,7 +35,7 @@
     {{ end }}
   </ul>
 <h1>
-  Recent Posts:
+  All Posts:
 </h1>
 <section>
   <ul>
