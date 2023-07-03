@@ -29,7 +29,7 @@ Yes, taking a picture of every item, then bringing them up to our roof and prepa
 
 ## Results
 
-{{< figure src="results.jpg" alt="All of us sitting in my living room" caption="Reviewing the results and eating leftovers." >}}
+{{< figure src="review.jpg" alt="All of us sitting in my living room" caption="Reviewing the results and eating leftovers." >}}
 
 We didn't collect as much data as I'd have liked. There's 61 different submission events, all having rated various amounts of snacks (some people would rate multiple snacks in one form submit, not the intention but perfectly acceptable). Several items didn't get ratings at all, either because we forgot to put it out or because nobody got a chance to try them.
 
