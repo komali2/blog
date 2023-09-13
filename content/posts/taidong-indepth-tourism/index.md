@@ -237,7 +237,7 @@ After a long hangout, we head back down to the woodshop, and then to the abandon
 {{< figure src="woodchristian.jpg" alt="A cross emblazoned with traditional tribal symbols" caption="Lots of Christianity at this tribe too. We were told the village is almost entirely Christian, with the noticeable exception of the supermarket owner and the cafe owner." >}}
 {{< figure src="woodbye.jpg" alt="All of us posing for a goodbye picture" caption="Goodbye!" >}}
 
-## Eat Another Hella Good Dinner
+### Eat Another Hella Good Dinner
 
 Back in Taidong, we go to an apparently famous chicken place, [ "Haijing Chicken Restaurant" ](https://maps.app.goo.gl/KPu6p6uuyMAujdVk8). Food was good.
 
@@ -252,3 +252,33 @@ After that, we went to our hotel for the night, ["SUP Daily"](https://maps.app.g
 {{< figure src="suphostelfrog.jpg" alt="Frog" caption="" >}}
 
 We had to get up at like, 5am the next day for stand up paddleboarding, so we went to bed pretty early.
+
+
+## Day 2
+
+### Stand Up Paddleboarding at Asscrack of Dawn
+
+At some ungodly hour we woke up and piled onto the bus.
+
+{{< figure src="supbus.JPG" alt="The bus in the morning" caption="Hi, bus." >}}
+
+We drove over to a sort of lake not too far away. It was very pretty in the morning.
+
+{{< figure src="supwaves.JPG" alt="Ocean in the distance." caption="Massive waves in the distance." >}}
+{{< figure src="supboard.JPG" alt="The stand up paddleboards in the morning." caption="Very calm, much better than trying this in the ocean, I think." >}}
+
+We originally were going to do stand up paddleboarding in the ocean, but they were concerned about the conditions of the water so close to a typhoon, so we instead went to a beautiful, placid lake. Best part is that we started at a much more reasonable time. I think we were going to try to do the ocean one at like, 4am or something ridiculous.
+
+{{< figure src="supboss.jpg" alt="All of us getting some stand up paddleboard coaching" caption="We got some coaching from a teacher before we started." >}}
+
+After a brief lesson, we were strapped into some lifejackets and pushed out into the lake on our boards. We were all able to stand on our boards without too much trouble after only a few minutes of practice, after which we zipped all around the lake, stopping occassionally for our guide to teach us some new techniques or game. There was a couple Taiwanese people not a part of our tour. They were more interested in taking photos and hanging around, while the rest of us got roudy and spent our time shoving eachother off our boards, racing, and doing yoga.
+
+{{< figure src="suppose.jpg" alt="Liana doing a yoga pose on a stand up paddleboard" caption="Yoga skills." >}}
+
+After maybe an hour and a half or so, we all paddle back to shore, load up onto the bus, and head back to the hotel for naps.
+
+### Eat Hella Good Lunch
+
+After packing up, we load onto the bus and drive WAY out to [Chenggong Township](https://maps.app.goo.gl/821CbF65SNc8Ur4k7), a town about an hour from Taidong that's famous for its harbor, where spearfisherman dock and sell marlin. Our first destination is a reknown and award-winning slow food restaurant, [旗遇海味](https://maps.app.goo.gl/EBJ7ZJwC9tzncEjVA). We arrive a little earlier than expected, and nobody's hungry yet because of the breakfast we all ate (I didn't eat breakfast and was starving lol but oh well), so we swapped our day arounda little bit and explored the fish auction area and looked at the spear fishing boats.
+
+{{< figure src="chengboats.JPG" alt="Boats in Chenggong harbor" caption="The boats all had really cool designs and surprisingly clean paintjobs. The sloping ramp in the bottom left of the image is where a spear fisherman stands / squats, looking out for a marlin to spear. Apparently accidents are somewhat rare, but when they do happen they can be somewhat horrifying because the fisherman is partially strapped in. Though, according to the restaurant owner, only one person has died during his lifetime." >}}
