@@ -212,4 +212,43 @@ We were given rides (why not just a quick hike? I'm not sure) higher up the moun
 {{< figure src="woodtourguide.jpg" alt="Our tourgide for Paiwan tribe." caption="Our tour guide." >}}
 {{< figure src="woodmotorcycleguy.jpg" alt="A man on a motorcycle, outside the little supermarket." caption="Just some guy I liked the vibe of, coming to pick something up from the supermarket." >}}
 
-We piled back into the cars for another short ride (why not just hike???) to a cafe up on the hill.
+We piled back into the cars for another short ride (why not just hike???) to a cafe up on the hill. This was really cool, a gorgeous natural wood cafe with all outside seating, facing out over the ocean. Surrounded by native plants and little nick-nacks. All local to Taiwan tea, coffee, and snacks. We hung out at the cafe for a few hours without any kind of intinerary, so we basically interrogated the tour guide on information about the village, the tribal lifestyle, why she decided to move back to the town from Taipei, and etc.
+
+{{< figure src="wooddragonfruit.jpg" alt="A dragonfruit plant" caption="There was wild dragonfruit growing near the cafe." >}}
+{{< figure src="woodfruit.jpg" alt="Fruit growing on a tree" caption="And other fruit!" >}}
+
+This tribe has two elders because one was essentially robbed of a bunch of shells by another village, so an elder from another tribe that married in took over the role. Apparently the shells were very valuable.
+
+{{< figure src="woodsweetpotato.jpg" alt="Sweet potato slices" caption="Local sweet potato, baked. Addicting." >}}
+{{< figure src="woodwaffle.jpg" alt="A waffle" caption="The waffle looked really fun but was just ok." >}}
+
+Apparently the cafe owner worked with the mayor to build the cafe without needing to buy land or pay rent, just because it improves the environment. Traditionally the tribe does communal ownership of land, but the Qing / ROC governments both required SOMEONE to own the land, which caused chaos. They also had stories about the initial arrival of Qing dynasty people, who would just farm wherever, then claim the land as their own. The tribe would do the same in return to make land claims, until one Qing governor just locked everything in (they describe him as "great").
+
+
+{{< figure src="woodfruitdrink.jpg" alt="A fruit tea drink" caption="All the drinks at the cafe were really good." >}}
+{{< figure src="woodcoffee.jpg" alt="Cold brewed coffee" caption="Local cold brewed coffee, very strong." >}}
+
+The cafe owner's dream for the village is for more young people to come back. She's not sure what they could do, or how the village could accomomdate a huge influx of people if it involved buildling more housing. She says it's difficult to think of ways to make money.
+
+{{< figure src="woodcat.jpg" alt="A cat" caption="They had cafe kittens." >}}
+
+After a long hangout, we head back down to the woodshop, and then to the abandoned train station. There's a little food market down there that we ignore. We take some pics, then load onto the bus and head back to Taidong proper.
+
+{{< figure src="woodchristian.jpg" alt="A cross emblazoned with traditional tribal symbols" caption="Lots of Christianity at this tribe too. We were told the village is almost entirely Christian, with the noticeable exception of the supermarket owner and the cafe owner." >}}
+{{< figure src="woodbye.jpg" alt="All of us posing for a goodbye picture" caption="Goodbye!" >}}
+
+## Eat Another Hella Good Dinner
+
+Back in Taidong, we go to an apparently famous chicken place, [ "Haijing Chicken Restaurant" ](https://maps.app.goo.gl/KPu6p6uuyMAujdVk8). Food was good.
+
+{{< figure src="finalmeal1.jpg" alt="Cooked squid" caption="Squid" >}}
+{{< figure src="finalmeal2.jpg" alt="Luroufan" caption="Luroufan!!" >}}
+{{< figure src="finalmeal3.jpg" alt="Something" caption="I have no idea, but yummy!" >}}
+{{< figure src="finalmeal4.jpg" alt="chicken" caption="Chicken!" >}}
+
+After that, we went to our hotel for the night, ["SUP Daily"](https://maps.app.goo.gl/2iem8xeeHZvfxWwh7). They had lots of animals.
+
+{{< figure src="suphostelcat.jpg" alt="Cat" caption="" >}}
+{{< figure src="suphostelfrog.jpg" alt="Frog" caption="" >}}
+
+We had to get up at like, 5am the next day for stand up paddleboarding, so we went to bed pretty early.
