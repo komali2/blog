@@ -19,6 +19,8 @@ Now that I re-read this form, I'm realizing I got the name wrong, above. it's ac
 
 Point is, someone paid for my train tickets and housing to go to Taidong and stay there for two nights, including several incredible meals and really fun tours and activities. I had a great time and want to share some of the stuff we got up to beacuse it was a pretty cool way to check out Taidong.
 
+If you're interested in further reading material, or an alternative itinerary, you can check out the booklets they made for our reference during the trip. There's actually some fun info in there. [Here's the PDF from our trip](https://calebjay.com/taidongtrip/taidongtrippdf.pdf), and [another one from the trip of people after us](https://calebjay.com/taidongtrip/taidongfollowuptrip.pdf). I tried to duplicate the info into this post but the PDFs aren't formatted in a way that makes copying text out easy.
+
 ## Itinerary
 
 * Day 0
@@ -77,7 +79,6 @@ We hung out for a bit with our tour guide in his really cool outfit waiting for 
 {{< figure src="tribe1.jpg" alt="The translator and the tour guide" caption="They found some student to function as translator. She was pretty good!" >}}
 
 Bream and I were volunteered for the entering ritual. It involved standing before the big statue at the entrance to the tribe, shouting some things, and chucking a small bamboo cup of liquor into the air after taking a small sip. It sounded like we were giving thanks and offerings to ancestors and various animist spirits, such as the mountains, air, forest, etc. Fresh start to the day!
-
 
 {{< figure src="tribedrink.jpg" alt="Bream and I doing the entering ritual" caption="Bream and I listening attentively to the man with the half meter machete" >}}
 {{< figure src="tribedrink2.jpg" alt="The bamboo cup used to present alcohol" caption="The little bamboo cup, equivalent to a double shot I'd say" >}}
@@ -232,7 +233,13 @@ The cafe owner's dream for the village is for more young people to come back. Sh
 
 {{< figure src="woodcat.jpg" alt="A cat" caption="They had cafe kittens." >}}
 
-After a long hangout, we head back down to the woodshop, and then to the abandoned train station. There's a little food market down there that we ignore. We take some pics, then load onto the bus and head back to Taidong proper.
+After a long hangout, we head back down to the woodshop, where there's a wall with a timeline of this one Christian missionary's time in the tribe, Hilber Jakob, from like the 40's to 70's. His contributions included things like building schools, roads, and etc. As a result, the tribe gets converted. It made me reflect further on the contradictory nature of imperialist action, which I believe Christian proselytizing to be. On the one hand, parts of a people's culture are being erased in favor of a new religion, on the other, the benefits this guy (backed by the essentially infinite resources of whatever his Church was) brought to the tribe seem great! I haven't had the opportunity to investigate further, and can't find any information about the guy online, but it made me reflect not only on the effects of imperialism, and how anti-imperialist philosophies could also accomplish similar things in far-flung reaches of the world before people like the Christians can get to them, and what that might look like if the benefits could be wrought without the erasure of aspects a local culture.
+
+{{< figure src="jakob1.jpg" alt="Placard 1 describing Hilber Jakob" caption="" >}}
+{{< figure src="jakob2.jpg" alt="Placard 2 describing Hilber Jakob" caption="" >}}
+{{< figure src="jakob3.jpg" alt="Placard 3 describing Hilber Jakob" caption="" >}}
+
+We then to the abandoned train station. There's a little food market down there that we ignore. We take some pics, then load onto the bus and head back to Taidong proper.
 
 {{< figure src="woodchristian.jpg" alt="A cross emblazoned with traditional tribal symbols" caption="Lots of Christianity at this tribe too. We were told the village is almost entirely Christian, with the noticeable exception of the supermarket owner and the cafe owner." >}}
 {{< figure src="woodbye.jpg" alt="All of us posing for a goodbye picture" caption="Goodbye!" >}}
@@ -305,8 +312,54 @@ Finally, it was time to eat! This was some of the best food I'd had in a long ti
 {{< figure src="chengfood9.jpg" alt="Fish soup with goji berries" caption="Fish soup with goji berries, unfortunately I can't remember what kind of fish! Somewhat medicinal flavor, but good." >}}
 {{< figure src="chengfood91.jpg" alt="Sweet salty crispy tube things" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
 
-I went from starving to stuffed to the absolute brim. We lingered for only a little bit but needed to keep on schedule, so I had to haul my fat ass out of the chair and get ready to hike up the hill to our next destination.
+I went from starving to stuffed to the absolute brim. We lingered for only a little bit but needed to keep on schedule, so I had to haul my fat ass out of the chair and get ready to hike up the hill to our next destination. First, we were able to witness some fresh fish being auctioned off in the auction area!
 
-{{< figure src="chengauction1" alt="" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
-{{< figure src="chengauction2" alt="Sweet salty crispy tube things" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
-{{< figure src="chengauction3" alt="Sweet salty crispy tube things" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
+{{< figure src="chengauction1" alt="Two fish on the ground at the fish auction" caption="Two enormous fish! " >}}
+{{< figure src="chengauction2" alt="Two people taking notes on the auction" caption="I'm actually not sure what the clipboard folks were doing, or why there were two of them. Bureaucracy!" >}}
+{{< figure src="chengauction3" alt="The winner of the auction holding his fish" caption="The auction winner standing proudly with his fish. I wonder what his plans with it are! I have no idea what price it sold for." >}}
+{{< figure src="chengbye" alt="All of us pointing and saying goodbye" caption="Obligatory point somewhere picture." >}}
+
+### Tour Some Old Japanese Dude's House
+
+So apparently Chenggong harbor was built mostly by the Japanese during their occupation. It's really interesting to hear things from locals like "we didn't really know how to catch those kinds of fish until the Japanese taught us," or talking positively about the various forms of infrastructure the Japanese brought with them. Perhaps certain legacies of imperialism sit better with locals who don't weren't around for the horrors of it, or maybe those who suffered the worse of it didn't have much in the way of ancestors that survived today, or maybe it wasn't that bad, who knows? It's a question I really want to explore more.
+
+
+{{< figure src="japan1" alt="Man cutting metal" caption="Saw this on the way to the house, some dude cutting something idk looks cool." >}}
+
+Anyway, the local governor the Japanese instilled to, ah, "govern" the area, built this house in a place where he could see the whole harbor. Its architecture is a unique mix of Japanese and European, with with a second story platform / porch that's more European style while the main house is entirely Japanese. It was apparently his routine to take breakfast on the porch while looking over the harbor.
+
+{{< figure src="japan2" alt="View of the Japanese house" caption="The house has traded hands a couple times, and is now in the hands of some locals in some sort of conservatorship arrangement with the government, funded partially, if I remember correctly, by a local church. There's significant earthquake damage that they're working to restore. There's visible cracks in the pillars, which apparently I forgot to take closeups of." >}}
+
+He is said to be much beloved by the locals and chose to live his entire life in Chenggong, even after occupation ended, and was given permission by the ROC to keep living there and maintain his household. He's even said to be buried somewhere in the area.
+
+{{< figure src="japan21" alt="All of us sitting on a couch getting a history lesson." caption="We first sat in the adjacent cafe for a history lesson. In the middle of this talk was a jolt of an extremely short earthquake. Very scary! Good though, because we were all very sleepy after lunch." >}}
+
+After the history lesson, we explored the house.
+
+{{< figure src="japan3" alt="A living room in the Japanese house, with a table and chairs." caption="The house is well maintained, but filled not just with original objects, but also random old stuff saved from the entire neighborhood. It's functioning as an impromptu museum, the collection being random stuff from the area." >}}
+
+{{< figure src="japan4" alt="A view into the original roof structure." caption="During renovation, they discovered in the roof's original structure two placards indicating information about the builders and the era in which the building was construction. This is apparently a Japanese tradition." >}}
+
+{{< figure src="japan6" alt="An old record player, and records on the wall." caption="" >}}
+
+{{< figure src="japan7" alt="All of us fiddling with an old 8track player." caption="The owners of the museum said they haven't gotten this 8track player to actually play a tape let, and were happy with us to just fiddle with it. When have you ever been allowed to be that hands-on with an exhibit? Very cool and fun!" >}}
+
+After wandering around the two floors of the house for maybe a half hours, we headed back to the cafe to relax with some coffee and desserts.
+
+{{< figure src="japan8" alt="A brownie with googly eyes" caption="Cute brownie. The drinks and dessert were pretty good but a little too sweet for my taste." >}}
+
+We had a bit of a feedback session during this time, then took the inevitable goodbye picture.
+
+{{< figure src="japanbye" alt="All of us pointing and saying goodbye in front of the Japanese house." caption="Point somewhere!" >}}
+
+### Go Home
+
+We were all so exhausted at the end of the trip. We got back into the bus and barely said a word on our way to the train station. I actually had work to do as well so I couldn't linger and chat, instead I had to post up in the train station straightaway. It's good we got to the train station when we did, because at the last second we discovered that for some reason I had purchased my "return" ticket as if I was leaving from Taizhong to Taipei. No idea why! So I got it changed in time to get on a train going back to Taipei.
+
+It was a really fun trip, and I'm really grateful for the unique itinerary. After traveling quite a bit, I've grown tired of the typical rote itinerary for a destination: museums, aquarium, zoos, government buildings, etc. It's nice to go and be toured around places I wouldn't have thought to find on my own. Especially since we had locals to talk with, and Mandarin interpretation help!
+
+I highly recommend Taidong as a destination for those coming to Taiwan for more than a week. It doesn't take too long to get to by train from Taipei, maybe about 4 or 5 hours depending, and there's lots of unique, somewhat strange, history here, between the ROC settler colonists, the Japanese imperialists, and the various waves of Han imperialists, alongside Taiwan indigenous people. Not to mention the current strategic importance of Taidong as a large airforce base from which many tens of fighter jets take off every day, it's just a very unique place!
+
+I also highly recommend joining in similar tours to the one I went on if the opportunity presents itself. The hosts were struggling with people thinking the opportunity was too good to be true and thus is a scam. So hopefully you can find this post and know, nope, it's really, and very fun!
+
+As always, feel free to email caleb at this website if you have any questions, or perhaps can help me add more information about the places I visited!
