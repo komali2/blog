@@ -279,6 +279,34 @@ After maybe an hour and a half or so, we all paddle back to shore, load up onto 
 
 ### Eat Hella Good Lunch
 
-After packing up, we load onto the bus and drive WAY out to [Chenggong Township](https://maps.app.goo.gl/821CbF65SNc8Ur4k7), a town about an hour from Taidong that's famous for its harbor, where spearfisherman dock and sell marlin. Our first destination is a reknown and award-winning slow food restaurant, [旗遇海味](https://maps.app.goo.gl/EBJ7ZJwC9tzncEjVA). We arrive a little earlier than expected, and nobody's hungry yet because of the breakfast we all ate (I didn't eat breakfast and was starving lol but oh well), so we swapped our day arounda little bit and explored the fish auction area and looked at the spear fishing boats.
+After packing up, we load onto the bus and drive WAY out to [Chenggong Township](https://maps.app.goo.gl/821CbF65SNc8Ur4k7), a town about an hour from Taidong that's famous for its harbor, where spearfisherman dock and sell marlin. Our first destination is a reknown and award-winning slow food restaurant, [旗遇海味](https://maps.app.goo.gl/EBJ7ZJwC9tzncEjVA). We arrive a little earlier than expected, and nobody's hungry yet because of the breakfast we all ate (I didn't eat breakfast and was starving lol but oh well), so we swapped our day around a little bit and explored the fish auction area and looked at the spear fishing boats.
 
 {{< figure src="chengboats.JPG" alt="Boats in Chenggong harbor" caption="The boats all had really cool designs and surprisingly clean paintjobs. The sloping ramp in the bottom left of the image is where a spear fisherman stands / squats, looking out for a marlin to spear. Apparently accidents are somewhat rare, but when they do happen they can be somewhat horrifying because the fisherman is partially strapped in. Though, according to the restaurant owner, only one person has died during his lifetime." >}}
+{{< figure src="chengdrysquid.JPG" alt="Dry squid in trays" caption="We briefly chatted with a shop selling dry squid. They say it typically takes a day or two to dry in the sun, longer if the sun isn't out. They add some combination of salt and cooking alcohol." >}}
+{{< figure src="chengstick.JPG" alt="Fish probing stick" caption="The restaurant owner showed us the tool he uses to sample fish at the fish auction. After sampling, he decides his bid." >}}
+
+After wandering around the big harbor area used for the fish auction, we went back into the restaurant, where the owner taught us the history of fishing in the area. According to him, the marlin fishing scene used to be much larger in the past, with hundreds of marlins being brought in every day, and boats catching many tens of fish a day. Nowadays, boats only manage to get 0 - 4 fish a day. He's not sure why, but speculates it has something to do with overfishing or climate change. Thus he says the local economy is depressed, and the fishermen are having a hard time making a livelihood. There's also less buyers for marlin now. Apparently it's a very international market for the marlin, including Korea and Japan. He started his restaurant to help boost the fishing economy and also to show off the local fish.
+
+
+{{< figure src="chengrestaurant.jpg" alt="The restaurant owner showing us old photos of the history of fishing in the area." caption="" >}}
+
+His restaurant is a highly regarded member of the Taidong "slow food" scene. "Slow Food" is a social movement that basically encompasses values of good, clean, and fair food harvesting, production, and preparation. There's multiple "Slow Food Festivals" in Taiwan every year and it's a rapidly growing scene. I'm not entirely sure which organization does this, but I was told his restaurant has the Slow Food equivalent of a Michelin Star.
+
+Finally, it was time to eat! This was some of the best food I'd had in a long time. It was all local ingredients, including locally spear-fished marlin! Behold:
+
+{{< figure src="chengfood1.jpg" alt="Sashimi" caption="A variety of sashimi. It was incredibly fresh and thick. Unfortunately I only got to try two of these!" >}}
+{{< figure src="chengfood2.jpg" alt="Salad" caption="A weirdly good salad. I never did get info on what dressing it was using. I had two helpings." >}}
+{{< figure src="chengfood3.jpg" alt="Marlin" caption="One of the stars of the show. Marlin prepared in a similar way to pork knuckles. They called it 'pork knuckles of the ocean.'" >}}
+{{< figure src="chengfood4.jpg" alt="Egg and seaweed" caption="Very simple egg and seaweed dish that was very well balanced. Not too seaweedy, not too salty." >}}
+{{< figure src="chengfood5.jpg" alt="Fish ball soup" caption="Fish ball and seaweed soup. This was good but I did find this one a bit too seaweedy." >}}
+{{< figure src="chengfood6.jpg" alt="Beef and onion" caption="I think this was beef or pork and onion, I'm actually not sure." >}}
+{{< figure src="chengfood7.jpg" alt="Tunas steak" caption="Tuna steak prepared like beef steak. 'Steak of the ocean', absolutely incredible." >}}
+{{< figure src="chengfood8.jpg" alt="Squid" caption="The freshest squid I've ever had. Squid fishing is incredibly popular in the region." >}}
+{{< figure src="chengfood9.jpg" alt="Fish soup with goji berries" caption="Fish soup with goji berries, unfortunately I can't remember what kind of fish! Somewhat medicinal flavor, but good." >}}
+{{< figure src="chengfood91.jpg" alt="Sweet salty crispy tube things" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
+
+I went from starving to stuffed to the absolute brim. We lingered for only a little bit but needed to keep on schedule, so I had to haul my fat ass out of the chair and get ready to hike up the hill to our next destination.
+
+{{< figure src="chengauction1" alt="" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
+{{< figure src="chengauction2" alt="Sweet salty crispy tube things" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
+{{< figure src="chengauction3" alt="Sweet salty crispy tube things" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
