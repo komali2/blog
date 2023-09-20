@@ -19,7 +19,7 @@ Now that I re-read this form, I'm realizing I got the name wrong, above. It's ac
 
 Point is, someone paid for my train tickets and housing to go to Taidong and stay there for two nights, including several incredible meals and really fun tours and activities. I had a great time and want to share some of the stuff we got up to because it was a pretty cool way to check out Taidong.
 
-If you're interested in further reading material, or an alternative itinerary, you can check out the booklets they made for our reference during the trip. There's actually some fun info in there. [Here's the PDF from our trip](https://calebjay.com/taidongtrip/taidongtrippdf.pdf), and [another one from the trip of people after us](https://calebjay.com/taidongtrip/taidongfollowuptrip.pdf). I tried to duplicate the info into this post but the PDFs aren't formatted in a way that makes copying text out easy.
+If you're interested in further reading material, or an alternative itinerary, you can check out the booklets they made for our reference during the trip. There's actually some fun info in there. [Here's the PDF from our trip](https://calebjay.com/taidongtrip/taidongtrippdf.pdf), and [another one from the trip of people after us](https://calebjay.com/taidongtrip/taidongfollowuptrip.pdf). I tried to duplicate the info into this post but the PDFs aren't formatted in a way that makes copying text out easy. Another good resource is Crossroad's [circle.so](https://ttnomads.circle.so/home) page for Taidong.
 
 ## Itinerary
 
@@ -46,7 +46,7 @@ I grabbed a train from Taipei, at Songshan Station, to Taidong. If you get an ex
 
 ### Stay at Norden Ruder hostel
 
-{{< figure src="peoplesteven.jpg" alt="Steven holding a banner" caption="Steven was our main dude" >}}
+{{< figure src="peoplesteven.jpg" alt="Stephen holding a banner" caption="Stephen was our main dude" >}}
 
 I showed up on time, purposefully ignored the nice people with the cool flag that were obviously trying to get my attention so as to beeline to the bathroom, then came back out to meet up with my handlers, who drove us to the excellent [Norden Ruder](https://goo.gl/maps/LQ6EQTv75hqFVoTP6) hostel, my favorite place to stay in Taidong. We usually stay here for Crossroads trips as well.
 
@@ -56,7 +56,7 @@ I showed up on time, purposefully ignored the nice people with the cool flag tha
 
 ### Eat a Hella Good Dinner
 
-Steven recommended a couple really good looking restaurants, but only one of his suggestions was actually open, a place that focuses on red quinoa called [ "七里坡紅藜養生料理" ](https://goo.gl/maps/MWGWaMtmg3jhbEAa9). It was really good! The three of us relaxed and got to know eachother, since Bream was busy.
+Stephen recommended a couple really good looking restaurants, but only one of his suggestions was actually open, a place that focuses on red quinoa called [ "七里坡紅藜養生料理" ](https://goo.gl/maps/MWGWaMtmg3jhbEAa9). It was really good! The three of us relaxed and got to know eachother, since Bream was busy.
 
 {{< figure src="firstfood1.jpg" alt="Some kind of fruit drink" caption="Really refreshing fruity almost smoothie-like drink" >}}
 {{< figure src="firstfood2.jpg" alt="Pudding" caption="Really good black sugar pudding with perhaps quinoia on top" >}}
@@ -166,7 +166,7 @@ After the cave, we hiked over to a hut, where food was being set up, and a coupl
 
 After we were done messin around, we're brought to a pile of dirt and rocks. This was a traditional way of cooking called, I believe, "Ichibi." The method involves having the kids dig a huge pit and chucking a bunch of vegetables and whatever other food into it. They cover this with stones, set a fire on the stones, and then cover the whole thing in mud and let it cook. Apparently it doesn't cook very well but they eat it anyway. It's supposed to be a good activity to do when the parents are out hunting or whatever, and the grandparents want to keep the kids busy. Thus, the tour guide seemed to feel quite nostalgic about it. He described his culture as a scarcity culture and said that being able to eat so much food at once was a delight.
 
-{{< figure src="tribefoodcovered.jpg" alt="The food covered in rocks and dirt" caption="The tour guide said that typically the food is just chucked straight up into a bit and covered with rocks and dirt, but they wrapped it all in tinfoil and covered it with a pot for our sake." >}}
+{{< figure src="tribefoodcovered.jpg" alt="The food covered in rocks and dirt" caption="The tour guide said that typically the food is just chucked straight up into a pit and covered with rocks and dirt, but they wrapped it all in tinfoil and covered it with a pot for our sake." >}}
 
 We dig out the Ichibi and bring it over to a table where a veritable feast had been laid out. It's all super good food. I really like the blood sausage. Some of the food is made with herbs we saw in the forest. I like that. We eat and talk a while. Some tea is served, which we can optionally mix with a millet wine they make locally. I thought it was surprisingly refreshing.
 
@@ -191,20 +191,20 @@ We finish off with some kind of traditional activity where a bell is strapped to
 
 After that excellent and exhausting tour, we pile back onto the bus and, after a quick 7-11 stop (refill water bottles!!), we all pass out for the hour drive to the next tribe we were to visit.
 
-We stop at a teahouse right above [ Duoliang Railway Station ](https://goo.gl/maps/oEBfa5MV9DqLshr7A), which I believe is the more famous thing in the area. The station is defunct now, but affords good photos of trains with the ocean in the background, if you're into that kind of thing, which judging by the google maps page for the thing, many thousands of people are.
+We stop at a teahouse right above [ Duoliang Railway Station ](https://goo.gl/maps/oEBfa5MV9DqLshr7A), which I believe is the more famous thing in the area. The station is defunct now, but affords good photos of trains with the ocean in the background, if you're into that kind of thing, which judging by the google maps page for the place, many thousands of people are.
 
 
 {{< figure src="woodtrain1.jpg" alt="Bream looking at an approaching train" caption="" >}}
 {{< figure src="woodtrain2.jpg" alt="A train with the ocean in the background" caption="The ocean was gorgeous that day!" >}}
 {{< figure src="wooddrinks.jpg" alt="A tray of drinks" caption="The fruit tea was very refreshing on this extremely hot day." >}}
 
-The tea shop was combined with the [local cultural center](https://goo.gl/maps/qYmTNozmzMpSYZ6C9), which included a woodworking shop. The woodworking cultural center thing was set up after a major typhoon caused a great deal of destruction in the village, upon which many descendants of villagers came back from Taipei and elsewhere to help rebuild. They didn't really have any carpentry experience, so older folks taught them, and then they applied these skills to making other cool things, like art. Now the woodworking shop is used to create art, toys, and puzzles from local driftwood and wood.
+The tea shop was combined with the [local cultural center](https://goo.gl/maps/qYmTNozmzMpSYZ6C9), which included a woodworking shop. The woodworking cultural center thing was set up after a major typhoon caused a great deal of destruction in the village, upon which event many descendants of villagers came back from Taipei and elsewhere to help rebuild. They didn't really have any carpentry experience, so older folks taught them, and then they applied these skills to making other cool things, like art. Now the woodworking shop is used to create art, toys, and puzzles from local driftwood and wood.
 
 {{< figure src="woodman.jpg" alt="A man working with some wood" caption="Unfortunately we didn't get to do any woodworking." >}}
-{{< figure src="woodwooddesign.jpg" alt="Some carved driftwood" caption="The local developed their style to show off more of the intricacies of the local driftwood." >}}
+{{< figure src="woodwooddesign.jpg" alt="Some carved driftwood" caption="The locals developed their style to show off more of the intricacies of the local driftwood." >}}
 {{< figure src="woodwoodpuzzle.jpg" alt="A wood puzzle" caption="We spent a fair bit of time playing with the wooden blocks." >}}
 
-This tour was a bit less structured than the previous one, with a younger local finding us after we'd been chilling out for a bit, and reading a script off a piece of paper in somewhat challenged English. We quickly switched to preferring her to just speak Mandarin while Liana and Steven helped translate. No local student provided for translation here, for some reason, not that I minded.
+This tour was a bit less structured than the previous one, with a younger local finding us after we'd been chilling out for a bit, and reading a script off a piece of paper in somewhat challenged English. We quickly switched to preferring her to just speak Mandarin while Liana and Stephen helped translate. No local student provided for translation here, for some reason, not that I minded.
 
 We were given rides (why not just a quick hike? I'm not sure) higher up the mountain into the tribal area proper, where we were brought to a little supermarket all the people we met really liked to talk about. It was run by the third generation of a family of Han Chinese that had come to the village decades ago. They're renown for being kind and letting children and poor people just take food. Later we learn they keep fastidious records and people would often find their grandparents had large debts at the store after they died. A lot of the food in the supermarket was super oldschool, lots of various canned good that Stephen and the other Taiwanese kept saying they hadn't seen in ages. That made me think about how boomers seemed to be eating a lot of funky canned food, which I thought was just a USA thing, but apparently not. We all bought little ice creams and headed to the second stop: a cool overhang that the village chief built cause he thought it would be a cool place to hang out in.
 
@@ -336,13 +336,13 @@ He is said to be much beloved by the locals and chose to live his entire life in
 
 After the history lesson, we explored the house. It's called [菅宮勝太郎宅](https://maps.app.goo.gl/Jiv8RuJXRPKtw9nF8).
 
-{{< figure src="japan3.JPG" alt="A living room in the Japanese house, with a table and chairs." caption="The house is well maintained, but filled not just with original objects, but also random old stuff saved from the entire neighborhood. It's functioning as an impromptu museum, the collection being random stuff from the area." >}}
+{{< figure src="japan3.JPG" alt="A living room in the Japanese house, with a table and chairs." caption="The house is well maintained, filled not just with original objects, but also random old stuff saved from the entire neighborhood. It's functioning as an impromptu museum, the collection being random stuff from the area." >}}
 
 {{< figure src="japan4.JPG" alt="A view into the original roof structure." caption="During renovation, they discovered in the roof's original structure two placards indicating information about the builders and the era in which the building was constructed. This is apparently a Japanese tradition." >}}
 
 {{< figure src="japan6.JPG" alt="An old record player, and records on the wall." caption="" >}}
 
-{{< figure src="japan7.jpg" alt="All of us fiddling with an old 8 track player." caption="The owners of the museum said they haven't gotten this 8 track player to actually play a tape let, and were happy with us to just fiddle with it. When have you ever been allowed to be that hands-on with an exhibit? Very cool and fun!" >}}
+{{< figure src="japan7.jpg" alt="All of us fiddling with an old 8 track player." caption="The owners of the museum said they haven't gotten this 8 track player to actually play a tape yet, and were happy with us to just fiddle with it. When have you ever been allowed to be that hands-on with an exhibit? Very cool and fun!" >}}
 
 After wandering around the two floors of the house for maybe a half hour, we headed back to the cafe to relax with some coffee and desserts. The cafe is called [眺港café](https://maps.app.goo.gl/WhZv6VhAzxnqNi3b7).
 
@@ -360,6 +360,6 @@ It was a really fun trip, and I'm really grateful for the unique itinerary. Afte
 
 I highly recommend Taidong as a destination for those coming to Taiwan for more than a week. It doesn't take too long to get to by train from Taipei, maybe about 4 or 5 hours depending, and there's lots of unique, somewhat strange, history here, between the ROC settler colonists, the Japanese imperialists, and the various waves of Han imperialists, alongside Taiwan indigenous people. Not to mention the current strategic importance of Taidong as a large airforce base from which many tens of fighter jets take off every day, it's just a very unique place!
 
-I also highly recommend joining in similar tours to the one I went on if the opportunity presents itself. The hosts were struggling with people thinking the opportunity was too good to be true and thus is a scam. So hopefully you can find this post and know, nope, it's really, and very fun!
+I also highly recommend joining in similar tours to the one I went on if the opportunity presents itself. The hosts were struggling with people thinking the opportunity was too good to be true and thus is a scam. So hopefully you can find this post and know, nope, it's real, and very fun!
 
 As always, feel free to email caleb at this website if you have any questions, or perhaps can help me add more information about the places I visited!
