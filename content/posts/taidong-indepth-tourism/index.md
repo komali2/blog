@@ -8,34 +8,34 @@ tags: [taiwan', 'digital nomad']
 
 In early August, 2023, the Cross-Generational Bilingual Training Program in Taitung invited me to their Taitung In-Depth Tourism English Service Guided Tour, or, CGBTPiT's TIDTESGT. They have no website.
 
-As far as I could determine, this program is from some kind of tourism-focused office of the Taidong government, with the objective of developing tourist activities for English speakers within Taidong county. Wait, but there's no "English" in the title of their Training Program, it just says "Bilingual!" Don't worry, in Taiwan, Bilingual can only ever mean "English and Mandarin" (a common critique of the [2030 Bilingual Nation Initiative](https://www.tandfonline.com/doi/abs/10.1080/01434632.2021.1909054?journalCode=rmmm20)).
+As far as I could determine, this program is from some kind of tourism-focused office of the Taidong government, with the objective of developing tourist activities for English speakers within Taidong county. Wait, but there's no "English" in the title of their Training Program, it just says "Bilingual!" Don't worry, in Taiwan, "bilingual" can only ever mean "English and Mandarin" (a common critique of the [2030 Bilingual Nation Initiative](https://www.tandfonline.com/doi/abs/10.1080/01434632.2021.1909054?journalCode=rmmm20)).
 
 Good motive, though they apparently had a bit of trouble getting recruits for the nearly all-expenses-paid trip. That might be because the only way I was able to hear about it was Jade sending me a Google Doc application for the trip. That doc did have some nice videos from the previous couple trips, though:
 
 * https://www.youtube.com/watch?v=ILmXrsHo9Es&t=1s
 * https://www.facebook.com/100063632803493/videos/189131489435966
 
-Now that I re-read this form, I'm realizing I got the name wrong, above. it's actually the Taitung County Government International Development and Planning Department's trip, executed by CoCreate Planning & Design Consultancy, or TCGIDPDCCP&DC for short. Who knows!
+Now that I re-read this form, I'm realizing I got the name wrong, above. It's actually the Taitung County Government International Development and Planning Department's trip, executed by CoCreate Planning & Design Consultancy, or TCGIDPDCCP&DC for short. Who knows!
 
-Point is, someone paid for my train tickets and housing to go to Taidong and stay there for two nights, including several incredible meals and really fun tours and activities. I had a great time and want to share some of the stuff we got up to beacuse it was a pretty cool way to check out Taidong.
+Point is, someone paid for my train tickets and housing to go to Taidong and stay there for two nights, including several incredible meals and really fun tours and activities. I had a great time and want to share some of the stuff we got up to because it was a pretty cool way to check out Taidong.
 
 If you're interested in further reading material, or an alternative itinerary, you can check out the booklets they made for our reference during the trip. There's actually some fun info in there. [Here's the PDF from our trip](https://calebjay.com/taidongtrip/taidongtrippdf.pdf), and [another one from the trip of people after us](https://calebjay.com/taidongtrip/taidongfollowuptrip.pdf). I tried to duplicate the info into this post but the PDFs aren't formatted in a way that makes copying text out easy.
 
 ## Itinerary
 
-* Day 0
-  * Train to Taidong
-  * Stay at Norden Ruder hostel
-  * Eat a Hella Good Dinner
-* Day 1
-  * Taromak Rukai Community Tour
-  * Sunrise Driftwood Workshop and Paiwan Tribal Community Tour
-  * Eat Another Hella Good Dinner
-* Day 2
-  * Stand Up Paddleboarding at Asscrack of Dawn
-  * Eat Hella Good Lunch
-  * Tour Some Old Japanese Dude's House
-  * Go Home
+* [Day 0](#day-0)
+  * [Train to Taidong](#train-to-taidong)
+  * [Stay at Norden Ruder hostel](#stay-at-norden-ruder-hostel)
+  * [Eat a Hella Good Dinner](#eat-a-hella-good-dinner)
+* [Day 1](#day-1)
+  * [Taromak Rukai Community Tour](#taromak-rukai-community-tour)
+  * [Sunrise Driftwood Workshop and Paiwan Tribal Community Tour](#sunrise-driftwood-workshop-and-paiwan-tribal-community-tour)
+  * [Eat Another Hella Good Dinner](#eat-another-hella-good-dinner)
+* [Day 2](#day-2)
+  * [Stand Up Paddleboarding at Asscrack of Dawn](#stand-up-paddleboarding-at-asscrack-of-dawn)
+  * [Eat Hella Good Lunch](#eat-hella-good-lunch)
+  * [Tour Some Old Japanese Dude's House](#tour-some-old-japanese-dudes-house)
+  * [Go Home](#go-home)
 
 
 ## Day 0
@@ -48,15 +48,15 @@ I grabbed a train from Taipei, at Songshan Station, to Taidong. If you get an ex
 
 {{< figure src="peoplesteven.jpg" alt="Steven holding a banner" caption="Steven was our main dude" >}}
 
-I showed up on time, purposefully ignored the nice people with the cool flag that were obviously trying to get my attention so as to beeline to the bathroom, then came back out to meet up with my handlers, who drove us to the excellent [ Norden Ruder ](https://goo.gl/maps/LQ6EQTv75hqFVoTP6) hostel, my favorite place to stay in Taidong. We usually stay here for Crossroads trips as well.
+I showed up on time, purposefully ignored the nice people with the cool flag that were obviously trying to get my attention so as to beeline to the bathroom, then came back out to meet up with my handlers, who drove us to the excellent [Norden Ruder](https://goo.gl/maps/LQ6EQTv75hqFVoTP6) hostel, my favorite place to stay in Taidong. We usually stay here for Crossroads trips as well.
 
-{{< figure src="hostel1.jpg" alt="Fish tank in the hostel" caption="They have really cool intererior design" >}}
+{{< figure src="hostel1.jpg" alt="Fish tank in the hostel" caption="They have really cool interior design" >}}
 {{< figure src="hostel2.jpg" alt="View of the hostel from the bottom floor" caption="The hostel is built around this really nice lobby on the bottom floor that gets lots of natural light" >}}
-{{< figure src="hostel3.jpg" alt="Map of taidong on hostel wall" caption="Surprisingly useful map of Taidong!" >}}
+{{< figure src="hostel3.jpg" alt="Map of Taidong on hostel wall" caption="Surprisingly useful map of Taidong!" >}}
 
 ### Eat a Hella Good Dinner
 
-Steven recommended a couple really good looking restaurants, but only one of his suggestions was actually open, a place that focuses on red quinoia called [ "七里坡紅藜養生料理" ](https://goo.gl/maps/MWGWaMtmg3jhbEAa9). It was really good! The three of us relaxed and got to know eachother, since Bream was busy.
+Steven recommended a couple really good looking restaurants, but only one of his suggestions was actually open, a place that focuses on red quinoa called [ "七里坡紅藜養生料理" ](https://goo.gl/maps/MWGWaMtmg3jhbEAa9). It was really good! The three of us relaxed and got to know eachother, since Bream was busy.
 
 {{< figure src="firstfood1.jpg" alt="Some kind of fruit drink" caption="Really refreshing fruity almost smoothie-like drink" >}}
 {{< figure src="firstfood2.jpg" alt="Pudding" caption="Really good black sugar pudding with perhaps quinoia on top" >}}
@@ -88,7 +88,7 @@ Bream and I were volunteered for the entering ritual. It involved standing befor
 
 {{< figure src="tribepointentrance.jpg" alt="The group posing with a banner near the tribe entrance" caption="The guide was insistent that we all take a picture of us all pointing at the sky" >}}
 
-From here we wandered over to a fire memorial, 火災紀念亭, commemorating a tragedy that had occured some 60 or so years ago, where a large portion of the village burned down during lunar new year. The guide cracked a joke about a new years BBQ that the student refused to translate, lol.
+From here we wandered over to a fire memorial, 火災紀念亭, commemorating a tragedy that had occurred some 60 or so years ago, where a large portion of the village burned down during lunar new year. The guide cracked a joke about a new years BBQ that the student refused to translate, lol.
 
 {{< figure src="tribeenvironment.jpg" alt="The mountains around the tribe" caption="Though hot, the environment around the tribe was gorgeous, with the thickly jungled mountains in the distance" >}}
 
@@ -104,7 +104,7 @@ The myth he spent the most time on involved a small and large species of deer, a
 
 {{< figure src="tribeaesthetic.jpg" alt="Closeup of mural" caption="I liked the murals they had all over the place.">}}
 
-The tour guide talked on and off about how the tribe faired during Japanese occupation, and mentioned specifically really classic fascist techniques employed, such as choosing specific members of the tribe to police the camp they'd all been moved to, rather than use Japanese soldiers to do so. He lamented that the Japanese also forced them to stop their custom of beheading intruders, and that the Japanese forced them to make toilets.
+The tour guide talked on and off about how the tribe fared during Japanese occupation, and mentioned specifically really classic fascist techniques employed, such as choosing specific members of the tribe to police the camp they'd all been moved to, rather than use Japanese soldiers to do so. He lamented that the Japanese also forced them to stop their custom of beheading intruders, and that the Japanese forced them to make toilets.
 
 {{< figure src="tribebutterfly.jpg" alt="Butterflies" caption="There were hundreds of butterflies around." >}}
 {{< figure src="tribepoint2.jpg" alt="All of us posing in front of the sculpture" caption="We must stand and point again before moving on." >}}
@@ -114,9 +114,9 @@ Next we walk into the village proper to check out the chieftain's house, 頭目�
 {{< figure src="tribechristian1.jpg" alt="The church at which the funeral was being held" caption="Top of the church where the funeral was being held." >}}
 {{< figure src="tribechristian2.jpg" alt="Virgin mary statue in a community center" caption="Virgin mary statue in a community center." >}}
 
-We walked up to the chieftian's house, which was near another building that I believe traditionally was where the millet was stored. We apparently weren't supposed to point at the building or really even look at it too much. We were given some kind of explanation about how the food there was reserved for the sick, but I wasn't clear on that.
+We walked up to the chieftain's house, which was near another building that I believe traditionally was where the millet was stored. We apparently weren't supposed to point at the building or really even look at it too much. We were given some kind of explanation about how the food there was reserved for the sick, but I wasn't clear on that.
 
-{{< figure src="tribechieftanhouse.JPG" alt="The doorway of the chieftan's house" caption="The chieftan gets to have iconography around his door that nobody else does, such as the blade feathers on a headband. Note as well the traditional pot." >}}
+{{< figure src="tribechieftanhouse.JPG" alt="The doorway of the chieftain's house" caption="The chieftan gets to have iconography around his door that nobody else does, such as the blade feathers on a headband. Note as well the traditional pot." >}}
 
 {{< figure src="tribeheadguy.jpg" alt="Statue of a man" caption="The unfortunately now banned practice of beheading is memorialized." >}}
 {{< figure src="tribesuskid.jpg" alt="A kid on a toy car" caption="We got to see what the locals were up to." >}}
@@ -134,7 +134,7 @@ Our first stop at the top of the mountain is a smaller version of the big swing.
 {{< figure src="tribeswingride.jpg" alt="Liana riding the small swing" caption="Only unmarried women are allowed to ride the swing. Bummer." >}}
 {{< figure src="tribeswingdone.jpg" alt="Bream carrying Liana" caption="Newlywed husbands carry their wives off the swing, and then don't set them down for as long as they can, as a ritual show of strength." >}}
 
-From there we were toured around the jungle a bit, with the tour guide occassionally pointing out and picking plants that were edible, and letting us taste them. This was my favorite part of the day.
+From there we were toured around the jungle a bit, with the tour guide occasionally pointing out and picking plants that were edible, and letting us taste them. This was my favorite part of the day.
 
 {{< figure src="tribeplantseat1.jpg" alt="The tour guide holding an edible plant" caption="Some of the plants were sweet, others sour." >}}
 {{< figure src="tribeplantseat2.jpg" alt="The tour guide standing next to another edible plant" caption="Many plants are used as seasonings." >}}
@@ -142,9 +142,9 @@ From there we were toured around the jungle a bit, with the tour guide occassion
 {{< figure src="tribeplantseat4.jpg" alt="A coffee tree in the jungle." caption="They also had coffee trees growing randomly in the jungle!" >}}
 {{< figure src="tribeplantseat5.jpg" alt="Unidentified plant" caption="No idea what this is. Looks cool though!" >}}
 
-The tour guide also pointed out a stinging nettle plant, and told a story about how adults aren't allowed to hurt children that aren't their own, but they can smack them with stinging nettle, and he believed this to be an effective form of corporeal punishment. Hm.
+The tour guide also pointed out a stinging nettle plant, and told a story about how adults aren't allowed to hurt children that aren't their own, but they can smack them with stinging nettle, and he believed this to be an effective form of corporal punishment. Hm.
 
-{{< figure src="tribalselfie.jpg" alt="The tour guide taking a selfie with all of us" caption="Inevitable jungle selfie." >}}
+{{< figure src="tribeselfie.jpg" alt="The tour guide taking a selfie with all of us" caption="Inevitable jungle selfie." >}}
 
 After this the tour guide stuffed us in a hollow tree and told us the tribe likes hollow trees because they smack them with sticks to communicate across long distances, and also because there's often beehives inside where they can get honey. Our tree also had a beehive, which made me think about murder hornets, so I didn't enjoy being in the hollow tree. Also, he makes us listen to the tree bark, and is surprised we hear nothing. He says the ability to hear the tree is based on wisdom, so I guess we aren't wise. He says that hunters have to have very sensitive hearing in the forest.
 
@@ -157,7 +157,7 @@ He hikes us up past a bunch of old Japanese bomb shelters, passes out a bunch of
 
 {{< figure src="tribepoint3.jpg" alt="All of us pointing in the jungle" caption="Have to take the pointing picture before we can move on." >}}
 
-After the cave, we hiked over to a hut, where food was being set up, and a couple bow had been set out with some arrows for us to fiddle with. To access the hut, we had to step over some reeds on the ground, as well as an incense pot. This was supposed to dispell bad spirits or something.
+After the cave, we hiked over to a hut, where food was being set up, and a couple bows had been set out with some arrows for us to fiddle with. To access the hut, we had to step over some reeds on the ground, as well as an incense pot. This was supposed to dispel bad spirits or something.
 
 
 {{< figure src="tribesteppy.jpg" alt="Bream and others stepping over the reeds on the ground." caption="Stepping over the reeds to dispel the spirits." >}}
@@ -168,11 +168,11 @@ After we were done messin around, we're brought to a pile of dirt and rocks. Thi
 
 {{< figure src="tribefoodcovered.jpg" alt="The food covered in rocks and dirt" caption="The tour guide said that typically the food is just chucked straight up into a bit and covered with rocks and dirt, but they wrapped it all in tinfoil and covered it with a pot for our sake." >}}
 
-We dig out the Ichibi and bring it over to a table where a veritable feast had been lain out. It's all super good food. I really like the blood sausage. Some of the food is made with herbs we saw in the forest. I like that. We eat and talk a while. Some tea is served, which we can optionally mix with a millet wine they make locally. I thought it was surprisingly refreshing.
+We dig out the Ichibi and bring it over to a table where a veritable feast had been laid out. It's all super good food. I really like the blood sausage. Some of the food is made with herbs we saw in the forest. I like that. We eat and talk a while. Some tea is served, which we can optionally mix with a millet wine they make locally. I thought it was surprisingly refreshing.
 
 {{< figure src="tribefoodbeans.jpg" alt="Beans" caption="" >}}
 {{< figure src="tribefoodfish.jpg" alt="Fish" caption="" >}}
-{{< figure src="tribefoodtribefoodplants.jpg" alt="Edible plants" caption="" >}}
+{{< figure src="tribefoodplants.jpg" alt="Edible plants" caption="" >}}
 {{< figure src="tribefoodpork.jpg" alt="Pork" caption="" >}}
 {{< figure src="tribefoodpumpkin.jpg" alt="Pumpkin" caption="" >}}
 {{< figure src="tribefoodsausage.jpg" alt="Blood Sausage" caption="" >}}
@@ -206,14 +206,14 @@ The tea shop was combined with the [local cultural center](https://goo.gl/maps/q
 
 This tour was a bit less structured than the previous one, with a younger local finding us after we'd been chilling out for a bit, and reading a script off a piece of paper in somewhat challenged English. We quickly switched to preferring her to just speak Mandarin while Liana and Steven helped translate. No local student provided for translation here, for some reason, not that I minded.
 
-We were given rides (why not just a quick hike? I'm not sure) higher up the mountain into the tribal area proper, where we were brought to a little supermarket all the people we met really liked to talk about. It was run by the third generation of a family of Han Chinese that had come to the village decades ago. They're reknown for being kind and letting children and poor people just take food. Later we learn they keep fastidious records and people would often find their grandparents had large debts at the store after they died. A lot of the food in the supermarket was super oldschool, lots of various canned good that Stephen and the other Taiwanese kept saying they hadn't seen in ages. That made me think about how boomers seemed to be eating a lot of funky canned food, which I thought was just a USA thing, but apparently not. We all bought little ice creams and headed to the second stop: a cool overhang that the village chief built cause he thought it would be a cool place to hang out in.
+We were given rides (why not just a quick hike? I'm not sure) higher up the mountain into the tribal area proper, where we were brought to a little supermarket all the people we met really liked to talk about. It was run by the third generation of a family of Han Chinese that had come to the village decades ago. They're renown for being kind and letting children and poor people just take food. Later we learn they keep fastidious records and people would often find their grandparents had large debts at the store after they died. A lot of the food in the supermarket was super oldschool, lots of various canned good that Stephen and the other Taiwanese kept saying they hadn't seen in ages. That made me think about how boomers seemed to be eating a lot of funky canned food, which I thought was just a USA thing, but apparently not. We all bought little ice creams and headed to the second stop: a cool overhang that the village chief built cause he thought it would be a cool place to hang out in.
 
 {{< figure src="woodhangout.jpg" alt="Hanging out in the overhang thing." caption="Nice view!" >}}
 {{< figure src="woodoldlady.jpg" alt="An old lady picking plants." caption="An old lady was picking random plants below us." >}}
-{{< figure src="woodtourguide.jpg" alt="Our tourgide for Paiwan tribe." caption="Our tour guide." >}}
+{{< figure src="woodtourguide.jpg" alt="Our tour guide for Paiwan tribe." caption="Our tour guide." >}}
 {{< figure src="woodmotorcycleguy.jpg" alt="A man on a motorcycle, outside the little supermarket." caption="Just some guy I liked the vibe of, coming to pick something up from the supermarket." >}}
 
-We piled back into the cars for another short ride (why not just hike???) to a cafe up on the hill. This was really cool, a gorgeous natural wood cafe with all outside seating, facing out over the ocean. Surrounded by native plants and little nick-nacks. All local to Taiwan tea, coffee, and snacks. We hung out at the cafe for a few hours without any kind of intinerary, so we basically interrogated the tour guide on information about the village, the tribal lifestyle, why she decided to move back to the town from Taipei, and etc.
+We piled back into the cars for another short ride (why not just hike???) to a cafe up on the hill. This was really cool, a gorgeous natural wood cafe with all outside seating, facing out over the ocean. Surrounded by native plants and little nick-nacks. All local to Taiwan tea, coffee, and snacks. We hung out at the cafe for a few hours without any kind of itinerary, so we basically interrogated the tour guide on information about the village, the tribal lifestyle, why she decided to move back to the town from Taipei, and etc.
 
 {{< figure src="wooddragonfruit.jpg" alt="A dragonfruit plant" caption="There was wild dragonfruit growing near the cafe." >}}
 {{< figure src="woodfruit.jpg" alt="Fruit growing on a tree" caption="And other fruit!" >}}
@@ -229,7 +229,7 @@ Apparently the cafe owner worked with the mayor to build the cafe without needin
 {{< figure src="woodfruitdrink.jpg" alt="A fruit tea drink" caption="All the drinks at the cafe were really good." >}}
 {{< figure src="woodcoffee.jpg" alt="Cold brewed coffee" caption="Local cold brewed coffee, very strong." >}}
 
-The cafe owner's dream for the village is for more young people to come back. She's not sure what they could do, or how the village could accomomdate a huge influx of people if it involved buildling more housing. She says it's difficult to think of ways to make money.
+The cafe owner's dream for the village is for more young people to come back. She's not sure what they could do, or how the village could accommodate a huge influx of people if it involved building more housing. She says it's difficult to think of ways to make money.
 
 {{< figure src="woodcat.jpg" alt="A cat" caption="They had cafe kittens." >}}
 
@@ -278,7 +278,7 @@ We originally were going to do stand up paddleboarding in the ocean, but they we
 
 {{< figure src="supboss.jpg" alt="All of us getting some stand up paddleboard coaching" caption="We got some coaching from a teacher before we started." >}}
 
-After a brief lesson, we were strapped into some lifejackets and pushed out into the lake on our boards. We were all able to stand on our boards without too much trouble after only a few minutes of practice, after which we zipped all around the lake, stopping occassionally for our guide to teach us some new techniques or game. There was a couple Taiwanese people not a part of our tour. They were more interested in taking photos and hanging around, while the rest of us got roudy and spent our time shoving eachother off our boards, racing, and doing yoga.
+After a brief lesson, we were strapped into some lifejackets and pushed out into the lake on our boards. We were all able to stand on our boards without too much trouble after only a few minutes of practice, after which we zipped all around the lake, stopping occasionally for our guide to teach us some new techniques or game. There were a couple Taiwanese people not part of our tour. They were more interested in taking photos and hanging around, while the rest of us got rowdy and spent our time shoving eachother off our boards, racing, and doing yoga.
 
 {{< figure src="suppose.jpg" alt="Liana doing a yoga pose on a stand up paddleboard" caption="Yoga skills." >}}
 
@@ -286,7 +286,7 @@ After maybe an hour and a half or so, we all paddle back to shore, load up onto 
 
 ### Eat Hella Good Lunch
 
-After packing up, we load onto the bus and drive WAY out to [Chenggong Township](https://maps.app.goo.gl/821CbF65SNc8Ur4k7), a town about an hour from Taidong that's famous for its harbor, where spearfisherman dock and sell marlin. Our first destination is a reknown and award-winning slow food restaurant, [旗遇海味](https://maps.app.goo.gl/EBJ7ZJwC9tzncEjVA). We arrive a little earlier than expected, and nobody's hungry yet because of the breakfast we all ate (I didn't eat breakfast and was starving lol but oh well), so we swapped our day around a little bit and explored the fish auction area and looked at the spear fishing boats.
+After packing up, we load onto the bus and drive WAY out to [Chenggong Township](https://maps.app.goo.gl/821CbF65SNc8Ur4k7), a town about an hour from Taidong that's famous for its harbor, where spearfisherman dock and sell marlin. Our first destination is a renowned and award-winning slow food restaurant, [旗遇海味](https://maps.app.goo.gl/EBJ7ZJwC9tzncEjVA). We arrive a little earlier than expected, and nobody's hungry yet because of the breakfast we all ate (I didn't eat breakfast and was starving lol but oh well), so we swapped our day around a little bit and explored the fish auction area and looked at the spear fishing boats.
 
 {{< figure src="chengboats.JPG" alt="Boats in Chenggong harbor" caption="The boats all had really cool designs and surprisingly clean paintjobs. The sloping ramp in the bottom left of the image is where a spear fisherman stands / squats, looking out for a marlin to spear. Apparently accidents are somewhat rare, but when they do happen they can be somewhat horrifying because the fisherman is partially strapped in. Though, according to the restaurant owner, only one person has died during his lifetime." >}}
 {{< figure src="chengdrysquid.JPG" alt="Dry squid in trays" caption="We briefly chatted with a shop selling dry squid. They say it typically takes a day or two to dry in the sun, longer if the sun isn't out. They add some combination of salt and cooking alcohol." >}}
@@ -301,56 +301,56 @@ His restaurant is a highly regarded member of the Taidong "slow food" scene. "Sl
 
 Finally, it was time to eat! This was some of the best food I'd had in a long time. It was all local ingredients, including locally spear-fished marlin! Behold:
 
-{{< figure src="chengfood1.jpg" alt="Sashimi" caption="A variety of sashimi. It was incredibly fresh and thick. Unfortunately I only got to try two of these!" >}}
-{{< figure src="chengfood2.jpg" alt="Salad" caption="A weirdly good salad. I never did get info on what dressing it was using. I had two helpings." >}}
-{{< figure src="chengfood3.jpg" alt="Marlin" caption="One of the stars of the show. Marlin prepared in a similar way to pork knuckles. They called it 'pork knuckles of the ocean.'" >}}
-{{< figure src="chengfood4.jpg" alt="Egg and seaweed" caption="Very simple egg and seaweed dish that was very well balanced. Not too seaweedy, not too salty." >}}
-{{< figure src="chengfood5.jpg" alt="Fish ball soup" caption="Fish ball and seaweed soup. This was good but I did find this one a bit too seaweedy." >}}
-{{< figure src="chengfood6.jpg" alt="Beef and onion" caption="I think this was beef or pork and onion, I'm actually not sure." >}}
-{{< figure src="chengfood7.jpg" alt="Tunas steak" caption="Tuna steak prepared like beef steak. 'Steak of the ocean', absolutely incredible." >}}
-{{< figure src="chengfood8.jpg" alt="Squid" caption="The freshest squid I've ever had. Squid fishing is incredibly popular in the region." >}}
-{{< figure src="chengfood9.jpg" alt="Fish soup with goji berries" caption="Fish soup with goji berries, unfortunately I can't remember what kind of fish! Somewhat medicinal flavor, but good." >}}
-{{< figure src="chengfood91.jpg" alt="Sweet salty crispy tube things" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
+{{< figure src="chengfood1.JPG" alt="Sashimi" caption="A variety of sashimi. It was incredibly fresh and thick. Unfortunately I only got to try two of these!" >}}
+{{< figure src="chengfood2.JPG" alt="Salad" caption="A weirdly good salad. I never did get info on what dressing it was using. I had two helpings." >}}
+{{< figure src="chengfood3.JPG" alt="Marlin" caption="One of the stars of the show. Marlin prepared in a similar way to pork knuckles. They called it 'pork knuckles of the ocean.'" >}}
+{{< figure src="chengfood4.JPG" alt="Egg and seaweed" caption="Very simple egg and seaweed dish that was very well balanced. Not too seaweedy, not too salty." >}}
+{{< figure src="chengfood5.JPG" alt="Fish ball soup" caption="Fish ball and seaweed soup. This was good but I did find this one a bit too seaweedy." >}}
+{{< figure src="chengfood6.JPG" alt="Beef and onion" caption="I think this was beef or pork and onion, I'm actually not sure." >}}
+{{< figure src="chengfood7.JPG" alt="Tunas steak" caption="Tuna steak prepared like beef steak. 'Steak of the ocean', absolutely incredible." >}}
+{{< figure src="chengfood8.JPG" alt="Squid" caption="The freshest squid I've ever had. Squid fishing is incredibly popular in the region." >}}
+{{< figure src="chengfood9.JPG" alt="Fish soup with goji berries" caption="Fish soup with goji berries, unfortunately I can't remember what kind of fish! Somewhat medicinal flavor, but good." >}}
+{{< figure src="chengfood91.JPG" alt="Sweet salty crispy tube things" caption="A sort of sweet/salty flaky pastry, involves meat floss, or fish meat floss alternative. Remarkably good. I wanted two. I only got one." >}}
 
 I went from starving to stuffed to the absolute brim. We lingered for only a little bit but needed to keep on schedule, so I had to haul my fat ass out of the chair and get ready to hike up the hill to our next destination. First, we were able to witness some fresh fish being auctioned off in the auction area!
 
-{{< figure src="chengauction1" alt="Two fish on the ground at the fish auction" caption="Two enormous fish! " >}}
-{{< figure src="chengauction2" alt="Two people taking notes on the auction" caption="I'm actually not sure what the clipboard folks were doing, or why there were two of them. Bureaucracy!" >}}
-{{< figure src="chengauction3" alt="The winner of the auction holding his fish" caption="The auction winner standing proudly with his fish. I wonder what his plans with it are! I have no idea what price it sold for." >}}
-{{< figure src="chengbye" alt="All of us pointing and saying goodbye" caption="Obligatory point somewhere picture." >}}
+{{< figure src="chengauction1.JPG" alt="Two fish on the ground at the fish auction" caption="Two enormous fish! " >}}
+{{< figure src="chengauction2.JPG" alt="Two people taking notes on the auction" caption="I'm actually not sure what the clipboard folks were doing, or why there were two of them. Bureaucracy!" >}}
+{{< figure src="chengauction3.JPG" alt="The winner of the auction holding his fish" caption="The auction winner standing proudly with his fish. I wonder what his plans with it are! I have no idea what price it sold for." >}}
+{{< figure src="chengbye.jpg" alt="All of us pointing and saying goodbye" caption="Obligatory point somewhere picture." >}}
 
 ### Tour Some Old Japanese Dude's House
 
-So apparently Chenggong harbor was built mostly by the Japanese during their occupation. It's really interesting to hear things from locals like "we didn't really know how to catch those kinds of fish until the Japanese taught us," or talking positively about the various forms of infrastructure the Japanese brought with them. Perhaps certain legacies of imperialism sit better with locals who don't weren't around for the horrors of it, or maybe those who suffered the worse of it didn't have much in the way of ancestors that survived today, or maybe it wasn't that bad, who knows? It's a question I really want to explore more.
+So apparently Chenggong harbor was built mostly by the Japanese during their occupation. It's really interesting to hear things from locals like "we didn't really know how to catch those kinds of fish until the Japanese taught us," or talking positively about the various forms of infrastructure the Japanese brought with them. Perhaps certain legacies of imperialism sit better with locals who don't weren't around for the horrors of it, or maybe those who suffered the worst of it didn't have much in the way of ancestors that survived today, or maybe it wasn't that bad, who knows? It's a question I really want to explore more.
 
 
-{{< figure src="japan1" alt="Man cutting metal" caption="Saw this on the way to the house, some dude cutting something idk looks cool." >}}
+{{< figure src="japan1.jpg" alt="Man cutting metal" caption="Saw this on the way to the house, some dude cutting something idk looks cool." >}}
 
-Anyway, the local governor the Japanese instilled to, ah, "govern" the area, built this house in a place where he could see the whole harbor. Its architecture is a unique mix of Japanese and European, with with a second story platform / porch that's more European style while the main house is entirely Japanese. It was apparently his routine to take breakfast on the porch while looking over the harbor.
+Anyway, the local governor the Japanese instilled to, ah, "govern" the area, built this house in a place where he could see the whole harbor. Its architecture is a unique mix of Japanese and European, with a second story platform / porch that's more European style while the main house is entirely Japanese. It was apparently his routine to take breakfast on the porch while looking over the harbor.
 
-{{< figure src="japan2" alt="View of the Japanese house" caption="The house has traded hands a couple times, and is now in the hands of some locals in some sort of conservatorship arrangement with the government, funded partially, if I remember correctly, by a local church. There's significant earthquake damage that they're working to restore. There's visible cracks in the pillars, which apparently I forgot to take closeups of." >}}
+{{< figure src="japan2.JPG" alt="View of the Japanese house" caption="The house has traded hands a couple times, and is now in the hands of some locals in some sort of conservatorship arrangement with the government, funded partially, if I remember correctly, by a local church. There's significant earthquake damage that they're working to restore. There's visible cracks in the pillars, which apparently I forgot to take closeups of." >}}
 
 He is said to be much beloved by the locals and chose to live his entire life in Chenggong, even after occupation ended, and was given permission by the ROC to keep living there and maintain his household. He's even said to be buried somewhere in the area.
 
-{{< figure src="japan21" alt="All of us sitting on a couch getting a history lesson." caption="We first sat in the adjacent cafe for a history lesson. In the middle of this talk was a jolt of an extremely short earthquake. Very scary! Good though, because we were all very sleepy after lunch." >}}
+{{< figure src="japan21.jpg" alt="All of us sitting on a couch getting a history lesson." caption="We first sat in the adjacent cafe for a history lesson. In the middle of this talk was a jolt of an extremely short earthquake. Very scary! Good though, because we were all very sleepy after lunch." >}}
 
-After the history lesson, we explored the house.
+After the history lesson, we explored the house. It's called [菅宮勝太郎宅](https://maps.app.goo.gl/Jiv8RuJXRPKtw9nF8).
 
-{{< figure src="japan3" alt="A living room in the Japanese house, with a table and chairs." caption="The house is well maintained, but filled not just with original objects, but also random old stuff saved from the entire neighborhood. It's functioning as an impromptu museum, the collection being random stuff from the area." >}}
+{{< figure src="japan3.JPG" alt="A living room in the Japanese house, with a table and chairs." caption="The house is well maintained, but filled not just with original objects, but also random old stuff saved from the entire neighborhood. It's functioning as an impromptu museum, the collection being random stuff from the area." >}}
 
-{{< figure src="japan4" alt="A view into the original roof structure." caption="During renovation, they discovered in the roof's original structure two placards indicating information about the builders and the era in which the building was construction. This is apparently a Japanese tradition." >}}
+{{< figure src="japan4.JPG" alt="A view into the original roof structure." caption="During renovation, they discovered in the roof's original structure two placards indicating information about the builders and the era in which the building was constructed. This is apparently a Japanese tradition." >}}
 
-{{< figure src="japan6" alt="An old record player, and records on the wall." caption="" >}}
+{{< figure src="japan6.JPG" alt="An old record player, and records on the wall." caption="" >}}
 
-{{< figure src="japan7" alt="All of us fiddling with an old 8track player." caption="The owners of the museum said they haven't gotten this 8track player to actually play a tape let, and were happy with us to just fiddle with it. When have you ever been allowed to be that hands-on with an exhibit? Very cool and fun!" >}}
+{{< figure src="japan7.jpg" alt="All of us fiddling with an old 8 track player." caption="The owners of the museum said they haven't gotten this 8 track player to actually play a tape let, and were happy with us to just fiddle with it. When have you ever been allowed to be that hands-on with an exhibit? Very cool and fun!" >}}
 
-After wandering around the two floors of the house for maybe a half hours, we headed back to the cafe to relax with some coffee and desserts.
+After wandering around the two floors of the house for maybe a half hour, we headed back to the cafe to relax with some coffee and desserts. The cafe is called [眺港café](https://maps.app.goo.gl/WhZv6VhAzxnqNi3b7).
 
-{{< figure src="japan8" alt="A brownie with googly eyes" caption="Cute brownie. The drinks and dessert were pretty good but a little too sweet for my taste." >}}
+{{< figure src="japan8.JPG" alt="A brownie with googly eyes" caption="Cute brownie. The drinks and dessert were pretty good but a little too sweet for my taste." >}}
 
 We had a bit of a feedback session during this time, then took the inevitable goodbye picture.
 
-{{< figure src="japanbye" alt="All of us pointing and saying goodbye in front of the Japanese house." caption="Point somewhere!" >}}
+{{< figure src="japanbye.jpg" alt="All of us pointing and saying goodbye in front of the Japanese house." caption="Point somewhere!" >}}
 
 ### Go Home
 

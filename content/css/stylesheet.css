@@ -69,6 +69,10 @@ article h1 {
     margin-right: auto;
 }
 
+.image-link img {
+    image-orientation: from-image;
+}
+
 figcaption {
     text-align: center;
 }
