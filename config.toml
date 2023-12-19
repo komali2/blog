@@ -5,8 +5,9 @@ title = "Caleb's Blog"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 timeout = 6000000
-[params]
-author = "Caleb Jay"
+[params.author]
+name = "Caleb Rogers"
+email = "caleb@calebjay.com"
 
 
 preserveTaxonomyNames = true
