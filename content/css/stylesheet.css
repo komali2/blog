@@ -18,6 +18,10 @@ header {
     max-width: 61rem;
 }
 
+.content {
+    min-height: 90vh;
+}
+
 main {
   margin-left: auto;
   margin-right: auto;

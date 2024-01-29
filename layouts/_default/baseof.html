@@ -17,12 +17,14 @@
     </title>
   </head>
   <body>
+    <div class="content">
     {{ block "header" . }}
     {{ partial "header" . }}
     {{ end }}
     {{ block "content" . }}
     You forgot to put content here bro.
     {{ end }}
+    </div>
     {{ partial "footer" . }}
     {{ partial "goatcounter" .}}
   </body>
