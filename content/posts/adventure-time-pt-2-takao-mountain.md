@@ -4,6 +4,7 @@ date: 2012-08-08T07:03:00.000-05:00
 draft: false
 categories: ['travel']
 tags: ['japan']
+description: 'Part two of an entry on an adventure I got to go on while living in Japan on an AIESEC exchange.'
 ---
 
 [![](http://2.bp.blogspot.com/-kLGUI6u68uI/UBzpaCuvSvI/AAAAAAAAAZQ/L-Qhee_J92k/s400/IMG_2237.JPG)](http://2.bp.blogspot.com/-kLGUI6u68uI/UBzpaCuvSvI/AAAAAAAAAZQ/L-Qhee_J92k/s1600/IMG_2237.JPG)
@@ -14,19 +15,19 @@ First of all, I've been uploading my videos to my youtube channel. [Head there t
 
 
 
-For a while, Allen had been suggesting that I head over to Takao mountain, which is just one stop away from where the kindergarten is. I had a free day so I decided to spend it wandering around Takao mountain. I took a look at their webpage to try to figure out how to actually get there, and though it was in English, it wasn't very helpful. Found out I actually need to head out two stops, and it was also highly recommended that I bring lots of sweets to eat for quick carbohydrate boosts. Lesson learned: never trust a Japanese nutritionist. 
+For a while, Allen had been suggesting that I head over to Takao mountain, which is just one stop away from where the kindergarten is. I had a free day so I decided to spend it wandering around Takao mountain. I took a look at their webpage to try to figure out how to actually get there, and though it was in English, it wasn't very helpful. Found out I actually need to head out two stops, and it was also highly recommended that I bring lots of sweets to eat for quick carbohydrate boosts. Lesson learned: never trust a Japanese nutritionist.
 
 
 
-The whole area is very pretty. It was strange that just about 15 minutes by train from Hachioji was this big [foresty mountain](http://www.flickr.com/photos/ablate/7669510630/) place, all quiet and peaceful. I also noticed that Japanese people wear super goofy clothes to go hiking, although unfortunately I didn't get any pictures. Basically they put on neon wetsuits and then a bunch of multicolored neon clothing over it, with hats and fanny packs galore. 
+The whole area is very pretty. It was strange that just about 15 minutes by train from Hachioji was this big [foresty mountain](http://www.flickr.com/photos/ablate/7669510630/) place, all quiet and peaceful. I also noticed that Japanese people wear super goofy clothes to go hiking, although unfortunately I didn't get any pictures. Basically they put on neon wetsuits and then a bunch of multicolored neon clothing over it, with hats and fanny packs galore.
 
 
 
-The start was fairly uneventful. I had already chosen [path 6](http://farm9.staticflickr.com/8141/7669503778_9742ccc786_t.jpg) because it followed a stream and eventually led to a waterfall, and with a bit of luck I managed to find that path within a short time. The place wasn't very well organized though, it was dumb luck that I went in the right direction I think. 
+The start was fairly uneventful. I had already chosen [path 6](http://farm9.staticflickr.com/8141/7669503778_9742ccc786_t.jpg) because it followed a stream and eventually led to a waterfall, and with a bit of luck I managed to find that path within a short time. The place wasn't very well organized though, it was dumb luck that I went in the right direction I think.
 
 
 
-I chose well, there was lots of cool Shinto stuff on the way up: 
+I chose well, there was lots of cool Shinto stuff on the way up:
 
 
 
@@ -37,7 +38,7 @@ I chose well, there was lots of cool Shinto stuff on the way up: 
 [![](http://1.bp.blogspot.com/-nPoWUUzMWts/UBzwSdPmuaI/AAAAAAAAAaQ/Wr5sx1-Ppzk/s320/IMG_2200.JPG)](http://1.bp.blogspot.com/-nPoWUUzMWts/UBzwSdPmuaI/AAAAAAAAAaQ/Wr5sx1-Ppzk/s1600/IMG_2200.JPG)
 
 
-God this blogging software is awful at arranging pictures. Anyway I was just walking up and enjoying the [scenery](http://www.flickr.com/photos/ablate/7669475698/) (apparently it's supposed to be about an hour and 45 minute walk to the peak) when I came upon the waterfall, which [had some sort of monastery right next to it](http://www.flickr.com/photos/ablate/7669471488/). Even more interesting than that was the fact that what I suspect were monks were engaged in some sort of ritual involving the waterfall. 
+God this blogging software is awful at arranging pictures. Anyway I was just walking up and enjoying the [scenery](http://www.flickr.com/photos/ablate/7669475698/) (apparently it's supposed to be about an hour and 45 minute walk to the peak) when I came upon the waterfall, which [had some sort of monastery right next to it](http://www.flickr.com/photos/ablate/7669471488/). Even more interesting than that was the fact that what I suspect were monks were engaged in some sort of ritual involving the waterfall.
 
 
 
@@ -45,7 +46,7 @@ God this blogging software is awful at arranging pictures. Anyway I was just wal
 
 
 
-It was really hard to see from where I was, and I think that was purposeful. I saw a path leading up over the waterfall and so decided to get a better view. Turns out they had installed a fence up there so people couldn't see down into the waterfall, but I found a hole and watched their ritual as best as I could. 
+It was really hard to see from where I was, and I think that was purposeful. I saw a path leading up over the waterfall and so decided to get a better view. Turns out they had installed a fence up there so people couldn't see down into the waterfall, but I found a hole and watched their ritual as best as I could.
 
 
 
@@ -53,7 +54,7 @@ It was really hard to see from where I was, and I think that was purposeful. I s
 
 
 
-I think the guy with the characters all over his outfit is some sort of master. There were 3 others standing on rocks shivering while he sat under the waterfall and shouted and chanted and stuff. Then they all got turns too, after doing some more shouting, chanting, and clapping. It was really cool. I took some videos of it, for those that are really curious. Had trouble keeping the auto-focus on the monks and not the bush in the way. 
+I think the guy with the characters all over his outfit is some sort of master. There were 3 others standing on rocks shivering while he sat under the waterfall and shouted and chanted and stuff. Then they all got turns too, after doing some more shouting, chanting, and clapping. It was really cool. I took some videos of it, for those that are really curious. Had trouble keeping the auto-focus on the monks and not the bush in the way.
 
 
 
@@ -67,11 +68,11 @@ Anyway so I kept on going up, until I came to this fork. All of these paths were
 
 
 
-This began a trend that continued on for the rest of the incredibly long time I spent wandering around that mountain: How did that thing get there, and why? In this case, [these rock steps](http://www.flickr.com/photos/ablate/7669441266/) leading up through the stream were huge, some were cut, and were very obviously put there by someone. Who, when, and how? I mean it was beautiful and functional, but man, it had to have taken a lot of work. 
+This began a trend that continued on for the rest of the incredibly long time I spent wandering around that mountain: How did that thing get there, and why? In this case, [these rock steps](http://www.flickr.com/photos/ablate/7669441266/) leading up through the stream were huge, some were cut, and were very obviously put there by someone. Who, when, and how? I mean it was beautiful and functional, but man, it had to have taken a lot of work.
 
 
 
-So I get to the top, I think, it was really hard to tell, but I was starting to feel tired and wonder why I was up there in the first place. Not the best of views, first picture in this post is the best view I could get. I tried to head back down the mountain on a different path, but realized after about 5 minutes that I was the only one around. Not that the mountain was exactly crowded, but on the way up I had seen a person at least every two minutes. Here it was nobody, and things were really slick. I almost busted my ass a good many times. Eventually I found another impossible to decipher multi-path fork, but one of the routes said I believe "Mountain Forest Library." I wasn't sure if it was metaphorical or if there was literally a library on top of the mountain, but I wanted to find out. I never actually found the library, just ended up going down really far, and  then I realized I was utterly lost when the path ended abruptly at a stream:  
+So I get to the top, I think, it was really hard to tell, but I was starting to feel tired and wonder why I was up there in the first place. Not the best of views, first picture in this post is the best view I could get. I tried to head back down the mountain on a different path, but realized after about 5 minutes that I was the only one around. Not that the mountain was exactly crowded, but on the way up I had seen a person at least every two minutes. Here it was nobody, and things were really slick. I almost busted my ass a good many times. Eventually I found another impossible to decipher multi-path fork, but one of the routes said I believe "Mountain Forest Library." I wasn't sure if it was metaphorical or if there was literally a library on top of the mountain, but I wanted to find out. I never actually found the library, just ended up going down really far, and  then I realized I was utterly lost when the path ended abruptly at a stream:
 
 
 
@@ -79,7 +80,7 @@ So I get to the top, I think, it was really hard to tell, but I was starting to 
 
 
 
-So I decided I had to give up on getting home at any reasonable time so as to rest up to explore another part of Tokyo. To add to the weirdness, I could hear a loud, repetitive banging sound echoing through the forest, like a giant hammer whacking into a bolder. Good thing it was daytime, I don't handle situations like this well in the dark. 
+So I decided I had to give up on getting home at any reasonable time so as to rest up to explore another part of Tokyo. To add to the weirdness, I could hear a loud, repetitive banging sound echoing through the forest, like a giant hammer whacking into a bolder. Good thing it was daytime, I don't handle situations like this well in the dark.
 
 
 
@@ -119,11 +120,11 @@ I think I've mentioned this before, but Japan constantly makes me think of Juras
 
 
 
-Why was all of that there? What were they building? Why did they stop? Did they encounter some ancient samurai burial ground and were run off by zombie samurais? Attacked by velociraptors? What? Keep in mind this is somewhere like halfway up a heavily forested mountain. 
+Why was all of that there? What were they building? Why did they stop? Did they encounter some ancient samurai burial ground and were run off by zombie samurais? Attacked by velociraptors? What? Keep in mind this is somewhere like halfway up a heavily forested mountain.
 
 
 
-I keep walking, utterly confused and having no way to satisfy my questions. I found what might have been [another house](http://www.flickr.com/photos/ablate/7669403122/) occupied by a suspicious cat that probably was some sort of helldemon sent to watch the human that had stumbled upon their unholy secret. After about maybe another 20 minutes, maybe sixteen centuries, who knows, I found an [active construction site](http://www.flickr.com/photos/ablate/7669393960/). This was the source of the ominous knocking sound I had heard echoing through the forest for the previous few hours. I don't know what they were building on that mountain, but I hightailed out of there. 
+I keep walking, utterly confused and having no way to satisfy my questions. I found what might have been [another house](http://www.flickr.com/photos/ablate/7669403122/) occupied by a suspicious cat that probably was some sort of helldemon sent to watch the human that had stumbled upon their unholy secret. After about maybe another 20 minutes, maybe sixteen centuries, who knows, I found an [active construction site](http://www.flickr.com/photos/ablate/7669393960/). This was the source of the ominous knocking sound I had heard echoing through the forest for the previous few hours. I don't know what they were building on that mountain, but I hightailed out of there.
 
 
 
@@ -131,7 +132,7 @@ I keep walking, utterly confused and having no way to satisfy my questions. I fo
 
 HOW HELPFUL YOU ARE THANK YOU JAPANESE SIGN
 
-Ended up on a road, off a road, in the middle of some woods, and then REALLY in the middle of some woods. At one point I could see [train tracks and a freeway](http://www.flickr.com/photos/ablate/7669366938/), so I knew I had to be somewhere with some small bit of civilization. Then again the road was build [extraordinarily high off the ground](http://www.flickr.com/photos/ablate/7669352044/), perhaps I was in some forgotten no-mans-land. 
+Ended up on a road, off a road, in the middle of some woods, and then REALLY in the middle of some woods. At one point I could see [train tracks and a freeway](http://www.flickr.com/photos/ablate/7669366938/), so I knew I had to be somewhere with some small bit of civilization. Then again the road was build [extraordinarily high off the ground](http://www.flickr.com/photos/ablate/7669352044/), perhaps I was in some forgotten no-mans-land.
 
 
 
@@ -146,7 +147,7 @@ I twenty minutes later I'm in a [typical Japanese suburb](http://www.flickr.com/
 
 
 
-I finally stumbled into the station a good 5 hours after getting there. I wondered how that could even have happened, and I realized I was at Takao station, one full stop away from Takaosanguchi, or Takao mountain gate, the station next to the mountain. All of that. 
+I finally stumbled into the station a good 5 hours after getting there. I wondered how that could even have happened, and I realized I was at Takao station, one full stop away from Takaosanguchi, or Takao mountain gate, the station next to the mountain. All of that.
 
 
 

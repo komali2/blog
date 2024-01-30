@@ -4,6 +4,7 @@ date: 2024-01-28T19:48:00.000-05:00
 draft: false
 categories: ['info']
 tags: ['books', 'philosophy']
+description: 'A list of, and short reviews for, the various books I read in 2023.'
 ---
 
 This year I wanted to get this list out by January :P

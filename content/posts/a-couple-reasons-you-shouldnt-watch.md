@@ -4,6 +4,8 @@ date: 2014-05-20T22:32:00.001-05:00
 draft: false
 categories: ['info']
 tags:
+description: "A rant I've had in me for a long time. Movie trailers ruin movies!"
+
 ---
 
 Many years ago I went to the theaters with my then-girlfriend to see ["I Am Legend."](http://www.imdb.com/title/tt0480249/?ref_=fn_al_tt_1) By some fluke, I hadn't seen a single trailer or newsclip about the movie, and as we waited in line for popcorn, I asked my girlfriend why we were "seeing a football movie." I had assumed as much from the title, having nothing else to go on.

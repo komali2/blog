@@ -4,6 +4,7 @@ date: 2023-12-30T10:52:00.001-05:00
 draft: false
 categories: ['life']
 tags: ['taiwan', '508', 'usa', 'video', 'philosophy', 'open-source', 'g0v']
+descripton: 'A post describing my experience being interviewed by Taiwan Youtuber Teddy Lai.'
 ---
 
 

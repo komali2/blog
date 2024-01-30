@@ -4,6 +4,7 @@ date: 2013-02-05T23:07:00.001-06:00
 draft: false
 categories: ['life']
 tags: ['aiesec']
+description: 'A blog post catching up on my life in AIESEC Houston as well as just life in college.'
 ---
 
 

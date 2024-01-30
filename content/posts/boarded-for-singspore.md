@@ -4,6 +4,7 @@ date: 2013-03-22T20:28:00.001-05:00
 draft: false
 categories: ['travel']
 tags: ['aiesec', 'singapore']
+descripton: 'Kicking off my trip to Singapore and my new life as a member of AIESEC Taiwan''s national team.'
 ---
 
 After a helluva stressful week and an essay finished a few hours before my boarding time, im chillin in my flight. Singapore air is classy, got paintings on the wall, classical music playing. They gave us free drinks when the flight was delayed a few hours, and this dude with a cool mustache gave me the hookup when my bag was overweight by a pound. Loving it, though it still hasn't quite hit me that im actually going to singapore. What.

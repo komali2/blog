@@ -4,6 +4,7 @@ date: 2014-05-14T22:12:00.002-05:00
 draft: false
 categories: ['info']
 tags: ['books']
+description: 'Dabbling in book reviews and starting with one I really enjoyed.'
 ---
 
 [![](http://2.bp.blogspot.com/-6AtUJOHE2Xc/U3QwV9u1E8I/AAAAAAAAzTE/yk5slrd5p6Y/s1600/stars01.jpg)](http://2.bp.blogspot.com/-6AtUJOHE2Xc/U3QwV9u1E8I/AAAAAAAAzTE/yk5slrd5p6Y/s1600/stars01.jpg)

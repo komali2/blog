@@ -4,6 +4,7 @@ date: 2016-03-04T00:06:00.002-06:00
 draft: false
 categories: ['life']
 tags: ['bootcamp']
+
 ---
 
 [![](https://1.bp.blogspot.com/-tJ8s5P1Mwt4/VtklIcQzHMI/AAAAAAABNWE/ZBbV5IWSkYU/s400/20160228_132229.jpg)](https://1.bp.blogspot.com/-tJ8s5P1Mwt4/VtklIcQzHMI/AAAAAAABNWE/ZBbV5IWSkYU/s1600/20160228_132229.jpg)

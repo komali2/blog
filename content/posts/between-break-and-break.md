@@ -4,6 +4,7 @@ date: 2011-11-26T22:36:00.001-06:00
 draft: false
 categories: ['life']
 tags: ['university']
+description: 'Blogging about my day to day life in college, club theater, and the various nonsense we got up to.'
 ---
 
 [![](http://2.bp.blogspot.com/-afjRXvHusF0/TtHGUzvoTOI/AAAAAAAAAIs/aJIVU3CRDEs/s640/2011-11-10+16.08.19.jpg)](http://2.bp.blogspot.com/-afjRXvHusF0/TtHGUzvoTOI/AAAAAAAAAIs/aJIVU3CRDEs/s1600/2011-11-10+16.08.19.jpg)
@@ -48,7 +49,7 @@ UH is undefeated and I am told this is a good thing. I am proud that the athlete
 
 
 
-The first floor prank war has found it's way to the second floor. Just spotted wild driftweave tied to someone's door today. Have fun pulling that off. 
+The first floor prank war has found it's way to the second floor. Just spotted wild driftweave tied to someone's door today. Have fun pulling that off.
 
 
 
@@ -58,7 +59,7 @@ For me, the biggest question is: Who weave dat is?
 
 
 
-I realized when I went home for Thanksgiving dinner how trapped I've been on this campus. Compared to last semester, I've been ridiculously closed-minded. I updated my resume and had to change " to Present" to "to May 2011" for too many things. I'm not sure what happened to my motivation or social skills, but I crashed and burned into a hermit. Hopefully escaping the state for a bit this winter break will help clear my head. Oh, and I brought [three Chinese guys](http://www.flickr.com/photos/62673615@N03/6408889811/in/photostream) over for dinner. They seemed to enjoy it. Bravo kept eating everything my mom threw at him, only stopping to ask if she was breaking some weird Chinese culture rule and Bravo would just eat until he popped to be polite. No culture thing there, mom, Bravo's just a black hole. 
+I realized when I went home for Thanksgiving dinner how trapped I've been on this campus. Compared to last semester, I've been ridiculously closed-minded. I updated my resume and had to change " to Present" to "to May 2011" for too many things. I'm not sure what happened to my motivation or social skills, but I crashed and burned into a hermit. Hopefully escaping the state for a bit this winter break will help clear my head. Oh, and I brought [three Chinese guys](http://www.flickr.com/photos/62673615@N03/6408889811/in/photostream) over for dinner. They seemed to enjoy it. Bravo kept eating everything my mom threw at him, only stopping to ask if she was breaking some weird Chinese culture rule and Bravo would just eat until he popped to be polite. No culture thing there, mom, Bravo's just a black hole.
 
 
 
