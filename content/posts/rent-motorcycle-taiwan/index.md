@@ -12,6 +12,10 @@ There really is some of the best riding in the world here. Clean, well-paved roa
 
 Renting a motorcycle in Taiwan is simpler than you might expect. With just a little preparation, you could easily add a couple biking days to your next vacation here. If you're short on time, the two most important sections are, first, regarding the [International Driver's License]({{< relref "#international-drivers-license">}}), and second, [going to the rental shop]({{< relref "#renting-in-taiwan">}}).
 
+Update 2024: A member of our motorcycling group in Taiwan has kicked off a fluent English / Chinese motorcycle, scooter, and car services business, and he offers free
+consultation for all things motorcycle rental. Feel free to shoot him a message any time! Learn more at
+[englishvehicles.tw](https://www.englishvehicles.tw/);
+
 * [Basic Info]({{< relref "#basic-info">}})
   * [Green Plate]({{< relref "#green-plate">}})
   * [White Plate]({{< relref "#white-plate">}})
