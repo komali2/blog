@@ -4,6 +4,7 @@ date: 2024-02-12T04:33:00.001-05:00
 draft: false
 categories: ['travel']
 tags: ['digital-nomad']
+description: 'Thinking about the idea of not bringing your laptop on vacation, from a digital nomad living in Taiwan.'
 ---
 
 Can't remember where I read it, but some founder or famous techie once said they never bring their
