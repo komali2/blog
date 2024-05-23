@@ -3,7 +3,7 @@ title: "The Government Sent Me to Taidong"
 date: 2023-08-10T02:16:47-08:00
 draft: false
 categories: ['travel']
-tags: [taiwan', 'digital nomad']
+tags: ['taiwan', 'digital nomad']
 ---
 
 In early August, 2023, the Cross-Generational Bilingual Training Program in Taitung invited me to their Taitung In-Depth Tourism English Service Guided Tour, or, CGBTPiT's TIDTESGT. They have no website.
