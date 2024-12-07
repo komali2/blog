@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Randomness: For ESL"
-date: 2017-10-26T03:52:29-8:00
+date: 2017-10-26T04:04:00.001-05:00
 draft: true
 categories: []
 tags: []

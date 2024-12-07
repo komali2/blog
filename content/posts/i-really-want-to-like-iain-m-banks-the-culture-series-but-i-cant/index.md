@@ -1,6 +1,6 @@
 ---
 title: "I Really Want to Like Iain M. Banks' The Culture Series, but I Can't"
-date: 2016-11-14T04:15:29-8:00
+date: 2016-11-14T04:04:00.001-05:00
 draft: true
 categories: ['literature']
 tags: ['book-review']
