@@ -3,7 +3,7 @@ title: "It's Time to Back Up Your Google Maps Location History"
 date: 2024-07-26T22:32:00.001-05:00
 draft: false
 categories: ['info']
-tags: ['archiving', 'open-source', ]
+tags: ['open-source', 'degoogle']
 ---
 
 Google Maps "Location History" is now called "Timeline" and is [no longer available](https://support.google.com/maps/answer/14169818?visit_id=638576580733050644-2160119744&p=maps_odlh&rd=1)
