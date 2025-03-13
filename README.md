@@ -39,6 +39,28 @@ done by Caleb only, mostly because he hasn't sat down to figure out
 an intelligent deploy process yet. Contact him at whatever contact
 details you can find at http://calebjay.com/ to request a deployment.
 
+### Auto
+
+Install `lftp` and `pass`
+
+```
+pass insert Bluehost/host
+# Enter your FTP hostname (e.g., ftp.yourdomain.com)
+
+pass insert Bluehost/user
+# Enter your FTP username
+
+pass insert Bluehost/password
+# Enter your FTP password
+
+pass insert Bluehost/blog_directory
+# Enter the target directory on your server (e.g., /public_html/blog)
+```
+
+```
+./deploy.sh
+```
+
 ## Auto-Rotate Images
 
 Hugo can't read exif data, which may result in images appearing in a rotation you
