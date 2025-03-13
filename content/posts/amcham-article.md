@@ -4,6 +4,7 @@ date: 2021-08-30T23:07:00.001-06:00
 draft: false
 categories: ['life']
 tags: ['taiwan']
+description: "Being interviewed and quoted as 'The American Engineer' in an Amcham Taiwan article about Gold Card holders' experiences in Taiwan."
 ---
 
 The [Taiwan Gold Card](https://goldcard.nat.gov.tw/en/) office sent out a survey to all Gold Card holders, asking about their experience so far in Taiwan, what brought them here, that kind of thing. After the results came out, Amcham Taiwan, the American Chamber of Commerce in Taiwan, wrote [an article](https://topics.amcham.com.tw/2021/08/foreigners-give-taiwan-high-marks/) looking at the results of the survey. In preparation for that article, I was interviewed! That was very fun, but the best part is how extensively I was quoted throughout the article. My favorite quote:

@@ -4,6 +4,7 @@ date: 2012-08-01T04:04:00.001-05:00
 draft: false
 categories: ['travel']
 tags: ['japan']
+description: "Exploring Akihabara, Tokyo's anime, manga, and electronics district, with observations on Japanese culture and interesting finds."
 ---
 
 [![](http://3.bp.blogspot.com/-inBRsPdNMd8/UBjZFyz9X6I/AAAAAAAAAXk/60cor9n4izA/s400/IMG_1823.JPG)](http://3.bp.blogspot.com/-inBRsPdNMd8/UBjZFyz9X6I/AAAAAAAAAXk/60cor9n4izA/s1600/IMG_1823.JPG)

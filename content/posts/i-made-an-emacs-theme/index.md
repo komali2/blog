@@ -4,6 +4,7 @@ date: 2020-05-17T02:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['personal-project', 'open-source', 'emacs']
+description: "The process of creating my own custom Emacs theme, including color selection philosophy, technical implementation, and lessons learned along the way."
 ---
 
 TLDR I made a color theme as close as I could to VSCode's "Default High Contrast" and here is the url: https://github.com/komali2/Emacs-VSCode-Default-High-Contrast

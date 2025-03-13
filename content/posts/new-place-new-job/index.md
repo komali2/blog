@@ -4,6 +4,7 @@ date: 2016-09-28T01:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['work', 'bootcamp']
+description: "My experience moving to a new city and starting a new job, including the challenges of relocation and adapting to a different work environment."
 ---
 
 I start working at <a href="https://electricimp.com/">Electric Imp tomorrow</a>. Their business model is essentially selling <a href="https://en.wikipedia.org/wiki/Internet_of_things">IoT hardware</a> (think Nest, lights you can turn on and off with your smartphone, etc) and enabling connectivity between that hardware and their cloud service, which allows programming of that hardware. It was a hard decision. I was fortunate in that I had several other promising offers - the most first world problem I ever had, really. In the end my decision boiled down to do I want to be a small gear in a big machine, or a big gear in a small machine? I chose the latter.

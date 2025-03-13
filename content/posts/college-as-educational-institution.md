@@ -4,6 +4,7 @@ date: 2012-04-11T20:57:00.004-05:00
 draft: false
 categories: ['life']
 tags: ['language-learning', 'japan', 'aiesec', 'university', 'usa', 'music']
+description: "Reflections on learning Japanese for an upcoming teaching job in Tokyo, alternative language learning strategies, and thoughts on long-term life goals."
 ---
 
 [![](http://3.bp.blogspot.com/-wlHzBRHnDRM/T39kYYepbZI/AAAAAAAAAMs/9EfoXiU9Bik/s400/IMG_1042.JPG)](http://3.bp.blogspot.com/-wlHzBRHnDRM/T39kYYepbZI/AAAAAAAAAMs/9EfoXiU9Bik/s1600/IMG_1042.JPG)

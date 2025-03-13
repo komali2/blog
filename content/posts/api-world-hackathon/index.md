@@ -4,6 +4,7 @@ date: 2016-09-16T20:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['personal-project', 'open-source', 'hackathon']
+description: "My experience at the API World Hackathon with fellow bootcamp graduates, building a reputation aggregator app and winning a Cisco router prize."
 ---
 
 This weekend I attended the API World Hackathon with Alex, Ben, and Matt. Other than Ben, this was all of our's first Hackathon. We're all Hack Reactor / Makersquare graduates as well, so it was a sort of return to a very familiar environment - fluorescent lights, harried group, and 11pm pull requests.

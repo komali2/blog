@@ -4,6 +4,7 @@ date: 2012-08-08T07:03:00.000-05:00
 draft: false
 categories: ['travel']
 tags: ['japan']
+description: "A hiking adventure on Mount Takao near Tokyo, featuring Shinto shrines, waterfalls, and monks performing rituals under the waterfall."
 ---
 
 [![](http://2.bp.blogspot.com/-kLGUI6u68uI/UBzpaCuvSvI/AAAAAAAAAZQ/L-Qhee_J92k/s400/IMG_2237.JPG)](http://2.bp.blogspot.com/-kLGUI6u68uI/UBzpaCuvSvI/AAAAAAAAAZQ/L-Qhee_J92k/s1600/IMG_2237.JPG)

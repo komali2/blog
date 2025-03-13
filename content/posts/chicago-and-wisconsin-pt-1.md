@@ -4,6 +4,7 @@ date: 2012-02-06T16:35:00.001-06:00
 draft: false
 categories: ['travel']
 tags: ['usa']
+description: "Adventures in Chicago for New Year's Eve, including hipster parties, late night wanderings through industrial areas, and reflections on solo travel."
 ---
 
 

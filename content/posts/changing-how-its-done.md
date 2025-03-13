@@ -4,6 +4,7 @@ date: 2014-04-10T22:41:00.001-05:00
 draft: false
 categories: ['life']
 tags: ['taiwan', 'aiesec']
+description: "Reflections on personal growth and attitude changes during my time in Taiwan, including lessons from self-help books and finding happiness through positive thinking."
 ---
 
 

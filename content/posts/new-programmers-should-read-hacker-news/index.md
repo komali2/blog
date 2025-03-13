@@ -4,6 +4,7 @@ date: 2016-11-23T01:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['job-hunt', 'bootcamp']
+description: "Why reading Hacker News is valuable for new programmers, including exposure to industry trends, learning opportunities, and career insights."
 ---
 
 I went through a coding bootcamp, and coming out, one of my greatest weaknesses was a lack of breadth of general technical knowledge. I was an active redditor and nerd in general so I wasn't totally lost, but I noticed during meetups there were a lot of conversations I simply couldn't participate in in a meaningful way because of my noobiness. When I went to a Hackathon, I watched people talk about technologies and solutions I wasn't even aware existed - the classic <a href="https://hbr.org/2012/05/discover-what-you-need-to-know">"what I don't know I don't know"</a> problem.

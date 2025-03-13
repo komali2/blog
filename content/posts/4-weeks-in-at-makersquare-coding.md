@@ -4,6 +4,7 @@ date: 2016-03-18T15:29:00.000-05:00
 draft: false
 categories: ['life']
 tags: ['bootcamp']
+description: "Reflections on my first month at Makersquare coding bootcamp, including the intense schedule, what I'm learning, and challenges with housing."
 ---
 
 [![](https://1.bp.blogspot.com/-RxLH3ac2sIw/VuxiPTxWhGI/AAAAAAABNig/XoiKTCcyuqsItsH1FoivKVf8cvkTjJK7Q/s400/20160311_193305.jpg)](https://1.bp.blogspot.com/-RxLH3ac2sIw/VuxiPTxWhGI/AAAAAAABNig/XoiKTCcyuqsItsH1FoivKVf8cvkTjJK7Q/s1600/20160311_193305.jpg)

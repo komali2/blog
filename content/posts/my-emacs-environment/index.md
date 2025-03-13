@@ -4,6 +4,7 @@ date: 2021-07-12T02:16:47-08:00
 draft: false
 categories: ['info']
 tags: ['emacs', 'javascript', 'open-source', 'frontend', 'python', 'vue']
+description: "A comprehensive overview of how I use emacs and my emacs environment."
 ---
 
 I've been meaning to write one big fat post on my Emacs journey, and how I use Emacs, for ages. It's time. I was thinking today about whether and how my life would be different if certain open-source / libre software had never been developed. Git, for example. Though I feel like inevitably some other SVN would in that case take the place of git, what if not? Same for Emacs. If I wasn't easily tracking my time-by-task for my contracting gigs through Emacs, would I just be using some app? What about the tons of notes I take in org-mode for my classes? Would I just be using Notion or Hackmd or something? Text files? What about tracking all my todos?

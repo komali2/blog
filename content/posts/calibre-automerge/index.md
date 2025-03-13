@@ -4,6 +4,7 @@ date: 2021-06-22T02:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['open-source', 'personal-project', 'python']
+description: "A detailed walkthrough of how I contributed to the Calibre 'find-duplicates' plugin by adding functionality to automatically merge duplicate books, including code examples and problem-solving process."
 ---
 
 I'm about to talk a lot, so if you happened upon this blog post because you're looking for a way to merge all your duplicates in Calibre, [head down to the download and installation instructions](#the-end-result).

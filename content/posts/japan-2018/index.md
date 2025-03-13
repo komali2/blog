@@ -4,6 +4,7 @@ date: 2019-02-25T16:16:47-08:00
 draft: true
 categories: ['Travel']
 tags: ['international','asia', 'long-trip']
+description: "A photo journal of my 2018 trip to Japan, featuring Tokyo, Kyoto, and rural areas, with highlights of food, temples, and cultural experiences."
 ---
 
 I've always wanted to see sakura, or cherry blossom trees, in Japan. Despite my

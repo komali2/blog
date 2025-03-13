@@ -4,6 +4,7 @@ date: 2016-10-02T16:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['bootcamp','work']
+description: "My experience transitioning from the oil and gas industry in Texas to working at a Silicon Valley tech startup."
 ---
 
 A month ago, I finished out at Hack Reactor / Makersquare. Two days ago, I started working at Electric Imp.

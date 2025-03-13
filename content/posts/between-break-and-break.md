@@ -4,6 +4,7 @@ date: 2011-11-26T22:36:00.001-06:00
 draft: false
 categories: ['life']
 tags: ['university']
+description: "College adventures including theater performances, participating in a muddy Warrior Dash obstacle course, and campus pranks between Thanksgiving and finals."
 ---
 
 [![](http://2.bp.blogspot.com/-afjRXvHusF0/TtHGUzvoTOI/AAAAAAAAAIs/aJIVU3CRDEs/s640/2011-11-10+16.08.19.jpg)](http://2.bp.blogspot.com/-afjRXvHusF0/TtHGUzvoTOI/AAAAAAAAAIs/aJIVU3CRDEs/s1600/2011-11-10+16.08.19.jpg)

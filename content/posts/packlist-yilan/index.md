@@ -4,6 +4,7 @@ date: 2021-07-15T02:16:47-08:00
 draft: false
 categories: ['travel']
 tags: ['taiwan', 'motorcycle', 'onebag']
+description: "A comprehensive packing list for a trip to Yilan, Taiwan, including clothing, electronics, and other essentials based on personal experience."
 ---
 
 I finally have time to make a packlist blogpost. If you aren't familiar with [the onebag community](https://www.reddit.com/r/onebag/), this post will seem super weird. Just know that we [love looking at people's packlists](https://www.reddit.com/r/onebag/search?q=flair%3A%27Packing+List%27&restrict_sr=on&sort=new&t=all). Why? Hard to say. I guess perhaps it's the same reason some people like fantasy football, and talking about what trades various football teams should make, and speculating how certain games would go if coaches had put in x or y players. In our world, it's observing what gear other people brought into certain scenarios, and thinking about how we might have done it differently, or learning from other people's experiences what gear worked well in what situations.

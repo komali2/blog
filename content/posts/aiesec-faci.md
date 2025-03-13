@@ -4,6 +4,7 @@ date: 2013-02-05T23:07:00.001-06:00
 draft: false
 categories: ['life']
 tags: ['aiesec']
+description: "Preparing to be a facilitator at an AIESEC regional conference, reflecting on personal growth and challenges with group activities."
 ---
 
 

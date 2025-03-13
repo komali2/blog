@@ -4,6 +4,7 @@ date: 2020-02-11T12:16:47-08:00
 draft: false
 categories: ['programming']
 tags: ['bootcamp', 'job-hunt']
+description: "A comprehensive guide for coding bootcamp graduates on how to conduct an effective job search, including project building, coding challenges, resume tips, and networking."
 ---
 
 
