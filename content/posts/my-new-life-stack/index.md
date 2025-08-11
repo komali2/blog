@@ -11,6 +11,21 @@ tags:
   - personal-knowledge-management
 ---
 
+## Stack Index
+
+- Computing
+  - Hardware
+  - Operating System
+  - IDE
+  - AI Tooling
+  - Backup and Sync
+- Organization
+  - Calendar
+  - Email
+  - Task Management
+  - Journal
+  - Notes
+
 I've [written about Emacs before](/posts//my-emacs-environment) because I love it, and when I started my career it was like a breath of fresh air as a frontend devleoper surrounded by stack churn.
 Emacs was something old, well-wrought, used by millions, completely documented, customizable, ran on everything, and linuxy when everything else was appley.
 
@@ -105,4 +120,28 @@ for tasks I want to get done. I tried this with time-based tasks when I was doin
 but all the UX's around that in various client apps are inconsistent. For now I just chuck events with start /
 end times. That gives me a good idea what I can get done that day, or week.
 
-## Task Management
+## Computing
+
+### Hardware
+
+I work off two machines. My laptop is a Framework 13 AMD, and my desktop is an Intel system with an Nvidia GPU. I run
+a homelab from spare parts and 4 18TB drives, as well as a NAS with 4 14TB drives. I like the Framework, and recently
+upgrade the mainboard and display in it. My desktop has 20TB of storage across a couple drives, because I like
+to have my entire steam library installed.
+
+### Operating System
+
+All my machines run some flavor of linux. My laptop and desktop both run Manjaro, and my homelab runs Ubuntu 24.04. The NAS
+runes TrueNAS.
+
+I use i3wm on my desktop and sway on my laptop. The desktop, having an nvidia gpu, has less than stellar Wayland support.
+I've tried running sway and hyprland on it, but it was too buggy, so I switched back.
+
+My desktop is also a gaming rig, and I usually launch games from Steam so that I can leverage Proton. I've used Lutris as
+well, when some friends wanted to play WoW. I love being able to just keep the desktop in one OS and not need to restart
+it on the weekend to game. It's a bit of a bummer that I can't play some games with invasive DRM, but, none of my friends
+really play modern games anymore, and I only get a few hours a week to do so myself, so it's fine.
+
+### IDE
+
+I now primarily use
