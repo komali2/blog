@@ -18,7 +18,7 @@ tags:
   - Operating System
   - IDE
   - AI Tooling
-  - Backup and Sync
+  - Other Software
 - Organization
   - Calendar
   - Email
@@ -144,4 +144,53 @@ really play modern games anymore, and I only get a few hours a week to do so mys
 
 ### IDE
 
-I now primarily use
+I now primarily use nvim. In order to get productive as quickly as possible, I use a pre-built setup called
+[lazy.vim](https://www.lazyvim.org/). I like this because I find it easier than other pre-built configs I tried
+to override the default configs. Also this guy wrote a great
+[usage guide](https://lazyvim-ambitious-devs.phillips.codes/) for it.
+
+I used to use, and love, Emacs. I still love the idea of Emacs, and I'll still have [conversations](https://news.ycombinator.com/item?id=44819424)
+that make me want to spend more time learning it and using it, but I found that spending so much time learning and
+configuring Emacs was holding me back from learning the operating system itself. Instead of picking up a keyboard-forward
+window manager like i3wm, I was doing everything in Emacs frames. Instead of learning how to use commandline tools, I was
+always picking up Emacs packages to accomplish things. Furthermore, as powerful as org-mode is, I found the actual usage
+of it to be counterproductive. I'll discuss this more in the "organization" section, below.
+
+I always used evil-mode in Emacs, and I got tired of support in other packages not being great, and always feeling like
+a second-class citizen because I didn't use default Emacs bindings. Which, fair, but modal editing feels far superior
+to me than default Emacs bindings, and so I feel much more comfortable in nvim world, where all packages are pre-configured
+to expect vim bindigns.
+
+I also find nvim LSP support to be more feature-rich and stable. However, emacs seems to be getting more interesting AI
+tooling support, so, perhaps I'll try it again in the futuer!
+
+### AI Tooling
+
+I've tried many AI IDEs and terminal agents, such as Zed, Claude Code, Warp, Supermaven, Windsurf / Codeium, Cursor, and
+and Copilot. If there was a plugin for one of these tools in either nvim or emacs, I've tried both, as well as native
+tooling such as with Cursor.
+
+My first usage of Cursor felt like a hit of a good drug, and like that first hit I'm still chasing the dragon. I realized
+that Cursor perhaps wasn't the perfect productivity-add I thought it was when I found myself stumbling to explain code
+I kinda-sorta-wrote during a pair programming session, while discovering that that code kinda sucked. Still, I want to
+reproduce that sense of incredible productivity I felt when I first started using Cursor in blissful ignorance.
+
+Unfortunately no tooling comes anywhere near the tab-completion experience of Cursor. I have found Claude code's agent mode
+to be fine, and just use git diffs to check the changes, so I don't really need that built-in experience in Cursor's
+agent mode. For AI completions in nvim, I've settled on Copilot, since it's "good enough" and didn't seem meaningfully
+different from Supermaven or Codeium, and our company gets it for free. Lazyvim has some interesting context-aware
+Copilot chat plugin, but I don't really know how to use it that well yet, so I mostly just use Claude code when I want
+an agent.
+
+### Other Software
+
+Outside of organization software I cover below, I want to mention some software that makes my life a little better.
+
+On my homelab, I run quite a few services.
+
+[Jellyfin](https://jellyfin.org/) is incredible software that basically
+lets me host a private Netflix, serving all the legally ripped content on my massive 50TB zfs array for my viewing pleasure
+wherever I happen to be in the world.
+
+[calibre-web](https://github.com/janeczku/calibre-web) allows me to host all my ebooks for easy downloading to the various
+ereaders I use, and even has an opds server available for clients such as koreader to ingest.
