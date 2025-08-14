@@ -541,4 +541,12 @@ can only be for a day.
 I wanted a way to say, "I have 7 big things I want or need to get done this
 month, I want to schedule them such that they 2 will get done in the first week,
 3 the second, etc. And I want to be able to see day to day which days are busier
-or not and easily slot tasks in during planning phase."
+or not and easily slot tasks in during planning phase." I also wanted a way to
+plan far ahead, put something like "you need to have the plane tickets for Japan
+Burn purchased by this month." Having `#[A]` next to tasks plus context plus
+deadlines wasn't getting me there.
+
+So, I sacrificed the ability to generate on-the-fly agendas and quickly move
+around TODOs for a digital experience very similar to my physical diary, where
+tasks have to be manually moved around with copy - paste operations and
+basically manually laid out.
