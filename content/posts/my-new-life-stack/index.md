@@ -20,11 +20,11 @@ tags:
   - AI Tooling
   - Other Software
 - Organization
+  - Journal
+  - Task Management
+  - Notes
   - Calendar
   - Email
-  - Task Management
-  - Journal
-  - Notes
 
 I've [written about Emacs before](/posts//my-emacs-environment) because I love
 it, and when I started my career it was like a breath of fresh air as a frontend
@@ -300,4 +300,245 @@ host a private Netflix, serving all the legally ripped content on my massive
 
 [calibre-web](https://github.com/janeczku/calibre-web) allows me to host all my
 ebooks for easy downloading to the various ereaders I use, and even has an opds
-server available for clients such as koreader to ingest. test
+server available for clients such as koreader to ingest.
+
+[Linkace](https://www.linkace.org/) is my web bookmark manager, I like having a
+remote service like this because it works no matter the device I'm on, and feels
+more organized than browser bookmarks. I'd tried some other tools, especially
+CLI based ones, but they didn't feel as useful. Also, I really like that I can
+make publicly shareable lists.
+
+[FreshRSS](https://freshrss.org/index.html) is an RSS aggregator that I access
+either the webclient for, or use its RSS publication feature to aggregate my
+favorite feeds into a single feed I can ingest into whatever client on my phone.
+Also, Calibre looks at the RSS output of this app once a week and generates a
+"Weekly News" epub file, which I can then download through OPDS to my Kobo and
+read the news in a more static way.
+
+[Audiobookshelf](https://www.audiobookshelf.org/) provides a web client as well
+as rich mobile apps for listening to my legally downloaded audiobooks. This is a
+key part of how I fixed my sleep schedule, I just chuck on a little audiobook on
+a 15 minute sleep timer and zonk out.
+
+[Tubearchivist](https://www.tubearchivist.com/) is a Youtube download and
+archive tool. I used to use this to help break my youtube addiction since the
+only videos I downloaded were from channels I was interested in, saving me from
+algo slop designed to maintain my constant engagement. Also, no ads! I switched
+to Grayjay since that significantly reduces my harddrive space needs but I still
+use Tubearchivist to back up channels I want to archive, such as g0v in Taiwan
+or Channel5News. I still have a couple Channel5 videos that were removed from
+Youtube because of Tubearchivist.
+
+Various services use [Gotify](https://gotify.net/) to send notifications to my
+phone.
+
+[Navidrome](https://www.navidrome.org/) lets me stream my collection of lossless
+music to whatever device I want.
+
+[Komga](https://komga.org/) lets me read my comic collection in a web browser.
+
+[Romm](https://github.com/rommapp/romm) lets me serve an excellent web client
+for viewing and downloading my legally ripped ROMs, and certain consoles can
+even be played in the browser.
+
+## Organization
+
+My organization and personal data management has changed significantly, as has
+my whole philosophy, now that I'm off org-mode. I think org-mode is an excellent
+and powerful tool, but I think I suffered from the classic ADHD issue of
+procrastination-through-optimization. org-mode was more a fun distraction than
+an effective organization and knowledge management tool for me. Also, I really
+needed a more effective and portable journaling and review system. I'll get into
+detail below.
+
+### Journal
+
+The root of my organization system is now
+[Trilium](https://github.com/TriliumNext/Trilium) (technically trilium-next).
+This is essentially a database based text editing software similar to Notion,
+Logseq, or Obsidian. I tried all those tools as well and settled on Trilium
+because it's able to be self-hosted, was easy to deploy, has a good web
+experience, and of the tools had the best "daily, weekly, monthly, yearly"
+journal experience.
+
+Trilium has a button I can click that will instantly take me to "Today's note,"
+which it will create, alongside the week and month note for that period if it
+doesn't exist yet. Notes are also folders, so I can have my daily journal and
+todo list in my daily note, but also nest things under it like meeting notes.
+This would be the equivalent of the `org-roam-daily-today` function. There's a
+feature unique to the "Journal" notes where Year, Month, Week, and Day notes can
+automatically be created from a template. I set the `~dateTemplate=` property of
+my Journal note (the root of all year, month, week, day notes) to point to my
+"Day Template" note, which looks like this:
+
+```
+## Review
+
+1. All habits done that can be?
+2. Tomorrow planned?
+3. Satisfaction level?
+4. Any ugh?
+5. What energized me?
+6. What gave me joy?
+7. When did I feel most myself today?
+8. What bored or drained me, and why?
+9. I felt most absorbed when…
+10. I felt slightly playful when…
+11. This made my brain light up:
+
+## Plan
+
+1. Habits allocated time?
+
+## Journal
+
+## Todos
+
+```
+
+I had a major depressive episode like 4 months ago and read a bunch of books
+about ADHD about it, as well as talking with a therapist and Mr. ChatGPTherapy.
+Not an app, I just dumped my journals into ChatGPT and asked for advice. These
+questions are the result of that. The point is, every day I check in on what I
+actually like doing and what gives or takes away energy from me. I'm also
+hunting down what activities naturally engage my ADHD hyperfocus and are worth
+pursuing for deeper learning. I discovered I really enjoy drumming this way. If
+this is surprising to you that someone doesn't know what they like doing or
+might like to do, you're lucky! I'm not. The key passage from "Delivered from
+Distraction" by Edward M. Hallowell is:
+
+> The connected individual-of any age- naturally feels safe and secure enough to
+> go to step 2 in the cycle, which is play. By play, I mean something deeply and
+> profoundly formative - any activity in which you become imaginatively
+> involved. The opposite of play is doing exactly what you are told.
+
+> When you play, your brain lights up. This is where you could find joy for the
+> rest of your life, so take note when it happens… When you play, you are likely
+> to enter a state… named “flow.” In “flow,” you become one with what you are
+> doing… Your brain glows.
+
+> The more activities you try, the more likely you are to find one where your
+> imagination kicks in and you play… Once you find some activity in which you
+> can play, you want to do it over and over again. This is called practice,
+> which is step 3. Practice that emerged out of play is practice you want to do.
+> You don't have to be hounded to do it; you want to do it. Here is where habits
+> of discipline develop that will last you a lifetime.
+
+> As you practice, you naturally achieve mastery, which is step 4. By mastery I
+> do not mean that you are the best, just that you are getting better. This
+> feeling of making progress is the key to self-esteem and confidence, as well
+> as motivation. …
+
+> As you gain mastery, other people notice and value what you're doing. This is
+> step 5, recognition.
+
+So, that's become the main goal of my daily journaling to track. I still keep an
+"engineer's log" in the "Journal" section of the note just because it feels
+kinda cool and has sometimes been useful, such as when I recently searched
+`useradd` to find the onboarding flow for new users to our co-op's VPS.
+
+Furthermore, I keep a daily written journal in a
+[Hobonichi Techo Cousin](https://www.1101.com/store/techo/en/), the larger sized
+version. Next year I'll use the smaller sized original version. In here I'll
+focus more on emotions and vibes, and leverage the magic of handwriting as a
+sort of meditative exercise. I can't really read my own handwriting so this has
+very little review potential. It still feels good to slowly be creating a
+real-life artifact of my year. Although of course I have the archivist obsession
+with digitization, and value the ability to search digital notes, more and more
+I'm moving back to analog in specific areas. I also fill out in green pen what I
+got up to across the day in the Weekly Agenda portion of the Hobonichi. I'll
+discuss more in the [Calendar](#calendar) section.
+
+On Sunday or Monday, I do a weekly review. It looks like this:
+
+```markdown
+## Plan
+
+1. Tammy time on calendar?
+2. Friend time on calendar?
+3. 1 known energy gain on calendar?
+4. Any major events need further planning?
+
+## Big TODOs
+
+## Review
+
+1. Satisfaction level?
+2. Goal progress?
+3. What made me feel “ugh”, or, bored or drained me?
+4. What energized me?
+5. What brought genuine joy?
+6. What activities consistently felt like “play?”
+7. When did I experience “Flow?” When did I feel absorbed?
+8. When did I feel most myself?
+9. What activities did I naturally seek out?
+10. What made my brain light up?
+11. Major accomplishments?
+```
+
+At the end of the month, I do a monthly review. It looks like this:
+
+```markdown
+## Month Overview
+
+1. Does your month have friend hangouts?
+2. Family hangouts?
+3. Tammy dates?
+4. A motorcycle ride?
+5. Any major events need further planning?
+
+## Big TODOs
+
+## Review
+
+1. What stood out?
+2. What brought genuine joy?
+3. What activities consistently felt like “play?”
+4. What energized me?
+5. When did I experience “Flow?”
+6. Satisfaction level?
+7. When did I feel most myself?
+8. What bored or drained me, and why?
+9. What surprised me this month?
+10. What activities did I naturally seek out?
+11. Did anything I explore make me curious?
+12. What habits felt enjoyable or supportive?
+13. Which habits am I doing out of obligation?
+14. Major accomplishments?
+15. Focuses for next month?
+16. Which small experiments genuinely improved my mood or confidence this month?
+17. Where did I unnecessarily push myself too hard? What can I release next
+    month?
+18. Did I speak kindly to myself this month? When did I struggle most with
+19. self-compassion?
+20. What tiny victories can I celebrate this month (especially regarding
+    Mandarin,
+21. weight loss, or exercise)?
+22. What feels truly sustainable going forward (diet, exercise, language,
+    emotional health)?
+```
+
+### Task Management
+
+I used to use org-mode to manage my tasks, and had it all set up with GTD tags
+and contexts, custom super-agenda views I could invoke with muscle-memory
+keystrokes, had custom org-capture templates, the whole shebang. It worked fine.
+I thought I didn't like how it wasn't very portable, even though apps like
+Orgzly exist, but then I tried an experiment with CALDAV vTODO entries on a self
+hosted calendar and using Tasker with Davx5 syncing to have a really great task
+experience between my phone and desktop. Then it turned out that portability
+wasn't the missing link, it was the fact that my TODO list was functionally
+infinitely long, and despite having prioritization, didn't have a good way of
+setting temporal priority.
+
+I experimented with SCHEDULED and DEADLINE properties in org mode and in the
+agenda view, but what getting a Hobonichi physical planner made me realize is
+that what I really wanted was a way to see my tasks and needs laid out upon a
+calendar. org-mode just doesn't really have a good way to do this, at best you
+can get agendas, which must be invoked any time you want to see them, and they
+can only be for a day.
+
+I wanted a way to say, "I have 7 big things I want or need to get done this
+month, I want to schedule them such that they 2 will get done in the first week,
+3 the second, etc. And I want to be able to see day to day which days are busier
+or not and easily slot tasks in during planning phase."
