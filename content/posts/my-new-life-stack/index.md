@@ -550,3 +550,239 @@ So, I sacrificed the ability to generate on-the-fly agendas and quickly move
 around TODOs for a digital experience very similar to my physical diary, where
 tasks have to be manually moved around with copy - paste operations and
 basically manually laid out.
+
+#### Year, Month, Week, Day TODOs
+
+In practice, here's what that looks like. Trilium has my "dailies" laid out like
+this:
+
+```text
+- 2025
+---- January
+--------Week 1
+------------ 2025-01-01
+------------ 2025-01-02
+---- February
+```
+
+In the 2025 note I'll put all my big ambitions for the year:
+
+```markdown
+## Big ambitions
+
+- Learn Rust
+- Add review feature to OSMAnd
+- Improve drumming
+```
+
+As well as have a spot for "floating" todos, that are granular tasks that I can
+just go ahead and do, but I don't really care when they got done, or, they got
+moved here from a momnth/week/day (more on that below).
+
+```markdown
+## Floaters
+
+- Get Taiwanese IDP
+- Get guitar amp
+```
+
+When a month starts, or is about to start, I take a look at my ambitions and
+floaters, consider the remainder of my year, my calendar (any trips that month?
+Any big work projects?), and any TODOs that are time-constrained to that month
+(e.g. trip planning), and then try to fit in floaters or smaller slices of a big
+ambition into the TODOs for that month.
+
+Here's what a month looks like:
+
+```markdown
+## TODOs
+
+- edit photos for 2025.8.12
+- glue sandals
+- get appointment with nutritionist
+- get some work done on rust project
+```
+
+Once a month is "planned," I take a look at the TODOs for the month, and start
+breaking them out across the weeks. This would be, in my hobonichi, the part
+that looks like this:
+
+TODO: HObonichi week picture
+
+So, I would create Monday day notes for each week of the month, which
+automatically creates week notes. Then, in the week TODO, I'll assign a couple
+monthly tasks/ambitions, again taking into consideration my calendar and
+anything that's already on that week's TODO (again e.g. if there's trip planning
+or something that needs to happen then).
+
+Here's a week's todo:
+
+```markdown
+## TODO
+
+- Edit photos for 2025.8.12
+- glue sandals
+```
+
+Notice that those TODOs are cut and paste straight from the month TODO. I remove
+it from the month list when I assign it to a week, to keep things uncluttered
+and so that when I look at the month list, I know it's things that haven't been
+assigned yet, which either means they need to be assigned, or, are just floaters
+waiting for me to have free time to do them whenever.
+
+The pattern continues. On Sunday or Monday, I break my week tasks out across
+days. Again, I've got my calendar open when I do this. I might have a nice big
+empty coworking day where I want to put tasks that'll take a lot of time, and
+put smaller tasks on days I have a couple appointments or whatever. Or,
+something will need to have feedback from someone else before I can do the next
+step, so I schedule that for a Monday or Tuesday.
+
+Here's a daily todo:
+
+```markdown
+## TODO
+
+- glue sandals
+- rw-1330 fix experiment button
+- confirm date time with tammy
+```
+
+Again, when I move something from week to day, I cut and paste it.
+
+The critical step that makes this all work is my "waterfall" that I do at the
+end of a day, week, month, and year.
+
+#### TODO Waterfall
+
+At the end of every day (or start of the next day), I review that day. I do the
+same every week, month, and year. This review is half a self-learning activity
+(see [journaling](#journal) above), and half task management, or perhaps
+"project management".
+
+So, at the end of the day, consider the above daily TODOs. I've finished
+confirming my date time with Tammy, but I didn't glue my sandals, and I didn't
+finish working on the `rw-1330` ticket for my job. I did work on the ticket, but
+I don't care to track that in my TODO system (I used to use org's clocking
+feature to track this kind of thing, but then realized that outside of client
+projects, this was useless information).
+
+Depending on the priority of the task, and the layout of the remainder of my
+week, I'll simply cut and paste those remaining tasks to the next day, or some
+other day of the week, or, if it doesn't matter if the task gets done that week,
+or if I can't do the task this week because I'm blocked, I'll just bump it up
+back to the week TODO list. Then, I'll check the week TODO list to see if
+there's anything of priority there that needs to be moved into the next day or
+some other day, and if there's too much in that week, I'll cut out some of the
+week tasks and move them into the month list.
+
+I'll do the same at the end / start of every week and month, and thus my task
+lists are constantly kept mostly up to date with priority established in a
+temporal sense. At least once a week I'm going to have taken a peek at any
+floaters hanging around in the month or year tasks, and the super time-sensitive
+stuff will already be scheduled in some future week or month, so I just don't
+need to worry about them.
+
+You might think that's time consuming. My daily review usually takes about 10
+minutes at most, including task review. Week review and planning usually takes
+about half an hour, and monthly usually takes about an hour. The year process is
+much more time consuming: including the Year Compass, this usually takes many
+hours spread out over a couple days. However, I consider it critically important
+in terms of ensuring I actually do shit during a year, and continue
+self-improvement.
+
+What's important to me is that so far, this is the most organized and effective
+I've ever been, or felt, and I've had external feedback from work, my partner,
+my co-op members, and my friends verifying this.
+
+#### New TODOs
+
+If something pops up randomly in a day that I need to note as a TODO, it's
+critically important that I can record it instantly with no friction. I have two
+ways of doing that: if I just have my phone on me, I create a VTODO entry using
+the jtx Tasks app on android, which saves to a self-hosted caldav server. Then,
+as part of my daily review, I view my VTODO list in Thunderbird and move these
+TODOs to a given day, week, month, or year list.
+
+The other way I record these is my current experiment, detailed below.
+
+#### Small Notebook Daily TODO List
+
+Based on a random Hackernews comment that I can't find anymore, I'm trying out
+carrying around a small spiral notepad. Every morning I start on a fresh page,
+write the day and date on the top, write "Start daily list," cross out "Start
+daily list," and then write anything that immediately comes to mind that I need
+to get done. This helps me clear my head out in the morning right away. If I
+have something on my Trilium list that's not on my pad, or vice versa, I copy
+from one to the other.
+
+This helps me better internalize what I need to get done that day, helps center
+me in the date (I often will, during this process, think something like "wow
+it's already the 20th, I should make sure to lock in on xyz task," or "summer's
+almost over, I need to go to the beach this weekend!"), and is kinda fun for
+whatever reason.
+
+Also, it's nice to always have a notepad on me, because then I can stamp it in
+the metro, which is a fun little colorful way to see what days I was out and
+about. Also, I'm back to thinking hand-written notes is superior to all other
+methods, so I can take down notes at the doctor's office or whatever on my
+notepad. I switch to the back side of the notepad rather than use the TODO page
+for notes. Then I copy notes that need to be remembered, into Trilium.
+
+At the end of the day, I check the page to see if there's anything critical left
+on it, get that info into Trilium if necessary, and then rip that page out and
+put it in a glass jar I have on my desk. This is fun too.
+
+I find this process much more feasible and fast than the thermal printer thing
+that everyone is kinda obsessed with right now.
+
+TODO: Picture of a daily journal
+
+### Notes
+
+I used to take notes in org-mode and use org-roam to link them all, following
+[Zettelkestan](https://en.wikipedia.org/wiki/Zettelkasten). After 7 years of
+this, I didn't find these linked notes to be any more useful than just a
+full-project string search, and furthermore, it was time consuming, and finally,
+the graph-view thing was only ever useful to show off at a coworking meetup.
+
+I also determined that I was taking way too verbose notes. I would hand-write my
+notes and then copy them verbatim to my system. I wanted to digitize EVERYTHING!
+
+So, over the years I tried many experiments in trying to find ways to markup
+what I'm reading - annotating PDFs in emacs or similar, or, using an e-reader
+that has a tablet note-taking function (Boox, Remarkable), or using tablets with
+pens such as the Surface Pro or Ipad. 8 years of experimentation has led me to
+determine that pen and paper remains the most effective, dependable, and
+rapidly-deployable note taking method. I can make it more fun by using fountain
+pens, but day to day I use Pilot FriXion erasable 4-color pens, which I love
+because they come in 5mm variations which let me have very neat and tidy notes,
+and having multiple colors is great for letting me have rich markup in my notes.
+All the electronic methods suffered from dependability issues and were too slow
+to deploy. With a small notebook (I prefer the soft-spiral Kokuyo notebooks) I
+can whip it out and be taking notes within seconds, no fiddling needed.
+
+For notes in pdfs and epubs, I use a Kobo Clara BW. I discovered that more
+important than any rich notetaking functionality was the ability to have my
+e-reader on me at all times, and the Kobo Clara BW is small enough to fit in my
+back pocket. I just use the highlight functionality, and then copy my notes to
+Trilium when I finish reading.
+
+In Trilium, I have `Reading` note, where I nest all the books and articles I
+read in their own note. I have some "promoted" attributes that I use for basic
+data like URL, author, and start/end dates, but I haven't done much with those
+yet. Under a given note, I nest a `Highlights` note where I copy in any direct
+quotes from the book I want to retain.
+
+The most important change from my org-roam days is that I try to type out far
+fewer notes about an article or book. I narrow down the highlights to only the
+most important ones, and I note down only the really stand-out thoughts about a
+book. I don't note down any kind of summary, or bullet-pointed article
+breakdown. I just note down a couple things that were useful or interesting to
+me, and move on. This way, each of my article and book notes are actually useful
+to me, rather than just the equivalent of a Wikipedia article on the thing. When
+I was deep in Zettelkestan world, I kept coming back to the thought that I was
+basically re-writing Wikipedia, and I didn't understand the point of that when I
+could just go read Wikipedia instead. Cynical maybe, and I'm sure there's
+Zettelkestan fans out there yelling right now about how my notes always should
+have been very brief little notecards, but just like with my TODO strategy, I
+needed to have more friction to make that happen.
