@@ -44,12 +44,6 @@ would break magit, or lsp servers, or even org mode, or everyone would move to
 org-roam, and then org-roam-v2, all while I was trying to just do my tickets and
 work in an environment that helped me but stayed out of my way.
 
-One too many emails got formatted weirdly in mu4e, or accidentally sent because
-I mis-typed, or accidentally deleted, or I didn't see it for whatever reason, so
-I moved to Thunderbird. That allowed me a unified way to see all my calendars,
-so I moved those to Thunderbird too, solving a key thing missing from
-emacs/org-mode: good calendar display.
-
 I loved org-mode and org-roam, and I'd link together all my notes into a wicked
 sick knowledge graph, but org-roam was always kinda buggy, the roam buffer that
 displays backlinks wouldn't update, pressing enter on links would sometimes just
@@ -133,81 +127,6 @@ the thing to supplement the docs (the docs I find a bit lacking, maybe because
 of my overall unfamiliarity with nvim).
 
 That's the background. Now the nitty gritty:
-
-## Email
-
-[Thunderbird](https://www.thunderbird.net/en-US/). Specifically,
-thunderbird-beta, which is miles ahead of the main branch in terms of UX and
-features. Previously: mu4e.
-
-I plug it into a couple Gmail accounts for work, Migadu for the co-op, and
-Bluehost for my personal email. Set up and configuration was dead simple which
-was nice coming from mu4e where I had to configure offline-imap and mu to get it
-working, as well as maintain some config in my `.spacemacs`. I can even export
-my configs to instantly spin up a fully configured suite on a new machine. And,
-unlike web-based email clients, I can download my email to manage offline, and
-easily back up my emails.
-
-Upsides: HTML emails actually render. A GUI makes it much easier to navigate
-folders, search across all accounts, manage archives. Much less buginess around
-failed-to-send emails.
-
-Downsides: Microsoft-esque keybindings and not great keyboard-first flow.
-
-I follow a inbox-zero flow and do basically no organization outside of "Inbox"
-and "Archive" (and spam). Lately I've been trying to delete as many emails as I
-can, such as related to login flows, marketing, calendar event reminders, etc,
-because they were cluttering up my search (my oldest email account is 20 years
-old). Other than that, I try to assign emails to tasks and then archive them,
-zeroing out my inbox any time I look at it. This concept was once captured
-beautifully in the "Inbox" app by Google, which Google killed because capitalism
-is the best form of economic organization to promote innovation. If you don't
-know about inbox-zero, you should read a blog about it and then do it,
-especially if you have ADHD like me.
-
-## Calendar
-
-Thunderbird again. I maintain a couple calendars for work, the co-op, and my
-personal life (what I need my fiance or personal assistant to see). I self-host
-a personal-only calendar for general diary usage or planning time-based tasks
-(chores or the like).
-
-Heavy calendar usage is a form of structure that changed my life and is the most
-basic and critical tool for me to ensure my competent participation in normal
-life. Without it, I'd miss work meetings, doctor's appointments, book fun events
-over pre-planned dates with my fiance, hell I'd probably miss flights. Not
-because none of those things are important, but because that's the curse of
-ADHD. It comes with blessings, and luckily I can manage the curse with structure
-and systems.
-
-Here's an example of two weeks from my monthly view:
-
-{{< figure src="calendar.png" alt="Screenshot of 2 weeks from my calendar" caption="" >}}
-
-The color coding is fairly arbitrary and meaningless to me, it just indicates
-that the event is saved against a different calendar. I have one for events my
-fiance or personal assistant needs to see (such as my mom's birthday or a train
-departure time), one for work, one for the co-op (usually onboarding meetings),
-and a publicly-facing gmail for events I need to be able to easily share and
-live-update (not all that possible with CALDAV because Google and Apple collude
-against self hosting). Those green events are me scheduling a busy day out to
-make sure I get certain tasks done on time and not overload the day more than is
-feasible.
-
-I trust nothing to memory. If it needs to be remembered, it goes on the
-calendar. My personal assistant will often put events on my calendar for me
-after booking apointments or whatever, so all I need to do in the morning and
-throughout the day is take a look and see what I've got to do and when. That
-also makes it easy for me to figure out when I will do what - e.g., a 2 hour gap
-before a doctor's appointment is a great time to hang at a cafe and bang out a
-few tickets.
-
-The flow I'm really wanting to experiment more with is where I try to lay out
-events (green in the screenshot) for tasks I want to get done. I tried this with
-time-based tasks when I was doing my pure CALDAV experiment, but all the UX's
-around that in various client apps are inconsistent. For now I just chuck events
-with start / end times. That gives me a good idea what I can get done that day,
-or week.
 
 ## Computing
 
@@ -786,3 +705,63 @@ could just go read Wikipedia instead. Cynical maybe, and I'm sure there's
 Zettelkestan fans out there yelling right now about how my notes always should
 have been very brief little notecards, but just like with my TODO strategy, I
 needed to have more friction to make that happen.
+
+### Calendar
+
+The calendar is a critical part of my life stack. I trust nothing to memory. If
+it needs to be remembered, it goes on the calendar. Basically all time-based
+things go in there: meetups, dates, meetings, deadlines. I often will lay out a
+rough sketch of a day in there as well, e.g., when I need to head out to make it
+to an appointment on time, when I hope to go to a cafe to work, or when I
+believe I should start working on some task vs another one to try to time-box
+activities.
+
+Lack of a calendar-based view was a big reason I needed to get out of pure
+org-mode world. Yes there is the agenda, but it didn't have the week and month
+displays I find very useful:
+
+{{< figure src="calendar.png" alt="Screenshot of 2 weeks from my calendar" caption="" >}}
+
+I like being able to click an item and quickly change its time, or drag and drop
+start/end times. In Emacs I could never get date pickers to work well in evil
+mode, and so always typing out dates in the exact required format got tedious.
+So I finally just moved back to a normal calendar.
+
+I use Thunderbird on desktop to view my calendar, and Business Calendar on
+Android, since it's the only client I could find that could handle arbitrary
+IMAP server profiles while also having good multi-timezone handling (Simple
+Calendar wouldn't display correct time for repeating events in a specifically
+stated time zone while that time zone was in daylight saving's time).
+
+I use Google Calendar for things that I need to share with my partner or
+personal assistant, as well as for work. My personal calendar is hosted via
+Bluehost, and I've been experimenting with Davical for playing with VJOURNAL and
+VTODO. Davical is the most feature-rich Caldav server I've found. We use
+Nextcloud's calendar for the co-op since it allows handing out a ics url that
+points to a "live" endpoint that clients can pull to have a hot-updating shared
+calendar for co-op events.
+
+I use cal.com for booking meetings, which I haven't bothered to self host yet
+since their free tier is generous enough to not need to bother.
+
+### Email
+
+I used to use Emacs + mu4e for email. One too many emails got formatted weirdly
+in mu4e, or accidentally sent because I mis-typed, or accidentally deleted, or I
+didn't see it for whatever reason, so I moved to Thunderbird.
+
+Most of my email accounts are through Google, however my personal mail is hosted
+by Bluehost, and my co-op mail is hosted by Migadu, which we use since it
+charges by usage, not by number of accounts, which is good since we have
+hundreds of members in the co-op but very little day to day usage.
+
+I follow a inbox-zero flow and do basically no organization outside of "Inbox"
+and "Archive" (and spam). Lately I've been trying to delete as many emails as I
+can, such as related to login flows, marketing, calendar event reminders, etc,
+because they were cluttering up my search (my oldest email account is 20 years
+old). Other than that, I try to assign emails to tasks and then archive them,
+zeroing out my inbox any time I look at it. This concept was once captured
+beautifully in the "Inbox" app by Google, which Google killed because capitalism
+is the best form of economic organization to promote innovation. If you don't
+know about inbox-zero, you should read a blog about it and then do it,
+especially if you have ADHD like me.
