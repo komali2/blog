@@ -28,7 +28,11 @@ tags:
   - Reading
 - Life
   - Location
-  - Transportation
+  - Transportation and Travel
+  - Social Media
+  - Fitness
+  - Nutrition
+  - Philosophy
 
 I've [written about Emacs before](/posts//my-emacs-environment) because I love
 it, and when I started my career it was like a breath of fresh air as a frontend
@@ -73,6 +77,13 @@ a couple drives, because I like to have my entire Steam library installed.
 I use a ZSA Voyager keyboard.
 [Here's my layout](https://configure.zsa.io/voyager/layouts/ZZ7e6/0WORrw/0). I
 have the keyboard mounted on a standing desk almost totally vertical.
+
+I use Android phones because I find Apple's walled-garden and anti-user-freedom
+behavior to be genuinely disgusting. I like being able to run whatever software
+I want on my phone, and I love the repos I can add to F-Droid. Right now I'm
+using a Unihertz Jelly Max because I'm tired of giant phones. My ideal phone
+would be a 4.8" oled screen thicc Android with a fatass battery and a headphone
+jack. The Unihertz gets me as close to that reality as I think is possible.
 
 ### Operating System
 
@@ -720,3 +731,96 @@ I want to read next, in Trilium.
 
 I find out good books to read next mostly through Cory Doctorow or
 recommendations from friends.
+
+## Life
+
+Things related to the living of life.
+
+### Location
+
+I live in Taiwan because I believe it's the best place on Earth to live for most
+people. It's safe, affordable, has robust infrastructure, a good and socialized
+healthcare system, decent public transit, and is highly politically engaged.
+When I first came to Taiwan, the Sunflower Protests happened, an extraordinary
+form of direct engagement by the population, and last year this happened again
+with the Bluebird Protests. Taiwan is one of the few countries on Earth that I
+maintain political optimism for for this next cycle of global fascism.
+
+I've [written a lot about Taiwan](/tags/taiwan/).
+
+### Transportation and Travel
+
+I prefer always to take public transit, for environmental reasons but also
+because I find the experience of riding in private cars to be incredibly
+frustrating. Sitting in traffic, waiting in line for a parking garage, wandering
+a parking lot or neighborhood looking for parking, these are not my definition
+of freedom or a good time. I believe that designing cities around the car is one
+of the major contributors to human psychological suffering in the first world.
+Not to mention the environmental impact.
+
+I also enjoy taking a bicycle.
+
+I prefer trains to flying, even if it's slower or more expensive. A train I can
+show up to 10 minutes before departure, and during the ride I can simply work on
+my laptop using my phone as a hotspot. A plane meanwhile is many, many hours of
+completely lost time. You must show up hours before, and lose a lot of time
+traveling to/from the airport since they're usually quite far from your home and
+your end destination. You can't work on them because the internet is unreliable
+and the seats are too narrow to get a laptop open sometime. Planes are
+uncomfortable and too small, and the entire experience is dehumanizing. I'm
+disgusted by the flagrant classism of making everyone sit and watch the first
+class customers get off first before the flight attendants will let the "cattle
+class" pass through.
+
+Meanwhile a train is just like sitting in a cafe. Even if it takes all day,
+that's what I was going to do anyway.
+
+I typically travel with just one bag.
+[I've written about this](https://blog.calebjay.com/tags/onebag/).
+
+### Social Media
+
+I don't use social media.
+
+### Fitness
+
+I do cardio 3 days a week, either running or bicycling. 2 days a week I lift. I
+follow the
+[GZCLP](https://www.reddit.com/r/Fitness/comments/6pjiwd/heres_a_quick_summary_of_the_gzclp_linear/)
+program. If I'm traveling, I take sandals with me to run, since I've been
+"barefoot" running since I was 14. I try to find a gym I can lift weights at,
+or, I just bang out some pushups and squats in the hotel room.
+
+I stretch every morning, and I consider it a "load bearing" habit. I feel really
+terrible the entire day if I don't stretch. It's a very fast 5 minute routine:
+look up, down, left, right, roll head, hold my arms above my head and then pull
+them down like I'm doing a pullup, roll my shoulders, then touch my toes, then
+sit and touch my toes again, then pull one leg up over the other and more toe
+touches, then extend my legs and open them and do more toe touches. Then I put
+one knee down and the other leg behind me and stretch my hips, and do the same
+for the other leg. I usually just go right from that position to kneeling to do
+my meditation.
+
+### Nutrition
+
+On the advice of many ADHD resources, I take fish oil every day, and I believe
+this led to a major improvement in my mood, wakefulness, capability in
+intellectual tasks, and depression symptoms. I also take b12 and I believe this
+also helped with the lethargy I was having before.
+
+I try not to eat too many carbs.
+
+### Philosophy
+
+I'm an anarchist. I have a utopian ideology. If my ideology can't be achieved, I
+can't conceive of a better world than an anarchist one, and so I maintain grim
+optimism and any political energy I have I put towards this ideology.
+
+I try to treat everyone I meet with good faith and respect. I believe it's
+important for people to be ready to actualize their values at any moment - for
+example recently I encountered a swastika on a wall, so went to the nearest
+store, bought tape, and covered it up.
+
+I've written before about
+[activism versus just living life](https://blog.calebjay.com/posts/accept-or-reject/)
+and the dichotomy there remains an unresolved part of my personal ideology.
