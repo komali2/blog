@@ -25,108 +25,40 @@ tags:
   - Notes
   - Calendar
   - Email
+  - Reading
+- Life
+  - Location
+  - Transportation
 
 I've [written about Emacs before](/posts//my-emacs-environment) because I love
 it, and when I started my career it was like a breath of fresh air as a frontend
-devleoper surrounded by stack churn. Emacs was something old, well-wrought, used
-by millions, completely documented, customizable, ran on everything, and linuxy
-when everything else was appley.
+developer surrounded by stack churn. Emacs was something old, well-wrought, used
+by millions, completely documented, customizable, ran on everything, and Linux-y
+when everything else was Apple-y.
 
 I did everything in Emacs up to and including email. I even used Slack in Emacs
 for a bit. I was trying to keep hands on keyboard and Emacs made that easy.
 
-The world chipped away at my Emacs world. I had stuck with Spacemacs since it
-let me get instantly productive and had sensible defaults. Me as a new engineer
-had no idea what kind of keybindings made sense, and with vim and emacs around
-for a while, and Spacemacs adopting vim bindings into emacs, I felt I could
-trust what the community there was setting. Every once in a while, an update
-would break magit, or lsp servers, or even org mode, or everyone would move to
+The world chipped away at my Emacs world. Every once in a while, an update would
+break magit, or lsp servers, or even org mode, or everyone would move to
 org-roam, and then org-roam-v2, all while I was trying to just do my tickets and
-work in an environment that helped me but stayed out of my way.
+work in an environment that helped me but stayed out of my way. Sometimes evil
+bindings would work unexpectedly, sometimes Emacs itself would crash with random
+GTK errors. Using mu4e would lead to me missing important emails, or not
+remaining important replies hadn't made it out. A host of other bizarre little
+annoyances stacked up - never being able to get an HTML-mode major mode (tsx,
+vue) to respect `.editorconfig` spacing, org-roam not displaying backlinks, org
+to html flow never quite working. All things I can fix, given time.
 
-I loved org-mode and org-roam, and I'd link together all my notes into a wicked
-sick knowledge graph, but org-roam was always kinda buggy, the roam buffer that
-displays backlinks wouldn't update, pressing enter on links would sometimes just
-throw an error rather than fluidly carry me from note to note, and there was
-basically no way to browse my knowledge base without a PC with emacs installed
-on it in front of me (that happened to be plugged into my syncthing loop). I
-tried Orgzly and Orgro, I tried exporting my org files to hugo and then HTML and
-deploying it behind a password protected web URL and then tried to script
-auto-deployment to it, I even tried auto-conversion to logseq or obsidian and
-using those apps to view my notes when on the go. In the end, I had to
-acknowledge that org-mode and org-roam for notes was just overwrought and not
-good. It probably could be made good, but I could spend all my time doing that,
-or I could spend it picking up a new framework or onboarding members to my co-op
-or a million other things that were probably more important. So I switched to
-Trilium.
+Then I replaced mu4e with Thunderbird so my emails "just worked," and then I
+replaced org-roam with trilium so I had a notetaking and journaling system that
+"just worked," then I tried out nvim with lazy.vim and found an editing
+environment that "just worked," and so Emacs was getting launched less and less.
+A few months ago I realized I hadn't opened Emacs in nearly two months.
 
-A few months ago, I sunk into a deep depressive slump, very unclear of my
-identity, not getting anything done outside the bare minimum at work, not clear
-what I should be doing with myself once I finished enough tickets to justify my
-employment. Should do, want to do, I had no concept of anything really. I
-started reading a lot into ADHD (I can recommend "Delivered from Distraction" by
-Edward M. Hallowell) and going to therapy. I determined that my TODO list had
-gotten insane. Endless tasks saved into org mode, endless want-to-do coding
-projects, videos and photos to edit, blog posts to write, trips to one day plan.
-All organized quite well, prioritized, split into GTD contexts, and sometimes
-even scheduled and having deadlines to narrow scope day to day. Still, lacking
-overarching plan, context, desire, and still, endless. I tried a couple
-experiments with some AI TODO / calendar management tools, and then with a
-VJOURNAL / VTODO / VCALENDAR that leveraged open source and self hosteable
-tools, which was very fun and diverting but in the end not very helpful. I
-realized that I didn't actually need a very portable way to look at tasks, just
-capture them instantly, for later organization, and that the organization I
-needed captured priority in a temporal sense - this needs doing by the end of
-today, or tomorrow, or this week, or this month, or this year, or sometime in
-the next 5 or 10 years maybe. At a given moment, depending on my energy, I could
-handle looking at most at a day, but I could count on the day's tasks being well
-organized if I regularly reviewed my weekly and monthly tasks and moved them to
-where I needed them to go. This insight came from using a physical
-day/week/month planner for a bit (Hobonichi Techo) and realizing that I flourish
-with graphical, calendar-based representations of tasks and schedules. So, the
-one thing missing from org-mode.
-
-// TODO add a picture of a hobonichi week and month page
-
-So, my tasks moved to Trilium as well.
-
-That just left coding. At this point I saw what was happening to Emacs and was
-fully open to questioning my dogmatic usage of it all the way. I'd since
-migrated off Ubuntu to Manjaro and from Gnome to i3. I didn't really need Emacs
-to manage keyboard-first interaction with my OS - the OS itself (and its display
-manager) could take care of that. The better I got at using the terminal the
-less I needed graphical UIs for file management. So why stick with Emacs? I'd
-been struggling to get Spacemacs working with the most modern LSP experience - I
-was envious of how well LSPs and suggestions worked in Doom Emacs, let alone
-just a bare bones VSCode instance, but I couldn't get either of those to work
-holistically well with the bindings I was used to (I still think the Doom folks,
-wonderful though most of their work is, are smoking crack when it comes to their
-default keybindings - and no Vim plugin in vscode comes close to allowing full
-keyboard interaction with every aspect of the IDE even with extensive
-customization). Not to mention, the whole world was undergoing an AI assisted
-programming revolution, that my friend bullied me into partaking in by trying
-out Cursor, and I was hunting for some kind of happy medium between shutting my
-brain off and letting the AI write mediocre code, and leveraging AI tools to
-code much faster while maintaining quality.
-
-So, to nvim. I'd taken a couple cracks at it before, but never was able to do so
-in a way that let me stay productive enough to use it in real world
-circumstances while closing tickets at a volume I felt comfortable with. Over
-the years, nvim's ecosystem has flourished, culminating in several
-well-established plugin managers, and subsequently full IDE packages. The one I
-found to be the best fit for me, with the best default keybindings, was
-[lazyvim](https://www.lazyvim.org/).
-
-Out of the box, lsp worked, better than Emacs. Several AI platforms worked, such
-as Copilot, with built-in chat integration if I want. It came packaged with a
-decent git porcelain (lazygit) to finally replace the basically irreplaceably
-perfect magit. It had great defaults for full-project grep, file finding, LSP
-jump-to-definition and jump-to-type-definition. Also, someone had written a
-textbook-sized [manual](https://lazyvim-ambitious-devs.phillips.codes/) about
-the thing to supplement the docs (the docs I find a bit lacking, maybe because
-of my overall unfamiliarity with nvim).
-
-That's the background. Now the nitty gritty:
+I thought I'd share why, and halfway through writing this I realized, why not
+talk about more than just my coding and calendar setup and just do a whole damn
+life stack?
 
 ## Computing
 
@@ -135,17 +67,19 @@ That's the background. Now the nitty gritty:
 I work off two machines. My laptop is a Framework 13 AMD, and my desktop is an
 Intel system with an Nvidia GPU. I run a homelab from spare parts and 4 18TB
 drives, as well as a NAS with 4 14TB drives. I like the Framework, and recently
-upgrade the mainboard and display in it. My desktop has 20TB of storage across a
-couple drives, because I like to have my entire steam library installed.
+upgraded the mainboard and display in it. My desktop has 20TB of storage across
+a couple drives, because I like to have my entire Steam library installed.
+
+I use a ZSA Voyager keyboard.
+[Here's my layout](https://configure.zsa.io/voyager/layouts/ZZ7e6/0WORrw/0). I
+have the keyboard mounted on a standing desk almost totally vertical.
 
 ### Operating System
 
 All my machines run some flavor of linux. My laptop and desktop both run
 Manjaro, and my homelab runs Ubuntu 24.04. The NAS runes TrueNAS.
 
-I use i3wm on my desktop and sway on my laptop. The desktop, having an nvidia
-gpu, has less than stellar Wayland support. I've tried running sway and hyprland
-on it, but it was too buggy, so I switched back.
+I use hyprland on my desktop and laptop.
 
 My desktop is also a gaming rig, and I usually launch games from Steam so that I
 can leverage Proton. I've used Lutris as well, when some friends wanted to play
@@ -158,8 +92,8 @@ anymore, and I only get a few hours a week to do so myself, so it's fine.
 
 I now primarily use nvim. In order to get productive as quickly as possible, I
 use a pre-built setup called [lazy.vim](https://www.lazyvim.org/). I like this
-because I find it easier than other pre-built configs I tried to override the
-default configs. Also this guy wrote a great
+because I find it easier to ovverride the default configs in lazy.vim than other
+pre-built configs I tried. Also this guy wrote a great
 [usage guide](https://lazyvim-ambitious-devs.phillips.codes/) for it.
 
 I used to use, and love, Emacs. I still love the idea of Emacs, and I'll still
@@ -167,21 +101,21 @@ have [conversations](https://news.ycombinator.com/item?id=44819424) that make me
 want to spend more time learning it and using it, but I found that spending so
 much time learning and configuring Emacs was holding me back from learning the
 operating system itself. Instead of picking up a keyboard-forward window manager
-like i3wm, I was doing everything in Emacs frames. Instead of learning how to
-use commandline tools, I was always picking up Emacs packages to accomplish
-things. Furthermore, as powerful as org-mode is, I found the actual usage of it
-to be counterproductive. I'll discuss this more in the "organization" section,
-below.
+like i3wm (eventually sway) (eventually hyprland lol), I was doing everything in
+Emacs frames. Instead of learning how to use commandline tools, I was always
+picking up Emacs packages to accomplish things. Furthermore, as powerful as
+org-mode is, I found the actual usage of it to be counterproductive. I'll
+discuss this more in the "organization" section, below.
 
 I always used evil-mode in Emacs, and I got tired of support in other packages
 not being great, and always feeling like a second-class citizen because I didn't
 use default Emacs bindings. Which, fair, but modal editing feels far superior to
 me than default Emacs bindings, and so I feel much more comfortable in nvim
-world, where all packages are pre-configured to expect vim bindigns.
+world, where all packages are pre-configured to expect vim bindings.
 
 I also find nvim LSP support to be more feature-rich and stable. However, emacs
 seems to be getting more interesting AI tooling support, so, perhaps I'll try it
-again in the futuer!
+again in the future!
 
 ### AI Tooling
 
@@ -203,8 +137,8 @@ to check the changes, so I don't really need that built-in experience in
 Cursor's agent mode. For AI completions in nvim, I've settled on Copilot, since
 it's "good enough" and didn't seem meaningfully different from Supermaven or
 Codeium, and our company gets it for free. Lazyvim has some interesting
-context-aware Copilot chat plugin, but I don't really know how to use it that
-well yet, so I mostly just use Claude code when I want an agent.
+context-aware Copilot chat plugin, but I don't really know how to use it, so I
+mostly just use Claude code when I want an agent.
 
 ### Other Software
 
@@ -274,11 +208,10 @@ detail below.
 
 The root of my organization system is now
 [Trilium](https://github.com/TriliumNext/Trilium) (technically trilium-next).
-This is essentially a database based text editing software similar to Notion,
-Logseq, or Obsidian. I tried all those tools as well and settled on Trilium
-because it's able to be self-hosted, was easy to deploy, has a good web
-experience, and of the tools had the best "daily, weekly, monthly, yearly"
-journal experience.
+This is a database based text editing software similar to Notion, Logseq, or
+Obsidian. I tried all those tools as well and settled on Trilium because it's
+able to be self-hosted, was easy to deploy, has a good web experience, and of
+the tools had the best "daily, weekly, monthly, yearly" journal experience.
 
 Trilium has a button I can click that will instantly take me to "Today's note,"
 which it will create, alongside the week and month note for that period if it
@@ -295,15 +228,20 @@ my Journal note (the root of all year, month, week, day notes) to point to my
 
 1. All habits done that can be?
 2. Tomorrow planned?
-3. Satisfaction level?
-4. Any ugh?
-5. What energized me?
-6. What gave me joy?
-7. When did I feel most myself today?
-8. What bored or drained me, and why?
-9. I felt most absorbed when…
-10. I felt slightly playful when…
-11. This made my brain light up:
+3. Work done towards goals:
+  A. Mandarin:
+  B. Weight Loss:
+  C. Improving Engineering:
+4. Satisfaction level?
+5. What gave me energy?
+6. What drained my energy?
+7. What gave me joy?
+8. What made me feel bored?
+9. When did I feel most myself today?
+10. I felt most absorbed when…
+11. I felt slightly playful when…
+12. This made my brain light up:
+13. Wins today:
 
 ## Plan
 
@@ -315,16 +253,16 @@ my Journal note (the root of all year, month, week, day notes) to point to my
 
 ```
 
-I had a major depressive episode like 4 months ago and read a bunch of books
-about ADHD about it, as well as talking with a therapist and Mr. ChatGPTherapy.
-Not an app, I just dumped my journals into ChatGPT and asked for advice. These
-questions are the result of that. The point is, every day I check in on what I
-actually like doing and what gives or takes away energy from me. I'm also
-hunting down what activities naturally engage my ADHD hyperfocus and are worth
-pursuing for deeper learning. I discovered I really enjoy drumming this way. If
-this is surprising to you that someone doesn't know what they like doing or
-might like to do, you're lucky! I'm not. The key passage from "Delivered from
-Distraction" by Edward M. Hallowell is:
+I had a major depressive episode like 4 months ago and as a result read a bunch
+of books about ADHD, as well as talking with a therapist and Mr. ChatGPTherapy.
+I just dumped my journals into ChatGPT and asked for advice. These questions are
+the result. The point is, every day I check in on what I actually like doing and
+what gives or takes away energy from me. I'm also hunting down what activities
+naturally engage my ADHD hyperfocus and are worth pursuing for deeper learning.
+For example, this caused me to discover I really enjoy drumming. If this is
+surprising to you that someone doesn't know what they like doing or might like
+to do, you're lucky! I'm not. The key passage from "Delivered from Distraction"
+by Edward M. Hallowell is:
 
 > The connected individual-of any age- naturally feels safe and secure enough to
 > go to step 2 in the cycle, which is play. By play, I mean something deeply and
@@ -382,17 +320,17 @@ On Sunday or Monday, I do a weekly review. It looks like this:
 
 ## Review
 
-1. Satisfaction level?
-2. Goal progress?
-3. What made me feel “ugh”, or, bored or drained me?
-4. What energized me?
-5. What brought genuine joy?
-6. What activities consistently felt like “play?”
-7. When did I experience “Flow?” When did I feel absorbed?
-8. When did I feel most myself?
-9. What activities did I naturally seek out?
-10. What made my brain light up?
-11. Major accomplishments?
+1.  Satisfaction level?
+2.  Goal progress? A. Mandarin: B. Weight Loss: C. Improving Engineering:
+3.  What gave me energy?
+4.  What drained my energy?
+5.  What brought genuine joy?
+6.  What made me feel bored?
+7.  When did I feel most myself?
+8.  When did I experience “Flow?” When did I feel absorbed?
+9.  What activities consistently felt like “play?”
+10. What activities did I naturally seek out?
+11. What made my brain light up?
 ```
 
 At the end of the month, I do a monthly review. It looks like this:
@@ -410,30 +348,28 @@ At the end of the month, I do a monthly review. It looks like this:
 
 ## Review
 
-1. What stood out?
-2. What brought genuine joy?
-3. What activities consistently felt like “play?”
-4. What energized me?
-5. When did I experience “Flow?”
-6. Satisfaction level?
-7. When did I feel most myself?
-8. What bored or drained me, and why?
-9. What surprised me this month?
-10. What activities did I naturally seek out?
-11. Did anything I explore make me curious?
-12. What habits felt enjoyable or supportive?
-13. Which habits am I doing out of obligation?
-14. Major accomplishments?
-15. Focuses for next month?
-16. Which small experiments genuinely improved my mood or confidence this month?
-17. Where did I unnecessarily push myself too hard? What can I release next
+1. What stood out? 2.Progress on goals: A. Mandarin: B. Weight Loss: C.
+   Improving engineering:
+2. What gave me energy?
+3. What drained my energy?
+4. What brought genuine joy?
+5. What made me feel bored?
+6. When did I feel most myself?
+7. What surprised me this month?
+8. What activities did I naturally seek out?
+9. Did anything I explore make me curious?
+10. What habits felt enjoyable or supportive?
+11. Which habits am I doing out of obligation?
+12. Major accomplishments?
+13. Focuses for next month?
+14. Which small experiments genuinely improved my mood or confidence this month?
+15. Where did I unnecessarily push myself too hard? What can I release next
     month?
-18. Did I speak kindly to myself this month? When did I struggle most with
-19. self-compassion?
-20. What tiny victories can I celebrate this month (especially regarding
-    Mandarin,
-21. weight loss, or exercise)?
-22. What feels truly sustainable going forward (diet, exercise, language,
+16. Did I speak kindly to myself this month? When did I struggle most with
+    self-compassion?
+17. What tiny victories can I celebrate this month (especially regarding
+    Mandarin, weight loss, or exercise)?
+18. What feels truly sustainable going forward (diet, exercise, language,
     emotional health)?
 ```
 
@@ -446,9 +382,9 @@ I thought I didn't like how it wasn't very portable, even though apps like
 Orgzly exist, but then I tried an experiment with CALDAV vTODO entries on a self
 hosted calendar and using Tasker with Davx5 syncing to have a really great task
 experience between my phone and desktop. Then it turned out that portability
-wasn't the missing link, it was the fact that my TODO list was functionally
-infinitely long, and despite having prioritization, didn't have a good way of
-setting temporal priority.
+wasn't the missing link, it was the fact that my TODO list was infinitely long,
+and despite having prioritization, didn't have a good way of setting temporal
+priority.
 
 I experimented with SCHEDULED and DEADLINE properties in org mode and in the
 agenda view, but what getting a Hobonichi physical planner made me realize is
@@ -496,7 +432,7 @@ In the 2025 note I'll put all my big ambitions for the year:
 
 As well as have a spot for "floating" todos, that are granular tasks that I can
 just go ahead and do, but I don't really care when they got done, or, they got
-moved here from a momnth/week/day (more on that below).
+moved here from a month/week/day (more on that below).
 
 ```markdown
 ## Floaters
@@ -547,14 +483,14 @@ Notice that those TODOs are cut and paste straight from the month TODO. I remove
 it from the month list when I assign it to a week, to keep things uncluttered
 and so that when I look at the month list, I know it's things that haven't been
 assigned yet, which either means they need to be assigned, or, are just floaters
-waiting for me to have free time to do them whenever.
+waiting for me to have free time to do them whenever (preferably that month).
 
 The pattern continues. On Sunday or Monday, I break my week tasks out across
 days. Again, I've got my calendar open when I do this. I might have a nice big
 empty coworking day where I want to put tasks that'll take a lot of time, and
-put smaller tasks on days I have a couple appointments or whatever. Or,
-something will need to have feedback from someone else before I can do the next
-step, so I schedule that for a Monday or Tuesday.
+put smaller tasks on days I have a couple appointments. Or, something will need
+to have feedback from someone else before I can do the next step, so I schedule
+that for a Monday or Tuesday.
 
 Here's a daily todo:
 
@@ -765,3 +701,22 @@ beautifully in the "Inbox" app by Google, which Google killed because capitalism
 is the best form of economic organization to promote innovation. If you don't
 know about inbox-zero, you should read a blog about it and then do it,
 especially if you have ADHD like me.
+
+### Reading
+
+I read books on a Kobo Clara BW. I chose that because it's small enough to fit
+in my pocket, so I can have it on me all the time, and because I can install
+Koreader on it, a sort of custom firmware that allows much more customization
+options, and for downloading books from my OPDS server.
+
+I run a calibre-web server on my homelab that points to a gobsmackingly large
+archive of epubs. It also points to a list of RSS feeds generated by FreshRSS,
+which Calibre turns into weekly "Newspapers" that I can download as epubs to my
+Kobo. [Here's my feed list](https://freshrss.thestinkytofu.com).
+
+I still vaguely use Goodreads since I've been using it for like 16 years and
+figured might as well, but I also track reading start/end times, and what books
+I want to read next, in Trilium.
+
+I find out good books to read next mostly through Cory Doctorow or
+recommendations from friends.
