@@ -1,5 +1,5 @@
 ---
-title: My New Life Stack - Or, Why I Haven't Opened Emacs in Two Months
+title: My 2025 Life Stack - Or, Why I Haven't Opened Emacs in Two Months
 date: 2025-07-30T08:01:17.200Z
 draft: false
 categories:
@@ -11,58 +11,31 @@ tags:
   - personal-knowledge-management
 ---
 
-## Stack Index
+ - [Computing](#computing)
+  - [Hardware](#hardware)
+  - [Operating System](#operating-system)
+  - [IDE](#ide)
+  - [AI Tooling](#ai-tooling)
+  - [Other Software](#other-software)
+- [Organization](#organization)
+  - [Journal](#journal)
+  - [Task Management](#task-management)
+  - [Notes](#notes)
+  - [Calendar](#calendar)
+  - [Email](#email)
+  - [Reading](#reading)
+- [Life](#life)
+  - [Location](#location)
+  - [Transportation and Travel](#transportation-and-travel)
+  - [Social Media](#social-media)
+  - [Fitness](#fitness)
+  - [Nutrition](#nutrition)
+  - [Philosophy](#philosophy)
+ 
 
-- Computing
-  - Hardware
-  - Operating System
-  - IDE
-  - AI Tooling
-  - Other Software
-- Organization
-  - Journal
-  - Task Management
-  - Notes
-  - Calendar
-  - Email
-  - Reading
-- Life
-  - Location
-  - Transportation and Travel
-  - Social Media
-  - Fitness
-  - Nutrition
-  - Philosophy
-
-I've [written about Emacs before](/posts//my-emacs-environment) because I love
-it, and when I started my career it was like a breath of fresh air as a frontend
-developer surrounded by stack churn. Emacs was something old, well-wrought, used
-by millions, completely documented, customizable, ran on everything, and Linux-y
-when everything else was Apple-y.
-
-I did everything in Emacs up to and including email. I even used Slack in Emacs
-for a bit. I was trying to keep hands on keyboard and Emacs made that easy.
-
-The world chipped away at my Emacs world. Every once in a while, an update would
-break magit, or lsp servers, or even org mode, or everyone would move to
-org-roam, and then org-roam-v2, all while I was trying to just do my tickets and
-work in an environment that helped me but stayed out of my way. Sometimes evil
-bindings would work unexpectedly, sometimes Emacs itself would crash with random
-GTK errors. Using mu4e would lead to me missing important emails, or not
-remaining important replies hadn't made it out. A host of other bizarre little
-annoyances stacked up - never being able to get an HTML-mode major mode (tsx,
-vue) to respect `.editorconfig` spacing, org-roam not displaying backlinks, org
-to html flow never quite working. All things I can fix, given time.
-
-Then I replaced mu4e with Thunderbird so my emails "just worked," and then I
-replaced org-roam with trilium so I had a notetaking and journaling system that
-"just worked," then I tried out nvim with lazy.vim and found an editing
-environment that "just worked," and so Emacs was getting launched less and less.
-A few months ago I realized I hadn't opened Emacs in nearly two months.
-
-I thought I'd share why, and halfway through writing this I realized, why not
-talk about more than just my coding and calendar setup and just do a whole damn
-life stack?
+This post was inspired by a discord message from [a friend](https://mastodon.social/@bruvduroiu).
+I thought it could be fun to mark the end of this year with my current "life stack," since
+I so frequently change so much about the technologies and methods I use in life.
 
 ## Computing
 
@@ -74,9 +47,18 @@ drives, as well as a NAS with 4 14TB drives. I like the Framework, and recently
 upgraded the mainboard and display in it. My desktop has 20TB of storage across
 a couple drives, because I like to have my entire Steam library installed.
 
+I disregard [the cancelling of Framework](https://community.frame.work/t/framework-supporting-far-right-racists) 
+because I agree with the criticisms of DHH but disagree with the scorched Earth policy
+of reverting to more destructive behavior when I become disappointed with someone in 
+progressive spaces. If any of us can justify hosting on AWS, whose owner makes its employees
+piss in bottles, then we can justify buying Framework, who makes repairable laptops and unfortunately
+sent one to someone distasetful.
+
 I use a ZSA Voyager keyboard.
 [Here's my layout](https://configure.zsa.io/voyager/layouts/ZZ7e6/0WORrw/0). I
-have the keyboard mounted on a standing desk almost totally vertical.
+have the keyboard mounted on a standing desk almost totally vertical. [ZSA interviewed me, btw.](/posts/zsa-interview)
+
+TODO: picture of desk area
 
 I use Android phones because I find Apple's walled-garden and anti-user-freedom
 behavior to be genuinely disgusting. I like being able to run whatever software
@@ -164,7 +146,7 @@ host a private Netflix, serving all the legally ripped content on my massive
 
 [calibre-web](https://github.com/janeczku/calibre-web) allows me to host all my
 ebooks for easy downloading to the various ereaders I use, and even has an opds
-server available for clients such as koreader to ingest.
+server available for clients such as [koreader](https://koreader.rocks/) to ingest.
 
 [Linkace](https://www.linkace.org/) is my web bookmark manager, I like having a
 remote service like this because it works no matter the device I'm on, and feels
@@ -358,30 +340,25 @@ At the end of the month, I do a monthly review. It looks like this:
 ## Big TODOs
 
 ## Review
+What stood out?
 
-1. What stood out? 2.Progress on goals: A. Mandarin: B. Weight Loss: C.
-   Improving engineering:
-2. What gave me energy?
-3. What drained my energy?
-4. What brought genuine joy?
-5. What made me feel bored?
-6. When did I feel most myself?
-7. What surprised me this month?
-8. What activities did I naturally seek out?
-9. Did anything I explore make me curious?
-10. What habits felt enjoyable or supportive?
-11. Which habits am I doing out of obligation?
-12. Major accomplishments?
-13. Focuses for next month?
-14. Which small experiments genuinely improved my mood or confidence this month?
-15. Where did I unnecessarily push myself too hard? What can I release next
-    month?
-16. Did I speak kindly to myself this month? When did I struggle most with
-    self-compassion?
-17. What tiny victories can I celebrate this month (especially regarding
-    Mandarin, weight loss, or exercise)?
-18. What feels truly sustainable going forward (diet, exercise, language,
-    emotional health)?
+1. Progress on goals:
+   A. Mandarin:
+   B. Weight Loss:
+   C. Improving engineering:
+3. What gave me energy?
+4. What drained my energy?
+5. What brought genuine joy?
+6. What made me feel bored?
+7. When did I feel most myself?
+8. When did I experience flow? When did I feel absorbed? 
+9. What activities felt like play? 
+10. What activities did I naturally seek out?
+11. What made my brain light up? 
+12. What habits felt enjoyable or supportive? What activities improved my mood or confidence?
+13. Which habits am I doing out of obligation?
+14. Major accomplishments and minor victories? 
+15. Focuses for next month?
 ```
 
 ### Task Management
@@ -717,11 +694,11 @@ especially if you have ADHD like me.
 
 I read books on a Kobo Clara BW. I chose that because it's small enough to fit
 in my pocket, so I can have it on me all the time, and because I can install
-Koreader on it, a sort of custom firmware that allows much more customization
+[Koreader](https://koreader.rocks/) on it, a sort of custom firmware that allows much more customization
 options, and for downloading books from my OPDS server.
 
-I run a calibre-web server on my homelab that points to a gobsmackingly large
-archive of epubs. It also points to a list of RSS feeds generated by FreshRSS,
+I run a [calibre-web](https://github.com/janeczku/calibre-web) server on my homelab that points to a gobsmackingly large
+archive of epubs. It also points to a list of RSS feeds generated by [FreshRSS](https://freshrss.org/index.html),
 which Calibre turns into weekly "Newspapers" that I can download as epubs to my
 Kobo. [Here's my feed list](https://freshrss.thestinkytofu.com).
 
@@ -743,8 +720,8 @@ people. It's safe, affordable, has robust infrastructure, a good and socialized
 healthcare system, decent public transit, and is highly politically engaged.
 When I first came to Taiwan, the Sunflower Protests happened, an extraordinary
 form of direct engagement by the population, and last year this happened again
-with the Bluebird Protests. Taiwan is one of the few countries on Earth that I
-maintain political optimism for for this next cycle of global fascism.
+with the Bluebird Protests. Taiwan is one of the few countries on Earth for which I
+maintain political optimism through this next cycle of global fascism.
 
 I've [written a lot about Taiwan](/tags/taiwan/).
 
@@ -822,5 +799,5 @@ example recently I encountered a swastika on a wall, so went to the nearest
 store, bought tape, and covered it up.
 
 I've written before about
-[activism versus just living life](https://blog.calebjay.com/posts/accept-or-reject/)
+[activism versus just living life](/posts/accept-or-reject/)
 and the dichotomy there remains an unresolved part of my personal ideology.
