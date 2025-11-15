@@ -1,6 +1,6 @@
 ---
 title: My 2025 Life Stack - Or, Why I Haven't Opened Emacs in Two Months
-date: 2025-07-30T08:01:17.200Z
+date: 2025-11-14T08:01:17.200Z
 draft: false
 categories:
   - info
@@ -11,12 +11,12 @@ tags:
   - personal-knowledge-management
 ---
 
- - [Computing](#computing)
-  - [Hardware](#hardware)
-  - [Operating System](#operating-system)
-  - [IDE](#ide)
-  - [AI Tooling](#ai-tooling)
-  - [Other Software](#other-software)
+- [Computing](#computing)
+- [Hardware](#hardware)
+- [Operating System](#operating-system)
+- [IDE](#ide)
+- [AI Tooling](#ai-tooling)
+- [Other Software](#other-software)
 - [Organization](#organization)
   - [Journal](#journal)
   - [Task Management](#task-management)
@@ -31,41 +31,41 @@ tags:
   - [Fitness](#fitness)
   - [Nutrition](#nutrition)
   - [Philosophy](#philosophy)
- 
 
-This post was inspired by a discord message from [a friend](https://mastodon.social/@bruvduroiu).
-I thought it could be fun to mark the end of this year with my current "life stack," since
-I so frequently change so much about the technologies and methods I use in life.
+This post was inspired by a discord message from
+[a friend](https://mastodon.social/@bruvduroiu). I thought it could be fun to
+mark the end of this year with my current "life stack," since I so frequently
+change so much about the technologies and methods I use in life.
 
 ## Computing
 
 ### Hardware
 
 I work off two machines. My laptop is a Framework 13 AMD, and my desktop is an
-Intel system with an Nvidia GPU. I run a homelab from spare parts and 4 18TB
+AMD system with an Nvidia GPU. I run a homelab from spare parts and 4 18TB
 drives, as well as a NAS with 4 14TB drives. I like the Framework, and recently
 upgraded the mainboard and display in it. My desktop has 20TB of storage across
 a couple drives, because I like to have my entire Steam library installed.
 
-I disregard [the cancelling of Framework](https://community.frame.work/t/framework-supporting-far-right-racists) 
-because I agree with the criticisms of DHH but disagree with the scorched Earth policy
-of reverting to more destructive behavior when I become disappointed with someone in 
-progressive spaces. If any of us can justify hosting on AWS, whose owner makes its employees
-piss in bottles, then we can justify buying Framework, who makes repairable laptops and unfortunately
-sent one to someone distasetful.
+I disregard
+[the cancelling of Framework](https://community.frame.work/t/framework-supporting-far-right-racists)
+because I agree with the criticisms of DHH but disagree with the scorched Earth
+policy of reverting to more destructive behavior when I become disappointed with
+someone in progressive spaces. If any of us can justify hosting on AWS, whose
+owner makes its employees piss in bottles, then we can justify buying Framework,
+who makes repairable laptops and unfortunately sent one to someone distasetful.
 
 I use a ZSA Voyager keyboard.
 [Here's my layout](https://configure.zsa.io/voyager/layouts/ZZ7e6/0WORrw/0). I
-have the keyboard mounted on a standing desk almost totally vertical. [ZSA interviewed me, btw.](/posts/zsa-interview)
-
-TODO: picture of desk area
+have the keyboard mounted on a standing desk almost totally vertical.
+[ZSA interviewed me, btw.](/posts/zsa-interview)
 
 I use Android phones because I find Apple's walled-garden and anti-user-freedom
-behavior to be genuinely disgusting. I like being able to run whatever software
-I want on my phone, and I love the repos I can add to F-Droid. Right now I'm
-using a Unihertz Jelly Max because I'm tired of giant phones. My ideal phone
-would be a 4.8" oled screen thicc Android with a fatass battery and a headphone
-jack. The Unihertz gets me as close to that reality as I think is possible.
+behavior to be disgusting. I like being able to run whatever software I want on
+my phone, and I love the repos I can add to F-Droid. Right now I'm using a
+Unihertz Jelly Max because I'm tired of giant phones. My ideal phone would be a
+4.8" oled screen thicc Android with a fatass battery and a headphone jack. The
+Unihertz gets me as close to that reality as I think is possible.
 
 ### Operating System
 
@@ -141,12 +141,13 @@ that makes my life a little better.
 On my homelab, I run quite a few services.
 
 [Jellyfin](https://jellyfin.org/) is incredible software that basically lets me
-host a private Netflix, serving all the legally ripped content on my massive
-50TB zfs array for my viewing pleasure wherever I happen to be in the world.
+host a private Netflix, serving all content I legally ripped on my massive 50TB
+zfs array for my viewing pleasure wherever I happen to be in the world.
 
 [calibre-web](https://github.com/janeczku/calibre-web) allows me to host all my
-ebooks for easy downloading to the various ereaders I use, and even has an opds
-server available for clients such as [koreader](https://koreader.rocks/) to ingest.
+ebooks for easy downloading to the various ereaders I use, and even has an OPDS
+server available for clients such as [koreader](https://koreader.rocks/) to
+ingest.
 
 [Linkace](https://www.linkace.org/) is my web bookmark manager, I like having a
 remote service like this because it works no matter the device I'm on, and feels
@@ -170,10 +171,10 @@ a 15 minute sleep timer and zonk out.
 archive tool. I used to use this to help break my youtube addiction since the
 only videos I downloaded were from channels I was interested in, saving me from
 algo slop designed to maintain my constant engagement. Also, no ads! I switched
-to Grayjay since that significantly reduces my harddrive space needs but I still
-use Tubearchivist to back up channels I want to archive, such as g0v in Taiwan
-or Channel5News. I still have a couple Channel5 videos that were removed from
-Youtube because of Tubearchivist.
+to [Grayjay](https://grayjay.app/) since that significantly reduces my harddrive
+space needs but I still use Tubearchivist to back up channels I want to archive,
+such as g0v in Taiwan or Channel5News. I still have a couple Channel5 videos
+that were removed from Youtube because of Tubearchivist.
 
 Various services use [Gotify](https://gotify.net/) to send notifications to my
 phone.
@@ -288,16 +289,16 @@ kinda cool and has sometimes been useful, such as when I recently searched
 `useradd` to find the onboarding flow for new users to our co-op's VPS.
 
 Furthermore, I keep a daily written journal in a
-[Hobonichi Techo Cousin](https://www.1101.com/store/techo/en/), the larger sized
-version. Next year I'll use the smaller sized original version. In here I'll
-focus more on emotions and vibes, and leverage the magic of handwriting as a
-sort of meditative exercise. I can't really read my own handwriting so this has
-very little review potential. It still feels good to slowly be creating a
-real-life artifact of my year. Although of course I have the archivist obsession
-with digitization, and value the ability to search digital notes, more and more
-I'm moving back to analog in specific areas. I also fill out in green pen what I
-got up to across the day in the Weekly Agenda portion of the Hobonichi. I'll
-discuss more in the [Calendar](#calendar) section.
+[Hobonichi Techo Cousin](https://www.1101.com/store/techo/en/). Next year I'll
+use the smaller sized original version. In here I'll focus more on emotions and
+vibes, and leverage the magic of handwriting as a sort of meditative exercise. I
+can't really read my own handwriting so this has very little review potential.
+It still feels good to slowly be creating a real-life artifact of my year.
+Although of course I have the archivist obsession with digitization, and value
+the ability to search digital notes, more and more I'm moving back to analog in
+specific areas. I also fill out in green pen what I got up to across the day in
+the Weekly Agenda portion of the Hobonichi. I'll discuss more in the
+[Calendar](#calendar) section.
 
 On Sunday or Monday, I do a weekly review. It looks like this:
 
@@ -340,25 +341,24 @@ At the end of the month, I do a monthly review. It looks like this:
 ## Big TODOs
 
 ## Review
+
 What stood out?
 
-1. Progress on goals:
-   A. Mandarin:
-   B. Weight Loss:
-   C. Improving engineering:
-3. What gave me energy?
-4. What drained my energy?
-5. What brought genuine joy?
-6. What made me feel bored?
-7. When did I feel most myself?
-8. When did I experience flow? When did I feel absorbed? 
-9. What activities felt like play? 
-10. What activities did I naturally seek out?
-11. What made my brain light up? 
-12. What habits felt enjoyable or supportive? What activities improved my mood or confidence?
-13. Which habits am I doing out of obligation?
-14. Major accomplishments and minor victories? 
-15. Focuses for next month?
+1. Progress on goals: A. Mandarin: B. Weight Loss: C. Improving engineering:
+2. What gave me energy?
+3. What drained my energy?
+4. What brought genuine joy?
+5. What made me feel bored?
+6. When did I feel most myself?
+7. When did I experience flow? When did I feel absorbed?
+8. What activities felt like play?
+9. What activities did I naturally seek out?
+10. What made my brain light up?
+11. What habits felt enjoyable or supportive? What activities improved my mood
+    or confidence?
+12. Which habits am I doing out of obligation?
+13. Major accomplishments and minor victories?
+14. Focuses for next month?
 ```
 
 ### Task Management
@@ -450,7 +450,7 @@ Once a month is "planned," I take a look at the TODOs for the month, and start
 breaking them out across the weeks. This would be, in my hobonichi, the part
 that looks like this:
 
-TODO: HObonichi week picture
+{{< figure src="hoboweekly.jpg" alt="Picture of the weekly portion of my hobonichi" caption="I put tasks for the week on the left there, and then try to spread them out across days of the week." >}}
 
 So, I would create Monday day notes for each week of the month, which
 automatically creates week notes. Then, in the week TODO, I'll assign a couple
@@ -578,7 +578,7 @@ put it in a glass jar I have on my desk. This is fun too.
 I find this process much more feasible and fast than the thermal printer thing
 that everyone is kinda obsessed with right now.
 
-TODO: Picture of a daily journal
+{{< figure src="daily.jpg" alt="My daily todo list" caption="" >}}
 
 ### Notes
 
@@ -651,11 +651,12 @@ start/end times. In Emacs I could never get date pickers to work well in evil
 mode, and so always typing out dates in the exact required format got tedious.
 So I finally just moved back to a normal calendar.
 
-I use Thunderbird on desktop to view my calendar, and Business Calendar on
-Android, since it's the only client I could find that could handle arbitrary
-IMAP server profiles while also having good multi-timezone handling (Simple
-Calendar wouldn't display correct time for repeating events in a specifically
-stated time zone while that time zone was in daylight saving's time).
+I use [Thunderbird](https://www.thunderbird.net/en-US/) on desktop to view my
+calendar, and Business Calendar on Android, since it's the only client I could
+find that could handle arbitrary IMAP server profiles while also having good
+multi-timezone handling (Simple Calendar wouldn't display correct time for
+repeating events in a specifically stated time zone while that time zone was in
+daylight saving's time).
 
 I use Google Calendar for things that I need to share with my partner or
 personal assistant, as well as for work. My personal calendar is hosted via
@@ -672,7 +673,8 @@ since their free tier is generous enough to not need to bother.
 
 I used to use Emacs + mu4e for email. One too many emails got formatted weirdly
 in mu4e, or accidentally sent because I mis-typed, or accidentally deleted, or I
-didn't see it for whatever reason, so I moved to Thunderbird.
+didn't see it for whatever reason, so I moved to
+[Thunderbird](https://www.thunderbird.net/en-US/) (nightly).
 
 Most of my email accounts are through Google, however my personal mail is hosted
 by Bluehost, and my co-op mail is hosted by Migadu, which we use since it
@@ -694,11 +696,12 @@ especially if you have ADHD like me.
 
 I read books on a Kobo Clara BW. I chose that because it's small enough to fit
 in my pocket, so I can have it on me all the time, and because I can install
-[Koreader](https://koreader.rocks/) on it, a sort of custom firmware that allows much more customization
-options, and for downloading books from my OPDS server.
+[Koreader](https://koreader.rocks/) on it, a sort of custom firmware that allows
+much more customization options, and for downloading books from my OPDS server.
 
-I run a [calibre-web](https://github.com/janeczku/calibre-web) server on my homelab that points to a gobsmackingly large
-archive of epubs. It also points to a list of RSS feeds generated by [FreshRSS](https://freshrss.org/index.html),
+I run a [calibre-web](https://github.com/janeczku/calibre-web) server on my
+homelab that points to a gobsmackingly large archive of epubs. It also points to
+a list of RSS feeds generated by [FreshRSS](https://freshrss.org/index.html),
 which Calibre turns into weekly "Newspapers" that I can download as epubs to my
 Kobo. [Here's my feed list](https://freshrss.thestinkytofu.com).
 
@@ -720,20 +723,20 @@ people. It's safe, affordable, has robust infrastructure, a good and socialized
 healthcare system, decent public transit, and is highly politically engaged.
 When I first came to Taiwan, the Sunflower Protests happened, an extraordinary
 form of direct engagement by the population, and last year this happened again
-with the Bluebird Protests. Taiwan is one of the few countries on Earth for which I
-maintain political optimism through this next cycle of global fascism.
+with the Bluebird Protests. Taiwan is one of the few countries on Earth for
+which I maintain political optimism through this next cycle of global fascism.
 
 I've [written a lot about Taiwan](/tags/taiwan/).
 
 ### Transportation and Travel
 
 I prefer always to take public transit, for environmental reasons but also
-because I find the experience of riding in private cars to be incredibly
-frustrating. Sitting in traffic, waiting in line for a parking garage, wandering
-a parking lot or neighborhood looking for parking, these are not my definition
-of freedom or a good time. I believe that designing cities around the car is one
-of the major contributors to human psychological suffering in the first world.
-Not to mention the environmental impact.
+because I find the experience of riding in private cars to be frustrating.
+Sitting in traffic, waiting in line for a parking garage, wandering a parking
+lot or neighborhood looking for parking, these are not my definition of freedom
+or a good time. I believe that designing cities around the car is one of the
+major contributors to human psychological suffering in the first world. Not to
+mention the environmental impact.
 
 I also enjoy taking a bicycle.
 
@@ -799,5 +802,5 @@ example recently I encountered a swastika on a wall, so went to the nearest
 store, bought tape, and covered it up.
 
 I've written before about
-[activism versus just living life](/posts/accept-or-reject/)
-and the dichotomy there remains an unresolved part of my personal ideology.
+[activism versus just living life](/posts/accept-or-reject/) and the dichotomy
+there remains an unresolved part of my personal ideology.
