@@ -1,0 +1,56 @@
+---
+title: "Don't Download Apps"
+date: 2025-11-25T02:16:47-08:00
+draft: false
+categories: ['info']
+tags: ['philosophy']
+---
+
+Companies want you to download apps. Here in Taiwan it's particularly bad: I've had shop staff tell 
+me about some discount if you download their app, and when I decline, say something like "It's really easy! Here, just give me your phone and I'll do it for you."
+Once when I was setting up my phone plan, the staff wanted my phone to, idk, note my IMEI or something, and then when I wasn't paying attention,
+installed a local e-commerce app, using my new phone number and name as login details, 
+then proudly told me, "Now you get 300NTD off your first phone bill!" Thanks, for 10$ I can get weekly text and email
+spam from Shopee, great. 
+
+So first tip, in Taiwan, never hand your phone over the counter.
+
+Second tip, never download the app. Corps have all sorts of ways to try to convince you: Use the app to order in-store rather than the kiosk, 
+get free chicken nuggets. Download our app at checkout, get a discount. Whatever the reason, don't do it, you're giving more than you're getting.
+
+Two reasons.
+
+First, we've entered an era defined by [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism). Companies try to get
+as much data on you as possible, and then treat you differently based on the data they have on file for you. We all know this as seeing poorly-tuned
+ads (you just bought a refridgerator? You must love refridgerators! Here's 100 refridgerator ads), but the new trend is [surveillance pricing](https://pluralistic.net/2025/06/24/price-discrimination/). 
+A company will know that you just got paid and so charge you just a bit more for your chicken nuggets than they do when you haven't been paid in two weeks.
+Annoying, don't download them app, don't give them more data than they already have.
+
+The other scary thing though is that that gives the power of currency valuation to companies. WIthout surveillance pricing, everyone pays the same for a cheeseburger.
+Rich people can buy more cheeseburgers, sure, but at least the price of cheeseburgers is pegged against a dollar, so if someone starts charging too much for cheeseburgers,
+you can take your dollars to a competitor. Once companies can start charging individual prices, the global economy doesn't determine how many cheeseburgers your dollars can buy,
+McDonald's does. Way too much power to give to these companies that already have too much power.
+
+Second reason, binding arbitration. Binding arbitration is when you sign an agreement with someone that has a clause that says, 
+"if there's a dispupte, we don't sue eachother, instead we go through a private process outside the court system and let a mediator decide the outcome." 
+Bonus, unlike judges, whose salaries are paid for by the taxpayers and therefore you don't pay a "judge fee" when you go to court (mostly), a mediator
+needs to be hired. Guess who hires them? Not you! 
+
+Walking into a restaurant to buy a cheeseburger, there's no way a company can force you to enter a contractual agreement that includes binding arbitration. 
+Downloading an app, however, requires agreeing to a "Terms of Service," and those can *absolutely* include a binding arbitration clause, and that clause
+can be applied even to cases outside the app. This happened to Jeffrey Piccolo when his wife died of food poisoning in a Disney World. Disney made a motion
+to dismiss because a couple years back, Jeffrey had signed up for a free trial of Disney+, which included a binding arbitration clause, which meant that
+if Jeffrey wanted to complain about how Disney murdered his wife, they'd have to settle it out of court with a mediator that Disney hired. No jury, no judge,
+no oversight. In the end the only reason Disney dropped this motion is because the news picked it up. That won't always happen.
+
+At least in the USA, binding arbitration is totally cool according to the Supreme Court, so don't count on the government to save you. You need to take
+personal steps to make sure you aren't signing your rights away. So, don't download apps. 
+
+Predictions: Sometime in the next 5 years, someone will be forced into arbitration with Uber after being hit by one of their self driving cars, because
+they use Uber Eats. Sometime in the next 5 years, someone's house will burn down from their Tesla exploding, and they'll be forced into arbitration 
+because they had a Twitter account, and Twitter is now a subsidiary of TeXla. Sometime in the next 5 years, an Amazon employee who lost a finger on the job
+will be forced into arbitration because they have a WaPo subscription. 
+
+If you want to learn more, [Cory Doctorow](https://pluralistic.net/2025/10/27/shit-shack/) covers the topic in much more detail.
+
+
