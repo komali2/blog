@@ -28,8 +28,8 @@ First, we've entered an era defined by
 [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism).
 Companies try to get as much data on you as possible, and then treat you
 differently based on the data they have on file for you. We all know this as
-seeing poorly-tuned ads (you just bought a refridgerator? You must love
-refridgerators! Here's 100 refridgerator ads), but the new trend is
+seeing poorly-tuned ads (you just bought a refrigerator? You must love
+refrigerators! Here's 100 refrigerator ads), but the new trend is
 [surveillance pricing](https://pluralistic.net/2025/06/24/price-discrimination/).
 A company will know that you just got paid and so charge you just a bit more for
 your chicken nuggets than they do when you haven't been paid in two weeks.
@@ -37,7 +37,7 @@ Annoying, don't download them app, don't give them more data than they already
 have.
 
 The other scary thing though is that that gives the power of currency valuation
-to companies. WIthout surveillance pricing, everyone pays the same for a
+to companies. Without surveillance pricing, everyone pays the same for a
 cheeseburger. Rich people can buy more cheeseburgers, sure, but at least the
 price of cheeseburgers is pegged against a dollar, so if someone starts charging
 too much for cheeseburgers, you can take your dollars to a competitor. Once
@@ -46,7 +46,7 @@ determine how many cheeseburgers your dollars can buy, McDonald's does. Way too
 much power to give to these companies that already have too much power.
 
 Second reason, binding arbitration. Binding arbitration is when you sign an
-agreement with someone that has a clause that says, "if there's a dispupte, we
+agreement with someone that has a clause that says, "if there's a dispute, we
 don't sue eachother, instead we go through a private process outside the court
 system and let a mediator decide the outcome." Bonus, unlike judges, whose
 salaries are paid for by the taxpayers and therefore you don't pay a "judge fee"
