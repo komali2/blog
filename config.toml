@@ -27,3 +27,12 @@ tag = "tags"
 
 [permalinks]
 page = "/:slug/"
+
+defaultContentLanguage = 'en'
+[languages]
+  [languages.zh]
+    languageName = 'Mandarin, Traditional'
+    weight = 2
+  [languages.en]
+    languageName = 'English'
+    weight = 1

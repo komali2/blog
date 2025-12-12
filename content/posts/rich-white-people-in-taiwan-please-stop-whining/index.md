@@ -6,8 +6,6 @@ categories: ['life']
 tags: ['taiwan']
 ---
 
-[中文](/posts/在台灣的有錢白人請不要再抱怨了)
-
 This article has been a long time coming.
 
 For the most part, my immigrant friends and I have been having a grand old time in Taiwan. Not perfect, nowhere is, but I like to say it's about as perfect as life *can* be, depending on one's circumstances.

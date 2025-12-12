@@ -7,7 +7,6 @@ categories:
 tags:
   - taiwan
 ---
-The original post is available in English [here](/posts/rich-white-people-in-taiwan-please-stop-whining) . This translation was done by my excellent Mandarin teacher, Yichun. Her email is kuoyichuneva , using gmail. 
 
 這篇文章已經醞釀很久了。
 
