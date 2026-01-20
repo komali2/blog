@@ -2,7 +2,7 @@
 title: "Don't Download Apps"
 date: 2025-11-25T02:16:47-08:00
 draft: false
-categories: ["info"]
+categories: ["info", "中文"]
 tags: ["philosophy"]
 ---
 
