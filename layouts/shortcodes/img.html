@@ -2,14 +2,22 @@
 {{ $caption := .Get "caption"}}
 {{ $src := .Get "src"}}
 {{ with $.Page.Resources.GetMatch (.Get "src") }}
+{{ $img := . }}
+{{ with .Exif }}
+  {{ $orientation := .Tags.Orientation }}
+  {{ if eq $orientation 6 }}
+    {{ $img = $img.Process "r270" }}
+  {{ else if eq $orientation 3 }}
+    {{ $img = $img.Process "r180" }}
+  {{ else if eq $orientation 8 }}
+    {{ $img = $img.Process "r270" }}
+  {{ end }}
+{{ end }}
 <a class="image-link" href="{{$src}}">
   <img
-    srcset="
-            {{ (.Resize "300x").RelPermalink }} 300w,
-    {{ (.Resize "320x").RelPermalink }} 320w,
-    {{ (.Resize "600x").RelPermalink }} 600w,
-    {{ (.Resize "1200x").RelPermalink }} 2x"
-    src="{{ (.Resize "600x").RelPermalink }}" alt="{{$altText}}"/>
+    srcset="{{ ($img.Resize "600x").RelPermalink }} 600w, {{ $img.RelPermalink }} {{ $img.Width }}w"
+    sizes="(max-width: 600px) 600px, {{ $img.Width }}px"
+    src="{{ ($img.Resize "600x").RelPermalink }}" alt="{{$altText}}"/>
 </a>
 {{ else }}
 could not find image

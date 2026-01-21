@@ -65,17 +65,21 @@ article h1 {
     font-size: 2em;
 }
 
+figure {
+    margin: 0;
+    margin-bottom: 1rem;
+}
 
 .image-link {
-    display: block;
-    width: max-content;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0;
 }
 
 .image-link img {
-    image-orientation: from-image;
+    height: auto;
+    image-orientation: none;
+    max-width: 100%;
 }
+
 
 figcaption {
     text-align: center;
@@ -142,7 +146,6 @@ p>code {
 
  } /* Define mobile styles */
 
-@media only screen and (max-width: 40em) { } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
 @media only screen and (min-width: 40.063em) {
     main>section ul {
@@ -155,6 +158,12 @@ p>code {
     justify-content: space-around;
     list-style-type: circle;
   }
+    .image-link img {
+        height: auto;
+        image-orientation: none;
+        max-width: 60rem;
+    }
+
  } /* min-width 641px, medium screens */
 
 @media only screen and (min-width: 40.063em) and (max-width: 64em) { } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
