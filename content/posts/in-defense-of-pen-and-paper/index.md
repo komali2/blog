@@ -17,6 +17,7 @@ This post will be about more than just taking notes; rather I'll be writing more
 - [It's Better than Your Phone](#its-better-than-your-phone)
 - [It's Better than Your reMarkable](#its-better-than-your-remarkable)
 - [It's Better than Your E-Reader](#its-better-than-your-e-reader)
+- [It's Better than Your Laptop](#its-better-than-your-laptop)
 - [It's Better than Your TODO System](#its-better-than-your-todo-system)
 - [Authoritative Knowledge System](#authoritative-knowledge-system)
 
@@ -72,6 +73,24 @@ So, what's a flow for that look like? Usually, it's flipping back through my hig
 Now, when I encounter something I want to note down from a book, my system is simply jotting down a page number, and my thoughts, in whatever notebook I have at hand. This is made much easier by my recent note-taking radicalization by Sönke Ahrens in his book [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes). Namely, I now very rarely take down quotes wholesale, nor am I taking hyper-granular summaries of everything I read. Instead, I take single-idea notes, something like "on page x it says y," getting just the gist of whatever it is I read that interested me, and being highly selective to only note down things that are relevant to me. So, it's small enough that on the train I can just quickly pull out my pocket notebook, scribble out the note, put away my notebook, and go back to reading.
 
 Another advantage is that when it's time to input notes into my Authoritative Knowledge System, I'm just flipping through pages in my notebook and ripping them out when I'm done, rather than needing to flip through a bunch of different books in my e-reader (since I'm often reading a non-fiction book and fiction book at once, taking notes on both), as well as Google Keep or wherever else. 
+
+## It's Better than Your Laptop
+
+But only just. By this I mean situations where you transcribe what you're hearing notes directly into some kind of note taking system on your laptop. Mostly: meetings, classes. I don't mean, using a digital note taking system, which I address [below](#authoritative-knowledge-system). 
+
+Reason the first, laptops, like phones, can be distracting. Email is but a click away. I distinctly remember, back when I was doing agency work for Google, in nearly every single meeting with Googlers, at some point I'd catch them checking their email. I think they have so many meetings every day, it's the only chance they get to check their email. Personally during online meetings I struggle to avoid the siren song of Hacker News or Reddit, just a tab away. 
+
+Second, laptops are loud. If you're in class, fuck you and your gaming laptop's 120000rpm fan with clacky keys. Also oops your Youtube video autoplayed at full volume when you opened the lid. Mostly facetious here, but I am still scarred from college, and every interview I've ever been in where the interviewer clacked away randomly during our conversation. 
+
+Third, the dichotomy problem: data input into a laptop can't be input quickly and also filed correctly into your Authoritative Knowledge System, there inevitably will need to be a processing step. 
+
+Fourth, you rob yourself of a valuable opportunity if said processing is copy/pasting. This is again Sönke Ahrens talking, as well as various other gurus I've read. I remember an interesting tidbit I picked up once: at the end of every meeting, work with everyone to record down every actionable item resulting from said meeting. Another: after every meeting, personally write down everything you can recall that's worth writing down. The premise is that not everything deserves to be recorded. If, through the course of your meeting, information is generated that someone else needs to know, the best way to give them that information isn't to give them a transcription of the meeting. That would be like dumping the raw footage of a 3 hour podcast recording, unedited. Cut for content. Note down only the most important information, similar to Ahren's recommendations for taking notes on books: the gist, the relevant information, recorded as single ideas. The easiest way to limit yourself to being able to do only that is pen and paper.
+
+Laptop note takers (me, for years), especially the very fast typers, tend to transcribe. That's split focus, it's very difficult to get down what's being said while processing it, which means you're just gonna process it later. Instead, listen, engage with what's being said, and then take a second to note down the gist, or the action item, or nothing at all because there's still more to discuss first. The fact that the discussion happened is basically irrelevant information, as is the courses the discussion took; all those wonderfully useless bullet points the 10 duplicated fireflies.ai instances in the meeting love to email to you after. That's the conversation, which doesn't need to happen again; what you should walk out of the meeting with is just whatever useful data you need on a piece of paper to then input to your Authoritative Knowledge System (making JIRA tickets, sending calendar events, updating Wikis, whatever).
+
+The same for class: single idea, the gist of the lecture only. You're going to need to review it either way, and the recall phase is apparently very important, according to [people smarter than me](https://www.coursera.org/learn/learning-how-to-learn).
+
+Fifth, if the meeting is boring, you can doodle in your notebook, and unlike the email-checkers, you'll appear very attentive and engaged.
 
 ## It's Better than Your TODO System
 
