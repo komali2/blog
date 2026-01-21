@@ -76,7 +76,7 @@ Another advantage is that when it's time to input notes into my Authoritative Kn
 
 ## It's Better than Your Laptop
 
-But only just. By this I mean situations where you transcribe what you're hearing notes directly into some kind of note taking system on your laptop. Mostly: meetings, classes. I don't mean, using a digital note taking system, which I address [below](#authoritative-knowledge-system). 
+But only just. By this I mean situations where you transcribe what you're hearing directly into some kind of note taking system on your laptop. Mostly: meetings, classes. I don't mean using pen and paper in lieu of a digital note organization system at all, which I address [below](#authoritative-knowledge-system). 
 
 Reason the first, laptops, like phones, can be distracting. Email is but a click away. I distinctly remember, back when I was doing agency work for Google, in nearly every single meeting with Googlers, at some point I'd catch them checking their email. I think they have so many meetings every day, it's the only chance they get to check their email. Personally during online meetings I struggle to avoid the siren song of Hacker News or Reddit, just a tab away. 
 
