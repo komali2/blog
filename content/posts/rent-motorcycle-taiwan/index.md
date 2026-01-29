@@ -132,6 +132,9 @@ In any case, you know, ride to your comfort and all that, and if you think your 
 
 # Renting in Taiwan
 
+Update as of December, 2025: I now recommend Dr. Kuthathi's tourist-friendly renting service, [TaipeiScooterRentals](https://taipeiscooterrentals.com). He has motorcycles and scooters available and is very open to them being rented to non-Taiwanese. I have no affiliation with him and have not personally rented from him yet, however readers of this blog have done so and it sounds like the service is good. 
+
+The below service has become quite hostile to the idea of renting to foreigners, it may be impossible to use them, however I'll leave their info regardless since we had such good experiences with them in the past. 
 
 The company we always use is [Motor Rental Town](https://www.facebook.com/TownTire/). They change their Facebook link sometimes, so [here's a Google Maps link als](https://goo.gl/maps/v2U32yuSBVGXJi4JA)o. They have locations all over Taiwan and can handle whatever rental situation you want: day rental, multi-day, pick up in one city and drop off in another, etc. Their prices are also pretty good. I wish they were hooking me up for pluggin them here, but they're not.
 
