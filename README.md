@@ -22,6 +22,28 @@ Then, open a browser and navigate to http://localhost:1313
 From there, you may need to navigate to the relative URL of the article
 you are working on, i.e. http://localhost:1313/posts/japan-2018
 
+## Creating New Posts
+
+Run the interactive script:
+
+```
+./new-post.sh
+```
+
+This will prompt you for:
+1. **Post slug** - the URL-friendly name (e.g., `my-awesome-post`)
+2. **Language** - English or Mandarin (Chinese posts use `.zh.md` suffix)
+3. **Format** - Text-only (single `.md` file) or Images (page bundle with folder)
+
+| Language | Format | Created Path |
+|----------|--------|--------------|
+| English | Text-only | `content/posts/slug.md` |
+| English | Images | `content/posts/slug/index.md` |
+| Mandarin | Text-only | `content/posts/slug.zh.md` |
+| Mandarin | Images | `content/posts/slug/index.zh.md` |
+
+Use the "Images" format when your post will contain images - this creates a folder where you can place image files alongside the post.
+
 ## Building
 
 To build the blog, make sure your terminal is in the root directory of
