@@ -41,6 +41,7 @@ Normally I like to acknowledge where I could be wrong, or the myriad of things t
 - [Stretch Every Day](#stretch-every-day)
 - [Buy Secondhand](#buy-secondhand)
 - [Meet Your Neighbors](#meet-your-neighbors)
+- [Men: Wash Your Butthole](#men-wash-your-butthole)
 
 <!-- markdown-toc end -->
 
@@ -169,4 +170,8 @@ Many practical reasons to do this: it's good to have someone to call in a semi-e
 
 Just bake something, bring it over with a piece of paper with your phone number and email address on it, say hey, then say bye. Sneaky trick: they'll have to give you the plate back eventually, which means contacting you or coming over and knocking over on your door - once they do it once they'll be more comfortable with doing it in the future. Pro mode: "Oh just bring the plate back this weekend if you have time, we're having a BBQ."
 
+
+## Men: Wash Your Butthole
+
+I've had two separate doctor friends tell me that a shocking number of men they do prostate exams on have shit in their ass crack, especially older men. Apparently there was this homophobic fear of butthole touching among American men the last few generations. I've heard similar from veteran friends - lots of kids coming into bootcamp getting reamed for having skidmarks on their underwear. So, apparently this is a thing that needs to be told to some men: when you shower, you gotta wash your butthole. Washing means touching it, not vaguely letting water run on it. Soap on the hand, hand on the butthole. Do it. You'll smell better and, apparently, it reduces the chance you'll get hemorrhoids. While you're at it, wash your balls, I hear tell that a lot of guys got rank ass balls. The expectations for hygiene among western men has been too low for too long, we can't keep getting away with it.
 
