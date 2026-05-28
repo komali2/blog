@@ -17,12 +17,24 @@ So to make it perfectly clear: I'm an anarchist, trans rights are human rights, 
 
 In this post I want to analyze the ideas of moral contagion and moral absolutism; how no matter what Framework does, it will never be forgiven by the community of online leftists; how this tendency of ours to engage like this is not only not pragmatic, it's contrary to our ideology and goals. 
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [What Framework Did](#what-framework-did)
+- [What Other People Have Said](#what-other-people-have-said)
+- [What I've Learned](#what-ive-learned)
+- [Where I Push Back](#where-i-push-back)
+- [TLDR](#tldr)
+
+<!-- markdown-toc end -->
+
+
 
 ## What Framework Did
 
 1. Donated to date around 14,400€ to Hyprland (continuing in 2026)
 2. Has sent at least two laptops to the Omarchy project, meaning, to DHH (ongoing)
-3. Has a yearly booth at Rails World as well as engages in sponsorship, potentially up to 48000 (continuing in 2026)
+3. Has a yearly booth at Rails World as well as engages in sponsorship, potentially up to $48,000 (continuing in 2026)
 
 This is bad because DHH is racist and transphobic, and Hyprland is led by one of those "we don't need a CoC just grow thicker skin" guys that likes to throw the r-word around (but would "never say the n word" /eyeroll) (they do have a CoC now though). 
 
@@ -34,7 +46,7 @@ Here's where my confusion began. My confusions were:
 2. Framework does a lot of good. It donates [tens of thousands](https://frame.work/tw/en/blog/framework-sponsorships) of dollars every year to various distros, desktop environments, and hackathons like NixOS, Arch, KDE, and Debian. It's basically the only professional-grade, linux-compatible laptop that is provably highly repairable and committed to [right to repair](https://arstechnica.com/gadgets/2022/12/framework-noctua-and-other-brands-add-official-3d-models-to-printables/). If we didn't include the Omarchy thing, is there a more ethical professional-grade laptop manufacturer existent today? (MNT: no, it's not a realistically good enough tool to enable me to sell my labor to capitalists; system76: no, they had a massive data leak and can't be trusted with my PII, isn't as repairable, and doesn't actively contribute to upstream linux and right to repair) So, why is nobody considering weighing this good against the bad it's done?
 3. Considering the options on the table: Dell provides servers to the IDF, HP contracts with ICE, and Apple's Tim Cook gifted Trump an [obscene trophy with a 24-karat gold base](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning). Why is it acceptable to boycott Framework and then immediately turn to buy from a company that's done far more measurable and material harm to people? Why do we not say to every iphone user, "Tim Cook donated to a fascist!" ? 
 4. On that note, what's all this hullabaloo about Framework when we all quietly pay AWS every month to host our apps despite the fact that it's the cloud infra provider for ICE and Amazon [forces its workers to work next to the corpse](https://www.newsnationnow.com/business/amazon-employees-forced-work-corpse/) of their recently deceased coworker? There are other hosting options! Repeat per all the other atrocious and awful things the companies we give money to do: why do we let them get away with it, but Framework for some reason commits far less serious crimes but gets the greater punishment?
-5. Rails World is the only remaining Rails conference - where else is Framework supposed to go if it wants to get to the Rails community? In any case, DHH as chairman of the board of Rails World receives no compensation from the organization, so like, why do we care?
+5. Rails World is the only remaining Rails conference - where else is Framework supposed to go if it wants to reach Rails community? In any case, DHH as chairman of the board of Rails World receives no compensation from the organization, so like, why do we care?
 6. Why don't other FOSS organizations get heat for partnering with e.g. AWS? Example: GNOME for [gushing about its partnership with AWS](https://blogs.gnome.org/foundation/2025/06/10/gnome-has-a-new-infrastructure-partner-welcome-aws/).
 
 
@@ -66,7 +78,7 @@ Second, I needed to tease apart my understand of material harm, symbolic endorse
 
 Wanting Framework to be better makes sense - there's plausible hope of influencing Framework, there's not any hope in influencing Dell. Framework is after all supposed to "be one of the good guys." Criticism makes sense, we hold them to a higher standard.
 
-My concern comes from the fact that the CEO of Framework, Nirav, [came out and explicitly outlined his values](https://xcancel.com/cmonkey/status/1976493945627766909#m): "pro-immigrant and pro-LGBTQ." Framework had already been, and continues to, strictly enforce on its forums its moderation policy of tolerating not even an ounce of right wing bullshit. The company and Nirav do seem interested in making their community safe, and the forums are, genuinely, safe. However, condemnation persists, and expands - on the forum, people started poking around Framework's partners, wondering if they do good labor practices or where else moral contagion might be found. The response is disproportionate considering our tolerance of materially worse actors, and there's no clear path of what redemption would look like for Framework. 
+My concern comes from the fact that the CEO of Framework, Nirav, [came out and explicitly outlined his values](https://xcancel.com/cmonkey/status/1976493945627766909#m): "pro-immigrant and pro-LGBTQ." Framework already had been, and continues to, strictly enforcing on its forums its moderation policy of tolerating not even an ounce of right wing bullshit. The company and Nirav do seem interested in making their community safe, and the forums are, genuinely, safe. However, condemnation persists, and expands - on the forum, people started poking around Framework's partners, wondering if they do good labor practices or where else moral contagion might be found. The response is disproportionate considering our tolerance of materially worse actors, and there's no clear path of what redemption would look like for Framework. 
 
 This is proximity-based moral reasoning and represents a pattern of asymmetric moral attention. Framework didn't just do a bad thing, it underwent moral contagion, and we suffered [expectation betrayal](https://en.wikipedia.org/wiki/Expectancy_violations_theory). 
 
@@ -88,7 +100,7 @@ The reality is, Framework had a choice to simply not send a laptop to DHH, and d
 
 Furthermore this is another example of absolutist deontology - it treats collaboration on a project, enabling support for users, and endorsing someone's politics as equal. The claim isn't really "just don't engage with bad people," it's an argument that any interaction with a bad person is an endorsement of the totality of that person. 
 
-Absolutist thinking means that the secondary effects of a choice can't be interrogated - if failing to avoid all the bad people in the FOSS ecosystem leads to moral contagion, we're not only eliminating harm but also pathways for growth, migration, and influence. If we apply this rule consistently - any controversial figure == no engagement, any adjacent project == suspect, any collaboration chain == contaminated - we create asymmetric pressure on actors who are trying to be good. The simplistic rule, "just don't engage with bad people" is too coarse to handle the real-world FOSS ecosystem. 
+Absolutist thinking means that the secondary effects of a choice can't be interrogated - if failing to avoid all the bad people in the FOSS ecosystem leads to moral contagion, we're not only eliminating harm but also pathways for growth, migration, and influence. If we apply this rule consistently, that any controversial figure means no engagement, any adjacent project is suspect, any collaboration chain means contamination, then we create asymmetric pressure on actors who are trying to be good. The simplistic rule, "just don't engage with bad people" is too coarse to handle the real-world FOSS ecosystem. 
 
 That asymmetric pressure is my final point: we're selecting *against* acting good.
 
