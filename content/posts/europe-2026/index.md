@@ -19,7 +19,24 @@ Last quick thought: this ties into another theory I have that everything between
 
 Nothing that interesting, but while walking around Abu Dhabi airport, I was thinking about how "Western" fashion seems to have completely taken over the world. Civilization 4 terms: American culture victory. Communism defeated by the need of the people for blue jeans. When trying on wedding clothes in Taiwan, it's all western style suits (bizarrely including [zoot suits](https://en.wikipedia.org/wiki/Zoot_suit)). However, in Abu Dhabi, I saw all sorts of people in all sorts of clothes I never really see, like heavy white cloth wrapped every which way around people, or various kinds of robes. I liked it. Keep it up, that region of the world!
 
-## Day 1: Copenhagen
+## Day 1: Malmo, Sweden
+
+I landed early and did my usual thing of dodging plane staff trying to force me to wait for my betters to take their time packing their things and getting off the plane. Good thing too, apparently the line for immigration at CPH can take an hour or more, but since I was one of the first to arrive, I only had to wait a couple minutes. Also the dude behind the counter had the same watch as me, nice. 
+
+Stood in front of a board of trains at 6am, trying to figure out the rejsekort app Tammy sent me, gave up when my credit card failed to register. Bought a ticket for the wrong destination, realized five minutes before getting on the right train, and in a blind haste somehow got the rejsekort app working. Double ticketed ride to Sweden. Plan was to spend the weekend in Malmo to hang with our friends and their kids there. I'm somehow wired, maybe delirious as I entered hour 26 of a fast (why waste calories on plane food?), so I get recommended this TODO almond croissant shop and hop off the train early to go. It was a mind blowing croissant, every part of it baked to caramel, filled with chocolate because there are no gods. Swedes apparently don't say "bye bye" like we do in Taiwan so I make myself look like a moron by saying it twice thinking they didn't hear me the first time on my way out the door. Multiple people looked at me, nobody said bye bye back, fantastic!
+
+Hotel lets me check in early. They have a bench press in their basement. Somehow I have enough go-juice to bang out a morning lift, quick shower, and then head to our friends' apartment. Top floor, large, airy, sunny; you can see the ocean from their livingroom. Five minute walk from the preschool the older kid goes to. Loooong parental leave. No wonder I saw hordes of kids in strollers on the walk over. On that note, Scandanavians just leave their kids in their strollers outside while parents go in to shop, even in the rain, so as we go into a cafe for fika we walk past pairs of little elvish kids getting rained on, hah hah punks. Tammy arrives from her work in Copenhagen.
+
+Trying a rule on this trip to help maintain my girlish figure: as many pastries as I want, but only one bite each. After the almond croissant I changed it to two bite; one to taste it, another one to double check. So we get the very Swedish cardamom buns and "Chocolate ball," latter of which is somehow umami chocolate and nearly makes me break my two bite rule (I found it in my bag later that night and finished it so in the end it did win). Kids seem to turn the smallest thing into a day trip, so we ended our short day with falafel in the store my friend's 3 year old says has a "dark cave" (a kitchen). Big pile of not too greasy meat and very moist falafel, haven't had good versions of either since my last trip to Europe, so it's a nice way to finally get some protein.
+
+Finish the night getting hit in the face with a sledgehammer of jetlag and falling asleep above the sheets.
+
+## Day 2: Lundt, Sweden
+
+A full day lets us do a day trip, the with-children equivalent of a three book Mordor saga. Weather misbehaves so ohhh nooo we have to stop in a cafe for pastries and coffee. I get a big blog of coconut and some kind of "danish" with a pile of caramlized almonds on top, easily the best thing out of our little group buy, I completely flavormogged Tammy and our friends. Swedes are tall and yet I still smack my head while standing up to go to the bathroom, and again entering the bathroom, and again exiting the bathroom. Their buildings are so old, which I like, except when their ceilings assault me. Cafe probably predates the settling of the town I grew up in in the States. 
+
+We wander to the old Cathedral, which absolutely predates the settling of the town I grew up in, as well as the entire USA itself, and probably Columbus. Bizarrely, the entire outside of the Cathedral is covered with scorch marks, from "the fire." Which fire? The. When? Unknown. How does stone burn? Also unknown. I'll look it up one day. 
+
 
 
 
