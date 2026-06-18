@@ -26,7 +26,7 @@ description: "A comprehensive list of books I read in 2025 with brief reviews, i
 - ["Voyage from Yesteryear", James P. Hogan](#voyage-from-yesteryear-james-p-hogan)
 - ["Delivered from Distraction", Edward M. Hallowell](#delivered-from-distraction-edward-m-hallowell)
 - ["Earthsea Series", Ursula K. Le Guin](#earthsea-series-ursula-k-le-guin)
-- ["How to Take Smart Notes: One Simple Technique to Boost Writing, Learning, and Thinking", Sönke Ahrens](#how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-snke-ahrens)
+- ["How to Take Smart Notes: One Simple Technique to Boost Writing, Learning, and Thinking", Sönke Ahrens](#how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-sönke-ahrens)
 - ["The Boys", Garth Ennis](#the-boys-garth-ennis)
 - ["The Metabarons", Alejandro Jodorowsky ](#the-metabarons-alejandro-jodorowsky)
 - ["Daytripper", Fábio Moon and Gabriel Bá](#daytripper-fbio-moon-and-gabriel-b)
