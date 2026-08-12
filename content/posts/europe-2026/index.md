@@ -49,6 +49,8 @@ Afternoon is spent preparing for a little hodge podge dinner in the apartment. W
 
 Another early night lets us squeeze in a bit more hangout with the kiddos the next morning.
 
+## Day 3: Malmo and Copenhagen
+
 
 
 
