@@ -181,4 +181,63 @@ doomscrolling" has turned into "you NEED to buy this to fix your social media
 addiction! You can't do it on your own, but this one last purchase will be the
 thing that finally solves it." Inevitable.
 
-I want to believe
+I want to believe we have all the tools we need today to save ourselves from
+social media FOMO, doomscrolling, and dopamine holes, in the form of
+"willpower," but experience is teaching me the importance of structural effects
+in managing my ADHD. If leaving my gym shorts next to my bed is the difference
+it takes between me going to the gym or not in the morning, maybe it's true that
+we just need to have a phone that can't launch Instagram at all.
+
+On the other hand, the application of bog-standard addiction management
+techniques
+[helped me break my addiction to reddit](/posts/how-to-quit-social-media), so
+maybe this can be generalized to the population?
+
+Or, perhaps activists can fight fire with fire. The documentary filmmaker
+[Kalle Lasn](https://inquiringmind.com/article/1901_7_lasn_1-cleaning-up-the-mental-environment-culture-jamming-with-kalle-lasn/)
+launched campaigns such as "Buy Nothing Day" tried this strategy. He created
+"anti-ads," or "mind-bombs," such as an ad that simply describes that "over 50%
+of the calories from a Big Mac come from fat." An obvious issue stems from the
+fact that we don't own the platforms. When Lasn tried this, not only was it
+expensive, the major networks simply refused to show his ads, which in Canada is
+technically illegal, but that's no matter, the Supreme Court of Canada simply
+refused to hear his case, thus solving any anxiety from the networks.
+
+[Micah Bornfree](https://micahmwhite.com/adbusters-articles/toxic-culture-a-unified-theory-of-mental-pollution)
+characterizes the psychic assault as "mental pollution," and hopes to use this
+framing to allow for the same techniques governments use to wrangle corporate
+environmental pollution, to also wrangle mental pollution (I believe the idea
+originates with Michel Serres). I like his characterization, especially of how
+corporations use pollution as a weapon:
+
+> The Earth is being claimed by corporations. Whether it is by appropriating the
+> ocean with their oil spills or by seizing public spaces with their
+> advertisements, corporations use hard and soft pollution to steal what is
+> ours.
+
+I'm skeptical, though, because it's not like we're doing a great job at
+preventing corporations from setting the world on fire, especially during the AI
+era. The needs of the Datacenter overrule the petty needs of the humans.
+
+## Solution?
+
+One of my favorite things that happened this decade was when Musk started
+selling Twitter verification badges, and people immediately used these badges to
+impersonate several large companies, for example posting from an impersonated
+Lockheed Martin account that the company would no longer be selling weapons to
+Israel, thus wiping
+[billions off their stock value](https://www.eurasiantimes.com/no-weapons-sales-to-israel-how-a-lockheed-martin-tweet-resulted/)
+within minutes. That's a BEAUTIFUL form of direct action: low effort, able to be
+performed by basically any individual anywhere, and enormously impactful. With
+LLMs, I wonder if a similar opportunity exists for direct action.
+
+In the aformentioned "Fall, or Dodge in Hell," the memetic, chaotic, and useless
+form of the internet was caused a decade earlier in the book by a character that
+released a series of FOSS bots that anyone could deploy that could, given a
+topic or person, seed an insurmountable amount of disinformation about said
+topic or person, making it impossible to separate fact from fiction. I don't
+like the idea of destroying the entire internet, but I do like the idea of
+nuking platform value. Perhaps there's some way to leverage LLMs to fill the
+platforms with so much useless, boring - yet just plausible enough to get past
+the algorithm - noise, that people close Instagram in disgust as it fails to
+deliver the ever-promised dopamine hit?
