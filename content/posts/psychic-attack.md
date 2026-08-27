@@ -34,6 +34,17 @@ did: You're more than willing to provide unlimited training data to Instagram,
 as well as eyeballs for its advertisers, in return for ragebait and FOMO pics
 that Instagram itself doesn't even need to generate.
 
+What's this roaring waterfall of content doing to us, our behavior, our brains?
+Surely we wouldn't be buying all the things we're buying if we weren't exposed
+to so many Instagram ads. If not, then Instagram's been scamming its
+advertisers! All of this noise is making us participate in a fever pitch of
+consumerism. We're not just competing with our neighbors to have the best lawn
+anymore, we're competing with Los Angeles failsons thousands of miles away to
+[have the best bottled water we use for our morning facewash](www.glamourmagazine.co.uk/article/rubbing-banana-peel-face-skincare).
+Our FOMO has been globalized.
+
+## Influence
+
 I'm beginning to feel more and more lately that the most powerful thing a person
 can do is develop their rhetorical ability. By rhetoric, I mean, the behaviors,
 styles, words, and strategies people implement so as to influence, convince,
