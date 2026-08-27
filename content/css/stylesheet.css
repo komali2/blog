@@ -144,6 +144,12 @@ p>code {
     list-style-type: circle;
   }
 
+  blockquote {
+  background-color: cornsilk;
+    padding: 0px 4px;
+    margin: 0px;
+  }
+
  } /* Define mobile styles */
 
 
@@ -163,6 +169,11 @@ p>code {
         image-orientation: none;
         max-width: 60rem;
     }
+blockquote {
+  background-color: cornsilk;
+  padding: 4px 16px;
+}
+
 
  } /* min-width 641px, medium screens */
 
@@ -196,6 +207,8 @@ p>code {
 pre {
     padding: 8px;
 }
+
+
 /* Background */ .chroma { color: #f8f8f2; background-color: #272822 }
 /* Other */ .chroma .x {  }
 /* Error */ .chroma .err { color: #960050; background-color: #1e0010 }
