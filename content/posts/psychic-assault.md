@@ -1,13 +1,13 @@
 ---
-title: "We are Under Psychic Assault"
-date: 2026-08-11T15:18:51+08:00
+title: "We are Under Psychic Attack"
+date: 2026-08-26T15:18:51+08:00
 draft: false
 categories: ["life"]
 tags: ["philosophy", "adhd", "ai"]
 description:
   "The bombardment of advertisements, notifications, algorithmically generated
-  feeds, and rage-bait constitute a form of psychic assault that we aren't
-  equipped to handle."
+  feeds, and rage-bait constitute a form of psychic attack that we may not be
+  equipped to defend against."
 ---
 
 Instagram buzzes your phone and re-displays a message you received several days
@@ -19,7 +19,7 @@ of content. The next post is an advertisement with an AI generated image that
 you find oddly compelling, and the one after that is a political influencer
 pointing out that that politician you hate did another awful thing.
 
-We're under psychic assault. The purpose of the attack is to commoditize our
+We're under psychic attack. The purpose of the assault is to commoditize our
 existence, so as to increase shareholder value. Corporations are
 profit-generating algorithms, and like any good algorithm with no termination
 criteria, they'll go happily runaway. Don't worry about
@@ -255,3 +255,22 @@ the idea of nuking platform value. Perhaps there's some way to leverage LLMs to
 fill the platforms with so much useless, boring - yet just plausible enough to
 get past the algorithm - noise, that people close Instagram in disgust as it
 fails to deliver the ever-promised dopamine hit?
+
+Doctorow is probably right that Facebook isn't casting magic spells on us, but
+there is _something_ new happening here. The entire psychology-of-advertising
+industry exists around the premise that there are as of yet undiscovered
+techniques to get people to buy your product instead of your competitors', or to
+look at your social media app instead of the other one, or to click your ads
+first. As these people throw Machine Learning at the problem, and overwhelm us
+with the results of their studies, what have we been doing to resist this? Is
+there a psychological equivalent to a suit of armor that we can don to reduce
+the effect of the assault on our minds? Is there a memetic equivalent of a
+healing potion, something we can create for ourselves to "reset us to baseline"
+at the end of long day of being psychic assault?
+
+Practically speaking, we can redesign our environment, of course. We could use
+dumbphones, put our phones in black and white mode, uninstall Instagram, install
+ad blockers, put [pi-holes](https://pi-hole.net/) on our network to block
+unwanted content. Somehow this feels more like hiding, though. I wonder if
+there's something we can do to face the assault head-on, something to regain
+control of our willpower and free will.
