@@ -1,4 +1,4 @@
-# Caleb Roger's Blog
+# Caleb Rogers' Blog
 
 This is the repo for all files regarding the blog served at
 [http://www.blog.calebjay.com](http://www.blog.calebjay.com). It is built by
