@@ -2,9 +2,11 @@
   <h1>{{ .Title }}</h1>
   <h3>
     <small>
-      Updated: <time datetime="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
+      Updated:
+      <time datetime="{{ .Date }}">{{ .Date.Format "2 Jan 2006" }}</time>
     </small>
   </h3>
+  <p>Contains no LLM generated prose</p>
   <nav>
     <ul>
       <li>
