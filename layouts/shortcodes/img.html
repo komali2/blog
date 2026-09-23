@@ -14,10 +14,22 @@
   {{ end }}
 {{ end }}
 <a class="image-link" href="{{$src}}">
+{{ with $.Get "width" }}
+  {{ $w := int . }}
+  {{/* Render at 2x the display width for high-DPI screens, but never upscale. */}}
+  {{ $scaled := $img }}
+  {{ if lt (mul $w 2) $img.Width }}
+    {{ $scaled = $img.Resize (printf "%dx" (mul $w 2)) }}
+  {{ end }}
+  <img
+    src="{{ $scaled.RelPermalink }}" width="{{ $w }}"
+    style="max-width: 100%; height: auto;" alt="{{$altText}}"/>
+{{ else }}
   <img
     srcset="{{ ($img.Resize "600x").RelPermalink }} 600w, {{ $img.RelPermalink }} {{ $img.Width }}w"
     sizes="(max-width: 600px) 600px, {{ $img.Width }}px"
     src="{{ ($img.Resize "600x").RelPermalink }}" alt="{{$altText}}"/>
+{{ end }}
 </a>
 {{ else }}
 could not find image
