@@ -54,3 +54,49 @@ I'm aware of four possible meanings of the word "value" when used to describe
    can innovate
 4. Allocation priority: how much of a scarce resource should be assigned to
    them, how resources are distributed in a social system
+
+So you may "value" a family member more than a stranger because you have a
+personal attachment to your family member, but rationally you likely don't
+believe they should have a higher allocation priority of societal resources
+(unless you're a mega-libertarian).
+
+There's a final definition for value: monetary worth. I think the conflation of
+these five concepts has been a useful rhetorical trick for the forces of
+Capital. "What value do you get out of..." "How much do you value..." "But
+what's the value?" The reduction of so many different concepts to a single
+scalar, the little toy that financial molesters get to play games with to make
+the number next to their name get bigger while the number next to our name gets
+smaller. That number, by the way, is our value. Now it's not just the amount of
+money we control, it's our "net worth"; it conveniently represents our moral
+worth, our instrumental value, and our allocation priority. After all, the vast
+majority of our societal resources are being directed by the hands of the people
+with the largest numbers next to their name. They control the majority of
+resource allocation, serving themselves first.
+
+Reductionist rhetorical tricks. Imagine comparing the utility or allocation
+priority of a gallon of milk and an hour of a doctor's labor with a single
+scalar. Absurd. Totally unsolvable, utterly unreliable. The game is kept alive
+because it's evolved memetic viruses that are remarkably persistent: useful lies
+like "the market allocates efficiently."
+
+I got annoyed enough about this to kick off a project a few months ago inspired
+by the resource allocation mechanism in Ursula K. Le Guin's "The Dispossessed,"
+the [Production, Distribution, and Coordination](https://github.com/508-dev/pdc)
+software. Similar to projects like
+[Cybersyn](https://en.wikipedia.org/wiki/Project_Cybersyn), the idea is that two
+farm towns could indicate a need for phosphorous, without which they will have
+reduced production. This reduced production would affect down-chain ranches, who
+will then provide less calories to down-chain consumers like food halls.
+Calculating the overall caloric consequence of directing all phosphorous to farm
+A, B, or the split between them, is the goal. Calories aren't the single scalar,
+though. The goal is that one could also track the increase or decrease of labor
+needed to maintain a given farm to achieve a given output of wheat, or calculate
+how much extra precursor a fabrication plant would need to output enough
+phosphorous for both farms.
+
+I think it's absurd to believe that a single scalar, money, could efficiently
+resolve these equations, just based on human vibes. Pure averaging guesswork,
+without taking the true needs of people into consideration. Maybe in the future
+we can stop pretending like our feelings about something or someone, or their
+usefulness, or their moral worth or allocation priority, can be reduced down to
+a single scalar or described by a single word.
